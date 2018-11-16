@@ -1,0 +1,10 @@
+<div>
+    <header>
+      <h2>{{ page.title }}</h2>
+      <p class="meta"> {{ page.date | date: "%b %-d, %Y" }} {% if page.meta %}  {{ page.meta }}{% endif %} </p>
+    </header>
+    
+    <article>
+      {{ content }}
+    </article>
+</div>
