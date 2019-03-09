@@ -3,22 +3,73 @@ layout: page2
 title: "Announcements"
 jumbotron-image: "img/announce.jpg"
 ---
-
+<div class="panel-body">
+  <h2>Upcoming Events</h2>
+</div>
 {% for post in site.posts %}
-
+{% if post.tags contains "event" %}
 <div class="panel panel-default">
   <div class="panel-body">
     <div class="row">
       <div class="col-sm-3">
-          <img class="center-block" src="img/defaulticon.png">
+          <img class="center-block" src="{{ post.image }}">
       </div>
       
       <div class="col-sm-9">
         <h2>{{ post.title }}</h2>
-        {{post.content}}
+        {{ post.content }}
+      </div>
+      
+    </div>
+  </div>
+</div>
+{% endif %}
+{% endfor %}
+
+
+<div class="panel-body">
+  <h2>Announcements</h2>
+</div>
+{% for post in site.posts %}
+{% if post.tags contains "announcement" %}
+<div class="panel panel-default">
+  <div class="panel-body">
+    <div class="row">
+      <div class="col-sm-3">
+          <img class="center-block" src="{{ post.image }}">
+      </div>
+      
+      <div class="col-sm-9">
+        <h2>{{ post.title }}</h2>
+        {{ post.content }}
+      </div>
+      
+    </div>
+  </div>
+</div>
+{% endif %}
+{% endfor %}
+
+
+
+<div class="panel-body">
+  <h2>Parishioner Posts</h2>
+</div>
+{% for post in site.posts %}
+{% if post.tags contains "reflection" %}
+<div class="panel panel-default">
+  <div class="panel-body">
+    <div class="row">
+      <div class="col-sm-3">
+          <img class="center-block" src="{{ post.image }}">
+      </div>
+      
+      <div class="col-sm-9">
+        <h2>{{ post.title }}</h2>
+        {{ post.excerpt }}
       </div>
     </div>
   </div>
 </div>
-
+{% endif %}
 {% endfor %}

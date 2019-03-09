@@ -1,7 +1,8 @@
 ---
 title: "SBA Kenya Day"
 date: 2018-11-12
-categories: bulletin
+image: "img/defaulticon.png"
+tags: [bulletin, event]
 ---
 
 Sunday December 2nd

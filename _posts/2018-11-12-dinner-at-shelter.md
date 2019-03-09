@@ -1,7 +1,8 @@
 ---
 title: "Dinner at the Shelter"
 date: 2018-11-12
-categories: bulletin
+image: "img/defaulticon.png"
+tags: [bulletin, event]
 ---
 
 5:00 pm Prayer service

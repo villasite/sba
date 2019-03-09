@@ -1,7 +1,8 @@
 ---
 title: "CCW Coatdrive"
 date: 2018-11-12
-categories: bulletin
+image: "img/defaulticon.png"
+tags: [bulletin, event]
 ---
 
 The SBA Council of Catholic Women (CCW) is collecting coats for the less fortunate beginning October 28 through Sunday November 18.
