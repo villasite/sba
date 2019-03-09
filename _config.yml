@@ -3,7 +3,7 @@ title: Saint Benedict the African Parish
 email: SBAparish@aol.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://villasite.github.io/sba/" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 
 twitter_username: #
 github_username: #
