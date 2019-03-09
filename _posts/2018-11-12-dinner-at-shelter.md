@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dinner at the Shelter"
 date: 2018-11-12
 categories: bulletin

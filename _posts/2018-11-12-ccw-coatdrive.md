@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "CCW Coatdrive"
 date: 2018-11-12
 categories: bulletin
