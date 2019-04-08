@@ -22,69 +22,11 @@ jumbotron-image: "img/announce.jpg"
       </div>
       
       <div class="col-sm-9">
-        <h4>{{ post.title }}</h4>
+        <h3>{{ post.title }}</h3>
+        <h4>{{ post.exp-date | date: '%B %-d, %Y' }}</h4>
         {{ post.content }}
       </div>
       
-    </div>
-  </div>
-</div>
-{% endif %}
-{% endfor %}
-
-
-<div class="container">
-    <div class="row">
-        <div class="col-lg-12 text-center">
-            <h2 class="section-heading">Announcements</h2>
-            <hr class="primary">
-        </div>
-    </div>
-</div>
-
-{% for post in site.posts %}
-{% if post.tags contains "announcement" %}
-<div class="panel panel-default">
-  <div class="panel-body">
-    <div class="row">
-      <div class="col-sm-3">
-          <img class="center-block" src="{{ post.image }}">
-      </div>
-      
-      <div class="col-sm-9">
-        <h4>{{ post.title }}</h4>
-        {{ post.content }}
-      </div>
-      
-    </div>
-  </div>
-</div>
-{% endif %}
-{% endfor %}
-
-
-
-<div class="container">
-    <div class="row">
-        <div class="col-lg-12 text-center">
-            <h2 class="section-heading">Parishioner's Posts</h2>
-            <hr class="primary">
-        </div>
-    </div>
-</div>
-{% for post in site.posts %}
-{% if post.tags contains "reflection" %}
-<div class="panel panel-default">
-  <div class="panel-body">
-    <div class="row">
-      <div class="col-sm-3">
-          <img class="center-block" src="{{ post.image }}">
-      </div>
-      
-      <div class="col-sm-9">
-        <h4>{{ post.title }}</h4>
-        {{ post.excerpt }}
-      </div>
     </div>
   </div>
 </div>
