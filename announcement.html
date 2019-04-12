@@ -1,7 +1,8 @@
 ---
 layout: page2
 title: "Announcements"
-jumbotron-image: "img/announce.jpg"
+jumbotron-image: "announce.jpg"
+permalink: /announcement
 ---
 <div class="container">
     <div class="row">
@@ -18,13 +19,13 @@ jumbotron-image: "img/announce.jpg"
   <div class="panel-body">
     <div class="row">
       <div class="col-sm-3">
-          <img class="center-block img-thumbnail" src="{{ post.image }}">
+          <img class="center-block img-thumbnail" src="{{ site.baseurl }}/img/{{ post.image }}">
       </div>
       
       <div class="col-sm-9">
-        <h3>{{ post.title }}</h3>
+        <a href="{{post.url}}"><h3>{{ post.title }}</h3></a>
         <h4>{{ post.exp-date | date: '%B %-d, %Y' }}</h4>
-        {{ post.content }}
+        {{ post.excerpt }}
       </div>
       
     </div>

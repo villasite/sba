@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Congratulations to Shawnece Wilson"
 date: 2019-02-24
 image: "img/defaulticon.png"
