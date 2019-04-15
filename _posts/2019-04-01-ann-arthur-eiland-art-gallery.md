@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dedication of the Ann & Arthur Eiland Art Gallery"
 exp-date: 2019-04-07
 image: "defaulticon.png"

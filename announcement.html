@@ -23,9 +23,10 @@ permalink: /announcement
       </div>
       
       <div class="col-sm-9">
-        <a href="{{post.url}}"><h3>{{ post.title }}</h3></a>
+        <h3>{{ post.title }}</h3>
         <h4>{{ post.exp-date | date: '%B %-d, %Y' }}</h4>
         {{ post.excerpt }}
+        <h5><a href="{{ site.baseurl }}/{{ post.txt }}" class="badge badge-default">{{  post.label }}</a></h5>
       </div>
       
     </div>

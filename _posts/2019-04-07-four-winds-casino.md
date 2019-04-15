@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Outing to Four Winds Casino"
 exp-date: 2019-04-27
 image: "defaulticon.png"

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Coming Down the Mountain"
 date: 2018-01-03
 image: "img/defaulticon.png"
