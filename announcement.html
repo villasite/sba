@@ -5,32 +5,77 @@ jumbotron-image: "announce.jpg"
 permalink: /announcement
 ---
 <div class="container">
-    <div class="row">
-        <div class="col-lg-12 text-center">
-            <h2 class="section-heading">Upcoming Events</h2>
-            <hr class="primary">
-        </div>
-    </div>
-</div>
-
-{% for post in site.posts %}
-{% if post.tags contains "event" %}
-<div class="panel panel-default">
-  <div class="panel-body">
-    <div class="row">
-      <div class="col-sm-3">
-          <img class="center-block img-thumbnail" src="{{ site.baseurl }}/img/{{ post.image }}">
-      </div>
-      
-      <div class="col-sm-9">
-        <h3>{{ post.title }}</h3>
-        <h4>{{ post.exp-date | date: '%B %-d, %Y' }}</h4>
-        {{ post.excerpt }}
-        <h5><a href="{{ site.baseurl }}/{{ post.txt }}" class="badge badge-default">{{  post.label }}</a></h5>
-      </div>
-      
+  <div class="row">
+    <div class="col-lg-12 text-center">
+      <h2 class="section-heading">Upcoming Events</h2>
+      <hr class="primary">
     </div>
   </div>
 </div>
+
+{% assign posts = site.posts | sort: 'date' %}
+{% capture now %}{{'now' | date: '%s'}}{% endcapture %}
+  {% for post in posts %}
+    {% capture date %}{{post.exp-date | date: '%s' | plus: 0 }}{% endcapture %}
+    {% if date > now %}  
+      {% if post.tags contains "event" %}
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="row">
+            <div class="col-sm-3">
+                <img class="center-block img-thumbnail" src="{{ site.baseurl }}/img/{{ post.image }}">
+            </div>
+            
+            <div class="col-sm-9">
+              <h3>{{ post.title }}</h3>
+              <h4>{{ post.exp-date | date: '%B %-d, %Y' }}</h4>
+              {{ post.excerpt }}
+              <h5><a href="{{ site.baseurl }}/{{ post.txt }}" class="badge badge-default">{{  post.label }}</a></h5>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
+<div class="container">
+  <div class="row">
+    <i class="fa fa-plus" aria-hidden="true"></i>
+    <a href="{{ site.baseurl }}/announcement/archive">View older events</a>
+  </div>
+</div>
+
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-12 text-center">
+      <h2 class="section-heading">Articles</h2>
+      <hr class="primary">
+    </div>
+  </div>
+</div>
+
+
+<div class="row">
+{% for post in posts %}
+{% if post.tags contains "article" %}
+  <div class="col-sm-4">
+    <div class="panel panel-default">
+      <div class="panel-body">
+        <a href="{{ site.baseurl }}{{ post.url }}">
+          <h3>{{ post.title }}</h3>
+          <img class="center-block img-thumbnail" src="{{ site.baseurl }}/img/{{ post.image }}">
+        </a>
+          <h4>{{ post.exp-date | date: '%B %-d, %Y' }}</h4>
+          {{ post.excerpt }}
+          <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-primary">Read more</a>
+          <h5><a href="{{ site.baseurl }}/{{ post.txt }}" class="badge badge-default">{{  post.label }}</a></h5>
+      </div>
+    </div>
+  </div>
 {% endif %}
 {% endfor %}
+</div>

@@ -2,7 +2,7 @@
 title: "Kemi and Jeremiah First Communion"
 exp-date: 2019-06-23
 image: "defaulticon.png"
-tags: [bulletin, event]
+tags: [ event]
 label: "First Communion"
 txt: "about/sacrament/first-communion"
 ---

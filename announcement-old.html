@@ -1,0 +1,41 @@
+---
+layout: page2
+title: "Announcements"
+jumbotron-image: "announce.jpg"
+permalink: /announcement/archive
+---
+<div class="container">
+  <div class="row">
+    <div class="col-lg-12 text-center">
+      <h2 class="section-heading">Previous Events</h2>
+      <hr class="primary">
+    </div>
+  </div>
+</div>
+
+{% assign posts = site.posts | sort: 'date' %}
+{% capture now %}{{'now' | date: '%s'}}{% endcapture %}
+  {% for post in posts %}
+    {% capture date %}{{post.exp-date | date: '%s' | plus: 0 }}{% endcapture %}
+    {% if date < now %}  
+      {% if post.tags contains "event" %}
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="row">
+            <div class="col-sm-3">
+                <img class="center-block img-thumbnail" src="{{ site.baseurl }}/img/{{ post.image }}">
+            </div>
+            
+            <div class="col-sm-9">
+              <h3>{{ post.title }}</h3>
+              <h4>{{ post.exp-date | date: '%B %-d, %Y' }}</h4>
+              {{ post.excerpt }}
+              <h5><a href="{{ site.baseurl }}/{{ post.txt }}" class="badge badge-default">{{  post.label }}</a></h5>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+      {% endif %}
+    {% endif %}
+  {% endfor %}

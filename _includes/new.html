@@ -11,15 +11,17 @@
     <div class="container">
         <div class="row">        
             
-            {% for post in site.posts offset:0 limit:4 %}
-            <div class="col-lg-3 col-md-3 text-center">
-                <div class="service-box">
-                    <div class="col-md-6 px-0">
-                        <img class="center-block img-responsive" src="{{ post.image }}">
-                        <h4>{{ post.title }}</h4>
+            {% for post in site.posts offset:0 limit:6 %}
+                {% if post.tags contains "event" %}
+                <div class="col-lg-3 col-md-3 text-center">
+                    <div class="service-box">
+                        <div class="col-md-6 px-0">
+                            <img class="center-block img-responsive" src="{{ post.image }}">
+                            <h4>{{ post.title }}</h4>
+                        </div>
                     </div>
                 </div>
-            </div>
+                {% endif %}
             {% endfor %}
         </div>
     </div>
