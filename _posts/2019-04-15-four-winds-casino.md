@@ -1,8 +1,9 @@
 ---
 title: "Outing to Four Winds Casino"
-exp-date: 2019-04-27
-image: "defaulticon.png"
-tags: [ event, music]
+post-date: 2019-04-27
+exp-date: 2019-04-28
+fawe: "fas fa-bus"
+tags: [event, music]
 label: "Choir"
 txt: "music"
 ---

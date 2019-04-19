@@ -56,7 +56,7 @@ permalink: /music
       <div class="col-sm-9">
         <h3>{{ post.title }}</h3>
         <h4>{{ post.exp-date | date: '%B %-d, %Y' }}</h4>
-        {{ post.content }}
+        {{ post.excerpt }}
       </div>
       
     </div>
@@ -66,5 +66,5 @@ permalink: /music
 {% endfor %}
 
 <div class="panel-body">
-    <p>View other upcoming events at SBA on the <a href="{{site.baseurl}}/announcement.html">Announcement page</a></p>    
+    <p>View more events happening at SBA on the <a href="{{site.baseurl}}/announcement.html">Announcement page</a></p>    
 </div>

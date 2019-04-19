@@ -3,7 +3,7 @@ layout: post
 title: "MOSAIC Performs to Crowd-Filled Audience"
 exp-date: 2019-04-07
 image: "mosaic-sba2.jpeg"
-tags: [article]
+tags: [article, music]
 label: "Music"
 txt: "music"
 excerpt_separator: <!--more-->

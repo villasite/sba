@@ -13,7 +13,7 @@ permalink: /announcement/archive
   </div>
 </div>
 
-{% assign posts = site.posts | sort: 'date' %}
+{% assign posts = site.posts %}
 {% capture now %}{{'now' | date: '%s'}}{% endcapture %}
   {% for post in posts %}
     {% capture date %}{{post.exp-date | date: '%s' | plus: 0 }}{% endcapture %}
@@ -22,14 +22,14 @@ permalink: /announcement/archive
       <div class="panel panel-default">
         <div class="panel-body">
           <div class="row">
-            <div class="col-sm-3">
-                <img class="center-block img-thumbnail" src="{{ site.baseurl }}/img/{{ post.image }}">
+            <div class="col-sm-2" align="center">
+                <i class="fa {{ post.fawe }} fa-5x"></i>
             </div>
             
-            <div class="col-sm-9">
+            <div class="col-sm-10">
               <h3>{{ post.title }}</h3>
-              <h4>{{ post.exp-date | date: '%B %-d, %Y' }}</h4>
-              {{ post.excerpt }}
+              <h4>{{ post.date | date: '%B %-d, %Y' }}</h4>
+              {{ post.content }}
               <h5><a href="{{ site.baseurl }}/{{ post.txt }}" class="badge badge-default">{{  post.label }}</a></h5>
             </div>
             

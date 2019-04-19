@@ -1,8 +1,9 @@
 ---
 title: "Dedication of the Ann & Arthur Eiland Art Gallery"
-exp-date: 2019-04-07
-image: "defaulticon.png"
-tags: [bulletin, event]
+post-date: 2019-04-07
+exp-date: 2019-04-08
+fawe: "fas fa-paint-brush"
+tags: [event]
 label: "Art"
 txt: "art"
 ---
