@@ -3,6 +3,7 @@ layout: page2
 title: "Announcements"
 jumbotron-image: "announce.jpg"
 permalink: /announcement
+meta: "Forgot to pick up a church bulletin? Catch up on all the social and religious activities at SBA and read of past events held at this parish."
 ---
 <div class="container">
   <div class="row">
@@ -13,7 +14,7 @@ permalink: /announcement
   </div>
 </div>
 
-{% assign posts = site.posts | sort: 'date' %}
+{% assign posts = site.posts | sort: 'exp-date' %}
 {% capture now %}{{'now' | date: '%s'}}{% endcapture %}
   {% for post in posts %}
     {% capture date %}{{post.exp-date | date: '%s' | plus: 0 }}{% endcapture %}

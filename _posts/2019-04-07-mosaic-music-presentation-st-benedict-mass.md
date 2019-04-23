@@ -8,6 +8,7 @@ label: "Music"
 txt: "music"
 excerpt_separator: <!--more-->
 permalink: "announcement/:year/:title"
+meta: "SBA's own Phillip Armstrong, as part of MOSAIC group, performed the St. Benedict the Afrcan original mass music on Sunday April 7, 2019."
 ---
 SBA's own Phillip Armstrong, as part of [MOSAIC](https://www.mosaic-soul.com/) group, performed the St. Benedict the Afrcan original mass music on Sunday April 7, 2019.
 <!--more-->

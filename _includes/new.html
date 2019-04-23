@@ -10,7 +10,7 @@
     
     <div class="container">
         <div class="row">        
-        {% assign posts = site.posts | sort: 'date' %}
+        {% assign posts = site.posts  | sort: 'exp-date' %}
         {% capture now %}{{'now' | date: '%s'}}{% endcapture %}
         {% for post in site.posts offset:0 limit:4 %}
             {% capture date %}{{post.exp-date | date: '%s' | plus: 0 }}{% endcapture %}

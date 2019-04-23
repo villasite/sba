@@ -1,8 +1,9 @@
 ---
 layout: page2
 title: "Music"
-jumbotron-image: "choir-banner.jpg"
+jumbotron-image: "choir-banner.jpeg"
 permalink: /music
+meta: "At Saint Benedict the African, the choir leads the church in singful praise during the mass. The aim is to inspire everyone to participate in musical prayer through."
 ---
 <div class="container">
     <div class="row">
@@ -38,32 +39,57 @@ permalink: /music
 <div class="container">
     <div class="row">
         <div class="col-lg-12 text-center">
-            <h2 class="section-heading">Recent Music News</h2>
+            <h2 class="section-heading">Music News</h2>
             <hr class="primary">
         </div>
     </div>
 </div>
 
-{% for post in site.posts %}
-{% if post.tags contains "music" %}
-<div class="panel panel-default">
-  <div class="panel-body">
-    <div class="row">
-      <div class="col-sm-3">
-          <img class="center-block img-thumbnail" src="{{ post.image }}">
+{% assign posts = site.posts | sort: 'exp-date' %}
+{% capture now %}{{'now' | date: '%s'}}{% endcapture %}
+  {% for post in posts %}
+    {% capture date %}{{post.exp-date | date: '%s' | plus: 0 }}{% endcapture %}
+    {% if date > now %}  
+      {% if post.tags contains "music" %}
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="row">
+            <div class="col-sm-2" align="center">
+              <span class="fa {{ post.fawe }} fa-5x"></span>
+            </div>
+            
+            <div class="col-sm-10">
+              <h3>{{ post.title }}</h3>
+              <h4>{{ post.post-date | date: '%B %-d, %Y' }}</h4>
+              {{ post.content }}
+            </div>
+            
+          </div>
+        </div>
       </div>
-      
-      <div class="col-sm-9">
-        <h3>{{ post.title }}</h3>
-        <h4>{{ post.exp-date | date: '%B %-d, %Y' }}</h4>
-        {{ post.excerpt }}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
+<div class="row">
+{% for post in posts %}
+{% if post.tags contains "article" and post.tags contains "music" %}
+  <div class="col-sm-4">
+    <div class="panel panel-default">
+      <div class="panel-body">
+        <a href="{{ site.baseurl }}{{ post.url }}">
+          <h3>{{ post.title }}</h3>
+          <img class="center-block img-thumbnail" src="{{ site.baseurl }}/img/{{ post.image }}">
+        </a>
+          <h4>{{ post.exp-date | date: '%B %-d, %Y' }}</h4>
+          {{ post.excerpt }}
+          <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-primary">Read more</a>
       </div>
-      
     </div>
   </div>
-</div>
 {% endif %}
 {% endfor %}
+</div>
 
 <div class="panel-body">
     <p>View more events happening at SBA on the <a href="{{site.baseurl}}/announcement.html">Announcement page</a></p>    
