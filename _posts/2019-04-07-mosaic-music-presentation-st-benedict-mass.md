@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MOSAIC Performs to Crowd-Filled Audience"
-exp-date: 2019-04-07
+post-date: 2019-04-07
 image: "mosaic-sba2.jpeg"
 tags: [article, music]
 label: "Music"

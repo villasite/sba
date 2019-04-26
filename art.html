@@ -3,13 +3,20 @@ layout: page2
 title: "Art"
 jumbotron-image: "portfolio/1.jpg"
 permalink: /art
-meta: "The parish prides in having the church reflect the look and culture of the Englewood neighborhood. African American architecture, art, and clothing attire."
+meta: "The SBA parish prides in having the church reflect the look and culture of the Englewood neighborhood. African American architecture, art, and clothing attire."
 ---
+<div class="container">
+    <p>In our art there is a record of our beauty and value. We bring and leave it here in order that our church may be assisted in her ministry by a fully grown, functioning, willing and able community who sees Jesus in the center of the circle we make whole and unbroken.</p>
+</div>
+
 <div class="container">
     <div class="row">
         <div class="col-lg-12 text-center">
             <h2 class="section-heading">Church Architecture</h2>
             <hr class="primary">
+        </div>
+        <div>
+            <p>The church building was designed by the renowned architectural firm of Belli & Belli and is one of the very few Catholic churches built in Chicago to serve a predominately African American community. Upon entering the church building one begins to to catch a glimpse of the many surprises inside. Several artistic renderings in sculpted wood, stained glass and original art work welcome and draw one into the building.</p>
         </div>
     </div>
 </div>
@@ -110,6 +117,10 @@ meta: "The parish prides in having the church reflect the look and culture of th
             <h2 class="section-heading">Ann and Arthur Eisland Art Gallery and Collection</h2>
             <hr class="primary">
         </div>
+        <div>
+            <p>Ann and Arthur Eiland represent an honorable group of people who pushed past the racist borders in order to accept the invitation of Jesus to be in the house and Family of God. We must not fail to recognize that the faith of these children, whose faith was greater than the fear and hatred of people who challenge the heart of Jesus, carries us in this life and the next one. This gallery will continue to challenge us to walk by faith, not by fear, on our way to church, on our way to heaven.</p>
+            <p>The Ann and Arthur Eisland Art Gallery and Collection continues the long standing work of the church that promotes the arts and values the artists as a necessary part of the community. It honors the thirty-year history of St. Benedict the African Parish commissioning and collecting works of art.</p>
+        </div>
     </div>
 </div>
 
@@ -120,4 +131,24 @@ meta: "The parish prides in having the church reflect the look and culture of th
             <hr class="primary">
         </div>
     </div>
+</div>
+
+<div class="row">
+{% for post in posts %}
+{% if post.tags contains "article" and post.tags contains "art" %}
+  <div class="col-sm-4">
+    <div class="panel panel-default">
+      <div class="panel-body">
+        <a href="{{ site.baseurl }}{{ post.url }}">
+          <h3>{{ post.title }}</h3>
+          <img class="center-block img-thumbnail" src="{{ site.baseurl }}/img/{{ post.image }}">
+        </a>
+          <h4>{{ post.post-date | date: '%B %-d, %Y' }}</h4>
+          {{ post.excerpt }}
+          <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-primary">Read more</a>
+      </div>
+    </div>
+  </div>
+{% endif %}
+{% endfor %}
 </div>

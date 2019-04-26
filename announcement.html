@@ -70,7 +70,7 @@ meta: "Forgot to pick up a church bulletin? Catch up on all the social and relig
           <h3>{{ post.title }}</h3>
           <img class="center-block img-thumbnail" src="{{ site.baseurl }}/img/{{ post.image }}">
         </a>
-          <h4>{{ post.exp-date | date: '%B %-d, %Y' }}</h4>
+          <h4>{{ post.post-date | date: '%B %-d, %Y' }}</h4>
           {{ post.excerpt }}
           <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-primary">Read more</a>
           <h5><a href="{{ site.baseurl }}/{{ post.txt }}" class="badge badge-default">{{  post.label }}</a></h5>

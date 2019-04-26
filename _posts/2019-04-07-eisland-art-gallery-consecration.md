@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Eisland Art Gallery Consecrated by Bishop"
-exp-date: 2019-04-07
+post-date: 2019-04-07
 image: "eisland-gallery1.jpeg"
 tags: [article]
 label: "Art"
