@@ -2,7 +2,7 @@
 title: "Mother's Day Brunch"
 post-date: 2019-05-12
 exp-date: 2019-05-13
-fawe: "fa fa-cutlery"
+fawe: "fas fa-utensils"
 tags: [event]
 ---
 Join us for the SBA Mother's Day Brunch at the MLK room following the 9:30 mass. 

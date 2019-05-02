@@ -3,7 +3,7 @@ layout: post
 title: "Eisland Art Gallery Consecrated by Bishop"
 post-date: 2019-04-07
 image: "eisland-gallery1.jpeg"
-tags: [article]
+tags: [article, art]
 label: "Art"
 txt: "art"
 excerpt_separator: <!--more-->

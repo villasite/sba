@@ -2,7 +2,7 @@
 title: "BBQ Sunday"
 post-date: 2019-05-26
 exp-date: 2019-05-27
-fawe: "fa fa-cutlery"
+fawe: "fas fa-drumstick-bite"
 tags: [event, music]
 label: "Choir"
 txt: "music"

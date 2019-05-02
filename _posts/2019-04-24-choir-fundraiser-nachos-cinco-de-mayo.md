@@ -2,7 +2,7 @@
 title: "Nachos and Margaritas"
 post-date: 2019-05-05
 exp-date: 2019-05-06
-fawe: "fa fa-cutlery"
+fawe: "fas fa-cocktail"
 tags: [event, music]
 label: "Choir"
 txt: "music"
