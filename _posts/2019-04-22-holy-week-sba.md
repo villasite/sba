@@ -4,7 +4,6 @@ title: "Another Eventful Holy Week"
 post-date: 2019-04-22
 image: "holy-saturday-candle-2019.jpg"
 tags: [article]
-excerpt_separator: <!--more-->
 permalink: "announcement/:year/:title"
 meta: "Following Palm Sunday, Saint Benedict the African (SBA) started its Holy Week celebrations on Wednesday with the Tenebrea Service."
 ---

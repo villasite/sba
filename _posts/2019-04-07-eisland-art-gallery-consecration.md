@@ -6,7 +6,6 @@ image: "eisland-gallery1.jpeg"
 tags: [article, art]
 label: "Art"
 txt: "art"
-excerpt_separator: <!--more-->
 permalink: "announcement/:year/:title"
 meta: "On the celebration of the feast day of Saint Benedict the African, April 7, 2019, Bishop Perry consecrated the Ann and Arthur Eisland Art Gallery and Collection."
 ---
