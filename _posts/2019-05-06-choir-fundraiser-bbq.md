@@ -1,5 +1,5 @@
 ---
-title: "BBQ Sunday"
+title: "BBQ Food"
 post-date: 2019-05-26
 exp-date: 2019-05-27
 fawe: "fas fa-drumstick-bite"
