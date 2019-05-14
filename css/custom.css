@@ -12,3 +12,17 @@
 .image img{
     position:absolute;
 }
+
+.credit-top {
+  position: absolute;
+  top: 8px;
+  right: 25px;
+  color: white;
+}
+
+.credit-bottom {
+  position: absolute;
+  bottom: 8px;
+  right: 25px;
+  color: white;
+}
