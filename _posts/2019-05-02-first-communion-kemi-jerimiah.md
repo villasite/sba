@@ -1,6 +1,6 @@
 ---
 title: "Kemi and Jeremiah First Communion"
-post-date: 2019-06-24
+post-date: 2019-06-23
 exp-date: 2019-06-24
 fawe: "fas fa-child"
 tags: [event]
