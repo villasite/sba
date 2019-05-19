@@ -1,7 +1,7 @@
 ---
 title: "Bible Study"
 post-date: 2019-05-16
-exp-date: 2019-05-17
+exp-date: 2019-05-16
 fawe: "fas fa-bible"
 tags: [event]
 ---
