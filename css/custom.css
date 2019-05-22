@@ -1,3 +1,9 @@
+.jumbotron {
+ background: center center;
+ background-size: cover;
+}
+
+
 .top-buffer
 { 
     margin-top:50px; 

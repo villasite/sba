@@ -20,4 +20,4 @@ Dr. Johnson, the associate professor of music at Spelman College performed the c
 The MOSAIC group had been preparing this presentation since 2018 while also rehearsing for a seperate performance held in February 2019.
 Mr. Armstrong nonetheless felt it was appropriate to perform this unique special composition for Saint Benedict the African, his home parish.
 
-"It is important that...", said Mr. Armstrong.
+<img class="img-responsive" src="{{ site.baseurl }}/img/mosaic-sba1.jpeg" alt="MOSAIC group music performance at Saint Benedict the African church.">
