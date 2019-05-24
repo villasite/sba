@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://benedicttheafrican.org/</loc>
+  <lastmod>2019-05-23T05:03:43+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://benedicttheafrican.org/about/</loc>
+  <lastmod>2019-05-23T05:03:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://benedicttheafrican.org/announcement</loc>
+  <lastmod>2019-05-23T05:03:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://benedicttheafrican.org/contribute/</loc>
+  <lastmod>2019-05-23T05:03:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://benedicttheafrican.org/art</loc>
+  <lastmod>2019-05-23T05:03:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://benedicttheafrican.org/music</loc>
+  <lastmod>2019-05-23T05:03:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://benedicttheafrican.org/about/sacrament</loc>
+  <lastmod>2019-05-23T05:03:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://benedicttheafrican.org/about/sacrament/baptism</loc>
+  <lastmod>2019-05-23T05:03:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://benedicttheafrican.org/kpc</loc>
+  <lastmod>2019-05-23T05:03:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://benedicttheafrican.org/about/sacrament/first-communion</loc>
+  <lastmod>2019-05-23T05:03:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://benedicttheafrican.org/announcement/2019/holy-week-sba</loc>
+  <lastmod>2019-05-23T05:03:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://benedicttheafrican.org/announcement/2019/mosaic-music-presentation-st-benedict-mass</loc>
+  <lastmod>2019-05-23T05:03:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://benedicttheafrican.org/announcement/2019/eisland-art-gallery-consecration</loc>
+  <lastmod>2019-05-23T05:03:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://benedicttheafrican.org/announcement/archive</loc>
+  <lastmod>2019-05-23T05:03:43+00:00</lastmod>
+  <priority>0.10</priority>
+</url>
+
+
+</urlset>

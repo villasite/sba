@@ -19,6 +19,10 @@
     position:absolute;
 }
 
+.cutoff-bottom{
+    width: 100%
+}
+
 .credit-top {
   position: absolute;
   top: 8px;
@@ -31,4 +35,15 @@
   bottom: 8px;
   right: 25px;
   color: white;
+}
+
+.credit-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.hide {
+    display:none; 
 }
