@@ -10,7 +10,7 @@ meta: "Following Palm Sunday, Saint Benedict the African (SBA) started its Holy 
 Following Palm Sunday, Saint Benedict the African (SBA) started its Holy Week celebrations on Wednesday with the Tenebrae Service.
 <!--more-->
 
-This Spy Wednesday event involved pslam prayers in the dark with the extinquishing of seven candles.
+This Spy Wednesday event involved psalm prayers in the dark with the extinquishing of seven candles.
 
 <img src="{{ site.baseurl }}/img/tenebrea-service-2019.jpeg" class="img-responsive" alt="Prayer and extinquishing of candles for tenebrea service 2019.">
 
@@ -18,7 +18,7 @@ The following day SBA hosted scripture study in the morning and Mass of the Lord
 
 For Good Friday, SBA held a rosary and stations of the cross, veneration of the cross, and reconciliation service.
 
-The church remained opened all night Friday and all day for Holy Saturday for prayer and adoration. SBA held Easter Vigil Saturday night with a small reception afterwards.
+The church remained open all Thursday for adoration, and Friday and Saturday for prayer. SBA held Easter Vigil Saturday night with a small reception afterwards.
 
 <img src="{{ site.baseurl }}/img/choir-easter-2019.jpg" class="img-responsive" alt="Church choir leads clapping praise for Easter Sunday 2019">
 

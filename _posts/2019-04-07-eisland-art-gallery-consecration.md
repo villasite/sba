@@ -28,8 +28,7 @@ This gallery will continue to challenge us to walk by faith, not by fear, on our
 Ann and Arthur Eiland Art Gallery and Collection will continue the long standing work of the church that promotes the arts and values the artists as a necessary part of the community.
 It honors the thirty-year history of St. Benedict the African Parish commissioning and collecting works of art.
 
-Ann and Arthur Eiland Art Gallery and Collection will encourage the people, especially and hopefully the next generation of the parish, the church and the community to keep looking for the art of our community.
-To join the church as she continues to build beautiful spaces that honor God and welcomes His children home.
+Ann and Arthur Eiland Art Gallery and Collection will encourage the people, especially and hopefully the next generation of the parish, the church and the community to keep looking for the art of our community, to join the church as she continues to build beautiful spaces that honor God and welcomes His children home.
 This will challenge us, the people who come here to worship God, to add our own beauty to this church so her worship and work can be truly catholic.
 
 In our art there is a record of our beauty and value.
