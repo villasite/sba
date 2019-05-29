@@ -28,3 +28,5 @@ It could all be a bunch of clichés for preaching or lyrics for songs, but by te
 God the Father makes a way out on no way for us to be in His family. God the Holy Spirit marks us with an indelible mark as claimed by God, and God the Son, by his own baptism, makes us, by our baptism, the most blessed and most powerful force in all of God’s creation. Something to think about the next time we touch the Holy Water and the Holy Water touches us.
     
 We are happy to accommodate all baptism requests. **Please contact us by email or phone**.
+
+{% include sacrament.html %}
