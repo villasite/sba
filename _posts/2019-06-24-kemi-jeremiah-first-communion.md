@@ -3,7 +3,7 @@ layout: post
 title: "Kemi and Jeremiah First Communion"
 post-date: 2019-06-24
 image: "kemi-jeremiah-communion-1.jpg"
-tags: [article]
+tags: []
 label: "First Communion"
 txt: "about/sacrament/first-communion"
 permalink: "announcement/:year/:title"
