@@ -6,9 +6,7 @@
                 <hr class="primary">
             </div>
         </div>
-    </div>
-    
-    <div class="container">
+
         <div class="row">        
         {% assign posts = site.posts  | sort: 'exp-date' %}
         {% capture now %}{{'now' | date: '%s'}}{% endcapture %}
@@ -28,9 +26,7 @@
                 {% endif %}
             {% endfor %}
         </div>
-    </div>
-    
-    <div class="container">
+
         <div class="row text-center">
             <a href="{{site.baseurl}}/announcement" class="btn btn-primary btn-xl">Read More</a>
         </div>
