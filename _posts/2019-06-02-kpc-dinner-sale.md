@@ -5,6 +5,6 @@ exp-date: 2019-06-03
 fawe: "fas fa-hamburger"
 tags: [event, kpc]
 label: "KPC"
-txt: "kpc"
+txt: "knights-of-peter-claver-ladies-auxiliary"
 ---
 The Knights of Peter Claver will be selling barbeque dinners after Mass.
