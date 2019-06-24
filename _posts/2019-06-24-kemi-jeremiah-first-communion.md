@@ -2,8 +2,8 @@
 layout: post
 title: "Kemi and Jeremiah First Communion"
 post-date: 2019-06-24
-image: "kemi-jeremiah-communion-1.jpg"
-tags: []
+image: "first-communion-2019-bringing-gifts.jpg"
+tags: [article]
 label: "First Communion"
 txt: "about/sacrament/first-communion"
 permalink: "announcement/:year/:title"
@@ -23,3 +23,6 @@ Josephine says "I thank God and the church of St. Benedict the African for this 
 Their instructor, Sister Joanne, says “we meet each Sunday and learn about the Mass, sacraments in general but especially Eucharist, Church and what it means to belong to it, what the values of Jesus are and what it means to be a Catholic Christian.
 
 We pray and study together and anticipate happily the day when we begin participating more fully at Mass. We pray that First Communion will be the beginning of a lifetime of receiving Communion.”
+
+
+{% include sacrament.html %}
