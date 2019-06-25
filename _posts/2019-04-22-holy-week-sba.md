@@ -23,3 +23,5 @@ The church remained open all Thursday for adoration, and Friday and Saturday for
 <img src="{{ site.baseurl }}/img/choir-easter-2019.jpg" class="img-responsive" alt="Church choir leads clapping praise for Easter Sunday 2019">
 
 Easter Sunday concluded Holy week with a church-packed Mass celebrating our Lord's resurrection.
+
+{% include articles.html %}

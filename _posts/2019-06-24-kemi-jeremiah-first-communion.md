@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kemi and Jeremiah First Communion"
+title: "Kemi and Jeremiah's First Communion"
 post-date: 2019-06-24
 image: "first-communion-2019-bringing-gifts.jpg"
 tags: [article]
@@ -26,3 +26,4 @@ We pray and study together and anticipate happily the day when we begin particip
 
 
 {% include sacrament.html %}
+{% include articles.html %}

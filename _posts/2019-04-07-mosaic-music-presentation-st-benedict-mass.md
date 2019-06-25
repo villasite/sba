@@ -21,3 +21,5 @@ The MOSAIC group had been preparing this presentation since 2018 while also rehe
 Mr. Armstrong nonetheless felt it was appropriate to perform this unique special composition for Saint Benedict the African, his home parish.
 
 <img class="img-responsive" src="{{ site.baseurl }}/img/mosaic-sba1.jpeg" alt="MOSAIC group music performance at Saint Benedict the African church.">
+
+{% include articles.html %}

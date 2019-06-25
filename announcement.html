@@ -49,36 +49,5 @@ meta: "Forgot to pick up a church bulletin? Catch up on all the social and relig
 </div>
 
 
-
-<div class="container top-buffer">
-  <div class="row">
-    <div class="col-lg-12 text-center">
-      <h2 class="section-heading">Articles</h2>
-      <hr class="primary">
-    </div>
-  </div>
-</div>
-
-
-<div class="row">
-{% for post in posts %}
-{% if post.tags contains "article" %}
-  <div class="col-sm-4">
-    <div class="panel panel-default">
-      <div class="panel-body">
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          <h3>{{ post.title }}</h3>
-          <img class="center-block img-thumbnail" src="{{ site.baseurl }}/img/{{ post.image }}" alt="article image">
-        </a>
-          <h4>{{ post.post-date | date: '%B %-d, %Y' }}</h4>
-          {{ post.excerpt }}
-          <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-primary">Read more</a>
-          <h5><a href="{{ site.baseurl }}/{{ post.txt }}" class="badge badge-default">{{  post.label }}</a></h5>
-      </div>
-    </div>
-  </div>
-{% endif %}
-{% endfor %}
-</div>
-
+{% include articles.html %}
 {% include ads.html %}
