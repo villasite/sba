@@ -24,6 +24,9 @@ Their instructor, Sister Joanne, says “we meet each Sunday and learn about the
 
 We pray and study together and anticipate happily the day when we begin participating more fully at Mass. We pray that First Communion will be the beginning of a lifetime of receiving Communion.”
 
+<div class="embed-responsive embed-responsive-4by3">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/jNfoa4uBRXs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 {% include sacrament.html %}
 {% include articles.html %}
