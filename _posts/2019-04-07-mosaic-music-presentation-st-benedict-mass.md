@@ -9,7 +9,7 @@ txt: "music"
 permalink: "announcement/:year/:title"
 meta: "SBA's own Phillip Armstrong, as part of MOSAIC group, performed the St. Benedict the African original mass music on Sunday April 7, 2019."
 ---
-SBA's own Phillip Armstrong, as part of [MOSAIC](https://www.mosaic-soul.com/) group, performed the St. Benedict the African original mass music on Sunday April 7, 2019.
+SBA's own Phillip Armstrong, as part of [MOSAIC](https://www.mosaic-soul.com/) group, performed the St. Benedict the African original mass music.
 <!--more-->
 
 
@@ -21,5 +21,3 @@ The MOSAIC group had been preparing this presentation since 2018 while also rehe
 Mr. Armstrong nonetheless felt it was appropriate to perform this unique special composition for Saint Benedict the African, his home parish.
 
 <img class="img-responsive" src="{{ site.baseurl }}/img/mosaic-sba1.jpeg" alt="MOSAIC group music performance at Saint Benedict the African church.">
-
-{% include articles.html %}

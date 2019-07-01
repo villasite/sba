@@ -9,7 +9,7 @@ txt: "art"
 permalink: "announcement/:year/:title"
 meta: "On the celebration of the feast day of Saint Benedict the African, April 7, 2019, Bishop Perry dedicated the Ann and Arthur Eiland Art Gallery and Collection."
 ---
-On the celebration of the feast day of Saint Benedict the African, April 7, 2019, Bishop Perry dedicated the Ann and Arthur Eiland Art Gallery and Collection.
+On the celebration of the feast day of Saint Benedict the African Bishop Perry dedicated the Ann and Arthur Eiland Art Gallery and Collection.
 <!--more-->
 
 By God, the Church has been enriched by many people from the Black community. 
@@ -35,5 +35,3 @@ In our art there is a record of our beauty and value.
 We bring and leave it here in order that our church may be assisted in her ministry by a fully grown, functioning, willing and able community who sees Jesus in the center of the circle we make whole and unbroken.
 
 [View the art collection online]({{site.baseurl}}/art#eiland)
-
-{% include articles.html %}

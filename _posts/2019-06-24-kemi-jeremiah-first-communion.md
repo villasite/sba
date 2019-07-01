@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kemi and Jeremiah's First Communion"
-post-date: 2019-06-24
+post-date: 2019-06-23
 image: "first-communion-2019-bringing-gifts.jpg"
 tags: [article]
 label: "First Communion"
@@ -9,7 +9,7 @@ txt: "about/sacrament/first-communion"
 permalink: "announcement/:year/:title"
 meta: "Jeremiah and Kemi celebrated their First Communion on the Feast of the Most Holy Body and Blood of Christ on June 23, 2019."
 ---
-Jeremiah and Kemi celebrated their First Communion on the Feast of the Most Holy Body and Blood of Christ on June 23, 2019.
+Jeremiah and Kemi celebrated their First Communion on the Feast of the Most Holy Body and Blood of Christ.
 <!--more-->
 
 Jeremiah’s parents, Shawnece and JR, were married at Saint Benedict the African and are active participants in the parish. Their first son Jamil received his first communion in 2016. Both children were baptized at Saint Benedict the African.
@@ -29,4 +29,3 @@ We pray and study together and anticipate happily the day when we begin particip
 </div>
 
 {% include sacrament.html %}
-{% include articles.html %}
