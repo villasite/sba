@@ -5,78 +5,100 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<url>
+    <loc>http://benedicttheafrican.org/</loc>
+    <lastmod>2019-07-01T17:34:42+00:00</lastmod>
+    <priority>1.00</priority>
+</url>
+<url>
+    <loc>http://benedicttheafrican.org/about/</loc>
+    <lastmod>2019-07-01T17:34:42+00:00</lastmod>
+    <priority>0.80</priority>
+</url>
+<url>
+    <loc>http://benedicttheafrican.org/announcement</loc>
+    <lastmod>2019-07-01T17:34:42+00:00</lastmod>
+    <priority>0.80</priority>
+</url>
+<url>
+    <loc>http://benedicttheafrican.org/contribute/</loc>
+    <lastmod>2019-07-01T17:34:42+00:00</lastmod>
+    <priority>0.80</priority>
+</url>
+<url>
+    <loc>http://benedicttheafrican.org/art</loc>
+    <lastmod>2019-07-01T17:34:42+00:00</lastmod>
+    <priority>0.80</priority>
+</url>
+<url>
+    <loc>http://benedicttheafrican.org/music</loc>
+    <lastmod>2019-07-01T17:34:42+00:00</lastmod>
+    <priority>0.80</priority>
+</url>
+<url>
+    <loc>http://benedicttheafrican.org/adult-faith-formation</loc>
+    <lastmod>2019-07-01T17:34:42+00:00</lastmod>
+    <priority>0.75</priority>
+</url>
+<url>
+    <loc>http://benedicttheafrican.org/about/sacrament</loc>
+    <lastmod>2019-07-01T17:34:42+00:00</lastmod>
+    <priority>0.75</priority>
+</url>
+<url>
+    <loc>http://benedicttheafrican.org/knights-of-peter-claver-ladies-auxiliary</loc>
+    <lastmod>2019-07-01T17:34:42+00:00</lastmod>
+    <priority>0.75</priority>
+</url>
+<url>
+    <loc>http://benedicttheafrican.org/about/sacrament/first-communion</loc>
+    <lastmod>2019-07-01T17:34:42+00:00</lastmod>
+    <priority>0.64</priority>
+</url>
+<url>
+    <loc>http://benedicttheafrican.org/about/sacrament/baptism</loc>
+    <lastmod>2019-07-01T17:34:42+00:00</lastmod>
+    <priority>0.64</priority>
+</url>
+<url>
+    <loc>http://benedicttheafrican.org/announcement/2019/holy-week-sba</loc>
+    <lastmod>2019-07-01T17:34:42+00:00</lastmod>
+    <priority>0.51</priority>
+</url>
+<url>
+    <loc>http://benedicttheafrican.org/announcement/2019/kemi-jeremiah-first-communion</loc>
+    <lastmod>2019-07-01T17:34:42+00:00</lastmod>
+    <priority>0.51</priority>
+</url>
+<url>
+    <loc>http://benedicttheafrican.org/announcement/2019/mosaic-music-presentation-st-benedict-mass</loc>
+    <lastmod>2019-07-01T17:34:42+00:00</lastmod>
+    <priority>0.51</priority>
+</url>
+<url>
+    <loc>http://benedicttheafrican.org/announcement/2019/eisland-art-gallery-dedicated</loc>
+    <lastmod>2019-07-01T17:34:42+00:00</lastmod>
+    <priority>0.51</priority>
+</url>
+<url>
+    <loc>http://benedicttheafrican.org/adult-faith-formation/what-is-disciple-apostle</loc>
+    <lastmod>2019-07-01T17:34:42+00:00</lastmod>
+    <priority>0.51</priority>
+</url>
+<url>
+    <loc>http://benedicttheafrican.org/adult-faith-formation/why-kneel-at-church</loc>
+    <lastmod>2019-07-01T17:34:42+00:00</lastmod>
+    <priority>0.51</priority>
+</url>
 
-
 <url>
-  <loc>http://benedicttheafrican.org/</loc>
-  <lastmod>2019-05-23T05:03:43+00:00</lastmod>
-  <priority>1.00</priority>
+    <loc>http://benedicttheafrican.org/announcement/2019/father-jonathan-hill-mass</loc>
+    <lastmod>2019-07-01T17:34:42+00:00</lastmod>
+    <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://benedicttheafrican.org/about/</loc>
-  <lastmod>2019-05-23T05:03:43+00:00</lastmod>
-  <priority>0.80</priority>
+    <loc>http://benedicttheafrican.org/announcement/archive</loc>
+    <lastmod>2019-07-01T17:34:42+00:00</lastmod>
+    <priority>0.10</priority>
 </url>
-<url>
-  <loc>http://benedicttheafrican.org/announcement</loc>
-  <lastmod>2019-05-23T05:03:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://benedicttheafrican.org/contribute/</loc>
-  <lastmod>2019-05-23T05:03:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://benedicttheafrican.org/art</loc>
-  <lastmod>2019-05-23T05:03:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://benedicttheafrican.org/music</loc>
-  <lastmod>2019-05-23T05:03:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://benedicttheafrican.org/about/sacrament</loc>
-  <lastmod>2019-05-23T05:03:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://benedicttheafrican.org/about/sacrament/baptism</loc>
-  <lastmod>2019-05-23T05:03:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://benedicttheafrican.org/kpc</loc>
-  <lastmod>2019-05-23T05:03:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://benedicttheafrican.org/about/sacrament/first-communion</loc>
-  <lastmod>2019-05-23T05:03:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://benedicttheafrican.org/announcement/2019/holy-week-sba</loc>
-  <lastmod>2019-05-23T05:03:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://benedicttheafrican.org/announcement/2019/mosaic-music-presentation-st-benedict-mass</loc>
-  <lastmod>2019-05-23T05:03:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://benedicttheafrican.org/announcement/2019/eisland-art-gallery-consecration</loc>
-  <lastmod>2019-05-23T05:03:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://benedicttheafrican.org/announcement/archive</loc>
-  <lastmod>2019-05-23T05:03:43+00:00</lastmod>
-  <priority>0.10</priority>
-</url>
-
-
 </urlset>
