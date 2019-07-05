@@ -6,4 +6,4 @@ permalink: /contact
 meta: "Want to reach Saint Benedict the African Parish? There are three ways to contact us; mail, email, or phone."
 ---
 
-{% include getting-to-sba.html %}
+{% include about-getting-to-sba.html %}

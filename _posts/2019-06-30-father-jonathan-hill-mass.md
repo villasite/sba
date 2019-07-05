@@ -18,4 +18,7 @@ These children live in Kilwa Masoko, on the Indian Ocean south of the capitol ci
 
 The heart of Christ dares us to love these children. Assistance from Saint Benedict the African will go towards feeding, clothing and housing these precious children, and will allow us to open the doors to other children in need.
 
+Check the video below for a clip of the ordination Mass in Ossining, NY at the Maryknoll Society Center which took place June 1, 2019. Parishioners from Saint Benedict the African traveled to join in Father Hill's celebration.
+<iframe class="instagram-media instagram-media-rendered" id="instagram-embed-0" src="https://www.instagram.com/p/Bzfx5FWlSjB/embed/?cr=1&rd=https%3A%2F%2Fwww.instagram.com" height="926" width="500" frameborder="0" allowfullscreen="true" allowtransparency="true" data-instgrm-payload-id="instagram-media-payload-0" scrolling="no" style="background: white; max-width: 658px; width: calc(100% - 2px); border-radius: 3px; border: 1px solid rgb(219, 219, 219); box-shadow: none; display: block; margin: 0px 0px 12px; min-width: 326px; padding: 0px;"></iframe>
+
 Visit the <a href="https://maryknollsociety.org/vocations/ordination-fr-hill-oath-br-thibert-2019" target="_blank">Maryknoll website</a> for more information on Father Hill's ordination.

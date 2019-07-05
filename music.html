@@ -7,6 +7,22 @@ meta: "At Saint Benedict the African, the choir leads the church in praise durin
 ---
 <div class="container">
     <div class="row">
+        <div class="col-sm-4">
+            <div class="panel panel-default">
+              <div class="panel-body">
+                <iframe width="250" height="375" src="https://www.instagram.com/p/BzcANO6FCrx/embed/?cr=1&rd=https%3A%2F%2Fwww.instagram.com" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              </div>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <div class="panel panel-default">
+              <div class="panel-body">
+                <iframe width="250" height="375" src="https://www.instagram.com/p/BzcCMUdlw2e/embed/?cr=1&rd=https%3A%2F%2Fwww.instagram.com" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
         <div class="col-lg-12 text-center">
             <h2 class="section-heading">The SBA Choir</h2>
             <hr class="primary">
@@ -21,28 +37,6 @@ meta: "At Saint Benedict the African, the choir leads the church in praise durin
       <p>It’s tough to be a good congregation because we have to assist one another with the discipline of following the cross and looking to the altar, especially when some ONE is singing our favorite song.</p>
       <p>It’s easy to get one person to sing a good song. It takes our all to sing to the Lord.</p>
     </div>
-    <div class="row no-padding">
-        <div id="music-pic" class="carousel slide" data-ride="carousel" data-interval="3000">
-            <div class="carousel-inner image">
-          
-              <div class="item active">
-                <img class="img img-responsive full-width" src="{{ site.baseurl }}/img/choir-1.jpg" alt="Close up of SBA church choir singing during Mass wearing purple during Advent.">
-                <div class="credit-top">Photo by Lauren</div>
-              </div>
-          
-              <div class="item">
-                  <img class="img img-responsive full-width" src="{{ site.baseurl }}/img/choir-2.jpg" alt="SBA church choir singing during Mass wearing purple during Advent.">
-                  <div class="credit-top">Photo by Lauren</div>
-              </div>
-        
-              <div class="item">
-                  <img class="img img-responsive full-width" src="{{ site.baseurl }}/img/choir-easter-2019.jpg" alt="SBA church choir singing during Mass wearing white and yellow during Easter.">
-                  <div class="credit-top">Photo by A. Villaverde</div>
-              </div>
-        
-            </div>
-        </div>
-    </div>
 </div>
 
 
@@ -53,54 +47,54 @@ meta: "At Saint Benedict the African, the choir leads the church in praise durin
             <hr class="primary">
         </div>
     </div>
-</div>
+    <div class="row">
+    {% assign posts = site.posts | sort: 'exp-date' %}
+    {% capture now %}{{'now' | date: '%s'}}{% endcapture %}
+      {% for post in posts %}
+        {% capture date %}{{post.exp-date | date: '%s' | plus: 0 }}{% endcapture %}
+        {% if date > now %}  
+          {% if post.tags contains "music" %}
+          <div class="panel panel-default">
+            <div class="panel-body">
+              <div class="row">
+                <div class="col-sm-2" align="center">
+                  <span class="fa {{ post.fawe }} fa-5x"></span>
+                </div>
+                
+                <div class="col-sm-10">
+                  <h3>{{ post.title }}</h3>
+                  <h4>{{ post.post-date | date: '%A, %B %-d, %Y' }}</h4>
+                  {{ post.content }}
+                </div>
+                
+              </div>
+            </div>
+          </div>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    </div>
 
-{% assign posts = site.posts | sort: 'exp-date' %}
-{% capture now %}{{'now' | date: '%s'}}{% endcapture %}
-  {% for post in posts %}
-    {% capture date %}{{post.exp-date | date: '%s' | plus: 0 }}{% endcapture %}
-    {% if date > now %}  
-      {% if post.tags contains "music" %}
-      <div class="panel panel-default">
-        <div class="panel-body">
-          <div class="row">
-            <div class="col-sm-2" align="center">
-              <span class="fa {{ post.fawe }} fa-5x"></span>
-            </div>
-            
-            <div class="col-sm-10">
+    <div class="row">
+    {% for post in posts %}
+    {% if post.tags contains "article" and post.tags contains "music" %}
+      <div class="col-sm-4">
+        <div class="panel panel-default">
+          <div class="panel-body">
+            <a href="{{ site.baseurl }}{{ post.url }}">
               <h3>{{ post.title }}</h3>
-              <h4>{{ post.post-date | date: '%A, %B %-d, %Y' }}</h4>
-              {{ post.content }}
-            </div>
-            
+              <img class="center-block img-thumbnail" src="{{ site.baseurl }}/img/{{ post.image }}" alt="article image">
+            </a>
+              <h4>{{ post.post-date | date: '%B %-d, %Y' }}</h4>
+              {{ post.excerpt }}
+              <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-primary">Read more</a>
           </div>
         </div>
       </div>
-      {% endif %}
     {% endif %}
-  {% endfor %}
-
-<div class="row">
-{% for post in posts %}
-{% if post.tags contains "article" and post.tags contains "music" %}
-  <div class="col-sm-4">
-    <div class="panel panel-default">
-      <div class="panel-body">
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          <h3>{{ post.title }}</h3>
-          <img class="center-block img-thumbnail" src="{{ site.baseurl }}/img/{{ post.image }}" alt="article image">
-        </a>
-          <h4>{{ post.post-date | date: '%B %-d, %Y' }}</h4>
-          {{ post.excerpt }}
-          <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-primary">Read more</a>
-      </div>
+    {% endfor %}
     </div>
-  </div>
-{% endif %}
-{% endfor %}
 </div>
-
 <div class="panel-body">
     <p>View more events happening at SBA on the <a href="{{site.baseurl}}/announcement">Announcement page</a></p>    
 </div>
