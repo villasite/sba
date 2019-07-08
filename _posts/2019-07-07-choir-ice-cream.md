@@ -7,4 +7,4 @@ tags: [event, music]
 label: "Choir"
 txt: "music"
 ---
-The Choir will be selling snow cones and ice cream!
+The Choir will be selling snow cones and ice cream after Mass.
