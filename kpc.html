@@ -1,10 +1,29 @@
 ---
-layout: page2
-title: "Knights of Peter Claver and Ladies Auxiliary"
-jumbotron-image: "kpc-1.jpg"
+layout: page-basic
 permalink: /knights-of-peter-claver-ladies-auxiliary
-meta: ""
+meta: "The Knights of Peter Claver, Inc. is the largest historically African-American Catholic lay organization in the United States. The Order is named for St. Peter Claver, the Spanish Priest."
 ---
+<div id="OutsideAd" class="carousel slide" data-ride="carousel" data-interval="4000">
+  <div class="carousel-inner">
+    <div class="item active">
+      <img class="d-block img-fluid center-block" src="{{ site.baseurl }}/img/kpc-junior-knights-daughters-sba.jpeg" alt="">
+    </div>
+    <div class="item ">
+      <img class="d-block img-fluid center-block" src="{{ site.baseurl }}/img/kpc-presenting-cardinal-cupich.jpeg" alt="">
+    </div>
+    <div class="item ">
+      <img class="d-block img-fluid center-block" src="{{ site.baseurl }}/img/kpc-pulpit-cardinal-cupich.jpeg" alt="">
+    </div>
+    <div class="item ">
+      <img class="d-block img-fluid center-block" src="{{ site.baseurl }}/img/kpc-reading-cardinal-cupich.jpeg" alt="">
+    </div>
+  </div>
+</div>
+
+
+
+
+
 <div class="container top-buffer" id="knights">
     <div class="row">
         <div class="col-lg-12 text-center">
@@ -47,6 +66,7 @@ meta: ""
     </div>
 </div>
 
+<div class="container">
 {% assign posts = site.posts | sort: 'exp-date' %}
 {% capture now %}{{'now' | date: '%s'}}{% endcapture %}
   {% for post in posts %}
@@ -72,6 +92,7 @@ meta: ""
       {% endif %}
     {% endif %}
   {% endfor %}
+</div>
 
 <div class="row">
 {% for post in posts %}
@@ -81,7 +102,7 @@ meta: ""
       <div class="panel-body">
         <a href="{{ site.baseurl }}{{ post.url }}">
           <h3>{{ post.title }}</h3>
-          <img class="center-block img-thumbnail" src="{{ site.baseurl }}/img/{{ post.image }}" >
+          <img class="center-block img-thumbnail" src="{{ site.baseurl }}/img/{{ post.image }}" alt="article image">
         </a>
           <h4>{{ post.post-date | date: '%B %-d, %Y' }}</h4>
           {{ post.excerpt }}
@@ -93,6 +114,6 @@ meta: ""
 {% endfor %}
 </div>
 
-<div class="panel-body">
+<div class="container">
     <p>View more events happening at SBA on the <a href="{{site.baseurl}}/announcement">Announcement page</a></p>    
 </div>
