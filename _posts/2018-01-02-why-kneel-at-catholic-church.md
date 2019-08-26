@@ -3,13 +3,13 @@ layout: post
 title: "Why aren't the people kneeling at church?"
 subtitle: ""
 image: "altar-closeup.jpeg"
-categories: [at mass]
+categories: [Catholic Practices]
 tags: [writing]
 permalink: "adult-faith-formation/:title"
-meta: ""
+meta: "Once in a church that had no kneelers a bishop asked a pastor, 'Why aren’t the people kneeling?' The pastor responded, 'Because we have no kneelers.' The bishop asked, 'So why aren’t the people kneeling?'"
 ---
-
 Once in a church that had no kneelers a bishop asked a pastor, “Why aren’t the people kneeling?” The pastor responded, “Because we have no kneelers.” The bishop asked, “So why aren’t the people kneeling?” 
+<!--more-->
 
 Ouch!
 

@@ -3,31 +3,9 @@ layout: page2
 title: "Adult Faith Formation"
 jumbotron-image: "lectionary-book.jpg"
 permalink: /adult-faith-formation
-meta: ""
+meta: "In need of adult teaching of your Catholic faith with homilies and aritcles to reinforce your RCIA Christian class?"
 ---
-
-<div class="container">
-    <div class="row">
-        <div class="col-lg-12 text-center">
-          <h2 class="section-heading">Categories</h2>
-          <hr class="primary">
-        </div>
-    </div>
-
-
-    {% for category in site.categories %}
-      <h3>{{ category[0] | upcase }}</h3>
-      <ul>
-        {% for post in category[1] %}
-          <li><a href="{{ post.url }}">{{ post.title }}</a> {{ post.subtitle }}</li>
-        {% endfor %}
-      </ul>
-    {% endfor %}
-
-{% include sacrament.html %}
-</div>
-
-<div class="container top-buffer" id="news">
+<div class="container" id="news">
     <div class="row">
         <div class="col-lg-12 text-center">
             <h2 class="section-heading">Adult Faith News</h2>
@@ -64,4 +42,35 @@ meta: ""
 
 <div class="panel-body">
     <p>View more events happening at SBA on the <a href="{{site.baseurl}}/announcement">Announcement page</a></p>    
+</div>
+
+<div class="container top-buffer">
+    <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading">Writings on:</h2>
+          <hr class="primary">
+        </div>
+    </div>
+
+    {% for category in site.categories %}
+    <h3 class="top-buffer">{{ category[0] | upcase }}</h3>
+
+        {% for post in category[1] %}
+        <div class="panel panel-default">
+            <div class="panel-body">
+                 
+                <div class="col-sm-4" align="center">
+                    <a href="{{ post.url }}"><img src="{{ site.baseurl }}/img/{{ post.image }}" alt="Adult faith formation on {{post.title}}." class="img img-responsive full-width"></a>
+                </div>
+                <div class="col-sm-8">
+                    <a href="{{ post.url }}"><h4>{{ post.title }}</h4></a>
+                    <h5>{{ post.subtitle }}</h5>
+                    <p>{{ post.excerpt }}</p>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    {% endfor %}
+
+{% include sacrament.html %}
 </div>

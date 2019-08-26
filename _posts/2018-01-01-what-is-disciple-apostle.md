@@ -3,13 +3,13 @@ layout: post
 title: "What's the difference between an Apostle and Disciple?"
 subtitle: "Solemnity of Saints Peter and Paul"
 image: "wooden-table-with-people-closeup.jpeg"
-categories: [solemnity]
+categories: [Solemnity]
 tags: [writing]
 permalink: "adult-faith-formation/:title"
-meta: ""
+meta: "All apostles are disciples, not all disciples are apostles. When Catholics talk about the Apostles, we are referring to the twelve men Jesus choose, called by name. The word APOSTLES means “one who is sent forth”. Sent not as a simple messenger but as an agent or delegate on a mission. We could call them ambassadors of Christ, but Apostles of Christ makes their role and person most clear."
 ---
-
 All apostles are disciples, not all disciples are apostles. When Catholics talk about the Apostles, we are referring to the twelve men Jesus choose, called by name. The word APOSTLES means “one who is sent forth”. Sent not as a simple messenger but as an agent or delegate on a mission. We could call them ambassadors of Christ, but Apostles of Christ makes their role and person most clear.
+<!--more-->
 
 Disciples are more like students. If we follow Christ, trying to learn from his life how to live our life, then we are Disciples of Christ.
 

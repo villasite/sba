@@ -6,4 +6,4 @@ fawe: "fas fa-praying-hands"
 tags: [event, aff]
 
 ---
-Immediately following the mass, you're invited to the Sister Thea Bowman Room to discuss the inquired topics on Catholicism. 
+Immediately following the mass, you're invited to the Sister Thea Bowman room to discuss the inquired topics on Catholicism. 
