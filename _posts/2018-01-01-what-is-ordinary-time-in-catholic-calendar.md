@@ -1,0 +1,26 @@
+---
+layout: post
+title: "What is Ordinary time?"
+subtitle: "Ordering our steps"
+image: "defaulticon.png"
+categories: [Solemnity]
+tags: [writing]
+permalink: "adult-faith-formation/:title"
+meta: "After all the high church of Easter and the litany of solemnities, we are back to ORDINARY TIME in our liturgical year."
+---
+After all the high church of Easter and the litany of solemnities, we are back to ORDINARY TIME in our liturgical year.
+<!--more-->
+
+The liturgical year begins with Advent, moves to Christmas, then to ORIDINARY TIME, then to Lent, then to Easter and continues with ORDINRAY TIME. The mistake is to think of ORDINARY TIME as ordinary. It is not. It is still God’s time. Times set aside to worship and adore the Almighty. Time to gather in His house, gather in His name and worship Him. If God is in it, there is nothing ordinary about it.
+
+ORDINARY in this context refers to ordinal, as opposed to cardinal. A Cardinal Number is a number that says how many of something there are, such as how many members we have in the parish.
+
+An ordinal number tells the position of something in or on a list. 1st, 2nd, 3rd, 4th, 5th, 6th, 7th, 8th, 9th, 10th, 11th, 12th. 13th 14th, etc. This is how we get to the 14th Sunday in ORDINARY TIME. We are counting the months of Sundays and allowing the Lord to ORDER our steps, week by week.
+
+It can get confusing because we fail to count the weekdays in ORDINARY TIME. A particular Sunday may be a solemnity, but that following Monday is a Monday in the 11th, 12th, 13th, … etc. in ORDINARY TIME.
+
+Most likely we pick the count up on a SUNDAY because that is the day we are at the church. People who go to church everyday count the weekdays of ORDINARY TIME better than those of us who only come on Sunday.
+
+For Catholics, ORDINARY TIME begins on the MONDAY after the first Sunday after January 6th, but traditionally we still have to celebrate the Epiphany and the Baptism of the Lord, on Sundays, so we don’t mark a Sunday in ORDINARY TIME until the following SUNDAY, which is then the 2nd Sunday in Ordinary Time. ORDINARY TIME concludes 33 or 34 weeks later, when ADVENT begins again.
+
+“Well, He may not come when you want Him, but He’s always right on time!” Is a pop saying that reminds us that it is all God’s time and God’s order. We keep up the best we can!

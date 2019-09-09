@@ -1,0 +1,24 @@
+---
+layout: post
+title: "We put it all in HIS hands"
+subtitle: "On the Offertory"
+image: "defaulticon.png"
+categories: [Catholic Practices]
+tags: [writing]
+permalink: "adult-faith-formation/:title"
+meta: "The Liturgy of the Word is the liturgy of God speaking to and instructing His people. The Lord gives us His time for one single reason, to tell us to get to the altar!"
+---
+The Liturgy of the Word is the liturgy of God speaking to and instructing His people. The Lord gives us His time for one single reason, to tell us to get to the altar!
+<!--more-->
+
+The very first step, the first response to the Liturgy of the Word is the Offertory. It begins with the PREPARATION of the gifts. Get it? First the Lord PREPARES His people with THE WORD of GOD, then His people PREPARE the gifts and the altar that the Lord will use to give us our daily bread. In this exchange we, the church, are beginning to work with the Lord. We are beginning to do what the Lord wants done. He leads, we follow and everything is coming together on one accord. It’s magnificent! It is all in the preparation!
+
+What gifts do we bring to this magnanimous moment? Jewels? Antiques? Stocks and bonds? Fine art? Money? It doesn’t matter because of the gift. It matters because of the giver. What we give is a symbol of who we are.
+
+As a group, in harmony with the Lord, we bring the basic elements that reflect our daily bread. What we need to survive. We bring bread and wine, simple gifts that symbolize our dependence on Jesus. Simple gifts that express our gratitude for all that God has done, is doing and promise to do. 
+
+The gifts come from the back of the church in order to say we the people assembled bring our gifts to the altar, to the Lord. Symbolically, we put it all in His hands. And we trust and look forward to the next time we come to the altar. Then we will bring our very selves, our own body to the altar and God will bring himself. It is pure and authentic. Now the gift and the giver are one in the same. We walk right up to God and he places himself in our hands. Trust. 
+
+We receive the Body of Christ. We receive the Blood of Christ. In that exchange we are the bread and wine. When we take the gift giver and eat of it and drink of it we become the Body of Christ. I am not the same! We are not the same! The church is not the same! The world is not the same! Everything has changed! This great exchange is the whole reason we came to church.
+
+As we go forward, we have the Word of God and the Body of Christ. We are a walking, talking, working church. AMEN!

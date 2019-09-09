@@ -40,9 +40,6 @@ meta: "In need of adult teaching of your Catholic faith with homilies and aritcl
     {% endif %}
   {% endfor %}
 
-<div class="panel-body">
-    <p>View more events happening at SBA on the <a href="{{site.baseurl}}/announcement">Announcement page</a></p>    
-</div>
 
 <div class="container top-buffer">
     <div class="row">
@@ -51,6 +48,7 @@ meta: "In need of adult teaching of your Catholic faith with homilies and aritcl
           <hr class="primary">
         </div>
     </div>
+    
 
     {% for category in site.categories %}
     <h3 class="top-buffer">{{ category[0] | upcase }}</h3>
@@ -58,15 +56,9 @@ meta: "In need of adult teaching of your Catholic faith with homilies and aritcl
         {% for post in category[1] %}
         <div class="panel panel-default">
             <div class="panel-body">
-                 
-                <div class="col-sm-4" align="center">
-                    <a href="{{ post.url }}"><img src="{{ site.baseurl }}/img/{{ post.image }}" alt="Adult faith formation on {{post.title}}." class="img img-responsive full-width"></a>
-                </div>
-                <div class="col-sm-8">
-                    <a href="{{ post.url }}"><h4>{{ post.title }}</h4></a>
-                    <h5>{{ post.subtitle }}</h5>
-                    <p>{{ post.excerpt }}</p>
-                </div>
+                <a href="{{ post.url }}"><h4>{{ post.title | upcase }}</h4></a>
+                <h5>{{ post.subtitle }}</h5>
+                <p>{{ post.excerpt }}</p>
             </div>
         </div>
         {% endfor %}

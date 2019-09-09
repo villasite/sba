@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Who's the head of the church?"
+subtitle: "Jesus, founder and head of the church"
+image: "defaulticon.png"
+categories: [Clergy]
+tags: [writing]
+permalink: "adult-faith-formation/:title"
+meta: "It’s not the Pope, it’s not the priest, oh it is Jesus! Jesus is the founder and head of the church. This is the church of Jesus Christ. Jesus is the original pastor but not a pastor emeritus because he did not retire. Without Jesus it is not a church. It is a headless body."
+---
+It’s not the Pope, it’s not the priest, oh it is Jesus! Jesus is the founder and head of the church. This is the church of Jesus Christ. Jesus is the original pastor but not a pastor emeritus because he did not retire. Without Jesus it is not a church. It is a headless body.
+<!--more-->
+
+It is always good to remember that Jesus founded one church. This is what makes the church catholic.
+
+The lower case “c” in catholic defines catholic as universal. This is the UNIVERSAL CHURCH. The church of all space and time. Jesus is the head of the universal church.
+
+Catholic with an upper case “C” defines Catholic as the proper name of the Roman Catholic Church, which Catholics understand to be one in the same with the universal church. She is one in union with the Pope, who is the leader of the church’s members. Who does in word and deed follow and depend upon Jesus, the head of the Catholic Church.
+
+The LOCAL CHURCH is the way in which dioceses organize the Catholic Church. The local church is not the one on the corner; it is the one, the area, governed by the bishop assigned by the Pope. Jesus is the head of the local church.
+
+The parish is the way the local church is organized so that Catholics can fit into and be served from church buildings all over the land. You can start a new parish, but you cannot start a new church. Jesus already did that and by God there is only one church. Jesus is the head of the parish.
+
+Other denominations exist because of political splits. This reality simply calls us to pray for the unity of the one church.
