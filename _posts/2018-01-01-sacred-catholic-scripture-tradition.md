@@ -17,7 +17,7 @@ God is fully revealed in Christ the Lord, even though our human minds and hearts
 
 Christ commanded the apostles to preach the Gospel, the story of who God is. The Gospel was promised by the prophets who came and prepared the way of the Lord before he appeared. All of the walking and talking with the Lord and preaching and teaching like the Lord is what we come to call the bible. All of this SACRED SCRIPTURE tells us the story of who God is and how our souls look back and wonder how we got over, by the grace of God.
 
-The bible is kept in order and alive by the passing on and over and over again, what God said, what God has given, what God commands and becomes the practicing of the faith. This living transmission of this old and Good News, keeps God’s Word real in the world. Practicing what Jesus did and passed on in the way of the Lord is called SACRED TRADITION.
+[The bible]({% post_url 2018-01-01-is-catholic-bible-a-book-scripture-tradition %}) is kept in order and alive by the passing on and over and over again, what God said, what God has given, what God commands and becomes the practicing of the faith. This living transmission of this old and Good News, keeps God’s Word real in the world. Practicing what Jesus did and passed on in the way of the Lord is called SACRED TRADITION.
 
 And so we come to know God by what He said, what He did and what He continues to do. When we act in the name of Jesus all should know what we mean when we say, “No it’s not I, but the Christ who lives in me!”
 

@@ -1,0 +1,14 @@
+<div class="btn-group">
+  <button class="btn btn-primary btn-lg dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Search posts by grouping <span class="caret"></span>
+  </button>
+  <ul class="dropdown-menu">
+    {% for category in site.categories %}
+    <li>{{ category[0] | upcase }}</li>
+    <li role="separator" class="divider"></li>
+        {% for post in category[1] %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+    {% endfor %}
+  </ul>
+</div>

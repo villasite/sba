@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Moving forward with Jesus"
-subtitle: "Celebration of Ephiphany"
+subtitle: "Celebration of Epiphany"
 image: "defaulticon.png"
 categories: [Solemnity]
 tags: [writing]
