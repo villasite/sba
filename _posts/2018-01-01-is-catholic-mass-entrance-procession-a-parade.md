@@ -2,7 +2,7 @@
 layout: post
 title: "Is the Mass entrance procession like a parade?"
 subtitle: "The focus of the Mass is the Lord"
-image: "defaulticon.png"
+image: "altar-closeup.jpeg"
 categories: [Catholic Practices]
 tags: [writing]
 permalink: "adult-faith-formation/:title"

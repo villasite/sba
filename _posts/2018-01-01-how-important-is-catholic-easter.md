@@ -2,8 +2,8 @@
 layout: post
 title: "How important is Easter?"
 subtitle: "It's HUGE"
-image: "defaulticon.png"
-categories: [Solemnity]
+image: "jesus-cross-uncrucified.jpeg"
+categories: [Church Calendar]
 tags: [writing]
 permalink: "adult-faith-formation/:title"
 meta: "The forty days of Lent gave us a time of preparation. As Lent ended on the evening of Holy Thursday, we were given three days of prayer with the Lord as He rose from the dead. Now we have the seven weeks of Easter, fifty days of Easter, the Easter Season to get with the program! Easter ends after the celebration of Pentecost."

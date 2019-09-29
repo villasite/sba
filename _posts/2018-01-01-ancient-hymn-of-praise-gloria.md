@@ -2,7 +2,7 @@
 layout: post
 title: "The Ancient Hymn of Praise"
 subtitle: "The Gloria"
-image: "defaulticon.png"
+image: "picture-frame-hands-up.jpeg"
 categories: [Catholic Practices]
 tags: [writing]
 permalink: "adult-faith-formation/:title"

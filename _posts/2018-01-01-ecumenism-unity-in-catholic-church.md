@@ -2,7 +2,7 @@
 layout: post
 title: "What is Ecumenism and why do we need it?"
 subtitle: "One universal church"
-image: "defaulticon.png"
+image: "jesus-cross-uncrucified.jpeg"
 categories: [Catholic Practices]
 tags: [writing]
 permalink: "adult-faith-formation/:title"

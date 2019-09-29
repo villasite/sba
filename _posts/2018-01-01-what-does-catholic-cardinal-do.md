@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Why have Catholic Cardinals?"
-image: "defaulticon.png"
-categories: [Clergy]
+subtitle: "The task of leading"
+image: "kpc-reading-cardinal-cupich.jpeg"
+categories: [Church Hierarchy]
 tags: [writing]
 permalink: "adult-faith-formation/:title"
 meta: "The Pope is the head of the church on earth. The Bishop is assigned to a certain area and heads that local church. Some Bishops or Archbishops are Cardinals."

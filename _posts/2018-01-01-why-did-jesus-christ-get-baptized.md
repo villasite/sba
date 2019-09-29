@@ -2,7 +2,7 @@
 layout: post
 title: "Why did Jesus have to get baptized?"
 subtitle: "To change and trouble the water"
-image: "defaulticon.png"
+image: "jesus-cross-carrying-baptism.jpg"
 categories: [Catholic Practices]
 tags: [writing]
 permalink: "adult-faith-formation/:title"

@@ -2,7 +2,7 @@
 layout: post
 title: "The role of the Lector at Mass"
 subtitle: "To proclaim, not read"
-image: "defaulticon.png"
+image: "altar-far-view.jpeg"
 categories: [Catholic Practices]
 tags: [writing]
 permalink: "adult-faith-formation/:title"

@@ -2,8 +2,8 @@
 layout: post
 title: "Diocese and Archdiocese"
 subtitle: "Landscape of the church"
-image: "defaulticon.png"
-categories: [Clergy]
+image: "tapestry-jesus-world-animals.jpg"
+categories: [Church Hierarchy]
 tags: [writing]
 permalink: "adult-faith-formation/:title"
 meta: "Jesus is the head of the church. He sits at the right hand of our Father who art in heaven. From his rightful place he reigns forever. This Ascension requires all of us to be his representatives on earth."

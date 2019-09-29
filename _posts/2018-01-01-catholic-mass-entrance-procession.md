@@ -2,7 +2,7 @@
 layout: post
 title: "I Want Jesus to Walk with Me"
 subtitle: "The Catholic entrance procession"
-image: "defaulticon.png"
+image: "church-entrance-door-closeup.jpg"
 categories: [Catholic Practices]
 tags: [writing]
 permalink: "adult-faith-formation/:title"
@@ -21,10 +21,12 @@ Then the ministers who have a role in the liturgy follow. They remind us that we
 
 The deacon carries the Book of the Gospels. 
 
-Can a reader carry the Book of the Gospels? Yes, but it not the norm.
+Can a reader carry the Book of the Gospels? Yes, but it's not the norm.
 
 Can the lectionary be carried in procession? Please don’t.
 
 Can other items be in the procession? Yes, but they don’t have to!
 
-Mainly the procession helps us honor Jesus and follow him to the altar. Anyone that helps that goal is practicing good religion. Anything that distracts from that goal is bad liturgy.
+Mainly the procession helps us honor Jesus and follow him to the altar.
+
+Anyone that helps that goal is practicing good religion. Anything that distracts from that goal is bad liturgy.

@@ -2,8 +2,8 @@
 layout: post
 title: "The History of Sacred Scripture"
 subtitle: "The Books of the Bible"
-image: "defaulticon.png"
-categories: [Catholic Practices]
+image: "lectionary-book.jpg"
+categories: [Bible]
 tags: [writing]
 permalink: "adult-faith-formation/:title"
 meta: "God speaks, humans hear, humans pass on the stories of encountering God (ORAL TRADITION). Next, as we evolved, we began to communicate using symbols that could be scratched or painted on to walls and materials. The Egyptians refine these scratches to a system of writing known as hieroglyphics. Don’t forget the story, Moses, who thought he was a privileged Egyptian, goes to the burning bush, God speaks to him and he writes down what God said."

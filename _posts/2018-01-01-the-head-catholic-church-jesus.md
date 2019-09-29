@@ -2,8 +2,8 @@
 layout: post
 title: "Who's the head of the church?"
 subtitle: "Jesus, founder and head of the church"
-image: "defaulticon.png"
-categories: [Clergy]
+image: "jesus-christ-on-dove.jpg"
+categories: [Church Hierarchy]
 tags: [writing]
 permalink: "adult-faith-formation/:title"
 meta: "It’s not the Pope, it’s not the priest, oh it is Jesus! Jesus is the founder and head of the church. This is the church of Jesus Christ. Jesus is the original pastor but not a pastor emeritus because he did not retire. Without Jesus it is not a church. It is a headless body."

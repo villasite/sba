@@ -2,8 +2,8 @@
 layout: post
 title: "Solemnities, Feast Days, and Memorials"
 subtitle: "An order of prayer"
-image: "defaulticon.png"
-categories: [Solemnity]
+image: "station-of-the-cross-last-supper.jpeg"
+categories: [Church Calendar]
 tags: [writing]
 permalink: "adult-faith-formation/:title"
 meta: "When you look at the liturgical year, you see that it is filled with lots of days we might call just another day journey and then there are high and holy days! We call them solemnities, feasts and memorials. Depending on the status of the day, the Mass is celebrated in a particular way."

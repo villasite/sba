@@ -2,8 +2,8 @@
 layout: post
 title: "Which office is higher in rank?"
 subtitle: "On the office of Bishop"
-image: "defaulticon.png"
-categories: [Clergy]
+image: "wood-carving-catholic-church.jpg"
+categories: [Church Hierarchy]
 tags: [writing]
 permalink: "adult-faith-formation/:title"
 meta: "As the Pope is the successor of Christ, bishops are the successors of the Apostles, pastors of souls."
@@ -19,7 +19,7 @@ When the prayers OF THE CHURCH go up, they are lifted by intention and intercess
 
 This is why the BISHOP of the LOCAL CHURCH is prayed for in every Mass that is celebrated in the area entrusted to him and more intentionally, by every soul that is entrusted to him.
 
-As an Archbishop one has some administrative responsibilities to neighboring dioceses. As a Cardinal one has some administrative responsibilities to the church in the world.
+As an Archbishop one has some administrative responsibilities to neighboring dioceses. As a [Cardinal]({% post_url 2018-01-01-what-does-catholic-cardinal-do %}) one has some administrative responsibilities to the church in the world.
 
 As a bishop one has responsibility for souls entrusted to him.
 

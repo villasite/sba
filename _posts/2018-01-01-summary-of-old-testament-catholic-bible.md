@@ -2,8 +2,8 @@
 layout: post
 title: "Summary of the Old Testament Books"
 subtitle: "Who we are and whose we are"
-image: "defaulticon.png"
-categories: [Catholic Practices]
+image: "lectionary-book.jpg"
+categories: [Bible]
 tags: [writing]
 permalink: "adult-faith-formation/:title"
 meta: "The first 5 books of the Catholic bible are called the Pentateuch. Genesis, Exodus, Leviticus, Numbers, and Deuteronomy. They give us the story of our beginning with God and the laws given to us by our Creator."

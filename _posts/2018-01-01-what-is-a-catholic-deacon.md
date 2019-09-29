@@ -2,8 +2,8 @@
 layout: post
 title: "What is a deacon?"
 subtitle: "An ordained servant"
-image: "defaulticon.png"
-categories: [Clergy]
+image: "wood-carving-catholic-church.jpg"
+categories: [Church Hierarchy]
 tags: [writing]
 permalink: "adult-faith-formation/:title"
 meta: "We kind of know that there are two classes of deacons. Transitional deacons, men who are preparing to be ordained priest and permanent deacons, men who are ordained deacon for life. Both are ordained, both are clerics in the church. All deacons do not become priests, but all priests are deacons."

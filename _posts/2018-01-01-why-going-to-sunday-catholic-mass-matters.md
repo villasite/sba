@@ -2,7 +2,7 @@
 layout: post
 title: "Why going to Sunday Mass matters"
 subtitle: "Great feast or a great waste"
-image: "defaulticon.png"
+image: "sanctuary-hut-mass.jpg"
 categories: [Catholic Practices]
 tags: [writing]
 permalink: "adult-faith-formation/:title"

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Lift Every Voice and Sing"
-subtitle: "The why, when, where and how of Singing at Mass"
-image: "defaulticon.png"
+subtitle: "The why, when, where and how of singing at Mass"
+image: "wooden-carving-angels-side.jpg"
 categories: [Catholic Practices]
 tags: [writing]
 permalink: "adult-faith-formation/:title"

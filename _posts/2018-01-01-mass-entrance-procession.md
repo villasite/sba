@@ -2,7 +2,7 @@
 layout: post
 title: "Stopping for the Lord"
 subtitle: "The Mass entrance procession"
-image: "defaulticon.png"
+image: "sanctuary-hut-mass.jpg"
 categories: [Catholic Practices]
 tags: [writing]
 permalink: "adult-faith-formation/:title"

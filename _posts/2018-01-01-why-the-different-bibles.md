@@ -2,8 +2,8 @@
 layout: post
 title: "The Differences and Similiarities in Bibles"
 subtitle: "The Books of the Bible"
-image: "defaulticon.png"
-categories: [Catholic Practices]
+image: "lectionary-book.jpg"
+categories: [Bible]
 tags: [writing]
 permalink: "adult-faith-formation/:title"
 meta: "The Catholic bible is divided into two parts. The Old Testament or Hebrew Scriptures and the New Testament also called Christian Scriptures. Both are God’s Word. Together they tell the story of the history of our salvation."

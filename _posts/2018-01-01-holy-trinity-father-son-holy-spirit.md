@@ -2,7 +2,7 @@
 layout: post
 title: "The Center Mystery of the Christian Faith"
 subtitle: "On the Holy Trinity"
-image: "defaulticon.png"
+image: "stained-glass-cosmos-stars.jpg"
 categories: [Catholic Practices]
 tags: [writing]
 permalink: "adult-faith-formation/:title"

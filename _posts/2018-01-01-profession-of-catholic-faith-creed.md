@@ -2,7 +2,7 @@
 layout: post
 title: "Our Profession of Faith"
 subtitle: "The Creed"
-image: "defaulticon.png"
+image: "picture-frame-hands-up.jpeg"
 categories: [Catholic Practices]
 tags: [writing]
 permalink: "adult-faith-formation/:title"
@@ -11,7 +11,7 @@ meta: "The reason to belong to a church is to become more God like. At the cente
 The reason to belong to a church is to become more God like. At the center of our faith is the all-important and inclusive clarity of what do we believe about God. Without this clarity our future is questionable.
 <!--more-->
 
-The Creed or Profession of Faith is a quick and easy study of what we believe as Catholics. Without this agreement, we cannot actually belong to this Body of Christ we call the church.
+[The Creed]({% post_url 2018-01-01-do-you-believe-in-the-creed %}) or Profession of Faith is a quick and easy study of what we believe as Catholics. Without this agreement, we cannot actually belong to this Body of Christ we call the church.
 
 Our creed puts God first. The declaration “I believe in one God” begins to order our steps. The creed moves us to declare what we believe about the Father, the Son, the Holy Spirit, the Church, Baptism, Reconciliation and the future.
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Prayer of the Faithful"
 subtitle: "The Universal Prayer"
-image: "defaulticon.png"
+image: "tapestry-boat-jesus.jpg"
 categories: [Catholic Practices]
 tags: [writing]
 permalink: "adult-faith-formation/:title"

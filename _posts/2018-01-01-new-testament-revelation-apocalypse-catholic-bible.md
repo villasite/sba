@@ -2,8 +2,8 @@
 layout: post
 title: "On the Book of Revelation"
 subtitle: "Keep the faith, no matter come what may"
-image: "defaulticon.png"
-categories: [Catholic Practices]
+image: "lectionary-book.jpg"
+categories: [Bible]
 tags: [writing]
 permalink: "adult-faith-formation/:title"
 meta: "The final book of the New Testament is the Book of Revelation. It is perhaps the best example of why the bible, in order to be effectively understood, has to be studied, not simply read. It’s lessons are only clear when put into the original context of to whom it is speaking and what the persons or world was experiencing at that time."

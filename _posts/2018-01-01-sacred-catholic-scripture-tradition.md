@@ -2,8 +2,8 @@
 layout: post
 title: "Sacred Scripture and Sacred Tradition"
 subtitle: "Two sources of revelation"
-image: "defaulticon.png"
-categories: [Catholic Practices]
+image: "stained-glass-cosmos-stars.jpg"
+categories: [Bible]
 tags: [writing]
 permalink: "adult-faith-formation/:title"
 meta: "Some people only have one source of revelation, Catholics know God in two ways. We know God through sacred scripture and we know God through sacred tradition. How did this come to be? It is God who chose to reveal himself in the person of Jesus Christ and in the action of Jesus Christ."

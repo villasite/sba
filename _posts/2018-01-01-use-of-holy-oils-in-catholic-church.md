@@ -2,7 +2,7 @@
 layout: post
 title: "The use of Holy Oils"
 subtitle: "Consecration, blessing, healing and unification"
-image: "defaulticon.png"
+image: "holy-oils.jpg"
 categories: [Catholic Practices]
 tags: [writing]
 permalink: "adult-faith-formation/:title"

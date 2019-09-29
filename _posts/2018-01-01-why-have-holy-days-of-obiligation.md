@@ -2,8 +2,8 @@
 layout: post
 title: "Why have Holy Days of Obligation?"
 subtitle: "The Intention of the Obligation"
-image: "defaulticon.png"
-categories: [Solemnity]
+image: "family-tapestry.jpeg"
+categories: [Church Calendar]
 tags: [writing]
 permalink: "adult-faith-formation/:title"
 meta: "First giving honor to God on the first day of the week. The law intends for the WHOLE CHURCH to gather and celebrate the Lord’s Supper, Eucharist. A day of what we do to be united with Christ and our sisters and brothers in Christ."

@@ -2,7 +2,7 @@
 layout: post
 title: "The Body of Christ"
 subtitle: "WITBOCTD vs. WWJD"
-image: "defaulticon.png"
+image: "tapestry-jesus-resurrection.jpg"
 categories: [Catholic Practices]
 tags: [writing]
 permalink: "adult-faith-formation/:title"

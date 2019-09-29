@@ -2,8 +2,8 @@
 layout: post
 title: "Holy Week, what a week!"
 subtitle: "The high point of the year"
-image: "defaulticon.png"
-categories: [Solemnity]
+image: "tenebrea-service-2019.jpeg"
+categories: [Church Calendar]
 tags: [writing]
 permalink: "adult-faith-formation/:title"
 meta: "Just as the Eucharist is the high point of liturgy, Holy Week is the high point of the year. Holy Week considers what the church will need to make it for another year."

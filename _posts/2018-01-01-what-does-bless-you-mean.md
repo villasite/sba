@@ -2,7 +2,7 @@
 layout: post
 title: "BLESS YOU! What does this mean?"
 subtitle: "What a blessing!"
-image: "defaulticon.png"
+image: "jesus-cross-crucified.jpg"
 categories: [Catholic Practices]
 tags: [writing]
 permalink: "adult-faith-formation/:title"
@@ -21,4 +21,6 @@ Blessing a sick person is not just hoping the person gets well; it is hoping the
 
 Liturgically, blessings are formal, performed by ordained ministers and used to reserve or make a person or an object a sign of God’s action on behalf of His people. A blessed table, aka an altar, is only used for the Lord’s Supper. A blessed pulpit, aka an ambo, is used for the proclamation of God’s Word. Blessed water, aka holy water, makes the water and then the recipient cleansed for use by God, baptized!
 
-People living in poverty tell us that the blessing is not being rich; people in hospitals tell us that the blessing is not being healthy. The blessing is BEING REMEMBERED and BEING ABLED to be made WORTHY to be used by God. Only a church member can see a poor and sick person as a blessing.
+People living in poverty tell us that the blessing is not being rich; people in hospitals tell us that the blessing is not being healthy. The blessing is BEING REMEMBERED and BEING ABLED to be made WORTHY to be used by God.
+
+Only a church member can see a poor and sick person as a blessing.

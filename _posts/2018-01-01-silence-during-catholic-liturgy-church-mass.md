@@ -2,7 +2,7 @@
 layout: post
 title: "Silence and Stillness in the Church"
 subtitle: "Stopping so God can start"
-image: "defaulticon.png"
+image: "jesus-cross-uncrucified.jpeg"
 categories: [Catholic Practices]
 tags: [writing]
 permalink: "adult-faith-formation/:title"

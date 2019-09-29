@@ -2,8 +2,8 @@
 layout: post
 title: "What is Ordinary time?"
 subtitle: "Ordering our steps"
-image: "defaulticon.png"
-categories: [Solemnity]
+image: "church-entrance-door-closeup.jpg"
+categories: [Church Calendar]
 tags: [writing]
 permalink: "adult-faith-formation/:title"
 meta: "After all the high church of Easter and the litany of solemnities, we are back to ORDINARY TIME in our liturgical year."

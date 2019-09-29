@@ -2,7 +2,7 @@
 layout: post
 title: "A Black Church that prays in circle"
 subtitle: "Enculturating Catholic liturgy"
-image: "defaulticon.png"
+image: "wooden-circle-people-joined-water-baptism.jpg"
 categories: [Catholic Practices]
 tags: [writing]
 permalink: "adult-faith-formation/:title"

@@ -2,8 +2,8 @@
 layout: post
 title: "Is the bible more than a book?"
 subtitle: "As God speaks, we live"
-image: "defaulticon.png"
-categories: [Catholic Practices]
+image: "tapestry-jesus-world-animals.jpg"
+categories: [Bible]
 tags: [writing]
 permalink: "adult-faith-formation/:title"
 meta: "Sacred Scripture clearly comes from God. God communicates with us, humans. We receive the Word of God. The first bible was not a book."

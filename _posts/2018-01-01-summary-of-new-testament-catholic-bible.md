@@ -2,8 +2,8 @@
 layout: post
 title: "Summary of the New Testament Books"
 subtitle: "From the old to the new"
-image: "defaulticon.png"
-categories: [Catholic Practices]
+image: "lectionary-book.jpg"
+categories: [Bible]
 tags: [writing]
 permalink: "adult-faith-formation/:title"
 meta: "There are twenty-seven books in the Catholic New Testament. After the four gospels, which are written as if the writer had an actual encounter with the historical person Jesus, we are given books that chronicle the growth of the church."
@@ -21,4 +21,4 @@ The letters actually written by St. Paul are written before the Gospels were wri
 
 The next section of the New Testament organizes the last seven letters or epistles. These books are called the Catholic letters. This is not because they come from the Roman Catholic Church, but rather because they are universal, (catholic means universal) speaking to whoever has ears to hear them, not a certain person or to a particular place. These letters seem to be written to second and third generations of Christians who are too young to have known the historical person Jesus. They are names after the writer.
 
-The final book of the New Testament is the Book of Revelation.
+The final book of the New Testament is the [Book of Revelation]({% post_url 2018-01-01-new-testament-revelation-apocalypse-catholic-bible %}).

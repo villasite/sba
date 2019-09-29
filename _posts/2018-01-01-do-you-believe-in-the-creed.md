@@ -2,7 +2,7 @@
 layout: post
 title: "On the Creed"
 subtitle: "Do you believe?"
-image: "defaulticon.png"
+image: "wooden-table-with-people-closeup.jpeg"
 categories: [Catholic Practices]
 tags: [writing]
 permalink: "adult-faith-formation/:title"
@@ -11,7 +11,7 @@ meta: "After we hear from God, the Liturgy of the Word, the next thing that come
 After we hear from God, the Liturgy of the Word, the next thing that comes out of our mouth is very important. “I believe…!” The Creed, a concise declaration of what we believe, a public declaration of the faith, follows what God said. God said it. I believe it! This is not an accident. It is very good liturgical design.
 <!--more-->
 
-First giving honor to God, the Creed begins with what we believe about God, the Father almighty. The creator of heaven and earth, the beginning of everything and all things. The things that we see and most definitely, the invisible! Because the best is yet to come!
+First giving honor to God, [the Creed]({% post_url 2018-01-01-profession-of-catholic-faith-creed %}) begins with what we believe about God, the Father almighty. The creator of heaven and earth, the beginning of everything and all things. The things that we see and most definitely, the invisible! Because the best is yet to come!
 
 Speaking of God requires us to speak of God the Son who just spoke to our hearts. The Creed expresses our belief in the unity of the Father and the Son being so substantial that the two are consubstantial. They are of the same “stuff”, of the same substance. They are one!
 
