@@ -1,0 +1,24 @@
+---
+layout: post
+title: "What are Sacraments?"
+subtitle: "Blessed by grace"
+image: "baptism-pool-hole.jpeg"
+categories: [Catholic Practices]
+tags: [writing]
+permalink: "adult-faith-formation/:title"
+meta: "Christ instituted the sacraments of the new law. There are seven: Baptism, Confirmation (or Chrismation), the Eucharist, Penance, the Anointing of the Sick, Holy Orders and Matrimony. The seven sacraments touch all the stages and all the important moments of Christian life: they give birth and increase, healing and mission to the Christian's life of faith. There is thus a certain resemblance between the stages of natural life and the stages of the spiritual life."
+---
+Christ instituted the sacraments of the new law. There are seven: Baptism, Confirmation (or Chrismation), the Eucharist, Penance, the Anointing of the Sick, Holy Orders and Matrimony. The seven sacraments touch all the stages and all the important moments of Christian life: they give birth and increase, healing and mission to the Christian's life of faith. There is thus a certain resemblance between the stages of natural life and the stages of the spiritual life.
+<!--more-->
+
+Sacraments are the real power of the Catholic Church. Jesus institutes, gives the church sacraments so we, the faithful believers and followers, can do what Jesus would do. So we can act in the name of the Father and of the Son and of the Holy Spirit.
+
+Sacraments confer grace. Where mercy is God not punishing us even though we have sinned, grace is God blessing us even though we have sinned. Through the sacraments of the church we are abundantly blessed with grace by a God who looks beyond our fault and sees our need.
+
+Sacraments strengthen us so that with the help of God we can do things that without God we would not be able to do, understand, imagine, nor overcome. Through the sacraments of the church, we are able to experience a foretaste of glory divine, a little bit of heaven on earth and a way out of no way.
+
+In each of the seven sacraments, we stand in the need of prayer, stretch out our arms, lift up our heads and hands and surrender to God. We put it all in His hands and in the same ritual gesture we stand with our heart, mind, body and soul open to receive that mercy, that blessing.
+
+Sacraments make the power of God real and available. It’s not magic, it is the Sacred being made present so that our living shall not be in vain, our troubles don’t last and our eyes see the Glory of God. What a witness!
+
+Sacraments are the reason it makes sense to come to church and turn to God in the moment of sorrow and in the hour of joy. It is for the sacraments that we end each Mass prayer by saying “Thanks be to God!”

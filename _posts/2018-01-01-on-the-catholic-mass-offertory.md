@@ -2,7 +2,7 @@
 layout: post
 title: "We put it all in HIS hands"
 subtitle: "On the Offertory"
-image: "defaulticon.png"
+image: "station-of-the-cross-last-supper.jpeg"
 categories: [Catholic Practices]
 tags: [writing]
 permalink: "adult-faith-formation/:title"
