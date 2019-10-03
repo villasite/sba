@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: page2
+title: "Adult Faith Formation"
 image: "wooden-cross-slanted-closeup.jpg"
 permalink: /adult-faith-formation
-meta: "Reinforce your adult teaching of your Catholic faith with homilies and aritcles to grow further your RCIA Christian class"
+meta: "Reinforce your adult teaching of your Catholic faith with homilies and articles to grow further your RCIA Christian class"
 ---
 <div class="container" id="news">
     <div class="row">
@@ -12,9 +13,7 @@ meta: "Reinforce your adult teaching of your Catholic faith with homilies and ar
         </div>
     </div>
 </div>
-
-{% assign posts = site.posts | sort: 'exp-date' %}
-{% capture now %}{{'now' | date: '%s'}}{% endcapture %}
+{% assign posts = site.posts | sort: 'exp-date' %} {% capture now %}{{'now' | date: '%s'}}{% endcapture %}
   {% for post in posts %}
     {% capture date %}{{post.exp-date | date: '%s' | plus: 0 }}{% endcapture %}
     {% if date > now %}  
@@ -25,7 +24,6 @@ meta: "Reinforce your adult teaching of your Catholic faith with homilies and ar
             <div class="col-sm-2" align="center">
               <span class="fa {{ post.fawe }} fa-5x wow flipInX" data-wow-duration="5s" data-wow-iteration="10""></span>
             </div>
-            
             <div class="col-sm-10">
               <h3>{{ post.title }}</h3>
               <h4>{{ post.post-date | date: '%A, %B %-d, %Y' }}</h4>
@@ -39,7 +37,6 @@ meta: "Reinforce your adult teaching of your Catholic faith with homilies and ar
     {% endif %}
   {% endfor %}
 
-
 <div class="container top-buffer">
     <div class="row">
         <div class="col-lg-12 text-center">
@@ -47,13 +44,11 @@ meta: "Reinforce your adult teaching of your Catholic faith with homilies and ar
           <hr class="primary">
         </div>
     </div>
-    
     {% include aff-dropdown.html %}
-
-    {% for category in site.categories %}
-    <h3 class="top-buffer">{{ category[0] | upcase }}</h3>
     
-
+    {% for category in site.categories %}
+    <a name="{{ category[0] }}"></a>
+    <h3 class="top-buffer">{{ category[0] | upcase }}</h3> 
         {% for post in category[1] %}
         <div class="panel panel-default">
             <div class="panel-body">
@@ -64,6 +59,4 @@ meta: "Reinforce your adult teaching of your Catholic faith with homilies and ar
         </div>
         {% endfor %}
     {% endfor %}
-
-{% include sacrament.html %}
 </div>

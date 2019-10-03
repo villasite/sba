@@ -55,6 +55,7 @@
     text-align:center;
     position:relative;
 }
+
 .text_over_image {
     position: absolute;
     margin: auto;
@@ -64,4 +65,15 @@
     bottom:0;
     color:#fff;
     height:200px;
+}
+
+.text_over_image_low {
+    position: absolute;
+    margin: auto;
+    top: 0;
+    left:0;
+    right:0;
+    bottom:0;
+    color:#fff;
+    height:75px;
 }

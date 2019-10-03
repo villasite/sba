@@ -5,15 +5,19 @@
 
 <body>
   {% include nav.html %}
-  
-  <div class="jumbotron text-white bg-dark"  style="background-image: url({{ site.baseurl }}/img/{{ page.jumbotron-image }});">
-    <div class="container">
-      <h1>{{ page.title }}</h1>
+
+<section class="no-padding">
+    <div class="wrap">
+        <img src="{{ site.baseurl }}/img/{{ page.image }}" class="img-fluid cutoff-bottom" alt="post image">
+        <div class="text_over_image_low">
+            <h1>{{ page.title }}</h1>
+        </div>
     </div>
-  </div>
-  
+</section>
   <div class="container">
-      <div class="panel-body">{{ content }}</div>
+    <div class="panel-body">
+      {{ content }}
+    </div>
   </div>
   {% include ig-banner.html %}  
   {% include contact.html %}

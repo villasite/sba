@@ -2,7 +2,7 @@
 layout: post
 title: "Why use incense at Mass?"
 subtitle: "Prayers rise, blessings come down"
-image: "defaulticon.png"
+image: "altar-closeup.jpeg"
 categories: [Catholic Practices]
 tags: [writing]
 permalink: "adult-faith-formation/:title"

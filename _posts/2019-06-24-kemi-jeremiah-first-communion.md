@@ -4,8 +4,6 @@ title: "Kemi and Jeremiah's First Communion"
 post-date: 2019-06-23
 image: "first-communion-2019-bringing-gifts.jpg"
 tags: [article]
-label: "First Communion"
-txt: "about/sacrament/first-communion"
 permalink: "announcement/:year/:title"
 meta: "Jeremiah and Kemi celebrated their First Communion on the Feast of the Most Holy Body and Blood of Christ on June 23, 2019."
 ---

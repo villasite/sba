@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body>
+  {% include nav.html %}
+  
+  <div class="jumbotron text-white bg-dark"  style="background-image: url({{ site.baseurl }}/img/{{ page.jumbotron-image }});">
+    <div class="container">
+      <h1>{{ page.title }}</h1>
+    </div>
+  </div>
+  
+  <div class="container">
+      <div class="panel-body">{{ content }}</div>
+  </div>
+  {% include ig-banner.html %}  
+  {% include contact.html %}
+  {% include scripts.html %}
+</body>
+
+</html>
