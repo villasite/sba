@@ -4,9 +4,12 @@
 }
 
 
-.top-buffer
-{ 
+.top-buffer { 
     margin-top:50px; 
+}
+
+.bottom-buffer {
+    margin-bottom:30px; 
 }
 
 .image{
