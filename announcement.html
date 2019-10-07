@@ -13,7 +13,6 @@ meta: "Forgot to pick up a church bulletin? Catch up on all the social and relig
     </div>
   </div>
 </div>
-
 {% assign posts = site.posts | sort: 'exp-date' %}
 {% capture now %}{{'now' | date: '%s'}}{% endcapture %}
   {% for post in posts %}
@@ -41,7 +40,7 @@ meta: "Forgot to pick up a church bulletin? Catch up on all the social and relig
     {% endif %}
   {% endfor %}
 
-<div class="container">
+<div class="container bottom-buffer">
   <div class="row">
     <i class="fa fa-plus" aria-hidden="true"></i>
     <a href="{{ site.baseurl }}/announcement/archive">View past events</a>

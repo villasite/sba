@@ -5,4 +5,4 @@ exp-date: 2019-11-17
 fawe: "fas fa-glass-cheers"
 tags: [event]
 ---
-Save the date for this annual event at the Marriott Midway.
+Let's celebrate at our annual event from 5 p.m. to 10 p.m. at the Marriott Midway. Donation is $65 per person.
