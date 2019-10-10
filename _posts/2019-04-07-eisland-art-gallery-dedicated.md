@@ -34,4 +34,4 @@ This will challenge us, the people who come here to worship God, to add our own 
 In our art there is a record of our beauty and value.
 We bring and leave it here in order that our church may be assisted in her ministry by a fully grown, functioning, willing and able community who sees Jesus in the center of the circle we make whole and unbroken.
 
-[View the art collection online]({{site.baseurl}}/art#eiland)
+[View the art collection online]({{site.baseurl}}/art)

@@ -17,6 +17,8 @@
       {{ content }}
     </div>
   </div>
+  {% include aff-dropdown-all.html %}
+  
   {% if page.tags contains "article" %}
     {% include articles.html %}
   {% endif %}

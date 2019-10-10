@@ -25,5 +25,3 @@ We pray and study together and anticipate happily the day when we begin particip
 <div class="embed-responsive embed-responsive-4by3">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/jNfoa4uBRXs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-{% include sacrament.html %}

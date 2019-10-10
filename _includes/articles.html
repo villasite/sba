@@ -1,33 +1,118 @@
-<section class="bg-secondary" id="articles">
-<div class="container">
+<div class="container top-buffer">
     <div class="row">
-        <div class="col-lg-12 text-center">
-          <h2 class="section-heading">Articles</h2>
-          <hr class="primary">
+        <div class="col-lg-8 col-lg-offset-2 text-center">
+            <h2 class="section-heading">Articles</h2>
+            <hr>
+        </div>
+    </div>
+</div>
+<div id="OutsideAd" class="carousel slide" data-ride="carousel" data-interval="false">
+  <div class="carousel-inner">
+    <div class="item active">
+        <div class="container">
+            <div class="col-sm-4">
+                <div class="panel panel-default">
+                  <div class="panel-body">
+                    <a href="{{ site.baseurl }}/announcement/2019/prayer-for-father-augustus-tolton-ambassadors">
+                      <h3>Prayer for Tolton Ambassadors</h3>
+                      <img class="center-block img-thumbnail" src="{{ site.baseurl }}/img/augustus-tolton-ambassadors-at-mass.jpg" alt="article image">
+                    </a>
+                      <h4>July 28, 2019</h4>
+                        <p>Tolton ambassadors from across the country celebrated Mass today with the Saint Benedict the African community.<p>
+                      <a href="{{ site.baseurl }}/announcement/2019/prayer-for-father-augustus-tolton-ambassadors" class="btn btn-primary">Read more</a>
+                  </div>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="panel panel-default">
+                  <div class="panel-body">
+                    <a href="{{ site.baseurl }}/announcement/2019/father-jonathan-hill-mass">
+                      <h3>Sent Forth: Father Jonathan Hill</h3>
+                      <img class="center-block img-thumbnail" src="{{ site.baseurl }}/img/father-hill-homily.jpeg" alt="article image">
+                    </a>
+                      <h4>June 30, 2019</h4>
+                        <p>The Saint Benedict the African family congratulates Father Jonathan Hill as he celebrated Mass today for the first time as a priest at our church.<p>
+                      <a href="{{ site.baseurl }}/announcement/2019/father-jonathan-hill-mass" class="btn btn-primary">Read more</a>
+                  </div>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="panel panel-default">
+                  <div class="panel-body">
+                    <a href="{{ site.baseurl }}/announcement/2019/kemi-jeremiah-first-communion">
+                      <h3>Kemi and Jeremiah's First Communion</h3>
+                      <img class="center-block img-thumbnail" src="{{ site.baseurl }}/img/first-communion-2019-bringing-gifts.jpg" alt="article image">
+                    </a>
+                      <h4>June 23, 2019</h4>
+                        <p>Jeremiah and Kemi celebrated their First Communion on the Feast of the Most Holy Body and Blood of Christ.<p>
+                      <a href="{{ site.baseurl }}/announcement/2019/kemi-jeremiah-first-communion" class="btn btn-primary">Read more</a>
+                  </div>
+                </div>
+            </div>
         </div>
     </div>
     
-{% assign posts = site.posts | sort: 'exp-date' %}
-{% capture now %}{{'now' | date: '%s'}}{% endcapture %}
-    <div class="row">
-    {% for post in posts %}
-    {% if post.tags contains "article" %}
-      <div class="col-sm-4">
-        <div class="panel panel-default">
-          <div class="panel-body">
-            <a href="{{ site.baseurl }}{{ post.url }}">
-              <h3>{{ post.title }}</h3>
-              <img class="center-block img-thumbnail" src="{{ site.baseurl }}/img/{{ post.image }}" alt="article image">
-            </a>
-              <h4>{{ post.post-date | date: '%B %-d, %Y' }}</h4>
-              {{ post.excerpt }}
-              <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-primary">Read more</a>
-              <h5><a href="{{ site.baseurl }}/{{ post.txt }}" class="badge badge-default">{{  post.label }}</a></h5>
-          </div>
+    <div class="item">
+        <div class="container">
+            <div class="col-sm-4">
+                <div class="panel panel-default">
+                  <div class="panel-body">
+                    <a href="{{ site.baseurl }}/announcement/2019/holy-week-sba">
+                      <h3>Another Eventful Holy Week</h3>
+                      <img class="center-block img-thumbnail" src="{{ site.baseurl }}/img/holy-saturday-candle-2019.jpg" alt="article image">
+                    </a>
+                      <h4>April 22, 2019</h4>
+                        <p>Following Palm Sunday, Saint Benedict the African started its Holy Week celebrations on Wednesday with the Tenebrae Service.<p>
+                      <a href="{{ site.baseurl }}/announcement/2019/holy-week-sba" class="btn btn-primary">Read more</a>
+                  </div>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="panel panel-default">
+                  <div class="panel-body">
+                    <a href="{{ site.baseurl }}/announcement/2019/mosaic-music-presentation-st-benedict-mass">
+                      <h3>MOSAIC Performs to Crowd-Filled Audience</h3>
+                      <img class="center-block img-thumbnail" src="{{ site.baseurl }}/img/mosaic-sba2.jpeg" alt="article image">
+                    </a>
+                      <h4>April 7, 2019</h4>
+                        <p>SBA’s own Phillip Armstrong, as part of MOSAIC group, performed the St. Benedict the African original mass music.<p>
+                      <a href="{{ site.baseurl }}/announcement/2019/mosaic-music-presentation-st-benedict-mass" class="btn btn-primary">Read more</a>
+                      <h5><a href="{{ site.baseurl }}/music" class="badge badge-default">Music</a></h5>
+                  </div>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="panel panel-default">
+                  <div class="panel-body">
+                    <a href="{{ site.baseurl }}/announcement/2019/eisland-art-gallery-dedicated">
+                      <h3>Eiland Art Gallery Dedicated by Bishop</h3>
+                      <img class="center-block img-thumbnail" src="{{ site.baseurl }}/img/eiland-gallery1.jpeg" alt="article image">
+                    </a>
+                      <h4>April 7, 2019</h4>
+                        <p>On the celebration of the feast day of Saint Benedict the African Bishop Perry dedicated the Ann and Arthur Eiland Art Gallery and Collection.<p>
+                      <a href="{{ site.baseurl }}/announcement/2019/eisland-art-gallery-dedicated" class="btn btn-primary">Read more</a>
+                      <h5><a href="{{ site.baseurl }}/art" class="badge badge-default">Art</a></h5>
+                  </div>
+                </div>
+            </div>
         </div>
-      </div>
-    {% endif %}
-    {% endfor %}
     </div>
+
+    
+    <div class="row">
+      <div class="col-xs-6 bottom-buffer">
+        <a class="carousel-control-prev" href="#OutsideAd" role="button" data-slide="prev">
+          <span class="fa fa-chevron-left fa-3x pull-right" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+      </div>
+      <div class="col-xs-6">    
+        <a class="carousel-control-next" href="#OutsideAd" role="button" data-slide="next">
+          <span class="fa fa-chevron-right fa-3x pull-left" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+      </div>
+    </div>
+  
+  </div>
 </div>
-</section>
