@@ -1,7 +1,7 @@
 ---
 title: "Open House Chicago"
-post-date: 2019-10-19
-exp-date: 2019-10-20
+post-date: 2019-10-20
+exp-date: 2019-10-21
 fawe: "fas fa-clinic-medical"
 tags: [event, art, volunteer]
 ---
