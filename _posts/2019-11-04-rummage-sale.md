@@ -1,7 +1,7 @@
 ---
 title: "Rummage Sale"
-post-date: 2019-11-15
-exp-date: 2019-11-16
+post-date: 2019-11-17
+exp-date: 2019-11-18
 fawe: "fas fa-cash-register"
 tags: [event, volunteer]
 ---
