@@ -9,8 +9,13 @@ tags: [writing]
 permalink: "adult-faith-formation/:title"
 meta: "The church of Chicago celebrated Pope Francis’ declaration of Father Augustus Tolton as “venerable” with a Mass of Thanksgiving at St. Philip Neri. The following is the transcript of the homily given by Father Jones."
 ---
-The church of Chicago celebrated Pope Francis’ declaration of Father Augustus Tolton as “venerable” with a Mass of Thanksgiving at St. Philip Neri. The following is the transcript of the homily given by Father Jones: 
+The church of Chicago celebrated Pope Francis’ declaration of Father Augustus Tolton as “venerable” with a Mass of Thanksgiving at St. Philip Neri. The following is the full video recording of the Mass and a transcript of the homily given by Father Jones. 
 <!--more-->
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/z_-_eYvYPuE"></iframe>
+</div>
+
 
 >You are the salt of the earth. But if salt loses its taste, with what can it be seasoned? It is no longer good for anything but to be thrown out and trampled underfoot.
 >
