@@ -1,6 +1,6 @@
 ---
 title: "Purse Coordinator"
-post-date: 2019-11-18
+
 exp-date: 2019-12-31
 fawe: "fas fa-shopping-bag"
 tags: [volunteer]
