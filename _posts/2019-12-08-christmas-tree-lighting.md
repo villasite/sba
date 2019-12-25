@@ -10,5 +10,3 @@ Mass at 12:30
 Festivities 2:00 p.m. - 4:30 p.m.
 
 Tree Lighting 4:30 p.m.
-
-**RSVP at SBAparish@aol.com or 773-873-4464**
