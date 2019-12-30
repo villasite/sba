@@ -1,7 +1,7 @@
 ---
 title: "Father Tolton Movie Screening"
 post-date: 2019-12-29
-exp-date: 2019-12-30
+exp-date: 2019-12-29
 fawe: "fas fa-film"
 tags: [event]
 ---
