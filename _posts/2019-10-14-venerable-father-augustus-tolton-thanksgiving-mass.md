@@ -4,12 +4,12 @@ title: "Tolton Mass of Thanksgiving"
 subtitle: "Salt of the earth, light of the world"
 post-date: 2019-10-14
 image: "venerable-father-augustus-tolton-mass-church.png"
-categories: [Homilies]
+categories: [Reflections]
 tags: [writing]
 permalink: "adult-faith-formation/:title"
 meta: "The church of Chicago celebrated Pope Francis’ declaration of Father Augustus Tolton as “venerable” with a Mass of Thanksgiving at St. Philip Neri. The following is the transcript of the homily given by Father Jones."
 ---
-The church of Chicago celebrated Pope Francis’ declaration of Father Augustus Tolton as “venerable” with a Mass of Thanksgiving at St. Philip Neri. The following is the full video recording of the Mass and a transcript of the homily given by Father Jones. 
+The church of Chicago celebrated Pope Francis’ declaration of Father Augustus Tolton as “venerable” with a Mass of Thanksgiving at St. Philip Neri. The following is the full video recording of the Mass and a transcript of the homily given by Father David Jones. 
 <!--more-->
 
 <div class="embed-responsive embed-responsive-16by9">

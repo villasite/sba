@@ -3,7 +3,8 @@ layout: post
 title: "Charge for a New Year"
 post-date: 2020-01-05
 image: "family-tapestry.jpeg"
-tags: [article]
+categories: [Reflections]
+tags: [writing]
 permalink: "announcement/:year/:title"
 meta: "It is a new year, a time to look back and reflect, to look ahead and rethink some things and make decisions. Today in this beginning of the new year I want to speak of a charge to us, the people of God of St. Benedict the African parish."
 ---
@@ -34,3 +35,5 @@ Others knew the first Christians by how they acted and by their joy. Church is n
 None of us is the center of the universe. We belong to an immensely and intensely beautiful divine action _that is not over_.
 
 **Charge!**
+
+*[The preceding reflection was given by Sister Joanne Delehanty, OP during today's Mass]*
