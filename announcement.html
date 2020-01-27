@@ -19,7 +19,7 @@ meta: "Forgot to pick up a church bulletin? Catch up on all the social and relig
     {% capture date %}{{post.exp-date | date: '%s' | plus: 0 }}{% endcapture %}
     {% if date > now %}  
       {% if post.tags contains "event" %}
-      <div class="panel panel-default">
+      <div class="panel panel-default" id="{{ post.title }}">
         <div class="panel-body">
           <div class="row">
             <div class="col-sm-2" align="center">
