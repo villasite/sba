@@ -7,4 +7,4 @@ tags: [event, music]
 label: "Choir"
 txt: "music"
 ---
-Save the date for the annual Taste of Soul event hosted by the choir.
+Purchase your $5 ticket from any member of the St. Benedict the African choir for our annual Taste of Soul event.

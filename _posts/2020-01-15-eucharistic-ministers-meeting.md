@@ -1,7 +1,7 @@
 ---
 title: "Eucharistic Ministers Meeting"
-post-date: 2020-02-11
-exp-date: 2020-02-12
+post-date: 2020-02-18
+exp-date: 2020-02-19
 fawe: "fas fa-cross"
 tags: [event]
 ---

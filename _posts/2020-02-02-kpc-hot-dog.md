@@ -7,4 +7,4 @@ tags: [event, kpc]
 label: "KPC"
 txt: "knights-of-peter-claver-ladies-auxiliary"
 ---
-Stop by for a hot dog provided by the Junior Knights of Peter Claver.
+The Junior Knights of Peter Claver will be selling hot dogs today. The proceeds will be used to help defray the expenses for their upcoming conference.
