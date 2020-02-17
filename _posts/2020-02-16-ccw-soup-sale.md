@@ -1,7 +1,7 @@
 ---
 title: "Soup Sale"
 post-date: 2020-02-16
-exp-date: 2020-02-17
+exp-date: 2020-02-16
 fawe: "fas fa-mug-hot"
 tags: [event]
 ---
