@@ -2,7 +2,7 @@
 layout: post
 title: "Preparing for Lent"
 subtitle: "Preparing for Jesus"
-image: "jesus-cross-carrying-baptism.jpg"
+image: "wooden-table-with-people-sideways.jpeg"
 categories: [Church Calendar]
 tags: [writing]
 permalink: "adult-faith-formation/:title"
