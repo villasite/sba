@@ -7,4 +7,4 @@ tags: [event]
 ---
 9:30 a.m. Mass - **Hold On** - Sr. Joanne Delehanty, OP preaching.
 
-3:30 p.m. Afternoon Prayer - **Right On** - Sr. Jane Nesmith, SBS preaching with Guest musicians.
+3:30 p.m. Afternoon Prayer - **Right On** - Sr. Jane Nesmith, SBS preaching.
