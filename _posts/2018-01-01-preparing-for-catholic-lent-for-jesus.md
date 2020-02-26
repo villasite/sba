@@ -15,7 +15,9 @@ The Spirit leads us during the season of Lent. The church takes forty days to in
 
 In other words, instead of doing whatever we want to do, an abuse of freedom, and we practice doing what the Lord does and do what the Lord wants done. We make sure that we can sing the lyric “before I be a slave, I’ll be buried in my grave and go home to my God and be free.”
 
-LENT IS ABOUT PREPARING TO BE FREED TO SERVE THE LORD. EASTER FREES US FROM SIN, BUT ONE HAS TO BE READIED!
+LENT IS ABOUT PREPARING TO BE FREED TO SERVE THE LORD.
+
+EASTER FREES US FROM SIN, BUT ONE HAS TO BE READIED!
 
 What’s with the ashes? Lent begins with ASH WEDNESDAY. It falls on a Wednesday to get the forty days in before Easter, not counting Sundays, because it doesn’t make sense to have a funeral on the day of the Resurrection. Duh!
 
