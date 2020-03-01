@@ -14,6 +14,11 @@
         </div>
     </div>
 </section>
+
+{% if page.title contains "Announcements" %}
+<section class="no-padding">{% include alert-front.html %}</section>
+{% endif %}
+
   <div class="container">
     <div class="panel-body">
       {{ content }}
