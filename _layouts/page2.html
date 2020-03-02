@@ -15,7 +15,7 @@
     </div>
 </section>
 
-{% if page.title contains "Announcements" %}
+{% if page.title contains "Announcements" or page.title contains "About" %}
 <section class="no-padding">{% include alert-front.html %}</section>
 {% endif %}
 
