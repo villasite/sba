@@ -30,6 +30,8 @@ For the seaon of Lent:
 
 - Mass will be celebrated every Wednesday at 12:30 PM for communal prayer.
 
+- Stations of the Cross are prayed on Friday at Noon.
+
 - Invite someone back to church for Sunday at 9:30 AM.
 
 - Parish organizations are asked to schedule a prayer service for members.
@@ -38,7 +40,7 @@ For the seaon of Lent:
 
 ### WE HAVE BEEN GIVEN TIME TO INCREASE GIVING
 
-St. Benedict the African (SBA) assists non-SBA ministries with $5,000 each Easter. Please give more during Lent in order to help us make this Easter gift. 
+St. Benedict the African (SBA) assists non-SBA ministries with $5,000 each Easter. Please give more during Lent in order to help us make this Easter gift.
 
 The Parish Council will select 2020 recipients at the March 9th meeting.
 
