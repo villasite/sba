@@ -1,7 +1,7 @@
 ---
-title: "Fish and Chicken Fry"
+title: "POSTPHONED: Fish and Chicken Fry"
 post-date: 2020-03-22
-exp-date: 2020-03-23
+exp-date: 2020-03-13
 fawe: "fas fa-fish"
 tags: [event, kpc]
 label: "KPC"

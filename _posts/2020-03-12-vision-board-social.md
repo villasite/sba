@@ -1,7 +1,7 @@
 ---
-title: "Vision Board Social"
+title: "POSTPHONED: Vision Board Social"
 post-date: 2020-03-20
-exp-date: 2020-03-21
+exp-date: 2020-03-13
 fawe: "fas fa-chalkboard"
 tags: [event]
 ---
