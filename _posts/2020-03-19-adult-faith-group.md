@@ -1,7 +1,7 @@
 ---
-title: "Adult Faith Group Meeting"
+title: "POSTPHONED: Adult Faith Group Meeting"
 post-date: 2020-04-05
-exp-date: 2020-04-06
+exp-date: 2020-03-19
 fawe: "fas fa-praying-hands"
 tags: [event, aff]
 label: "Adult Faith Formation"
