@@ -2,6 +2,7 @@
 layout: post
 title: "Faithful to Communion"
 post-date: 2020-03-08
+author: "Sister Joanne Delehanty, OP"
 image: "first-communion-children-altar-mass.jpg"
 tags: [article]
 permalink: "announcement/:year/:title"

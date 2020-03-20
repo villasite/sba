@@ -2,6 +2,7 @@
 layout: post
 title: "Diocese and Archdiocese"
 subtitle: "Landscape of the church"
+author: "Father David Jones"
 image: "tapestry-jesus-world-animals.jpg"
 categories: [Church Hierarchy]
 tags: [writing]

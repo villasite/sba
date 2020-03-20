@@ -2,6 +2,7 @@
 layout: post
 title: "The Ancient Hymn of Praise"
 subtitle: "The Gloria"
+author: "Father David Jones"
 image: "picture-frame-hands-up.jpeg"
 categories: [Catholic Practices]
 tags: [writing]

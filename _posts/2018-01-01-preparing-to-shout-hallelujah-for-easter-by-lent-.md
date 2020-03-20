@@ -2,6 +2,7 @@
 layout: post
 title: "Shouting Hallelujah"
 subtitle: "The context of Lent"
+author: "Father David Jones"
 image: "saint-benedict-african-stained-glass.jpeg"
 categories: [Church Calendar]
 tags: [writing]

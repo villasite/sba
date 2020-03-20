@@ -2,6 +2,7 @@
 layout: post
 title: "Ten Facts of Advent"
 subtitle: "Preparing for the Second Coming of the Son of God"
+author: "Father David Jones"
 image: "advent-wreath-candle-first-sunday-week.jpeg"
 categories: [Church Calendar]
 tags: [writing]

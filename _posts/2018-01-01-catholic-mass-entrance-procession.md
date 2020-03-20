@@ -2,6 +2,7 @@
 layout: post
 title: "I Want Jesus to Walk with Me"
 subtitle: "The Catholic entrance procession"
+author: "Father David Jones"
 image: "church-entrance-door-closeup.jpg"
 categories: [Catholic Practices]
 tags: [writing]

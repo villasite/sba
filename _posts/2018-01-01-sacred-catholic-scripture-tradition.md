@@ -2,6 +2,7 @@
 layout: post
 title: "Sacred Scripture and Sacred Tradition"
 subtitle: "Two sources of revelation"
+author: "Father David Jones"
 image: "stained-glass-cosmos-stars.jpg"
 categories: [Bible]
 tags: [writing]

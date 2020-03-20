@@ -2,6 +2,7 @@
 layout: post
 title: "Our Profession of Faith"
 subtitle: "The Creed"
+author: "Father David Jones"
 image: "picture-frame-hands-up.jpeg"
 categories: [Catholic Practices]
 tags: [writing]

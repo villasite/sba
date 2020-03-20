@@ -2,6 +2,7 @@
 layout: post
 title: "What is a deacon?"
 subtitle: "An ordained servant"
+author: "Father David Jones"
 image: "wood-carving-catholic-church.jpg"
 categories: [Church Hierarchy]
 tags: [writing]

@@ -2,6 +2,7 @@
 layout: post
 title: "A Black Church that prays in circle"
 subtitle: "Enculturating Catholic liturgy"
+author: "Father David Jones"
 image: "wooden-circle-people-joined-water-baptism.jpg"
 categories: [Catholic Practices]
 tags: [writing]

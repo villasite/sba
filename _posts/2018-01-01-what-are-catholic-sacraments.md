@@ -2,6 +2,7 @@
 layout: post
 title: "What are Sacraments?"
 subtitle: "Blessed by grace"
+author: "Father David Jones"
 image: "baptism-pool-hole.jpeg"
 categories: [Catholic Practices]
 tags: [writing]

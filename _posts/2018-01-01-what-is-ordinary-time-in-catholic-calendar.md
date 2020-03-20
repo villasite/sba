@@ -2,6 +2,7 @@
 layout: post
 title: "What is Ordinary time?"
 subtitle: "Ordering our steps"
+author: "Father David Jones"
 image: "church-entrance-door-closeup.jpg"
 categories: [Church Calendar]
 tags: [writing]

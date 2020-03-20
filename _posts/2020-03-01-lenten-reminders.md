@@ -2,6 +2,7 @@
 layout: post
 title: "Lent 2020: A Few Reminders"
 post-date: 2020-03-01
+author: "Father David Jones"
 image: "sanctuary-hut-mass.jpg"
 tags: [article]
 permalink: "announcement/:year/:title"

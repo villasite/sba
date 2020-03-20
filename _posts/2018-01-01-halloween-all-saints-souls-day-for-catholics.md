@@ -2,6 +2,7 @@
 layout: post
 title: "Halloween, All Saints’ Day and All Souls’ Day"
 subtitle: "How to celebrate"
+author: "Father David Jones"
 image: "san-damiano-cross-african-american-saints-jesus-crucified.jpg"
 categories: [Church Calendar]
 tags: [writing]

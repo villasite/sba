@@ -2,6 +2,7 @@
 layout: post
 title: "We put it all in HIS hands"
 subtitle: "On the Offertory"
+author: "Father David Jones"
 image: "station-of-the-cross-last-supper.jpeg"
 categories: [Catholic Practices]
 tags: [writing]

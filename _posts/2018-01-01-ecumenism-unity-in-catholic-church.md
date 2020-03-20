@@ -2,6 +2,7 @@
 layout: post
 title: "What is Ecumenism and why do we need it?"
 subtitle: "One universal church"
+author: "Father David Jones"
 image: "jesus-cross-uncrucified.jpeg"
 categories: [Catholic Practices]
 tags: [writing]

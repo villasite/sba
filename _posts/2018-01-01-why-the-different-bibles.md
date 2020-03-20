@@ -2,6 +2,7 @@
 layout: post
 title: "The Differences and Similiarities in Bibles"
 subtitle: "The Books of the Bible"
+author: "Father David Jones"
 image: "lectionary-book.jpg"
 categories: [Bible]
 tags: [writing]

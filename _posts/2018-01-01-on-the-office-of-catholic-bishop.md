@@ -2,6 +2,7 @@
 layout: post
 title: "Which office is higher in rank?"
 subtitle: "On the office of Bishop"
+author: "Father David Jones"
 image: "wood-carving-catholic-church.jpg"
 categories: [Church Hierarchy]
 tags: [writing]

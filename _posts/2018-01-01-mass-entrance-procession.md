@@ -2,6 +2,7 @@
 layout: post
 title: "Stopping for the Lord"
 subtitle: "The Mass entrance procession"
+author: "Father David Jones"
 image: "sanctuary-hut-mass.jpg"
 categories: [Catholic Practices]
 tags: [writing]

@@ -2,6 +2,7 @@
 layout: post
 title: "The use of Holy Oils"
 subtitle: "Consecration, blessing, healing and unification"
+author: "Father David Jones"
 image: "holy-oils.jpg"
 categories: [Catholic Practices]
 tags: [writing]

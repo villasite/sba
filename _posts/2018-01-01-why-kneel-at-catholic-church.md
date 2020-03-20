@@ -2,6 +2,7 @@
 layout: post
 title: "Why aren't people kneeling at church?"
 subtitle: "Nothing to do with church furniture"
+author: "Father David Jones"
 image: "altar-closeup.jpeg"
 categories: [Catholic Practices]
 tags: [writing]

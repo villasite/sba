@@ -2,6 +2,7 @@
 layout: post
 title: "On the Creed"
 subtitle: "Do you believe?"
+author: "Father David Jones"
 image: "wooden-table-with-people-closeup.jpeg"
 categories: [Catholic Practices]
 tags: [writing]

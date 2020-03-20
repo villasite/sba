@@ -2,6 +2,7 @@
 layout: post
 title: "Summary of the New Testament Books"
 subtitle: "From the old to the new"
+author: "Father David Jones"
 image: "lectionary-book.jpg"
 categories: [Bible]
 tags: [writing]

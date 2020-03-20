@@ -2,6 +2,7 @@
 layout: post
 title: "Who's the head of the church?"
 subtitle: "Jesus, founder and head of the church"
+author: "Father David Jones"
 image: "jesus-christ-on-dove.jpg"
 categories: [Church Hierarchy]
 tags: [writing]

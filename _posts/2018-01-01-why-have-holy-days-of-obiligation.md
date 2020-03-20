@@ -2,6 +2,7 @@
 layout: post
 title: "Why have Holy Days of Obligation?"
 subtitle: "The Intention of the Obligation"
+author: "Father David Jones"
 image: "family-tapestry.jpeg"
 categories: [Church Calendar]
 tags: [writing]

@@ -2,6 +2,7 @@
 layout: post
 title: "Solemnities, Feast Days, and Memorials"
 subtitle: "An order of prayer"
+author: "Father David Jones"
 image: "station-of-the-cross-last-supper.jpeg"
 categories: [Church Calendar]
 tags: [writing]

@@ -2,6 +2,7 @@
 layout: post
 title: "Silence and Stillness in the Church"
 subtitle: "Stopping so God can start"
+author: "Father David Jones"
 image: "jesus-cross-uncrucified.jpeg"
 categories: [Catholic Practices]
 tags: [writing]

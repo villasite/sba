@@ -2,6 +2,7 @@
 layout: post
 title: "Why going to Sunday Mass matters"
 subtitle: "Great feast or a great waste"
+author: "Father David Jones"
 image: "sanctuary-hut-mass.jpg"
 categories: [Catholic Practices]
 tags: [writing]
@@ -11,7 +12,7 @@ meta: "The Lord opens the doors of the church. The Lord gathers the Body of Chri
 The Lord opens the doors of the church. The Lord gathers the Body of Christ. The Lord invites his friends to celebrate His Resurrection. The Lord gives us communion. We become new creatures in Christ Jesus, and then the Lord sends us on a mission.
 <!--more-->
 
-“I don’t know what you came to do...” or didn’t come to do, but when Jesus rose on Sunday, HE MADE every day a day of thanksgiving and every Sunday a “little Easter” and a little taste of heaven. Recently a friend of the church joked that her husband, also a friend of the church, goes to St. Mattress on Sunday. In other words, according to the definition of Sunday made by God, he is either to tired or to lazy to make it to heaven. The stakes are high come Sunday!
+“I don’t know what you came to do...” or didn’t come to do, but when Jesus rose on Sunday, HE MADE every day a day of thanksgiving and every Sunday a “little Easter” and a little taste of heaven. Recently a friend of the church joked that her husband, also a friend of the church, goes to St. Mattress on Sunday. In other words, according to the definition of Sunday made by God, he is either too tired or too lazy to make it to heaven. The stakes are high come Sunday!
 
 The celebration of Sunday is about the Lord. Whether we realize it or not, our very being longs to be a part of what God is doing with and for His people. Especially the part of us that is sick and tired and broken and lost and wanting and needy and whiney and hurt and little and so on and so on.
 

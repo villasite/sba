@@ -2,6 +2,7 @@
 layout: post
 title: "Charge for a New Year"
 post-date: 2020-01-05
+author: "Sister Joanne Delehanty, OP"
 image: "family-tapestry.jpeg"
 categories: [Reflections]
 tags: [writing]
@@ -35,5 +36,3 @@ Others knew the first Christians by how they acted and by their joy. Church is n
 None of us is the center of the universe. We belong to an immensely and intensely beautiful divine action _that is not over_.
 
 **Charge!**
-
-*[The preceding reflection was given by Sister Joanne Delehanty, OP during today's Mass]*

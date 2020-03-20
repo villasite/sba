@@ -2,6 +2,7 @@
 layout: post
 title: "Celebration of Epiphany"
 subtitle: "Moving forward with Jesus"
+author: "Father David Jones"
 image: "jesus-and-mary.jpeg"
 categories: [Church Calendar]
 tags: [writing]

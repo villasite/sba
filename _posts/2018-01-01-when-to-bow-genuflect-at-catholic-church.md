@@ -2,6 +2,7 @@
 layout: post
 title: "When to bow, when to genuflect"
 subtitle: "Respecting vs. recognizing"
+author: "Father David Jones"
 image: "altar-closeup.jpeg"
 categories: [Catholic Practices]
 tags: [writing]

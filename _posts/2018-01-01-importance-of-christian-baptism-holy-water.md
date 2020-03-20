@@ -2,6 +2,7 @@
 layout: post
 title: "The Old Waters of Baptism"
 subtitle: "Touching the Holy Water"
+author: "Father David Jones"
 image: "baptism-pool-bottom-view.jpeg"
 categories: [Catholic Practices]
 tags: [writing]

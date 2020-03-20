@@ -2,6 +2,7 @@
 layout: post
 title: "How important is Easter?"
 subtitle: "It's HUGE"
+author: "Father David Jones"
 image: "jesus-cross-uncrucified.jpeg"
 categories: [Church Calendar]
 tags: [writing]

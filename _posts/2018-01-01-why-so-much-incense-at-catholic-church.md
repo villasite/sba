@@ -2,6 +2,7 @@
 layout: post
 title: "Why use incense at Mass?"
 subtitle: "Prayers rise, blessings come down"
+author: "Father David Jones"
 image: "altar-closeup.jpeg"
 categories: [Catholic Practices]
 tags: [writing]

@@ -2,6 +2,7 @@
 layout: post
 title: "BLESS YOU! What does this mean?"
 subtitle: "What a blessing!"
+author: "Father David Jones"
 image: "jesus-cross-crucified.jpg"
 categories: [Catholic Practices]
 tags: [writing]

@@ -2,6 +2,7 @@
 layout: post
 title: "The Center Mystery of the Christian Faith"
 subtitle: "On the Holy Trinity"
+author: "Father David Jones"
 image: "stained-glass-cosmos-stars.jpg"
 categories: [Catholic Practices]
 tags: [writing]

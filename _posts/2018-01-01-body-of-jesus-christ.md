@@ -2,6 +2,7 @@
 layout: post
 title: "The Body of Christ"
 subtitle: "WITBOCTD vs. WWJD"
+author: "Father David Jones"
 image: "tapestry-jesus-resurrection.jpg"
 categories: [Catholic Practices]
 tags: [writing]

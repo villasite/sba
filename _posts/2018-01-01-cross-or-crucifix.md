@@ -2,6 +2,7 @@
 layout: post
 title: "Cross or Crucifix"
 subtitle: "Life and death"
+author: "Father David Jones"
 image: "jesus-cross-crucified.jpg"
 categories: [Catholic Practices]
 tags: [writing]

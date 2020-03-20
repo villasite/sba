@@ -2,6 +2,7 @@
 layout: post
 title: "Preparing for Lent"
 subtitle: "Preparing for Jesus"
+author: "Father David Jones"
 image: "wooden-table-with-people-sideways.jpeg"
 categories: [Church Calendar]
 tags: [writing]

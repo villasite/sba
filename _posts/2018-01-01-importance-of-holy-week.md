@@ -2,6 +2,7 @@
 layout: post
 title: "Holy Week, what a week!"
 subtitle: "The high point of the year"
+author: "Father David Jones"
 image: "tenebrea-service-2019.jpeg"
 categories: [Church Calendar]
 tags: [writing]

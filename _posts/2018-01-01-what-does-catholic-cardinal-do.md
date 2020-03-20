@@ -2,6 +2,7 @@
 layout: post
 title: "Why have Catholic Cardinals?"
 subtitle: "The task of leading"
+author: "Father David Jones"
 image: "kpc-reading-cardinal-cupich.jpeg"
 categories: [Church Hierarchy]
 tags: [writing]

@@ -2,6 +2,7 @@
 layout: post
 title: "Lift Every Voice and Sing"
 subtitle: "The why, when, where and how of singing at Mass"
+author: "Father David Jones"
 image: "wooden-carving-angels-side.jpg"
 categories: [Catholic Practices]
 tags: [writing]

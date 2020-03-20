@@ -2,6 +2,7 @@
 layout: post
 title: "Is the bible more than a book?"
 subtitle: "As God speaks, we live"
+author: "Father David Jones"
 image: "tapestry-jesus-world-animals.jpg"
 categories: [Bible]
 tags: [writing]

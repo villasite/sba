@@ -2,6 +2,7 @@
 layout: post
 title: "Prayer of the Faithful"
 subtitle: "The Universal Prayer"
+author: "Father David Jones"
 image: "tapestry-boat-jesus.jpg"
 categories: [Catholic Practices]
 tags: [writing]

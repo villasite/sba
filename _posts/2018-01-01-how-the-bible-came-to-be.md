@@ -2,6 +2,7 @@
 layout: post
 title: "The History of Sacred Scripture"
 subtitle: "The Books of the Bible"
+author: "Father David Jones"
 image: "lectionary-book.jpg"
 categories: [Bible]
 tags: [writing]

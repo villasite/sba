@@ -2,6 +2,7 @@
 layout: post
 title: "On the Book of Revelation"
 subtitle: "Keep the faith, no matter come what may"
+author: "Father David Jones"
 image: "lectionary-book.jpg"
 categories: [Bible]
 tags: [writing]

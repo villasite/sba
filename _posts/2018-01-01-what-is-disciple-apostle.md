@@ -2,6 +2,7 @@
 layout: post
 title: "Solemnity of Saints Peter and Paul"
 subtitle: "What's the difference between an Apostle and Disciple?"
+author: "Father David Jones"
 image: "wood-carving-catholic-church.jpg"
 categories: [Church Calendar]
 tags: [writing]

@@ -2,6 +2,7 @@
 layout: post
 title: "Black history is Catholic history"
 post-date: 2020-02-05
+author: "Shannen Dee Williams"
 image: "negro-history-week-st-augustine-school-oblate-sisters.jpg"
 image-caption: "In this Feb. 21, 1946, file photo, students at St. Augustine School in Washington, led by the Oblate Sisters of Providence, participate in Negro History Week; the precursor to Black History Month, observed each February. (CNS photo/courtesy Oblate Sisters of Providence)"
 tags: [article]

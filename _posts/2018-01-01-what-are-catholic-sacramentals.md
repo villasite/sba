@@ -2,6 +2,7 @@
 layout: post
 title: "What are Sacramentals?"
 subtitle: "Preparing for God's grace"
+author: "Father David Jones"
 image: "candle-lighted-closeup.jpg"
 categories: [Catholic Practices]
 tags: [writing]

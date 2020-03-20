@@ -2,6 +2,7 @@
 layout: post
 title: "The role of the Lector at Mass"
 subtitle: "To proclaim, not read"
+author: "Father David Jones"
 image: "altar-far-view.jpeg"
 categories: [Catholic Practices]
 tags: [writing]

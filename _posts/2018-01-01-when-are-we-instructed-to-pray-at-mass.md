@@ -2,6 +2,7 @@
 layout: post
 title: "When are we instructed to pray in the Mass?"
 subtitle: "The Collects"
+author: "Father David Jones"
 image: "sanctuary-hut-mass.jpg"
 categories: [Catholic Practices]
 tags: [writing]

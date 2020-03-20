@@ -2,6 +2,7 @@
 layout: post
 title: "Why did Jesus have to get baptized?"
 subtitle: "To change and trouble the water"
+author: "Father David Jones"
 image: "jesus-cross-carrying-baptism.jpg"
 categories: [Catholic Practices]
 tags: [writing]

@@ -2,6 +2,7 @@
 layout: post
 title: "Summary of the Old Testament Books"
 subtitle: "Who we are and whose we are"
+author: "Father David Jones"
 image: "lectionary-book.jpg"
 categories: [Bible]
 tags: [writing]
