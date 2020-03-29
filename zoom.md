@@ -1,11 +1,12 @@
 ---
 layout: page2
+title: "On Time God"
 image: "sanctuary-hut-mass.jpg"
 meta: "Thank you for deciding to virtually join us for Sunday Mass at St. Benedict the African. Due to the temporary parish closure stemming from COVID-19 but the need to continue celebrating Mass as community, St. Benedict the African has decided to use the Zoom video conference platform to bring the Mass from the parish building to you."
 ---
-# Online Mass
+## Online Mass
 
-Thank you for deciding to virtually join us for Sunday Mass at St. Benedict the African (noon time). Due to the temporary parish closure stemming from COVID-19 but the need to continue celebrating Mass as community, St. Benedict the African has decided to use the Zoom video conference platform to bring the Mass from the parish building to you.
+Thank you for deciding to virtually join us for Sunday Mass at St. Benedict the African **(NOON TIME)**. Due to the temporary parish closure stemming from COVID-19 but the need to continue celebrating Mass as community, St. Benedict the African has decided to use the Zoom video conference platform to bring the Mass from the parish building to you.
 
 We will be transmitting video and audio of the Mass which you can connect to with your mobile device or landline telephone.
 
