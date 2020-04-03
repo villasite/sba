@@ -2,17 +2,17 @@
 layout: page2
 title: "On Time God"
 image: "sanctuary-hut-mass.jpg"
-meta: "Thank you for deciding to virtually join us for Sunday Mass at St. Benedict the African. Due to the temporary parish closure stemming from COVID-19 but the need to continue celebrating Mass as community, St. Benedict the African has decided to use the Zoom video conference platform to bring the Mass from the parish building to you."
+meta: "Thank you for deciding to virtually join us for church at St. Benedict the African. Due to the temporary parish closure stemming from COVID-19 but the need to continue celebrating church as community, St. Benedict the African has decided to use the Zoom video conference platform to bring the church from the parish building to you."
 ---
-## Online Mass
+## Online Church
 
-Thank you for deciding to virtually join us for Sunday Mass at St. Benedict the African **(NOON TIME)**. Due to the temporary parish closure stemming from COVID-19 but the need to continue celebrating Mass as community, St. Benedict the African has decided to use the Zoom video conference platform to bring the Mass from the parish building to you.
+Thank you for deciding to virtually join us for church at St. Benedict the African. Due to the temporary parish closure stemming from COVID-19 but the need to continue celebrating church as community, St. Benedict the African has decided to use the Zoom video conference platform to bring the church from the parish building to you.
 
-We will be transmitting video and audio of the Mass which you can connect to with your mobile device or landline telephone.
+We will be transmitting video and audio of Mass, prayer services, bible study, and more which you can connect to with your mobile device or landline telephone.
 
-You will be joining a video conference session where you can see the Mass at the parish along with the other participants. 
+**View the [Announcement page]({{ site.baseurl }}/announcement) for the exact schedule of events** (mostly scheduled for noon everyday). 
 
-**You can choose to activate or not activate your camera or microphone when connecting**. For people just calling in without a smartphone, you will only be able to listen in. 
+You will be joining a video conference session where you can see the host of the session along with the other participants. ***You can choose to activate or not activate your camera or microphone when connecting***. For people just calling in without a smartphone, you will only be able to listen in. 
 
 Please refer to the following guidance to assist your connection experience.			
 
@@ -35,9 +35,9 @@ You will be given the choice of allowing access to your camera and microphone. I
 
 ## Once Connected
 
-**If you're on a computer**, there are two view options, which you can control at the top right of the screen. "Speaker View" will have the person speaking with the biggest video, in this case, the folks in the sanctuary. The other option is "Gallery View" which allows you to see everyone participating in the Mass, Brady Bunch style.
+**If you're on a computer**, there are two view options, which you can control at the top right of the screen. "Speaker View" will have the person speaking with the biggest video, in this case, the host of the session. The other option is "Gallery View" which allows you to see everyone who is participating, Brady Bunch style.
 
-**If you're on a mobile device**, you will be able to swipe left or right to determine the best viewing option. The default view may be a alternating video display of whoever is currently speaking. By swiping to the side, you can change the view to "Gallery View" which allows you to see everyone participating in the Mass, Brady Bunch style.
+**If you're on a mobile device**, you will be able to swipe left or right to determine the best viewing option. The default view may be an alternating video display of whoever is currently speaking. By swiping to the side, you can change the view to "Gallery View" which allows you to see everyone who is participating, Brady Bunch style.
 
 Our default will be to have everyone on the call muted, as there will be many people, some with background noise, in order to maximize everyone's Mass experience. If you'd like to raise an issue, or contribute an intention, please utilize the chat function, which you can access through the bottom right of your screen.
 
