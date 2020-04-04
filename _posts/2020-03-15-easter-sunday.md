@@ -1,11 +1,11 @@
 ---
-title: "Praise & Worship"
-post-date: 2020-04-08
-exp-date: 2020-04-09
-fawe: "fas fa-hands"
+title: "Easter Sunday"
+post-date: 2020-04-12
+exp-date: 2020-04-13
+fawe: "fas fa-cross"
 tags: [event]
 ---
-**12:00 PM**
+**12 PM**
 
 **Meeting ID: 979 480 457**
 <br>

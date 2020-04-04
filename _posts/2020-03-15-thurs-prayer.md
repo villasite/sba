@@ -7,6 +7,8 @@ tags: [event]
 ---
 **12:00 PM**
 
-Join us virtually with the Zoom video conference platform (**<a href="https://bit.ly/SBAparishMass" target="_blank">https://bit.ly/SBAparishMass</a>**) or by dialing (312)626.6799
+**Meeting ID: 979 480 457**
+<br>
+**Passcode: 723 749**
 
 *For more details on connecting, visit the [Zoom]({{ site.baseurl }}/zoom) page.*
