@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Feast of St. Benedict the African"
+post-date: 2020-04-04
+image: "saint-benedict-african-bread.jpeg"
+tags: [article, music]
+label: "Music"
+txt: "music"
+permalink: "announcement/:year/:title"
+meta: "We were most proud to present Dr. Kevin Johnson, the composer, his truth of magical and masterful musicians and members of the Spelman College Glee Club as they presented the Mass of Saint Benedict the African."
+---
+We were most proud to present Dr. Kevin Johnson, the composer, his truth of magical and masterful musicians and members of the Spelman College Glee Club as they performed the Mass of Saint Benedict the African in 2018. 
+<!--more-->
+
+Read the <a href="https://www.archchicago.org/news-release/-/article/2018/04/11/spelman-college-glee-club-to-debut-original-mass-music-for-st-benedict-the-african-parish-on-saturday-april-14-2018-at-1-p-m-" target="_blank">Archdiocese of Chicago</a> and <a href="https://www.chicagocatholic.com/chicagoland/-/article/2018/04/16/spelman-college-glee-club-performs-new-work-at-local-pari-1" target="_blank">Chicago Catholic</a> written pieces describing this special event. For the full audio recording of the performance click below.
+
+<p class="text-center">
+	<a href="https://soundcloud.com/jonathan-howard-508261519/sba-mix-final-no-notes/s-a5jfL" target="_blank"  class="btn btn-primary btn-xl wow tada">Listen Now</a>
+</p>
+
+The feast day is April 4th.

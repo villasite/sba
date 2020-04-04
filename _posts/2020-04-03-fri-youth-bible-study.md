@@ -1,7 +1,7 @@
 ---
 title: "Young Adult Bible Study"
 post-date: 2020-04-03
-exp-date: 2020-04-04
+exp-date: 2020-04-03
 fawe: "fas fa-bible"
 tags: [event, aff]
 label: "Adult Faith Formation"
