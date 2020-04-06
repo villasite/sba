@@ -8,8 +8,9 @@ meta: "Thank you for deciding to virtually join us for church at St. Benedict th
 
 Thank you for deciding to virtually join us for church at St. Benedict the African. Due to the temporary parish closure stemming from COVID-19 but the need to continue celebrating church as community, St. Benedict the African has decided to use the Zoom video conference platform to bring the church from the parish building to you.
 
-
 We will be transmitting video and audio of Mass, prayer services, bible study, and more which you can connect to with your mobile device or landline telephone.
+
+{% include zoom-flier.html %}
 
 **View the [Announcement page]({{ site.baseurl }}/announcement) for the exact schedule of events** (mostly scheduled for noon everyday). 
 
@@ -19,7 +20,7 @@ Please refer to the following guidance to assist your connection experience.
 
 ## Calling In
 
-If you're calling from a landline or non-smartphone, dial 312.626.6799 and enter the Meeting ID 979 480 457#, Passcode 723749 when prompted. You will be able to listen in once a connection is established.
+If you're calling from a landline or non-smartphone, dial 312.626.6799 and enter the Meeting ID then Passcode when prompted. You will be able to listen in once a connection is established.
 
 ## Before Connecting
 
@@ -30,7 +31,7 @@ Ahead of time, download Zoom: <a href="https://www.zoom.us/download" target="_
 
 You're likely to have the best experience on a tablet or laptop, but you're able to download an app on your phone as well.
 
-On the day of, either click on the meeting link (<a href="https://bit.ly/SBAparishMass" target="_blank">https://bit.ly/SBAparishMass</a>) or enter the meeting ID after loading the app. Meeting ID: 979 480 457; Passcode 723749.
+On the day of, either click on the meeting link (<a href="https://bit.ly/SBAparishMass" target="_blank">https://bit.ly/SBAparishMass</a>) or enter the meeting ID with passcode after loading the app.
 
 You will be given the choice of allowing access to your camera and microphone. If you choose to decline either, others will not be able to see you and/or you will not be heard.
 
