@@ -8,7 +8,6 @@ meta: "Thank you for deciding to virtually join us for church at St. Benedict th
 
 Thank you for deciding to virtually join us for church at St. Benedict the African. Due to the temporary parish closure stemming from COVID-19 but the need to continue celebrating church as community, St. Benedict the African has decided to use the Zoom video conference platform to bring the church from the parish building to you.
 
-{% include zoom-flier.html %}
 
 We will be transmitting video and audio of Mass, prayer services, bible study, and more which you can connect to with your mobile device or landline telephone.
 
