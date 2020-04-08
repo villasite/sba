@@ -1,7 +1,7 @@
 ---
 title: "Hour of Prayer"
-post-date: 2020-04-09
-exp-date: 2020-04-10
+post-date: 2020-03-09
+exp-date: 2020-03-10
 fawe: "fas fa-praying-hands"
 tags: [event]
 ---
