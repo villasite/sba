@@ -1,7 +1,7 @@
 ---
 title: "Holy Thursday"
 post-date: 2020-04-09
-exp-date: 2020-04-10
+exp-date: 2020-04-09
 fawe: "fas fa-cross"
 tags: [event]
 ---

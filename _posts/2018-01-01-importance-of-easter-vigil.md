@@ -3,7 +3,7 @@ layout: post
 title: "The Importance of the Easter Vigil"
 subtitle: "New Fire, Water and Members"
 author: "Father David Jones"
-image: "wooden-table-with-people-sideways.jpeg"
+image: "holy-saturday-candle-2019.jpg"
 categories: [Church Calendar]
 tags: [writing]
 permalink: "adult-faith-formation/:title"
