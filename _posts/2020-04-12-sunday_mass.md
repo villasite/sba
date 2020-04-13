@@ -1,8 +1,8 @@
 ---
-title: "Easter Sunday"
-post-date: 2020-04-12
-exp-date: 2020-04-13
-fawe: "fas fa-cross"
+title: "Sunday Mass"
+post-date: 2020-04-19
+exp-date: 2020-04-20
+fawe: "fas fa-church"
 tags: [event]
 ---
 **12 PM**
