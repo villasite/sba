@@ -1,7 +1,7 @@
 ---
 title: "Unpacking Holy Week"
 post-date: 2020-04-14
-exp-date: 2020-04-15
+exp-date: 2020-04-14
 fawe: "fas fa-cross"
 tags: [event]
 ---
