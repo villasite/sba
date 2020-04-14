@@ -1,20 +1,3 @@
----
-layout: page2
-title: "Announcements"
-image: "picture-frame-hands-up.jpeg"
-permalink: /announcement
-meta: "Forgot to pick up a church bulletin? Catch up on all the social and religious activities at Saint Benedict the African parish and read about past events."
----
-{% include daily-readings.html %}
-
-<div class="container">
-  <div class="row">
-    <div class="col-lg-12 text-center">
-      <h2 class="section-heading">Upcoming Events</h2>
-      <hr class="primary">
-    </div>
-  </div>
-</div>
 {% assign posts = site.posts | sort: 'exp-date' %}
 {% capture now %}{{'now' | date: '%s'}}{% endcapture %}
   {% for post in posts %}
@@ -41,15 +24,3 @@ meta: "Forgot to pick up a church bulletin? Catch up on all the social and relig
       {% endif %}
     {% endif %}
   {% endfor %}
-
-<p><i>For more details on connecting online to these events, visit the <a href="{{ site.baseurl }}/zoom">Zoom</a> page.</i></p>
-
-<div class="container bottom-buffer">
-  <div class="row">
-    <i class="fa fa-plus" aria-hidden="true"></i>
-    <a href="{{ site.baseurl }}/announcement/archive">View past events</a>
-  </div>
-</div>
-
-{% include articles.html %}
-{% include ads.html %}
