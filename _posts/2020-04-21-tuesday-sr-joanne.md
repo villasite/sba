@@ -1,7 +1,7 @@
 ---
 title: "On the Road to Emmaus"
 post-date: 2020-04-21
-exp-date: 2020-04-22
+exp-date: 2020-04-21
 fawe: "fas fa-road"
 tags: [event]
 ---
