@@ -1,7 +1,7 @@
 ---
 title: "Praise & Worship"
 post-date: 2020-04-22
-exp-date: 2020-04-23
+exp-date: 2020-04-22
 fawe: "fas fa-hands"
 tags: [event]
 ---
