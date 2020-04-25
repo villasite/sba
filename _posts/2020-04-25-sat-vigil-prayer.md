@@ -7,7 +7,7 @@ tags: [event]
 ---
 **12 PM**
 
-Join Tyler Whittler for this session part of the "On Time God Online" series.
+This vigil with traditional African symbolism will feature Joshua Miller with Tyler Whittler on African Drums. Part of the "On Time God Online" series.
 
 **Meeting ID: 979 480 457**
 <br>

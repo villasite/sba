@@ -11,11 +11,7 @@ permalink: "adult-faith-formation/:title"
 meta: ""
 ---
 On the evening of that first day of the week,
-when the doors were locked, where the disciples were,
-for fear of the Covid19 virus
-
-Jesus came and stood in their midst
-and said to them, “Peace be with you.”
+when the doors were locked, where the disciples were, for fear of the Covid19 virus Jesus came and stood in their midst and said to them, “Peace be with you.”
 <!--more-->
 
 This is no longer a story from back in the day

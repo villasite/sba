@@ -1,7 +1,7 @@
 ---
 title: "Gospel Social Hour"
 post-date: 2020-04-24
-exp-date: 2020-04-25
+exp-date: 2020-04-24
 fawe: "fas fa-music"
 tags: [event]
 ---
