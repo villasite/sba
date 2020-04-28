@@ -8,7 +8,7 @@ image: "jesus-cross-uncrucified.jpeg"
 categories: [Reflections]
 tags: [writing]
 permalink: "adult-faith-formation/:title"
-meta: ""
+meta: "On the evening of that first day of the week, when the doors were locked, where the disciples were, for fear of the Covid19 virus Jesus came and stood in their midst and said to them, 'Peace be with you.'"
 ---
 On the evening of that first day of the week,
 when the doors were locked, where the disciples were, for fear of the Covid19 virus Jesus came and stood in their midst and said to them, “Peace be with you.”
