@@ -1,7 +1,7 @@
 ---
 title: "Jesus: Shepherd and Gate"
 post-date: 2020-04-28
-exp-date: 2020-04-29
+exp-date: 2020-04-28
 fawe: "fas fa-dungeon"
 tags: [event, aff]
 label: "Adult Faith Formation"
