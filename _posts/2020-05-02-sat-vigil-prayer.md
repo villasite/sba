@@ -1,7 +1,7 @@
 ---
 title: "Vigil of Prayer"
 post-date: 2020-05-02
-exp-date: 2020-05-03
+exp-date: 2020-05-02
 fawe: "fas fa-praying-hands"
 tags: [event]
 ---

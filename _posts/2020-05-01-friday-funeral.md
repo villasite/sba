@@ -8,7 +8,3 @@ tags: [event]
 **11:30 AM**
 
 There will be a funeral ritual for Mattie Parker via Zoom.
-
-**Meeting ID: 820 4085 3876**
-<br>
-**Passcode: 561 302**

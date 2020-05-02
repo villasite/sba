@@ -8,7 +8,7 @@ image: "church-entrance-door-closeup.jpg"
 categories: [Reflections]
 tags: [writing]
 permalink: "adult-faith-formation/:title"
-meta: ""
+meta: "Recap the bible study led Sister Joanne Delehanty, OP on the Gospel for the Third Sunday of Easter (Luke 24:13-35)."
 ---
 Recap the bible study led Sister Joanne Delehanty, OP on the Gospel for the Third Sunday of Easter (Luke 24:13-35).
 <!--more-->
