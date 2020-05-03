@@ -14,7 +14,11 @@ Recap the bible study led Sister Joanne Delehanty, OP on Acts 2:14A, 36-41(first
 <!--more-->
 
 <div class="embed-responsive embed-responsive-4by3">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/v=crwTZ_Iksj4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Gw12HD1TgOs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div class="embed-responsive embed-responsive-4by3">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/crwTZ_Iksj4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
