@@ -8,9 +8,9 @@ image: "wooden-lamb.jpg"
 categories: [Reflections]
 tags: [writing]
 permalink: "adult-faith-formation/:title"
-meta: "The people needed a Good Shepherd. And so, Jesus came from heaven to earth. If you want to live right you have to always put God in the picture. Today is Sunday snd this particular Sunday is a chance to put God in your fourth week of Easter."
+meta: "The people needed a Good Shepherd. And so, Jesus came from heaven to earth. If you want to live right you have to always put God in the picture. Today is Sunday and this particular Sunday is a chance to put God in your fourth week of Easter."
 ---
-The people needed a Good Shepherd. And so, Jesus came from heaven to earth. If you want to live right you have to always put God in the picture. Today is Sunday snd this particular Sunday is a chance to put God in your fourth week of Easter.
+The people needed a Good Shepherd. And so, Jesus came from heaven to earth. If you want to live right you have to always put God in the picture. Today is Sunday and this particular Sunday is a chance to put God in your fourth week of Easter.
 <!--more-->
 
 For some people today is just another day
