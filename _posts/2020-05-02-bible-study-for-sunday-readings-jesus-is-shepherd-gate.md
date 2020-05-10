@@ -10,7 +10,7 @@ tags: [writing]
 permalink: "adult-faith-formation/:title"
 meta: "Recap the bible study led Sister Joanne Delehanty, OP on Acts 2:14A, 36-41(first reading) and John 10:1-10 (Gospel reading); the readings for the Fourth Sunday of Easter."
 ---
-Recap the bible study led Sister Joanne Delehanty, OP on Acts 2:14A, 36-41(first reading) and John 10:1-10 (Gospel reading); the readings for the Fourth Sunday of Easter.
+Recap the bible study led by Sister Joanne Delehanty, OP on Acts 2:14A, 36-41(first reading) and John 10:1-10 (Gospel reading); the readings for the Fourth Sunday of Easter.
 <!--more-->
 
 <div class="embed-responsive embed-responsive-4by3">

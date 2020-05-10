@@ -1,7 +1,7 @@
 ---
 title: "Mary, the Mother of God"
 post-date: 2020-05-09
-exp-date: 2020-05-10
+exp-date: 2020-05-09
 fawe: "fas fa-cross"
 tags: [event]
 ---
