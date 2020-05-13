@@ -1,7 +1,7 @@
 ---
 title: "Community Service and the Church"
 post-date: 2020-05-11
-exp-date: 2020-05-12
+exp-date: 2020-05-11
 fawe: "fas fa-hands-helping"
 tags: [event]
 ---
