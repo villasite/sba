@@ -1,7 +1,7 @@
 ---
 title: "The Making of the Masks"
 post-date: 2020-05-13
-exp-date: 2020-05-14
+exp-date: 2020-05-13
 fawe: "fas fa-head-side-mask"
 tags: [event]
 ---
