@@ -1,7 +1,7 @@
 ---
 title: "Sunday Mass"
 post-date: 2020-05-17
-exp-date: 2020-05-18
+exp-date: 2020-05-17
 fawe: "fas fa-church"
 tags: [event]
 ---

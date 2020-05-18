@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Receiving the Advocate"
-subtitle: ""
+subtitle: "Understanding the Holy Spirit"
 post-date: 2020-05-17
 author: "Sister Joanne Delehanty, OP"
 image: "jesus-christ-on-dove.jpg"
 categories: [Reflections]
 tags: [writing]
 permalink: "adult-faith-formation/:title"
-meta: ""
+meta: "Recap the bible study led by Sister Joanne Delehanty, OP on the Acts of the Apostles 8:5-8, 14-17 (first reading) and John 14:23 (Gospel reading); readings for the Sixth Sunday of Easter."
 ---
 Recap the bible study led by Sister Joanne Delehanty, OP on the Acts of the Apostles 8:5-8, 14-17 (first reading) and John 14:23 (Gospel reading); readings for the Sixth Sunday of Easter.
 <!--more-->
