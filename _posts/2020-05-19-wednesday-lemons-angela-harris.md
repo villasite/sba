@@ -1,7 +1,7 @@
 ---
 title: "Lemons to Lemonade"
 post-date: 2020-05-20
-exp-date: 2020-05-21
+exp-date: 2020-05-20
 fawe: "fas fa-lemon"
 tags: [event]
 ---

@@ -7,7 +7,7 @@ tags: [event]
 ---
 **12 PM**
 
-We welcome Dr. Donna Perisse McFarland for this discussion on COVID-19. Part of the "On Time God Online" series.
+We welcome Dr. Donna Perisse McFarlane for this discussion on COVID-19. Part of the "On Time God Online" series.
 
 **Meeting ID: 979 480 457**
 <br>
