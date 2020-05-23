@@ -1,7 +1,7 @@
 ---
 title: "12 Gifts of Tolton Spirituality"
 post-date: 2020-05-21
-exp-date: 2020-05-22
+exp-date: 2020-05-21
 fawe: "fas fa-gifts"
 tags: [event]
 ---

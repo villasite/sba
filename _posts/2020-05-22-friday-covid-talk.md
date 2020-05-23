@@ -1,7 +1,7 @@
 ---
 title: "COVID-19: Before and After"
 post-date: 2020-05-22
-exp-date: 2020-05-23
+exp-date: 2020-05-22
 fawe: "fas fa-user-md"
 tags: [event]
 ---
