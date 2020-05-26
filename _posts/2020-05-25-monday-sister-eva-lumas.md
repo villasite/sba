@@ -1,7 +1,7 @@
 ---
 title: "Prayer Life & Charism"
 post-date: 2020-05-25
-exp-date: 2020-05-26
+exp-date: 2020-05-25
 fawe: "fas fa-pray"
 tags: [event]
 ---
