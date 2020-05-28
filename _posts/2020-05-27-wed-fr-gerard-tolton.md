@@ -1,7 +1,7 @@
 ---
 title: "Tolton Spirituality: Eucharistic Being"
 post-date: 2020-05-27
-exp-date: 2020-05-28
+exp-date: 2020-05-27
 fawe: "fas fa-cross"
 tags: [event]
 ---
