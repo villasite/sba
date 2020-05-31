@@ -1,7 +1,7 @@
 ---
 title: "Unbreaking the Circle"
 post-date: 2020-05-30
-exp-date: 2020-05-31
+exp-date: 2020-05-30
 fawe: "fas fa-circle-notch"
 tags: [event]
 ---
