@@ -1,5 +1,5 @@
 ---
-title: "Scripture Study"
+title: "Bible Study"
 post-date: 2020-06-02
 exp-date: 2020-06-03
 fawe: "fas fa-bible"
