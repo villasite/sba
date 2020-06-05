@@ -1,7 +1,7 @@
 ---
 title: "Black Catholic Theology"
 post-date: 2020-06-05
-exp-date: 2020-06-06
+exp-date: 2020-06-05
 fawe: "fas fa-globe-africa"
 tags: [event]
 ---

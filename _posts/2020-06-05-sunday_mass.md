@@ -9,7 +9,6 @@ tags: [event]
 
 Solemnity of the Most Holy Trinity Mass.
 
-<p class="text-danger"><b>Meeting ID</b>: 831 1388 8867
+**Meeting ID: 979 480 457**
 <br>
-<b>Passcode</b>: 219 383
-</p>
+**Passcode: 723 749**

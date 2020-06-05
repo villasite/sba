@@ -7,7 +7,7 @@ tags: [event]
 ---
 **12 PM**
 
-Join us for a session at noon (CDT) as we gather as a church family. Part of the "On Time God Online" series.
+Join us for this talk by our honored guest William E. Hall, the Senior Pastor of St. James Church in Chicago, IL. Part of the "On Time God Online" series.
 
 <p class="text-danger"><b>Meeting ID</b>: 831 1388 8867
 <br>
