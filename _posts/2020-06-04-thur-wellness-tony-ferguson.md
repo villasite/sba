@@ -1,7 +1,7 @@
 ---
 title: "Wellness Lifestyle"
 post-date: 2020-06-04
-exp-date: 2020-06-05
+exp-date: 2020-06-04
 fawe: "fas fa-heart"
 tags: [event]
 ---
