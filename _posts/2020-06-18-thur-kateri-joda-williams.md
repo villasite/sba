@@ -1,7 +1,7 @@
 ---
 title: "Black Catholic Ministry"
 post-date: 2020-06-18
-exp-date: 2020-06-19
+exp-date: 2020-06-18
 fawe: "fas fa-cross"
 tags: [event]
 ---

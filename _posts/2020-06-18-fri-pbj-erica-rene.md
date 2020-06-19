@@ -13,7 +13,7 @@ Today's featured artist is <b>Erica Rene</b>. A passion for opera, jazz, gospel,
 
 Join us through <a href="http://facebook.com/sbaparish" target="_blank">Facebook Live</a> or with Zoom with the following info:
 
-<p class="text-info"><b>Meeting ID</b>: 880 3852 7308
+<p class="text-danger"><b>Meeting ID</b>: 831 1388 8867
 <br>
-<b>Passcode</b>: 393 476
+<b>Passcode</b>: 219 383
 </p>
