@@ -1,7 +1,7 @@
 ---
 title: "Juneteenth Praise Break & Jam"
 post-date: 2020-06-19
-exp-date: 2020-06-20
+exp-date: 2020-06-19
 fawe: "fas fa-fist-raised"
 tags: [event]
 ---

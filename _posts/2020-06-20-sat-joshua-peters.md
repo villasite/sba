@@ -1,7 +1,7 @@
 ---
 title: "Ordination: Joshua Peters, SJ"
 post-date: 2020-06-20
-exp-date: 2020-06-21
+exp-date: 2020-06-20
 fawe: "fas fa-praying-hands"
 tags: [event]
 ---
