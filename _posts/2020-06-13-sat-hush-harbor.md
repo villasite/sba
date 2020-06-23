@@ -7,7 +7,7 @@ tags: [event]
 ---
 **12 PM**
 
-Join us for a presentation on Negro spirituals and spoken words. Part of the "On Time God Online" series.
+Join us for a presentation of Negro spirituals and spoken words. Part of the "On Time God Online" series.
 
 <p class="text-danger"><b>Meeting ID</b>: 831 1388 8867
 <br>

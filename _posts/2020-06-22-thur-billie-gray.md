@@ -1,5 +1,5 @@
 ---
-title: "Grief Programs for Black Peoples"
+title: "Grieving in Black Community"
 post-date: 2020-06-25
 exp-date: 2020-06-26
 fawe: "fas fa-cross"
