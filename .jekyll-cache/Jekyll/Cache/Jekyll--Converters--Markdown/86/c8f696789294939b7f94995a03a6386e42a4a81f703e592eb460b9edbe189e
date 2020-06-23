@@ -1,4 +1,9 @@
-I"t<p>Praise Break &amp; Jam is a platform for young artists who love to <em>priase</em> with their music, <em>break</em> it down to the people, and <em>jam</em> out with their audiences. All artist performing in this series have been asked to choose a local African American organization of their choice serving our communities and children.</p>
+I"»<section class="no-padding">
+  <img src="/img/sanctuary-hut-mass.jpg" class="img-fluid cutoff-bottom" alt="sanctuary" />
+</section>
+
+<div class="container top-buffer bottom-buffer">
+<p>Praise Break &amp; Jam is a platform for young artists who love to <i>priase</i> with their music, <i>break</i> it down to the people, and <i>jam</i> out with their audiences. All artist performing in this series have been asked to choose a local African American organization of their choice serving our communities and children.</p>
 <section class="no-padding" id="pbj">
 
 <div class="container">
@@ -6,11 +11,11 @@
 	<div class="col-sm-6 text-center">
 		<div class="panel panel-default">
 		  <div class="panel-body">
-			<a href="https://www.facebook.com/SBAParish/videos/577276383166242" target="_blank">
+			<a href="https://www.facebook.com/SBAParish/videos/549913945704854" target="_blank">
 			  <img class="center-block img-thumbnail" src="https://scontent-den4-1.cdninstagram.com/v/t51.2885-15/e35/p1080x1080/103736464_2554734191432179_6542613015687804349_n.jpg?_nc_ht=scontent-den4-1.cdninstagram.com&amp;_nc_cat=107&amp;_nc_ohc=ioS6kASqkWMAX_mm2QO&amp;oh=114654d82502edc894d0823773b47be4&amp;oe=5F1784AE" alt="flyer for artist Erica Rene's Juneteenth PBJ performance" />
 			  <h3>Erica Rene</h3>
 			</a>
-			<p></p>
+			<p>In the second installment of this series, Erica Rene lent her talented voice alongside Errick Starr on the piano for this remarkable Juneteenth performance.</p>
 		  </div>
 		</div>
 	</div>
@@ -31,5 +36,19 @@
 
 
 </section>
-<p>Supporting, celebrating, and encouraging young artists within the greater Chicago land area.</p>
+</div>
+<section class="bg-info" id="donate">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+                <h2 class="section-heading">Contribute</h2>
+                <hr />
+                <p>
+                    Supporting, celebrating, and encouraging young artists within the greater Chicago land area.
+                </p>
+                &lt;a href="https://www.givecentral.org/location/69/event/2871" target="_blank"" class="btn btn-default btn-xl"&gt;Donate Now&lt;/a&gt;
+            </div>
+        </div>
+    </div>
+</section>
 :ET
