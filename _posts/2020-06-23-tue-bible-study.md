@@ -1,7 +1,7 @@
 ---
 title: "Bible Study"
 post-date: 2020-06-23
-exp-date: 2020-06-24
+exp-date: 2020-06-23
 fawe: "fas fa-bible"
 tags: [event, aff]
 label: "Adult Faith Formation"
