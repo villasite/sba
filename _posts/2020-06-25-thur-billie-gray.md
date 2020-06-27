@@ -1,7 +1,7 @@
 ---
 title: "Grieving in Black Community"
 post-date: 2020-06-25
-exp-date: 2020-06-26
+exp-date: 2020-06-25
 fawe: "fas fa-cross"
 tags: [event]
 ---

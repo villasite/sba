@@ -1,7 +1,7 @@
 ---
 title: "Theology and the Black Community"
 post-date: 2020-06-26
-exp-date: 2020-06-27
+exp-date: 2020-06-26
 fawe: "fas fa-globe-africa"
 tags: [event]
 ---
