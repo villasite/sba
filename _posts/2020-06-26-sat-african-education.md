@@ -7,7 +7,7 @@ tags: [event]
 ---
 **12 PM**
 
-We are honored to have Ms. Jocelyn Mills, Principal of Barbara A. Sizemore Academy (located on St. Benedict the African's campus) as our guest presenter today. Part of our "On Time God Online" series.
+We are honored to have Ms. Jocelyn Mills, Principal of Barbara A. Sizemore Academy located on St. Benedict the African's campus as our guest presenter today. Part of our "On Time God Online" series.
 
 <p class="text-danger"><b>Meeting ID</b>: 831 1388 8867
 <br>
