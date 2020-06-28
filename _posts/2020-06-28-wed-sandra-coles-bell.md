@@ -7,7 +7,7 @@ tags: [event]
 ---
 **12 PM**
 
-We welcome Sandra Coles-Bell, Program Director Office of Cultural Diversity and Outreach, Office of Vicar General and Moderator of Ethnic Ministries, Archdiocese of Washington today. Part our "On Time God Online" series.
+We welcome Mrs. Sandra Coles-Bell, Program Director Office of Cultural Diversity and Outreach, Office of Vicar General and Moderator of Ethnic Ministries, Archdiocese of Washington today. Part our "On Time God Online" series.
 
 <p class="text-danger"><b>Meeting ID</b>: 831 1388 8867
 <br>

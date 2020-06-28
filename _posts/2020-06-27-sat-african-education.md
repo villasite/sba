@@ -1,7 +1,7 @@
 ---
 title: "An Introduction to an African Centered Education"
 post-date: 2020-06-27
-exp-date: 2020-06-28
+exp-date: 2020-06-27
 fawe: "fas fa-school"
 tags: [event]
 ---
