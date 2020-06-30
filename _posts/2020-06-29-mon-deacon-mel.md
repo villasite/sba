@@ -1,7 +1,7 @@
 ---
 title: "The Significance of an Indigenous Clergy"
 post-date: 2020-06-29
-exp-date: 2020-06-30
+exp-date: 2020-06-29
 fawe: "fas fa-hands"
 tags: [event]
 ---
