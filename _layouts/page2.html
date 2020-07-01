@@ -24,7 +24,11 @@
       {{ content }}
     </div>
   </div>
+
+{% unless page.title == "Contribute" %}
   {% include donate.html %}
+{% endunless %}
+
   {% include ig-banner.html %}
   {% include contact.html %}
   {% include scripts.html %}
