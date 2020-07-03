@@ -1,7 +1,7 @@
 ---
 title: "Catholic Leadership in the Real World"
 post-date: 2020-07-01
-exp-date: 2020-07-02
+exp-date: 2020-07-01
 fawe: "fas fa-globe-americas"
 tags: [event]
 ---

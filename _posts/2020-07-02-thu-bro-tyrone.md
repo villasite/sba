@@ -1,7 +1,7 @@
 ---
 title: "On the Office of Black Ministry"
 post-date: 2020-07-02
-exp-date: 2020-07-03
+exp-date: 2020-07-02
 fawe: "fas fa-cross"
 tags: [event]
 ---
