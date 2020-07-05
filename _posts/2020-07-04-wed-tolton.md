@@ -7,7 +7,7 @@ tags: [event]
 ---
 **12 PM**
 
-Join Rev. Canon, A. Gerard Jordan, O. Praem for another inspiring discussion on Tolton Spirituality. Part of our "On Time God Online" series.
+Join Rev. Canon, A. Gerard Jordan, O. Praem for another inspiring discussion on Tolton Spirituality: Active in Ministry. Part of our "On Time God Online" series.
 
 <p class="text-danger"><b>Meeting ID</b>: 831 1388 8867
 <br>
