@@ -1,7 +1,7 @@
 ---
 title: "Monday Morning Quarterbacking"
 post-date: 2020-07-06
-exp-date: 2020-07-07
+exp-date: 2020-07-06
 fawe: "fas fa-history"
 tags: [event]
 ---

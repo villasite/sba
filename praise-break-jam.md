@@ -5,7 +5,7 @@ subtitle: "St. Benedict the African's Art Iniative"
 meta: "Praise Break & Jam is a platform for young artists who love to priase with their music, break it down to the people, and jam out with their audiences."
 ---
 <section class="no-padding">
-  <img src="{{ site.baseurl }}/img/sanctuary-hut-mass.jpg" class="img-fluid cutoff-bottom" alt="sanctuary">
+  <img src="{{ site.baseurl }}/img/praise-break-jam-banner.png" class="img-fluid cutoff-bottom" alt="sanctuary">
 </section>
 
 <div class="container top-buffer bottom-buffer">
