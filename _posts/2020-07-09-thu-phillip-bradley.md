@@ -1,7 +1,7 @@
 ---
 title: "Non-Violence Works"
 post-date: 2020-07-09
-exp-date: 2020-07-10
+exp-date: 2020-07-09
 fawe: "fas fa-cross"
 tags: [event]
 ---

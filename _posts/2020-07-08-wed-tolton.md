@@ -1,7 +1,7 @@
 ---
 title: "Tolton Spirituality"
 post-date: 2020-07-08
-exp-date: 2020-07-09
+exp-date: 2020-07-08
 fawe: "fas fa-dove"
 tags: [event]
 ---
