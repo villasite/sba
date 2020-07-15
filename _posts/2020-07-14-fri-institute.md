@@ -1,7 +1,7 @@
 ---
 title: "Praying with and for the Institute of Black Catholic Studies"
-post-date: 2020-07-16
-exp-date: 2020-07-17
+post-date: 2020-07-17
+exp-date: 2020-07-18
 fawe: "fas fa-cross"
 tags: [event]
 ---
