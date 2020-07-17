@@ -1,7 +1,7 @@
 ---
 title: "Catholic Recall"
 post-date: 2020-07-16
-exp-date: 2020-07-17
+exp-date: 2020-07-16
 fawe: "fas fa-hands"
 tags: [event]
 ---
