@@ -39,6 +39,7 @@ meta: "And this is how we got here. Because of boys and girls who weren’t rais
 >And lead me home
 >
 > -- <cite>"Precious Lord, Take My Hand" by Thomas Dorsey</cite>
+<!--more-->
 
 I didn’t know what to say today 
 
