@@ -1,13 +1,13 @@
 ---
 title: "Sunday Mass"
-post-date: 2020-07-19
-exp-date: 2020-07-19
+post-date: 2020-07-26
+exp-date: 2020-07-27
 fawe: "fas fa-church"
 tags: [event]
 ---
 **12 PM**
 
-Sixteenth Sunday in Ordinary Time
+Seventeenth Sunday in Ordinary Time
 
 <p class="text-danger"><b>Meeting ID</b>: 831 1388 8867
 <br>
