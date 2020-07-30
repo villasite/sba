@@ -1,7 +1,7 @@
 ---
 title: "A Black Catholic Parish: A Need or Want?"
 post-date: 2020-07-27
-exp-date: 2020-07-28
+exp-date: 2020-07-27
 fawe: "fas fa-place-of-worship"
 tags: [event]
 ---
