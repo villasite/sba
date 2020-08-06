@@ -1,7 +1,7 @@
 ---
 title: "The Causes of Saints"
 post-date: 2020-08-05
-exp-date: 2020-08-06
+exp-date: 2020-08-05
 fawe: "fas fa-praying-hands"
 tags: [event]
 ---
