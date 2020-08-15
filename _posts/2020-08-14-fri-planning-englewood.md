@@ -1,7 +1,7 @@
 ---
 title: "Planning Englewood"
 post-date: 2020-08-14
-exp-date: 2020-08-15
+exp-date: 2020-08-14
 fawe: "fas fa-comments"
 tags: [event]
 ---
