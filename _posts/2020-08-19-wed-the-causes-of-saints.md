@@ -1,7 +1,7 @@
 ---
 title: "The Cause"
 post-date: 2020-08-19
-exp-date: 2020-08-20
+exp-date: 2020-08-19
 fawe: "fas fa-praying-hands"
 tags: [event]
 ---
