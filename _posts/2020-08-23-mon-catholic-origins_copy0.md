@@ -7,7 +7,7 @@ tags: [event]
 ---
 **12 PM**
 
-Join today's session on Catholic Origin Stories. Part of our "On Time God Online" series.
+Join today's session on Catholic Origin Stories highlighting a parishioner's life in Christ. Part of our "On Time God Online" series.
 
 <p class="text-danger"><b>Meeting ID</b>: 831 1388 8867
 <br>
