@@ -1,7 +1,7 @@
 ---
 title: "Parish Counsel"
 post-date: 2020-08-27
-exp-date: 2020-08-28
+exp-date: 2020-08-27
 fawe: "fas fa-city"
 tags: [event]
 ---
