@@ -1,7 +1,7 @@
 ---
 title: "Planning Englewood - Health Care"
 post-date: 2020-08-28
-exp-date: 2020-08-29
+exp-date: 2020-08-28
 fawe: "fas fa-comments"
 tags: [event]
 ---
