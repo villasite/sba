@@ -1,7 +1,7 @@
 ---
 title: "Tolton's Legacy: A Road Map to Unity"
 post-date: 2020-08-29
-exp-date: 2020-08-30
+exp-date: 2020-08-29
 fawe: "fas fa-road"
 tags: [event]
 ---
