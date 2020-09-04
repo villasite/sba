@@ -1,7 +1,7 @@
 ---
 title: "Parish Council- Welcoming Committee"
 post-date: 2020-09-03
-exp-date: 2020-09-04
+exp-date: 2020-09-03
 fawe: "fas fa-city"
 tags: [event]
 ---

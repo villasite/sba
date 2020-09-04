@@ -1,7 +1,7 @@
 ---
 title: "Planning Englewood - Catholic Charities"
 post-date: 2020-09-04
-exp-date: 2020-09-05
+exp-date: 2020-09-04
 fawe: "fas fa-comments"
 tags: [event]
 ---
