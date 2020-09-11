@@ -1,7 +1,7 @@
 ---
 title: "The Diaconate – Deacon Kurt Davis"
 post-date: 2020-09-10
-exp-date: 2020-09-11
+exp-date: 2020-09-10
 fawe: "fas fa-cross"
 tags: [event]
 ---
