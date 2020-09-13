@@ -1,7 +1,7 @@
 ---
 title: "Planning Englewood - Policing"
 post-date: 2020-09-11
-exp-date: 2020-09-12
+exp-date: 2020-09-11
 fawe: "fas fa-comments"
 tags: [event]
 ---
