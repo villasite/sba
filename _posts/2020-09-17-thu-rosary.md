@@ -1,7 +1,7 @@
 ---
 title: "Praying with the Mother of God"
 post-date: 2020-09-17
-exp-date: 2020-09-18
+exp-date: 2020-09-17
 fawe: "fas fa-pray"
 tags: [event]
 ---
