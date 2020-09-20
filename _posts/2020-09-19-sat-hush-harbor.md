@@ -1,7 +1,7 @@
 ---
 title: "Hush Harbor"
 post-date: 2020-09-19
-exp-date: 2020-09-20
+exp-date: 2020-09-19
 fawe: "fas fa-volume-up"
 tags: [event]
 ---
