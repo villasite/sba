@@ -1,7 +1,7 @@
 ---
 title: "Planning Englewood – City Planning"
 post-date: 2020-10-02
-exp-date: 2020-10-03
+exp-date: 2020-10-02
 fawe: "fas fa-city"
 tags: [event]
 ---
