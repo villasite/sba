@@ -1,0 +1,15 @@
+---
+title: "The Cause"
+post-date: 2020-10-07
+exp-date: 2020-10-08
+fawe: "fas fa-praying-hands"
+tags: [event]
+---
+**12 PM**
+
+Join Rev. Canon, A. Gerard Jordan, O. Praem for a discussion on the Causes of Saints.
+
+<p class="text-danger"><b>Meeting ID</b>: 831 1388 8867
+<br>
+<b>Passcode</b>: 219 383
+</p>

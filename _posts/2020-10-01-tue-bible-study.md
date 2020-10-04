@@ -9,7 +9,7 @@ txt: "adult-faith-formation"
 ---
 **12 PM**
 
-Join Sister Joanne Delehanty, OP as she expands on this upcomming Sunday's readings. Part of the "On Time God Online" series.
+Join Sister Joanne Delehanty, OP as she expands on this upcomming Sunday's readings.
 
 <p class="text-danger"><b>Meeting ID</b>: 831 1388 8867
 <br>
