@@ -1,7 +1,7 @@
 ---
 title: "Racism in the Church Follow-up"
 post-date: 2020-10-08
-exp-date: 2020-10-09
+exp-date: 2020-10-08
 fawe: "fas fa-place-of-worship"
 tags: [event]
 ---
