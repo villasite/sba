@@ -1,7 +1,7 @@
 ---
 title: "Creating a Caregivers Program"
 post-date: 2020-10-09
-exp-date: 2020-10-10
+exp-date: 2020-10-09
 fawe: "fas fa-hand-holding"
 tags: [event]
 ---
