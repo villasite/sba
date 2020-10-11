@@ -1,7 +1,7 @@
 ---
 title: "Hush Harbor"
 post-date: 2020-10-10
-exp-date: 2020-10-11
+exp-date: 2020-10-10
 fawe: "fas fa-bullhorn"
 tags: [event, music]
 label: "Music"
