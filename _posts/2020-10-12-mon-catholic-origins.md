@@ -1,7 +1,7 @@
 ---
 title: "Catholic Origin Stories"
 post-date: 2020-10-12
-exp-date: 2020-10-13
+exp-date: 2020-10-12
 fawe: "fas fa-cross"
 tags: [event]
 ---
