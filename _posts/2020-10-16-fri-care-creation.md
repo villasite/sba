@@ -1,7 +1,7 @@
 ---
 title: "Care for Creation"
 post-date: 2020-10-16
-exp-date: 2020-10-17
+exp-date: 2020-10-16
 fawe: "fas fa-hand-holding-heart"
 tags: [event]
 ---
