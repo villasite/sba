@@ -1,7 +1,7 @@
 ---
 title: "How to Leave a Parish"
 post-date: 2020-10-21
-exp-date: 2020-10-22
+exp-date: 2020-10-21
 fawe: "fas fa-place-of-worship"
 tags: [event]
 ---
