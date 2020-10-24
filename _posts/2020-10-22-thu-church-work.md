@@ -1,7 +1,7 @@
 ---
 title: "Church Work – What is it?"
 post-date: 2020-10-22
-exp-date: 2020-10-23
+exp-date: 2020-10-22
 fawe: "fas fa-tools"
 tags: [event]
 ---

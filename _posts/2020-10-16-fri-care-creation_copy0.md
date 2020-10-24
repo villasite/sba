@@ -1,13 +1,13 @@
 ---
-title: "Care for Creation"
-post-date: 2020-10-23
-exp-date: 2020-10-24
-fawe: "fas fa-hand-holding-heart"
+title: "The Pope of Englewood"
+post-date: 2020-10-30
+exp-date: 2020-10-31
+fawe: "fas fa-cross"
 tags: [event]
 ---
 **12 PM**
 
-Care for Creation will be the focus of today's session.
+The Pope of Englewood will be the focus of today's session.
 
 <p class="text-danger"><b>Meeting ID</b>: 894 1589 5742
 <br>
