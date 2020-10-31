@@ -1,7 +1,7 @@
 ---
 title: "The Pope of Englewood"
 post-date: 2020-10-30
-exp-date: 2020-10-31
+exp-date: 2020-10-30
 fawe: "fas fa-cross"
 tags: [event]
 ---
