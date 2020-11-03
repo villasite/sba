@@ -1,13 +1,13 @@
 ---
 title: "Sunday Mass"
-post-date: 2020-11-01
-exp-date: 2020-11-02
+post-date: 2020-11-08
+exp-date: 2020-11-09
 fawe: "fas fa-church"
 tags: [event]
 ---
 **12 PM**
 
-Join us as we celebrate Mass for the Solemnity of All Saints.
+Join us as we celebrate Mass for the Thirty-second Sunday in Ordinary Time.
 
 <p class="text-danger"><b>Meeting ID</b>: 894 1589 5742
 <br>

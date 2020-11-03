@@ -1,7 +1,7 @@
 ---
 title: " Catholic Origin Stories - Sr. Jamie Phelps, OP"
 post-date: 2020-11-02
-exp-date: 2020-11-03
+exp-date: 2020-11-02
 fawe: "fas fa-book-open"
 tags: [event]
 ---
