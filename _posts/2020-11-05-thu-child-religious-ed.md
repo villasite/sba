@@ -1,7 +1,7 @@
 ---
 title: "Children's Religious Education"
 post-date: 2020-11-05
-exp-date: 2020-11-06
+exp-date: 2020-11-05
 fawe: "fas fa-school"
 tags: [event]
 ---

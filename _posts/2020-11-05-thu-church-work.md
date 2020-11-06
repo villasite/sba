@@ -1,7 +1,7 @@
 ---
 title: "Church Work –  It’s what God wants done"
 post-date: 2020-11-05
-exp-date: 2020-11-06
+exp-date: 2020-11-05
 fawe: "fas fa-tools"
 tags: [event]
 ---
