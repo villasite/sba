@@ -1,7 +1,7 @@
 ---
 title: "The Church of Englewood"
 post-date: 2020-11-06
-exp-date: 2020-11-07
+exp-date: 2020-11-06
 fawe: "fas fa-cross"
 tags: [event]
 ---
