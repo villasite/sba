@@ -1,7 +1,7 @@
 ---
 title: "Zoom at Noon"
 post-date: 2020-11-09
-exp-date: 2020-11-10
+exp-date: 2020-11-09
 fawe: "fas fa-cross"
 tags: [event]
 ---
