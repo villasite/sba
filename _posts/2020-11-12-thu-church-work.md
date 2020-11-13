@@ -1,7 +1,7 @@
 ---
 title: "More grief – Reconnect with Billie Gray"
 post-date: 2020-11-12
-exp-date: 2020-11-13
+exp-date: 2020-11-12
 fawe: "fas fa-heart-broken"
 tags: [event]
 ---
