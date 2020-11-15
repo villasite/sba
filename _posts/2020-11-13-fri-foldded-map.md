@@ -1,7 +1,7 @@
 ---
 title: "The Folded Map Project in Englewood"
 post-date: 2020-11-13
-exp-date: 2020-11-14
+exp-date: 2020-11-13
 fawe: "fas fa-map-marked-alt"
 tags: [event]
 ---
