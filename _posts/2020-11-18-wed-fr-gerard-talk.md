@@ -1,7 +1,7 @@
 ---
 title: "How to Join A Parish - Part 3"
 post-date: 2020-11-18
-exp-date: 2020-11-19
+exp-date: 2020-11-18
 fawe: "fas fa-place-of-worship"
 tags: [event]
 ---
