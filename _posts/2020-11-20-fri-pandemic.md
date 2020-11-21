@@ -1,7 +1,7 @@
 ---
 title: "The Pandemic in Englewood"
 post-date: 2020-11-20
-exp-date: 2020-11-21
+exp-date: 2020-11-20
 fawe: "fas fa-hospital-alt"
 tags: [event]
 ---

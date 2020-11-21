@@ -1,0 +1,15 @@
+---
+title: "Thanksgiving Mass"
+post-date: 2020-11-26
+exp-date: 2020-11-27
+fawe: "fas fa-cross"
+tags: [event]
+---
+**12 PM**
+
+Join us today as we celebrate a Thanksgiving Mass.
+
+<p class="text-danger"><b>Meeting ID</b>: 894 1589 5742
+<br>
+<b>Passcode</b>: 636 489
+</p>

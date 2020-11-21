@@ -1,7 +1,7 @@
 ---
 title: "What’s the Good News on Zoom"
 post-date: 2020-11-19
-exp-date: 2020-11-20
+exp-date: 2020-11-19
 fawe: "fas fa-desktop"
 tags: [event]
 ---
