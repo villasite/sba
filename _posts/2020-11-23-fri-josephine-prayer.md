@@ -1,13 +1,13 @@
 ---
-title: "Advent Games"
+title: "Praying for the Deceased"
 post-date: 2020-11-27
 exp-date: 2020-11-28
-fawe: "fas fa-puzzle-piece"
+fawe: "fas fa-praying-hands"
 tags: [event]
 ---
 **12 PM**
 
-Join us today for some fun with Advent Games.
+We will dedicated this session in prayer as community for the passing of Ms. Josephine's mother.
 
 <p class="text-danger"><b>Meeting ID</b>: 894 1589 5742
 <br>

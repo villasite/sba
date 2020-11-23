@@ -1,13 +1,13 @@
 ---
 title: "Sunday Mass"
-post-date: 2020-11-22
-exp-date: 2020-11-22
+post-date: 2020-11-29
+exp-date: 2020-11-30
 fawe: "fas fa-church"
 tags: [event]
 ---
 **12 PM**
 
-Join us as we celebrate Mass for the Solemnity of Our Lord Jesus Christ, King of the Universe.
+Join us as we celebrate Mass for the First Sunday of Advent.
 
 <p class="text-danger"><b>Meeting ID</b>: 894 1589 5742
 <br>
