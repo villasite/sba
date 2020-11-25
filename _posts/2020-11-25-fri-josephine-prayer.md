@@ -7,7 +7,7 @@ tags: [event]
 ---
 **12 PM**
 
-We will dedicated this session in prayer as community for the passing of Ms. Josephine's mother.
+We will dedicate this session in prayer as community for the passing of Ms. Josephine's mother.
 
 <p class="text-danger"><b>Meeting ID</b>: 894 1589 5742
 <br>
