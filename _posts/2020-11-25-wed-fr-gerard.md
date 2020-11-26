@@ -1,7 +1,7 @@
 ---
 title: " The Liturgical Year"
 post-date: 2020-11-25
-exp-date: 2020-11-26
+exp-date: 2020-11-25
 fawe: "fas fa-calendar-alt"
 tags: [event]
 ---
