@@ -1,7 +1,7 @@
 ---
 title: "Wedding Anniversary - Mr. and Mrs. Eiland"
 post-date: 2020-11-27
-exp-date: 2020-11-28
+exp-date: 2020-11-27
 fawe: "fas fa-ring"
 tags: [event]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Praying for the Deceased"
 post-date: 2020-11-27
-exp-date: 2020-11-28
+exp-date: 2020-11-27
 fawe: "fas fa-praying-hands"
 tags: [event]
 ---
