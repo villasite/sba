@@ -1,8 +1,8 @@
 ---
-title: "Hush Harbor"
+title: "The Advent Hush Harbor"
 post-date: 2020-12-05
 exp-date: 2020-12-06
-fawe: "fas fa-bullhorn"
+fawe: "fas fa-holly-berry"
 tags: [event, music]
 label: "Music"
 txt: "music"
