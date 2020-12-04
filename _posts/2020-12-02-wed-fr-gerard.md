@@ -1,7 +1,7 @@
 ---
 title: "The Seven Sacraments"
 post-date: 2020-12-02
-exp-date: 2020-12-03
+exp-date: 2020-12-02
 fawe: "fas fa-dove"
 tags: [event]
 ---
