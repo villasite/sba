@@ -1,7 +1,7 @@
 ---
 title: "See Me! Seniors on the MOVE"
 post-date: 2020-12-04
-exp-date: 2020-12-05
+exp-date: 2020-12-04
 fawe: "fas fa-hands-helping"
 tags: [event]
 ---
