@@ -1,7 +1,7 @@
 ---
 title: "Advent Workshop"
 post-date: 2020-12-06
-exp-date: 2020-12-07
+exp-date: 2020-12-06
 fawe: "fas fa-hands"
 tags: [event]
 ---

@@ -1,13 +1,13 @@
 ---
 title: "Sunday Mass"
-post-date: 2020-12-06
-exp-date: 2020-12-06
+post-date: 2020-12-13
+exp-date: 2020-12-14
 fawe: "fas fa-church"
 tags: [event]
 ---
 **12 PM**
 
-Join us as we celebrate Mass for the Second Sunday of Advent.
+Join us as we celebrate Mass for the Third Sunday of Advent.
 
 <p class="text-danger"><b>Meeting ID</b>: 894 1589 5742
 <br>
