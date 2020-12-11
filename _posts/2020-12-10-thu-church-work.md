@@ -1,7 +1,7 @@
 ---
 title: "Mother to Son – Why join the church?"
 post-date: 2020-12-10
-exp-date: 2020-12-11
+exp-date: 2020-12-10
 fawe: "fas fa-place-of-worship"
 tags: [event]
 ---
