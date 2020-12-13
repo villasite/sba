@@ -1,7 +1,7 @@
 ---
 title: "The Advent Hush Harbor"
 post-date: 2020-12-12
-exp-date: 2020-12-13
+exp-date: 2020-12-12
 fawe: "fas fa-holly-berry"
 tags: [event, music]
 label: "Music"
