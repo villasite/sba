@@ -1,7 +1,7 @@
 ---
 title: "Catholic Origin Stories with the Poet Laureate of Illinois"
 post-date: 2020-12-14
-exp-date: 2020-12-15
+exp-date: 2020-12-14
 fawe: "fas fa-book-open"
 tags: [event]
 ---

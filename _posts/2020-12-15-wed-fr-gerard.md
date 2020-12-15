@@ -9,7 +9,7 @@ txt: "adult-faith-formation"
 ---
 **12 PM**
 
-Join Rev. Canon, A. Gerard Jordan, O. Praem as he presents on the seven sacraments like you never seen before.
+Join Rev. Canon, A. Gerard Jordan, O. Praem as he continues his presentation on the seven sacraments like you never seen before.
 
 <p class="text-danger"><b>Meeting ID</b>: 894 1589 5742
 <br>

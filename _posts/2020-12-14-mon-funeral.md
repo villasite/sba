@@ -1,7 +1,7 @@
 ---
 title: "Mass of Christian Burial for Joe Winfield Sr."
 post-date: 2020-12-14
-exp-date: 2020-12-15
+exp-date: 2020-12-14
 fawe: "fas fa-cross"
 tags: [event]
 ---
