@@ -1,13 +1,13 @@
 ---
 title: "Sunday Mass"
-post-date: 2020-12-20
-exp-date: 2020-12-20
+post-date: 2020-12-27
+exp-date: 2020-12-28
 fawe: "fas fa-church"
 tags: [event]
 ---
 **12 PM**
 
-Join us as we celebrate Mass for the Fourth Sunday of Advent.
+Join us as we celebrate Mass for the Holy Family of Jesus, Mary and Joseph.
 
 <p class="text-danger"><b>Meeting ID</b>: 894 1589 5742
 <br>
