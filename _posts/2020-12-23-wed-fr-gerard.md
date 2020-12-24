@@ -1,7 +1,7 @@
 ---
 title: "The Sacraments"
 post-date: 2020-12-23
-exp-date: 2020-12-24
+exp-date: 2020-12-23
 fawe: "fas fa-dove"
 tags: [event, aff]
 label: "Adult Faith Formation"
