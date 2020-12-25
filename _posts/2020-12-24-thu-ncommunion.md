@@ -1,7 +1,7 @@
 ---
 title: "Communion in the Circle!"
 post-date: 2020-12-24
-exp-date: 2020-12-25
+exp-date: 2020-12-24
 fawe: "fas fa-circle"
 tags: [event]
 ---
