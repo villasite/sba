@@ -1,7 +1,7 @@
 ---
 title: "Hush Harbor for Christmas"
 post-date: 2020-12-26
-exp-date: 2020-12-27
+exp-date: 2020-12-26
 fawe: "fas fa-holly-berry"
 tags: [event, music]
 label: "Music"
