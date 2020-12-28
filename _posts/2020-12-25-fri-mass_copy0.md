@@ -1,5 +1,5 @@
 ---
-title: "Solemnity of Mary, Mother of God"
+title: "Solemnity of Mary, Mother of God Mass"
 post-date: 2021-01-01
 exp-date: 2021-01-02
 fawe: "fas fa-church"
@@ -7,7 +7,7 @@ tags: [event]
 ---
 **12 PM**
 
-Join us as we celebrate Mass for the Solemnity of Mary, Mother of God. Drive up to the circle drive at the corners of 66th and Stewart to receive communion at 1 PM.
+Join us as we celebrate Mass for the Solemnity of Mary, Mother of God. Drive up to the circle drive at the corners of 66th and Stewart to receive communion after Mass (until 1:30 pm).
 
 <p class="text-danger"><b>Meeting ID</b>: 894 1589 5742
 <br>

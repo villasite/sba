@@ -1,13 +1,13 @@
 ---
 title: "Sunday Mass"
-post-date: 2020-12-27
-exp-date: 2020-12-27
+post-date: 2021-01-03
+exp-date: 2021-01-04
 fawe: "fas fa-church"
 tags: [event]
 ---
 **12 PM**
 
-Join us as we celebrate Mass for the Holy Family of Jesus, Mary and Joseph.
+Join us as we celebrate Mass for the Epiphany of the Lord.
 
 <p class="text-danger"><b>Meeting ID</b>: 894 1589 5742
 <br>

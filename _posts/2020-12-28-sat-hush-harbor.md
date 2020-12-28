@@ -1,8 +1,8 @@
 ---
-title: "Hush Harbor"
+title: "Hush Harbor for Christmas"
 post-date: 2021-01-02
 exp-date: 2021-01-03
-fawe: "fas fa-bullhorn"
+fawe: "fas fa-tree"
 tags: [event, music]
 label: "Music"
 txt: "music"
