@@ -8,108 +8,64 @@
 </div>
 
 
-<div id="daily-reading" class="carousel slide" data-ride="carousel" data-interval="false">
-  <div class="carousel-inner">
+<div id="daily-readings" class="carousel slide" data-ride="carousel" data-interval="false">
+{% assign data = site.data.usccb | sort: 'date' %}
 
-
-    <div class="item active">
-        <div class="container">
-
-			<div class="col-sm-4">
-                <div class="panel panel-default">
-                  <div class="panel-body">
-                    <a href="https://bible.usccb.org/bible/readings/123020.cfm" target="_blank">
-                      <h3>The Sixth Day in the Octave of Christmas</h3>
-                    </a>
-                      <h4>December 30, 2020</h4> 
-					  <p>1 JN 2:12-17; PS 96:7-8A, 8B-9, 10; LK 2:36-40</p>
-                  </div>
-                </div>
-            </div>
-
-			<div class="col-sm-4">
-                <div class="panel panel-default">
-                  <div class="panel-body">
-                    <a href="https://bible.usccb.org/bible/readings/123120.cfm" target="_blank">
-                      <h3>The Seventh Day in the Octave of Christmas</h3>
-                    </a>
-                      <h4>December 31, 2020</h4> 
-					  <p>1 JN 2:18-21; PS 96:1-2, 11-12, 13; JN 1:1-18</p>
-                  </div>
-                </div>
-            </div>
-
-			<div class="col-sm-4">
-                <div class="panel panel-default">
-                  <div class="panel-body">
-                    <a href="https://bible.usccb.org/bible/readings/010121.cfm" target="_blank">
-                      <h3>Solemnity of Mary, Mother of God</h3>
-                    </a>
-                      <h4>January 1, 2021</h4> 
-					  <p>NM 6:22-27; PS 67:2-3, 5, 6, 8; GAL 4:4-7; LK 2:16-21</p>
-                  </div>
-                </div>
-            </div>
-
-       </div>
-    </div>
-
-    <div class="item">
-        <div class="container">
-
-			<div class="col-sm-4">
-                <div class="panel panel-default">
-                  <div class="panel-body">
-                    <a href="https://bible.usccb.org/bible/readings/010221.cfm" target="_blank">
-                      <h3>Memorial of Saints Basil the Great and Gregory Nazianzen</h3>
-                    </a>
-                      <h4>January 2, 2021</h4> 
-					  <p>1 JN 2:22-28; PS 98:1, 2-3ab, 3cd-4; JN 1:19-28</p>
-                  </div>
-                </div>
-            </div>
-
-			<div class="col-sm-4">
-                <div class="panel panel-default">
-                  <div class="panel-body">
-                    <a href="https://bible.usccb.org/bible/readings/010321.cfm" target="_blank">
-                      <h3>The Epiphany of the Lord</h3>
-                    </a>
-                      <h4>January 3, 2021</h4> 
-					  <p>Is 60:1-6; Ps 72:1-2, 7-8, 10-11, 12-13; Eph 3:2-3a, 5-6; Mt 2:1-12</p>
-                  </div>
-                </div>
-            </div>
-
-			<div class="col-sm-4">
-                <div class="panel panel-default">
-                  <div class="panel-body">
-                    <a href="https://bible.usccb.org/bible/readings/010421.cfm" target="_blank">
-                      <h3>Memorial of Saint Elizabeth Ann Seton</h3>
-                    </a>
-                      <h4>January 4, 2021</h4> 
-					  <p>1 Jn 3:22–4:6; PS 2:7bc-8, 10-12a; Mt 4:12-17, 23-25</p>
-                  </div>
-                </div>
-            </div>
-
+	<div class="carousel-inner">
+		{% for entry in data %}
+		{% if forloop.first == true %}
+		<div class="item active">
+			<div class="container">
+				<div class="row text-center">
+					<div class="col">
+						<div class="panel panel-default">
+						  <div class="panel-body">
+							<a href="{{ entry.link }}" target="_blank">
+							  <h3>{{ entry.title }}</h3>
+							</a>
+							  <h4>{{ entry.date | date: '%B %-d, %Y' }}</h4> 
+							  <p>{{ entry.readings }}</p>
+						  </div>
+						</div>
+					</div>
+				</div>
+		   </div>
 		</div>
-    </div>
+		{% else %}
+		<div class="item">
+			<div class="container">
+				<div class="row text-center">
+					<div class="col">
+						<div class="panel panel-default">
+						  <div class="panel-body">
+							<a href="{{ entry.link }}" target="_blank">
+							  <h3>{{ entry.title }}</h3>
+							</a>
+							  <h4>{{ entry.date | date: '%B %-d, %Y' }}</h4> 
+							  <p>{{ entry.readings }}</p>
+						  </div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		{% endif %}
+		{% endfor %}
+		
+		<div class="row">
+		  <div class="col-xs-6 bottom-buffer">
+			<a class="carousel-control-prev" href="#daily-readings" role="button" data-slide="prev">
+			  <span class="fa fa-chevron-left fa-3x pull-right" aria-hidden="true"></span>
+			  <span class="sr-only">Previous</span>
+			</a>
+		  </div>
+		  <div class="col-xs-6">    
+			<a class="carousel-control-next" href="#daily-readings" role="button" data-slide="next">
+			  <span class="fa fa-chevron-right fa-3x pull-left" aria-hidden="true"></span>
+			  <span class="sr-only">Next</span>
+			</a>
+		  </div>
+		</div>
 
-    <div class="row">
-      <div class="col-xs-6 bottom-buffer">
-        <a class="carousel-control-prev" href="#daily-reading" role="button" data-slide="prev">
-          <span class="fa fa-chevron-left fa-3x pull-right" aria-hidden="true"></span>
-          <span class="sr-only">Previous</span>
-        </a>
-      </div>
-      <div class="col-xs-6">    
-        <a class="carousel-control-next" href="#daily-reading" role="button" data-slide="next">
-          <span class="fa fa-chevron-right fa-3x pull-left" aria-hidden="true"></span>
-          <span class="sr-only">Next</span>
-        </a>
-      </div>
-    </div>
-  
-  </div>
+	</div>
 </div>

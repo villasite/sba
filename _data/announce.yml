@@ -1,0 +1,82 @@
+- title: "Hush Harbor"
+  post-date: 2021-01-09
+  fawe: "fas fa-tree"
+  tags: ["event", "music"]
+  label: "Music"
+  txt: "music"
+  time: "12 PM"
+  description: "Our Hush Harbor series features spirituals and speeches from the past that speak loudly today. In Antebellum America, a hush harbor was a place where the enslaved Africans would gather in secret to practice religious traditions."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
+- title: "Greater Englewood Toastmasters Club"
+  post-date: 2021-01-08
+  fawe: "fas fa-hands-helping"
+  tags: "event"
+  time: "12 PM"
+  description: "Today we are joined by Jamillah Rashad to talk about Greater Englewood Toastmasters Club. Fridays will feature local entrepreneurs and organizations in the Englewood and Chicago area."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Zoom at Noon"
+  post-date: 2021-01-07
+  fawe: "fas fa-hands"
+  tags: "event"
+  time: "12 PM"
+  description: "Log in today at noon to Zoom to gather as community of faith."
+  zoomid: 89415895742
+  zoompw: 636489
+  
+- title: "The Sacraments"
+  post-date: 2021-01-06
+  fawe: "fas fa-dove"
+  tags: ["event", "aff"]
+  label: "Adult Faith Formation"
+  txt: "adult-faith-formation"
+  time: "12 PM"
+  description: "Join Rev. Canon, A. Gerard Jordan, O. Praem as he continues his presentation on the seven sacraments like you never seen before."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Bible Study"
+  post-date: 2021-01-05
+  fawe: "fas fa-bible"
+  tags: ["event", "aff"]
+  label: "Adult Faith Formation"
+  txt: "adult-faith-formation"
+  time: "12 PM"
+  description: "Join Sister Joanne Delehanty, OP as she expands on this upcomming Sunday's readings."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Catholic Origin Stories"
+  post-date: 2021-01-04
+  fawe: "fas fa-book-open"
+  tags: "event"
+  time: "12 PM"
+  description: "Join today's session on Catholic Origin Stories highlighting a parishioner's life in Christ."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Sunday Mass"
+  post-date: 2021-01-03
+  fawe: "fas fa-church"
+  tags: [event]
+  time: "12 PM"
+  description: "Join us as we celebrate Mass for the Epiphany of the Lord."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+  
+- title: "Hush Harbor"
+  post-date: 2021-01-02
+  fawe: "fas fa-tree"
+  tags: ["event", "music"]
+  label: "Music"
+  txt: "music"
+  time: "12 PM"
+  description: "Our Hush Harbor series features spirituals and speeches from the past that speak loudly today. In Antebellum America, a hush harbor was a place where the enslaved Africans would gather in secret to practice religious traditions."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"

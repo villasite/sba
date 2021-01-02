@@ -1,7 +1,7 @@
 ---
 title: "Hush Harbor for Christmas"
 post-date: 2021-01-02
-exp-date: 2021-01-03
+exp-date: 2021-01-02
 fawe: "fas fa-tree"
 tags: [event, music]
 label: "Music"

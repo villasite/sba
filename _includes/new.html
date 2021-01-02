@@ -6,28 +6,26 @@
                 <hr class="primary">
             </div>
         </div>
-
-        <div class="row">        
-        {% assign posts = site.posts  | sort: 'exp-date' %}
-        {% capture now %}{{'now' | date: '%s'}}{% endcapture %}
-            {% for post in site.posts offset:0 limit:5 %}
-                {% capture date %}{{post.exp-date | date: '%s' | plus: 0 }}{% endcapture %}
-                {% if date > now %}
-                    {% if post.tags contains "event" %}
-                    <div class="col-lg-3 col-md-3 text-center">
-                        <div class="service-box">
-							<a href="{{site.baseurl}}/announcement#{{ post.title }}">
-                            <div class="col-md-6 px-0">
-                                <i class="fa {{ post.fawe }} fa-5x wow flipInX" data-wow-duration="5s" data-wow-iteration="10"></i>
-                                <h4>{{ post.title }}</h4>
-                            </div>
-							</a>
-                        </div>
-                    </div>
-                    {% endif %}
-                {% endif %}
-            {% endfor %}
-        </div>
+		
+		<div class="row">
+		{% assign data = site.data.announce | sort: 'post-date' %}
+		{% capture now %}{{'now' | date: '%s'}}{% endcapture %}
+		{% for entry in data offest:0 limit:5 %}
+			{% capture date %}{{entry.post-date | date: '%s' | plus: 0 }}{% endcapture %}
+			{% if date > now %}
+				<div class="col-lg-3 col-md-3 text-center">
+					<div class="service-box">
+						<a href="{{site.baseurl}}/announcement#{{ entry.title }}">
+						<div class="col-md-6 px-0">
+							<i class="fa {{ entry.fawe }} fa-5x wow flipInX" data-wow-duration="5s" data-wow-iteration="10"></i>
+							<h4>{{ entry.title }}</h4>
+						</div>
+						</a>
+					</div>
+				</div>
+			{% endif %}
+		{% endfor %}
+		</div>
 
         <div class="row text-center">
             <a href="{{site.baseurl}}/announcement" class="btn btn-primary btn-xl wow tada">Read More</a>
