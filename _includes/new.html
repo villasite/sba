@@ -8,9 +8,9 @@
         </div>
 		
 		<div class="row">
-		{% assign data = site.data.announce | sort: 'post-date' %}
+		{% assign data = site.data.announce | sort: 'exp-date' %}
 		{% capture now %}{{'now' | date: '%s'}}{% endcapture %}
-		{% for entry in data offest:0 limit:5 %}
+		{% for entry in data offest:0 limit:4 %}
 			{% capture date %}{{entry.exp-date | date: '%s' | plus: 0 }}{% endcapture %}
 			{% if date > now %}
 				<div class="col-lg-3 col-md-3 text-center">
