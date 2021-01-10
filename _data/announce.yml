@@ -1,3 +1,88 @@
+- title: "Hush Harbor for Civil Rights"
+  post-date: 2021-01-16
+  exp-date: 2021-01-17
+  fawe: "fas fa-hands"
+  tags: ["event", "music"]
+  label: "Music"
+  txt: "music"
+  time: "12 PM"
+  description: "Our Hush Harbor series features spirituals and speeches from the past that speak loudly today. In Antebellum America, a hush harbor was a place where the enslaved Africans would gather in secret to practice religious traditions."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
+- title: "Emeche Cakery and Café"
+  post-date: 2021-01-15
+  exp-date: 2021-01-16
+  fawe: "fas fa-birthday-cake"
+  tags: "event"
+  time: "12 PM"
+  description: "Today we are joined by Janell Richmond (owner) to talk about Emeche Cakery and Café. Fridays will feature local entrepreneurs and organizations in the Englewood and Chicago area."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "More New Stuff at SBA 2021"
+  post-date: 2021-01-14
+  exp-date: 2021-01-15
+  fawe: "fas fa-hand-holding-heart"
+  tags: "event"
+  time: "12 PM"
+  description: "We will gather today to discuss more new stuff at SBA 2021"
+  zoomid: 89415895742
+  zoompw: 636489
+  
+- title: "Praying with the Mother of God"
+  post-date: 2021-01-14
+  exp-date: 2021-01-15
+  fawe: "fas fa-pray"
+  tags: "event"
+  time: "2 PM"
+  description: "Pray in community the Rosary every Thursday at 2pm Central Time."
+  zoomid: 9796818222
+  zoompw: 424181
+  
+- title: "Children's Religious Education"
+  post-date: 2021-01-14
+  exp-date: 2021-01-15
+  fawe: "fas fa-school"
+  tags: "event"
+  time: "4 PM"
+  description: "Have young children between the ages of 4-5 who are ready to learn the Catholic faith? Join in weekly with your children to learn about Jesus as a family. Call the parish office to register at 773-873-4464."
+
+- title: "The Sacraments"
+  post-date: 2021-01-13
+  exp-date: 2021-01-14
+  fawe: "fas fa-dove"
+  tags: ["event", "aff"]
+  label: "Adult Faith Formation"
+  txt: "adult-faith-formation"
+  time: "12 PM"
+  description: "Join Rev. Canon, A. Gerard Jordan, O. Praem as he continues his presentation on the seven sacraments like you never seen before."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Bible Study"
+  post-date: 2021-01-12
+  exp-date: 2021-01-13
+  fawe: "fas fa-bible"
+  tags: ["event", "aff"]
+  label: "Adult Faith Formation"
+  txt: "adult-faith-formation"
+  time: "12 PM"
+  description: "Join Sister Joanne Delehanty, OP as she expands on this upcomming Sunday's readings."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Catholic Origin Stories"
+  post-date: 2021-01-11
+  exp-date: 2021-01-12
+  fawe: "fas fa-book-open"
+  tags: "event"
+  time: "12 PM"
+  description: "Join today's session on Catholic Origin Stories highlighting a parishioner's life in Christ."
+  zoomid: 89415895742
+  zoompw: 636489
+
 - title: "Sunday Mass"
   post-date: 2021-01-10
   exp-date: 2021-01-11
@@ -5,19 +90,6 @@
   tags: "event"
   time: "12 PM"
   description: "Join us as we celebrate Mass for the Baptism of the Lord."
-  zoomid: 89415895742
-  zoompw: 636489
-  fb: "Yes"
-
-- title: "Hush Harbor for Christmas"
-  post-date: 2021-01-09
-  exp-date: 2021-01-10
-  fawe: "fas fa-tree"
-  tags: ["event", "music"]
-  label: "Music"
-  txt: "music"
-  time: "12 PM"
-  description: "Our Hush Harbor series features spirituals and speeches from the past that speak loudly today. In Antebellum America, a hush harbor was a place where the enslaved Africans would gather in secret to practice religious traditions."
   zoomid: 89415895742
   zoompw: 636489
   fb: "Yes"

@@ -15,10 +15,12 @@
 					<h4>{{ entry.post-date | date: '%A, %B %-d, %Y' }}</h4>
 					<p><b>{{ entry.time }}</b></p>
 					<p>{{ entry.description }}</p>
+					{% if entry.zoomid != null %}
 					<p class="text-danger"><b>Meeting ID</b>: {{ entry.zoomid }}
 					<br>
 					<b>Passcode</b>: {{ entry.zoompw }}
 					</p>
+					{% endif %}
 					<h5><a href="{{ site.baseurl }}/{{ entry.txt }}" class="badge badge-default">{{  entry.label }}</a></h5>
 					{% if entry.fb == "Yes" %}
 					<p>
