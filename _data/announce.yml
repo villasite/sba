@@ -71,25 +71,3 @@
   description: "Join Rev. Canon, A. Gerard Jordan, O. Praem as he continues his presentation on the seven sacraments like you never seen before."
   zoomid: 89415895742
   zoompw: 636489
-
-- title: "Bible Study"
-  post-date: 2021-01-12
-  exp-date: 2021-01-13
-  fawe: "fas fa-bible"
-  tags: ["event", "aff"]
-  label: "Adult Faith Formation"
-  txt: "adult-faith-formation"
-  time: "12 PM"
-  description: "Join Sister Joanne Delehanty, OP as she expands on this upcomming Sunday's readings."
-  zoomid: 89415895742
-  zoompw: 636489
-
-- title: "Catholic Origin Stories"
-  post-date: 2021-01-11
-  exp-date: 2021-01-12
-  fawe: "fas fa-book-open"
-  tags: "event"
-  time: "12 PM"
-  description: "Join today's session on Catholic Origin Stories highlighting a parishioner's life in Christ."
-  zoomid: 89415895742
-  zoompw: 636489
