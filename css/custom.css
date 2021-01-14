@@ -84,3 +84,16 @@
 .bg-purple  {
 	background-color: purple;
 }
+
+.cropped {
+	position: relative;
+	text-align: center;    
+	overflow: hidden;
+}
+
+.cropped img {
+	width: 100%;
+	height: 300px;
+	object-fit: cover;
+	object-position: 100% 20%;
+}
