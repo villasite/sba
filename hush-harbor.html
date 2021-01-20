@@ -1,18 +1,14 @@
 ---
-layout: page2
+layout: page-basic
 title: "Hush Harbor"
-image: "sanctuary-hut-mass.jpg"
 meta: ""
 ---
 <h2>Hush Harbor</h2>
 
-{% assign data = site.data.facebook | sort: 'date' %}
+{% assign data = site.data.facebook | sort: 'date' | reverse %}
 
 {% for entry in data %}
-
-	<div class="container">
-		<div class="embed-responsive embed-responsive-4by3">
-			<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FSBAParish%2Fvideos%2F{{entry.link}}%2F&show_text=false&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
-		</div>
-	</div>
+<div class="embed-responsive embed-responsive-4by3">
+	<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FSBAParish%2Fvideos%2F{{entry.link}}%2F&show_text=false&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+</div>
 {% endfor %}

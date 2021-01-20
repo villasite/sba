@@ -1,3 +1,15 @@
+
+- title: "Sunday Mass"
+  post-date: 2021-01-24
+  exp-date: 2021-01-25
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us as we celebrate Mass for the Third Sunday of Ordinary Time."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
 - title: "Hush Harbor"
   post-date: 2021-01-23
   exp-date: 2021-01-24
@@ -58,17 +70,5 @@
   txt: "adult-faith-formation"
   time: "12 PM"
   description: "Join Rev. Canon, A. Gerard Jordan, O. Praem as he continues his presentation on the seven sacraments like you never seen before."
-  zoomid: 89415895742
-  zoompw: 636489
-
-- title: "Bible Study"
-  post-date: 2021-01-19
-  exp-date: 2021-01-20
-  fawe: "fas fa-bible"
-  tags: ["event", "aff"]
-  label: "Adult Faith Formation"
-  txt: "adult-faith-formation"
-  time: "12 PM"
-  description: "Join Sister Joanne Delehanty, OP as she expands on this upcomming Sunday's readings."
   zoomid: 89415895742
   zoompw: 636489
