@@ -329,10 +329,11 @@
   </div>
 </div>
 
+{% assign data = site.data.facebook | sort: 'date' | reverse %}
+
 <div>
 	<h3>Recent Mass Celebration</h3>
 </div>
-{% assign data = site.data.facebook | sort: 'date' | reverse %}
 
 {% for entry in data limit: 1 %}
 	{% if entry.tag == "Mass" %}
