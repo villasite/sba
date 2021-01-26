@@ -1,3 +1,15 @@
+
+- title: "Sunday Mass"
+  post-date: 2021-01-31
+  exp-date: 2021-02-01
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us as we celebrate Mass for the Fourth Sunday of Ordinary Time."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
 - title: "Hush Harbor for the Inauguration of Black History Month"
   post-date: 2021-01-30
   exp-date: 2021-01-31
@@ -72,24 +84,3 @@
   description: "Join Sister Joanne Delehanty, OP as she expands on this upcomming Sunday's readings."
   zoomid: 89415895742
   zoompw: 636489
-
-- title: "Homily Review / Catholic Origin Story"
-  post-date: 2021-01-25
-  exp-date: 2021-01-26
-  fawe: "fas fa-book-open"
-  tags: "event"
-  time: "12 PM"
-  description: "Let's gather as community to review Sunday's homily and discuss the Catholic Origin Story."
-  zoomid: 89415895742
-  zoompw: 636489
-
-- title: "Sunday Mass"
-  post-date: 2021-01-24
-  exp-date: 2021-01-25
-  fawe: "fas fa-church"
-  tags: "event"
-  time: "12 PM"
-  description: "Join us as we celebrate Mass for the Third Sunday of Ordinary Time."
-  zoomid: 89415895742
-  zoompw: 636489
-  fb: "Yes"
