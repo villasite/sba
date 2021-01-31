@@ -1,4 +1,27 @@
 
+- title: "Hush Harbor for the Inauguration of Black History Month"
+  post-date: 2021-01-30
+  exp-date: 2021-01-31
+  fawe: "fas fa-hands"
+  tags: ["event", "music"]
+  label: "Music"
+  txt: "music"
+  time: "12 PM"
+  description: "Our Hush Harbor series features spirituals and speeches from the past that speak loudly today. In Antebellum America, a hush harbor was a place where the enslaved Africans would gather in secret to practice religious traditions."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
+- title: "Friday Goodness"
+  post-date: 2021-01-29
+  exp-date: 2021-01-30
+  fawe: "fas fa-star"
+  tags: "event"
+  time: "12 PM"
+  description: "Tune in for Friday Goodness where we highlight local entrepreneurs and organizations in the Englewood and Chicago area."
+  zoomid: 89415895742
+  zoompw: 636489
+
 - title: "Coming to SBA"
   post-date: 2021-01-28
   exp-date: 2021-01-29
