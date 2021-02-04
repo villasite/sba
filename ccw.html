@@ -1,0 +1,125 @@
+---
+layout: page-basic
+permalink: /ccw
+meta: "The Council of Catholic Women choose four causes of 2020-21. The four areas of focus are Domestic Violence, Books for Women in Prison, Mothers and the importance of Breast-feeding, and USO"
+---
+<div id="OutsideAd" class="carousel slide" data-ride="carousel" data-interval="4000">
+  <div class="carousel-inner">
+    <div class="item active">
+      <img class="d-block img-fluid center-block" src="{{ site.baseurl }}/img/kpc-junior-knights-daughters-sba.jpeg" alt="Children of the Junior Knights of Peter Claver">
+    </div>
+  </div>
+</div>
+
+<div class="container top-buffer">
+    <div class="row">
+        <div class="col-lg-12 text-center">
+            <h2 class="section-heading">Community Service</h2>
+            <hr class="primary">
+        </div>
+        <div class="container">
+			<p>The Council of Catholic Women choose four causes of 2020-21. The four areas of focus are:</p>
+			<ol class="list-group">
+				<li class="list-group-item">
+					<h3><b>Domestic Violence</b></h3>
+					<p>The Domestic Violence Committee attended several zoom meetings during 2020.</p>
+				</li>
+				<li class="list-group-item">
+					<h3 class="font-weight-bold"><b>Books for Women in Prison</b></h3>
+					<p>In the past the CCW collected over 100 paperback books, dictionaries, word search/crossword puzzles and calendars. Donations went to <a href="https://chicagobwp.org" target="_blank">Chicago Books for Women in Prison</a> located at 4511 N. Hermitage Ave. Chicago, IL 60640 This organization collects, packs and ships books to prisons in eight states.</p>
+				</li>
+				<li class="list-group-item">
+					<h3 class="font-weight-bold"><b>Mothers and the importance of Breast-feeding</b></h3> 
+					<p>This is a new initiative that CCW will be exploring; ways to reach out to new mothers in support of nurturing their children through breast-feeding.</p>
+				</li>
+				<li class="list-group-item">
+					<h3 class="font-weight-bold"><b>USO</b></h3>
+					<p>The National Council of Catholic Women (NCCW) supports the <a href="https://www.uso.org" target="_blank">United Service Organization (USO)</a>. CCW gives financial support annually to the USO.</p>
+				</li>
+			</ol>
+			<h4><b>Other Annual Initiatives:</b></h4>
+			<ol class="list-group">
+				<li class="list-group-item">
+					<p><b>Coat Drive-</b> Due to COVID restrictions this initiative was not performed in 2020. It is the hope of the CCW that this initiative will be picked up again in 2021.</p>
+				</li>
+				<li class="list-group-item">
+					<p><b>A Toy Drive-</b>The CCW collected various toy items: puzzles, books trucks, cars, dolls, games as well as
+hats, gloves socks and gift cards. Thanks to the generosity of St. Benedict the African parish members, the CCW donated half the toys to The Imani House and the other half of the toy collection was donated to Margaret’s Village.</p>
+				</li>
+			</ol>
+        </div>
+		<div class="container">
+        <div class="col-lg-12 text-center">
+            <h2 class="section-heading">Community Service</h2>
+            <hr class="primary">
+        </div>
+			<ul>
+				<l1></l1>
+				<l1></l1>
+				<l1></l1>
+				<l1></l1>
+			</ul>
+		</div>
+    </div>
+</div>
+
+<div class="container top-buffer" id="news">
+    <div class="row">
+        <div class="col-lg-12 text-center">
+            <h2 class="section-heading">KPC News</h2>
+            <hr class="primary">
+        </div>
+    </div>
+</div>
+
+<div class="container">
+{% assign posts = site.posts | sort: 'exp-date' %}
+{% capture now %}{{'now' | date: '%s'}}{% endcapture %}
+  {% for post in posts %}
+    {% capture date %}{{post.exp-date | date: '%s' | plus: 0 }}{% endcapture %}
+    {% if date > now %}  
+      {% if post.tags contains "kpc" %}
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="row">
+            <div class="col-sm-2" align="center">
+              <span class="fa {{ post.fawe }} fa-5x wow flipInX" data-wow-duration="5s" data-wow-iteration="10"></span>
+            </div>
+            
+            <div class="col-sm-10">
+              <h3>{{ post.title }}</h3>
+              <h4>{{ post.post-date | date: '%A, %B %-d, %Y' }}</h4>
+              {{ post.content }}
+            </div>
+            
+          </div>
+        </div>
+      </div>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</div>
+
+<div class="row">
+{% for post in posts %}
+{% if post.tags contains "article" and post.tags contains "kpc" %}
+  <div class="col-sm-4">
+    <div class="panel panel-default">
+      <div class="panel-body">
+        <a href="{{ site.baseurl }}{{ post.url }}">
+          <h3>{{ post.title }}</h3>
+          <img class="center-block img-thumbnail" src="{{ site.baseurl }}/img/{{ post.image }}" alt="article image">
+        </a>
+          <h4>{{ post.post-date | date: '%B %-d, %Y' }}</h4>
+          {{ post.excerpt }}
+          <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-primary">Read more</a>
+      </div>
+    </div>
+  </div>
+{% endif %}
+{% endfor %}
+</div>
+
+<div class="container">
+    <p>View more events happening at St. Benedict the African on the <a href="{{site.baseurl}}/announcement">Announcement page</a></p>    
+</div>
