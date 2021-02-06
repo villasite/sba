@@ -1,15 +1,17 @@
 ---
 layout: page-basic
+title: Council of Catholic Women
 permalink: /ccw
 meta: "The Council of Catholic Women choose four causes of 2020-21. The four areas of focus are Domestic Violence, Books for Women in Prison, Mothers and the importance of Breast-feeding, and USO"
 ---
-<div id="OutsideAd" class="carousel slide" data-ride="carousel" data-interval="4000">
-  <div class="carousel-inner">
-    <div class="item active">
-      <img class="d-block img-fluid center-block" src="{{ site.baseurl }}/img/kpc-junior-knights-daughters-sba.jpeg" alt="Children of the Junior Knights of Peter Claver">
-    </div>
-  </div>
-</div>
+<section class="no-padding">
+    <div class="cropped-full-width">
+        <img class="img-fluid center-block" src="{{ site.baseurl }}/img/ccw-group-1.png" alt="Council of Catholic Women group picture">
+        <div class="text_over_image_bottom">
+            <h1>{{ page.title }}</h1>
+        </div>
+	</div>
+</section>
 
 <div class="container top-buffer">
     <div class="row">
@@ -75,29 +77,36 @@ meta: "The Council of Catholic Women choose four causes of 2020-21. The four are
 				<hr class="primary">
 			</div>
 			<div class="container">
-				<p>
-					<i>With saddened hearts, we reflect on members who have passed on and dear sisters in Christ, Former Secretary, Penny Knight and former President, Sheila Travillion.</i>
-				</p>
-				<p>We are stronger together with members:</p>
-				<ul>
-					<li><p>THOMAS JOHNSON</p></li>
-					<li>BELINDA ELLISON</li>
-					<li>RUTH GILLESPIE DOUGLAS</li>
-					<li>TIOMBE EILAND</li>
-					<li>VERA PRYOR</li>
-					<li>BARBARA ARMSTRONG</li>
-					<li>BERYL HENDERSON</li>
-					<li>MIDDY COCHRANE</li>
-					<li>NORMA ESTRADA</li>
-					<li>MELLIE LINO</li>
-					<li>BETTY ANN WHEATLY</li>
-				</ul>
-				<p>Pleased to welcome new members to this Christian sisterhood:</p>
-				<ul>
-					<li>ANITA MUSE</li>
-					<li>JOANNE ALLEN</li>
-					<li>JANICE KIMBLE</li>
-				</ul>
+				<p><i>With saddened hearts, we reflect on members who have passed on and dear sisters in Christ, Former Secretary, Penny Knight and former President, Sheila Travillion.</i></p>
+				<div class="row">
+					<div class="col-sm-4">
+						<p>We are stronger together with members:</p>
+						<ul>
+							<li>THOMAS JOHNSON</li>
+							<li>BELINDA ELLISON</li>
+							<li>RUTH GILLESPIE DOUGLAS</li>
+							<li>TIOMBE EILAND</li>
+							<li>VERA PRYOR</li>
+							<li>BARBARA ARMSTRONG</li>
+							<li>BERYL HENDERSON</li>
+							<li>MIDDY COCHRANE</li>
+							<li>NORMA ESTRADA</li>
+							<li>MELLIE LINO</li>
+							<li>BETTY ANN WHEATLY</li>
+						</ul>
+						<p>Pleased to welcome new members to this Christian sisterhood:</p>
+						<ul>
+							<li>ANITA MUSE</li>
+							<li>JOANNE ALLEN</li>
+							<li>JANICE KIMBLE</li>
+						</ul>	
+					</div>
+					<div class="col-sm-8">
+        				<img class="img-fluid center-block img-thumbnail" src="{{ site.baseurl }}/img/ccw-group-2.png" alt="Council of Catholic Women group picture">
+					</div>
+				</div>
+
+				
 				<ol class="list-group top-buffer">
 					<li class="list-group-item">
 						<h3><b>Offices</b></h3>
@@ -129,6 +138,11 @@ meta: "The Council of Catholic Women choose four causes of 2020-21. The four are
 				<hr class="primary">
 			</div>
 			<div class="container">
+				<div class="row">
+					<div class="col-sm-12">
+        				<img class="img-fluid center-block img-thumbnail" src="{{ site.baseurl }}/img/ccw-group-3.png" alt="Council of Catholic Women group picture">
+					</div>
+				</div>
 				<p>
 					The matriarchs of our church have helped us to learn, to grow and to love. They have shown us the way, just as the Blessed Mother shows us the way to her son. In the May Crowning we honor the Blessed Mother for the gift of life, love and the true meaning of sacrifice. In answer to this great sacrifice we say:
 				</p>
@@ -140,10 +154,6 @@ meta: "The Council of Catholic Women choose four causes of 2020-21. The four are
 				<p>Thank you to Sr. Mary and Sister Joanne for your endless support and sacrifice.</p>
 				<p>Thank you to all the Women of St. Benedict the African for your contributions in raising a village and your work for the Lord.</p>
 
-
-
-
-
 			</div>
 		</div>
     </div>
@@ -152,59 +162,12 @@ meta: "The Council of Catholic Women choose four causes of 2020-21. The four are
 <div class="container top-buffer" id="news">
     <div class="row">
         <div class="col-lg-12 text-center">
-            <h2 class="section-heading">KPC News</h2>
+            <h2 class="section-heading">Council of Catholic Women News</h2>
             <hr class="primary">
         </div>
     </div>
 </div>
 
-<div class="container">
-{% assign posts = site.posts | sort: 'exp-date' %}
-{% capture now %}{{'now' | date: '%s'}}{% endcapture %}
-  {% for post in posts %}
-    {% capture date %}{{post.exp-date | date: '%s' | plus: 0 }}{% endcapture %}
-    {% if date > now %}  
-      {% if post.tags contains "kpc" %}
-      <div class="panel panel-default">
-        <div class="panel-body">
-          <div class="row">
-            <div class="col-sm-2" align="center">
-              <span class="fa {{ post.fawe }} fa-5x wow flipInX" data-wow-duration="5s" data-wow-iteration="10"></span>
-            </div>
-            
-            <div class="col-sm-10">
-              <h3>{{ post.title }}</h3>
-              <h4>{{ post.post-date | date: '%A, %B %-d, %Y' }}</h4>
-              {{ post.content }}
-            </div>
-            
-          </div>
-        </div>
-      </div>
-      {% endif %}
-    {% endif %}
-  {% endfor %}
-</div>
-
-<div class="row">
-{% for post in posts %}
-{% if post.tags contains "article" and post.tags contains "kpc" %}
-  <div class="col-sm-4">
-    <div class="panel panel-default">
-      <div class="panel-body">
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          <h3>{{ post.title }}</h3>
-          <img class="center-block img-thumbnail" src="{{ site.baseurl }}/img/{{ post.image }}" alt="article image">
-        </a>
-          <h4>{{ post.post-date | date: '%B %-d, %Y' }}</h4>
-          {{ post.excerpt }}
-          <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-primary">Read more</a>
-      </div>
-    </div>
-  </div>
-{% endif %}
-{% endfor %}
-</div>
 
 <div class="container">
     <p>View more events happening at St. Benedict the African on the <a href="{{site.baseurl}}/announcement">Announcement page</a></p>    

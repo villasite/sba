@@ -14,7 +14,7 @@ The roof damage is located right above the baptismal pool but if left unattended
 
 **Can you contribute $55 to keep the roof up?** That is the equivalent of a case of ceiling tiles. Your online giving will be processed through the GiveCentral website; a trusted online donation site that is secure and easy to use. 
 
-<div class="text-center bottom-buffer"><a href="https://www.givecentral.org/location/69/event/3436"  class="btn btn-primary btn-xl wow tada" target="_blank">Donate Now</a></div>
+<div class="text-center bottom-buffer"><a href="https://www.givecentral.org/SBABuildingCampaign"  class="btn btn-primary btn-xl wow tada" target="_blank">Donate Now</a></div>
 
 
 Please know that <u>your gift is tax-deductible</u> and will ensure the church doors remain open for future visitors to experience black spirituality through the architecture, artwork, and liturgy. You will *not only* be lifting up the church roof but spirits of people who come to Saint Benedict the African to find a spiritual home.
