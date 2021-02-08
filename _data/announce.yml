@@ -1,6 +1,17 @@
-- title: "Hush Harbor with Carter G. Woodson"
+- title: "Sunday Mass"
   post-date: 2021-02-14
   exp-date: 2021-02-15
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us as we celebrate Mass for the Sixth Sunday of Ordinary Time."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
+- title: "Hush Harbor with Carter G. Woodson"
+  post-date: 2021-02-13
+  exp-date: 2021-02-14
   fawe: "fas fa-hands"
   tags: ["event", "music"]
   label: "Music"
@@ -12,8 +23,8 @@
   fb: "Yes"
 
 - title: "Friday Goodness"
-  post-date: 2021-02-13
-  exp-date: 2021-02-14
+  post-date: 2021-02-12
+  exp-date: 2021-02-13
   fawe: "fas fa-star"
   tags: "event"
   time: "12 PM"
@@ -22,8 +33,8 @@
   zoompw: 636489
 
 - title: "The SBA membership card"
-  post-date: 2021-02-12
-  exp-date: 2021-02-13
+  post-date: 2021-02-11
+  exp-date: 2021-02-12
   fawe: "fas fa-id-card"
   tags: "event"
   time: "12 PM"
@@ -80,14 +91,3 @@
   description: "Let's gather as community to review Sunday's homily."
   zoomid: 89415895742
   zoompw: 636489
-
-- title: "Sunday Mass"
-  post-date: 2021-02-07
-  exp-date: 2021-02-08
-  fawe: "fas fa-church"
-  tags: "event"
-  time: "12 PM"
-  description: "Join us as we celebrate Mass for the Fifth Sunday of Ordinary Time."
-  zoomid: 89415895742
-  zoompw: 636489
-  fb: "Yes"
