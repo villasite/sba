@@ -1,17 +1,6 @@
-- title: "Sunday Mass"
-  post-date: 2021-02-14
-  exp-date: 2021-02-15
-  fawe: "fas fa-church"
-  tags: "event"
-  time: "12 PM"
-  description: "Join us as we celebrate Mass for the Sixth Sunday of Ordinary Time."
-  zoomid: 89415895742
-  zoompw: 636489
-  fb: "Yes"
-
 - title: "Hush Harbor with Carter G. Woodson"
-  post-date: 2021-02-13
-  exp-date: 2021-02-14
+  post-date: 2021-02-20
+  exp-date: 2021-02-21
   fawe: "fas fa-hands"
   tags: ["event", "music"]
   label: "Music"
@@ -23,11 +12,82 @@
   fb: "Yes"
 
 - title: "Friday Goodness"
-  post-date: 2021-02-12
-  exp-date: 2021-02-13
+  post-date: 2021-02-19
+  exp-date: 2021-02-20
   fawe: "fas fa-star"
   tags: "event"
   time: "12 PM"
   description: "Tune in for Friday Goodness where we highlight local entrepreneurs and organizations in the Englewood and Chicago area."
   zoomid: 89415895742
   zoompw: 636489
+
+- title: "Mosaic in Residence"
+  post-date: 2021-02-18
+  exp-date: 2021-02-19
+  fawe: "fas fa-play-circle"
+  tags: "event"
+  time: "12 PM"
+  description: "Today we will have Mosaic in Residence."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Praying with the Mother of God"
+  post-date: 2021-02-18
+  exp-date: 2021-02-19
+  fawe: "fas fa-pray"
+  tags: "event"
+  time: "2 PM"
+  description: "Pray in community the Rosary every Thursday at 2pm Central Time."
+  zoomid: 9796818222
+  zoompw: 424181
+
+- title: "Children's Religious Education"
+  post-date: 2021-02-18
+  exp-date: 2021-02-19
+  fawe: "fas fa-school"
+  tags: "event"
+  time: "4 PM"
+  description: "Have young children between the ages of 4-5 who are ready to learn the Catholic faith? Join in weekly with your children to learn about Jesus as a family. Call the parish office to register at 773-873-4464."
+
+- title: "Ash Wednesday Prayer Service"
+  post-date: 2021-02-17
+  exp-date: 2021-02-18
+  fawe: "fas fa-praying-hands"
+  tags: "event"
+  time: "12 PM"
+  description: "Tune in today for our Ash Wednesday Prayer Service."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Bible Study"
+  post-date: 2021-02-16
+  exp-date: 2021-02-17
+  fawe: "fas fa-bible"
+  tags: ["event", "aff"]
+  label: "Adult Faith Formation"
+  txt: "adult-faith-formation"
+  time: "12 PM"
+  description: "Join Sister Joanne Delehanty, OP as she expands on this upcomming Sunday's readings."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Homily Review"
+  post-date: 2021-02-15
+  exp-date: 2021-02-16
+  fawe: "fas fa-book-open"
+  tags: "event"
+  time: "12 PM"
+  description: "Let's gather as community to review Sunday's homily."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Sunday Mass"
+  post-date: 2021-02-14
+  exp-date: 2021-02-15
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us as we celebrate Mass for the Sixth Sunday of Ordinary Time."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
