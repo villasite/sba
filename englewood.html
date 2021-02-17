@@ -1,8 +1,8 @@
 ---
 layout: page-basic
 title: "Englewood"
-subtitle: "St. Benedict the African. The Catholic church in Englewood."
-meta: "As the Catholic church in Englewood, St. Benedict the African is "
+subtitle: "St. Benedict the African. The Catholic Church in Englewood."
+meta: "St. Benedict the African Parish, the Catholic Church in Englewood, values and partners with residents, organizations and businesses that share our love for the community formed in this zip code."
 ---
 <section class="no-padding">
     <div class="cropped">
@@ -14,35 +14,22 @@ meta: "As the Catholic church in Englewood, St. Benedict the African is "
 </section>
 
 <div class="container top-buffer">
-<p>As the Catholic church in Englewood, St. Benedict the African is committed to highlighting the community which it resides in and the city at large. This includes the art, people, businesses. <b>Community</b>.</p>
-</div>
-
-<div class="container top-buffer">
-    <div class="row">
-        <div class="col-lg-12 text-center">
-            <h2 class="section-heading">Spotlighted Organizations</h2>
-            <hr class="primary">
-        </div>
-    </div>
-	
-	<div class="m-3">	
-		<div class="row">
-			{% for datas in site.data.englewood-org %}
-			<div class="p-2 col-lg-4 col-md-6 col-sm-12">
+	<p>St. Benedict the African Parish, the Catholic Church in Englewood, values and partners with residents, organizations and businesses that share our love for the community formed in this zip code.</p>
+	<div class="row">
+		{% for datas in site.data.englewood-org %}
+			{% if datas.tag contains "Community" %}
+			<div class="p-2 col-lg-2">
 				<div class="panel panel-default">
+					<a href="{{ datas.url}}" target="_blank">
 					<div class="panel-body">
-						<div class="card h-100">
-							<div class="card-body">
-								<img class="card-img-top img-fluid center-block img-thumbnail" src="{{datas.img}}" alt="{{datas.imgalt}}">
-								<p class="card-text">{{ datas.text | truncatewords:75 }}</p>
-								<div class="text-center"><a class="btn btn-primary" href="{{ datas.url }}" target="_blank">Learn More</a></div>
-							</div>
-						</div>
+						<img class="center-block img-thumbnail" src="{{datas.img}}" alt="{{datas.imgalt}}">
+						<p class="text-center"><b>{{ datas.company }}</b></p>
 					</div>
+					</a>
 				</div>
 			</div>
-			{% endfor %}
-		</div>
+			{% endif %}
+		{% endfor %}
 	</div>
 </div>
 
@@ -53,8 +40,26 @@ meta: "As the Catholic church in Englewood, St. Benedict the African is "
             <hr class="primary">
         </div>
     </div>
-	<p>Tune in to our "Friday Goodness" podcast where Ms. Susan interviews local entrepreneurs and organizations in the Englewood and Chicago area.</p>
-	<iframe src="https://www.listennotes.com/podcasts/brown-ambition-mandi-woodruff-and-tiffany-f39F1YXI-8r/embed/" height="600px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
+	<p>Join us for FRIDAY GOODNESS PODCAST where the innovative, creative and talented meet, greet and bring something good to this neighborhood. The following are organizations highlighted to date.</p>
+	<div class="row">
+		{% for datas in site.data.englewood-org %}
+			{% if datas.tag contains "Friday" %}
+			<div class="p-2 col-lg-4 col-md-6 col-sm-12">
+				<div class="panel panel-default">
+					<div class="panel-body">
+						<div class="card h-100">
+							<div class="card-body">
+								<img class="card-img-top center-block img-thumbnail" src="{{datas.img}}" alt="{{datas.imgalt}}">
+								<p class="card-text">{{ datas.text | truncatewords:75 }}</p>
+								<div class="text-center"><a class="btn btn-primary wow tada" href="{{ datas.url }}" target="_blank">Learn More</a></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			{% endif %}
+		{% endfor %}
+	</div>
 </div>
 
 <div class="container top-buffer" id="news">
