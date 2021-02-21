@@ -81,4 +81,16 @@ meta: "Reinforce your adult teaching of your Catholic faith with homilies and ar
         </div>
         {% endfor %}
     {% endfor %}
+	
+	<div class="row" id="videos">
+	{% for vid in site.data.utube %}
+		{% if vid.tag contains "bible-study"%}
+		<div class="col-sm-4 bottom-buffer">
+			<div class="embed-responsive embed-responsive-4by3">
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ vid.link }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</div>
+		</div>
+		{% endif %}
+	{% endfor %}
+	</div>
 </div>

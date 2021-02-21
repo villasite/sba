@@ -1,341 +1,144 @@
 <div>
-	<h3>Speakers of Christ</h3>
-</div>
-<div id="speaker-videos" class="carousel slide" data-ride="carousel" data-interval="false">
-  <div class="carousel-inner">
-
-    <div class="item active">
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/XDEk4k5UxCU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/TjGs8omwrtE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/GfqtoV1CK0o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-
-    </div>
-
-     <div class="item">
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/MbC9fDI7BtM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/8-EdLbOhWtQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/2ZgitYoxAyE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-
-    </div>
-
-     <div class="item">
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/9deXwgG6KsU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/ak-2UgcftDk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/6qyhqTsFa58" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-
-    </div>
-
-     <div class="item">
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_w803tjhZM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/0DvylO_PkT8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-
-
-    </div>
-    
-    <div class="row">
-      <div class="col-xs-6">
-        <a class="carousel-control-prev" href="#speaker-videos" role="button" data-slide="prev">
-          <span class="fa fa-chevron-left fa-3x pull-right" aria-hidden="true"></span>
-          <span class="sr-only">Previous</span>
-        </a>
-      </div>
-      <div class="col-xs-6">    
-        <a class="carousel-control-next" href="#speaker-videos" role="button" data-slide="next">
-          <span class="fa fa-chevron-right fa-3x pull-left" aria-hidden="true"></span>
-          <span class="sr-only">Next</span>
-        </a>
-      </div>
-    </div>
-  
-  </div>
-</div>
-
-<div>
 	<h3>Bible Study</h3>
+	{% for entry in site.data.utube limit: 1 %}
+	<div class="row">	
+		<div class="col-12">
+			<div class="embed-responsive embed-responsive-4by3">
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ entry.link }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</div>
+		</div>
+	</div>
+	{% endfor %}
 </div>
-<div id="bible-study-videos" class="carousel slide" data-ride="carousel" data-interval="false">
-  <div class="carousel-inner">
 
-    <div class="item active">
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/_wbr_PQZOCg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/5eDuLiC8Cr4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/x5Mm3OCedYI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-
-	</div>
-
-    <div class="item">
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/B6M1O8Fps64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/rgSSihBybbM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/udDP5ZXGlUI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-
-	</div>
-
-     <div class="item">
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/mB6JcLK9SxI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/lYKkW5SD3EE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/OB_gHrDRBqc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-
-    </div>
-
-     <div class="item">
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/JlCGnHT75ds" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/M44t-HNueYk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/DOeKeKyLJGY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-
-    </div>
-
-     <div class="item">
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/j4dHb4mbRI0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/PTZ4HYiKkcs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/nwB-zbHpTxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-
-    </div>
-
-     <div class="item">
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/i3QgMormhFw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/ghkSSY5W5AQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/7F1svkgygD4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-
-    </div>
-
-     <div class="item">
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/fwJ_IL8LI2A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/-lfTmbc4yq4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/6tn3bJxuzok" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-
-    </div>
-
-
-	<div class="item">  
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/crwTZ_Iksj4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/Gw12HD1TgOs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/p26ZX8d4TeE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-
-	</div>
-
-	<div class="item">
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/97fAlCqzoew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/yIXgtjfZixo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-
-		<div class="col-sm-4">
-			<div class="embed-responsive embed-responsive-4by3">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/GGtCUmD6GIk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-	</div>
-
-
-    <div class="row">
-      <div class="col-xs-6">
-        <a class="carousel-control-prev" href="#bible-study-videos" role="button" data-slide="prev">
-          <span class="fa fa-chevron-left fa-3x pull-right" aria-hidden="true"></span>
-          <span class="sr-only">Previous</span>
-        </a>
-      </div>
-      <div class="col-xs-6">    
-        <a class="carousel-control-next" href="#bible-study-videos" role="button" data-slide="next">
-          <span class="fa fa-chevron-right fa-3x pull-left" aria-hidden="true"></span>
-          <span class="sr-only">Next</span>
-        </a>
-      </div>
-    </div>
-  
-  </div>
-</div>
 
 {% assign data = site.data.facebook | where: 'tag', 'Mass' | sort: 'date' | reverse %}
+{% assign hdata = site.data.facebook | where: 'tag', 'Hush' | sort: 'date' | reverse %}
 
 <div>
-	<h3>Recent Mass Celebration</h3>
-</div>
+	<h3>Hush Harbor</h3>
 
-{% for entry in data limit: 1 %}
+	{% for entry in hdata limit: 1 %}
 	<div class="embed-responsive embed-responsive-4by3">
 		<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FSBAParish%2Fvideos%2F{{entry.link}}%2F&show_text=false&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
 	</div>
-{% endfor %}
+	{% endfor %}
+</div>
+
+
+<div>
+	<h3>Mass Celebration</h3>
+
+	{% for entry in data limit: 1 %}
+	<div class="embed-responsive embed-responsive-4by3">
+		<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FSBAParish%2Fvideos%2F{{entry.link}}%2F&show_text=false&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+	</div>
+	{% endfor %}
+</div>
+
+<div class="bottom-buffer">
+	<h3>Speakers of Christ</h3>
+	<div id="speaker-videos" class="carousel slide" data-ride="carousel" data-interval="false">
+	  <div class="carousel-inner">
+
+		<div class="item active">
+
+			<div class="col-sm-4">
+				<div class="embed-responsive embed-responsive-4by3">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/XDEk4k5UxCU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+			</div>
+
+			<div class="col-sm-4">
+				<div class="embed-responsive embed-responsive-4by3">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/TjGs8omwrtE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+			</div>
+
+			<div class="col-sm-4">
+				<div class="embed-responsive embed-responsive-4by3">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/GfqtoV1CK0o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+			</div>
+
+		</div>
+
+		 <div class="item">
+
+			<div class="col-sm-4">
+				<div class="embed-responsive embed-responsive-4by3">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/MbC9fDI7BtM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+			</div>
+
+			<div class="col-sm-4">
+				<div class="embed-responsive embed-responsive-4by3">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/8-EdLbOhWtQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+			</div>
+
+			<div class="col-sm-4">
+				<div class="embed-responsive embed-responsive-4by3">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/2ZgitYoxAyE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+			</div>
+
+		</div>
+
+		 <div class="item">
+
+			<div class="col-sm-4">
+				<div class="embed-responsive embed-responsive-4by3">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/9deXwgG6KsU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+			</div>
+
+			<div class="col-sm-4">
+				<div class="embed-responsive embed-responsive-4by3">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/ak-2UgcftDk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+			</div>
+
+			<div class="col-sm-4">
+				<div class="embed-responsive embed-responsive-4by3">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/6qyhqTsFa58" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+			</div>
+
+		</div>
+
+		 <div class="item">
+
+			<div class="col-sm-4">
+				<div class="embed-responsive embed-responsive-4by3">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_w803tjhZM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+			</div>
+
+			<div class="col-sm-4">
+				<div class="embed-responsive embed-responsive-4by3">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/0DvylO_PkT8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+			</div>
+
+
+		</div>
+
+		<div class="row">
+		  <div class="col-xs-6">
+			<a class="carousel-control-prev" href="#speaker-videos" role="button" data-slide="prev">
+			  <span class="fa fa-chevron-left fa-3x pull-right" aria-hidden="true"></span>
+			  <span class="sr-only">Previous</span>
+			</a>
+		  </div>
+		  <div class="col-xs-6">    
+			<a class="carousel-control-next" href="#speaker-videos" role="button" data-slide="next">
+			  <span class="fa fa-chevron-right fa-3x pull-left" aria-hidden="true"></span>
+			  <span class="sr-only">Next</span>
+			</a>
+		  </div>
+		</div>
+
+	  </div>
+	</div>
+</div>
