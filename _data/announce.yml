@@ -59,25 +59,3 @@
   tags: "event"
   time: "4 PM"
   description: "Have young children between the ages of 4-5 who are ready to learn the Catholic faith? Join in weekly with your children to learn about Jesus as a family. Call the parish office to register at 773-873-4464."
-
-- title: "Catholic Social Teaching"
-  post-date: 2021-02-24
-  exp-date: 2021-02-25
-  fawe: "fas fa-book"
-  tags: "event"
-  time: "12 PM"
-  description: "Today Cynthia Norris will join us as we discuss Catholic Social Teaching."
-  zoomid: 89415895742
-  zoompw: 636489
-
-- title: "Bible Study"
-  post-date: 2021-02-23
-  exp-date: 2021-02-24
-  fawe: "fas fa-bible"
-  tags: ["event", "aff"]
-  label: "Adult Faith Formation"
-  txt: "adult-faith-formation"
-  time: "12 PM"
-  description: "Join Sister Joanne Delehanty, OP as she expands on this upcomming Sunday's readings."
-  zoomid: 89415895742
-  zoompw: 636489
