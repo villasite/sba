@@ -1,4 +1,26 @@
 
+- title: "Bible Study"
+  post-date: 2021-03-02
+  exp-date: 2021-03-03
+  fawe: "fas fa-bible"
+  tags: ["event", "aff"]
+  label: "Adult Faith Formation"
+  txt: "adult-faith-formation"
+  time: "12 PM"
+  description: "Join Sister Joanne Delehanty, OP as she expands on this upcomming Sunday's readings."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "The Power of Origin Stories"
+  post-date: 2021-03-01
+  exp-date: 2021-03-02
+  fawe: "fas fa-book-open"
+  tags: "event"
+  time: "12 PM"
+  description: "Today we will gather to talk about the Power of Origin Stories."
+  zoomid: 89415895742
+  zoompw: 636489
+
 - title: "Sunday Mass"
   post-date: 2021-02-28
   exp-date: 2021-03-01
