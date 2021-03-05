@@ -1,3 +1,18 @@
+
+- company: "Kusanya Cafe"
+  img: "https://images.squarespace-cdn.com/content/v1/57d0a4022e69cf8d9a5f7baa/1476288713151-PQURC3X5JBCF9ZKI7SEF/ke17ZwdGBToddI8pDm48kKox5DwqudGK6wwZY9mcZ5VZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVGmdfcH5wYbeW_yEbQU3VnOyQu6tNV27yzMZ-gJdIcrwIwZBt72Ya8BdkDf6O4QGLU/image-asset.jpeg"
+  imgalt: "Logo of Kusanya Cafe"
+  url: "http://www.kusanyacafe.org"
+  tag: "Friday"
+  text: "Located in Englewood, Kusanya is a nonprofit coffee shop & creative community gathering place."
+
+- company: "WaKanna For Life"
+  img: "https://cbdstarr.wakanna.com/WaKannaForLife/UserFiles/Images/wakannalogo.png"
+  imgalt: "Logo of WaKanna For Life"
+  url: "https://cbdstarr.wakanna.com/Home"
+  tag: "Friday"
+  text: "WaKanna was brought into existence through the synergistic efforts and shared foundational values of four African-American women who believe health, wealth, legacy and freedom are gifts that belong to all people."
+
 - company: "Kennedy King Community College"
   img: "https://scontent-dfw5-2.xx.fbcdn.net/v/t1.0-9/1459350_649379155107133_588427000_n.jpg?_nc_cat=107&ccb=3&_nc_sid=7aed08&_nc_ohc=I5nrJQjLHi0AX8NaJxJ&_nc_ht=scontent-dfw5-2.xx&oh=a89dea9aa71290e8389339178d08a7a4&oe=6050EC47"
   imgalt: "Logo of Kennedy King College"
