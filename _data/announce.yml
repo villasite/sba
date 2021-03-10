@@ -39,8 +39,8 @@
   tags: "event"
   time: "12 PM"
   description: "Join Rev. Canon, A. Gerard Jordan, O. Praem as we prepare for Holy Week."
-  zoomid: 9796818222
-  zoompw: 424181
+  zoomid: 89415895742
+  zoompw: 636489
 
 - title: "Praying with the Mother of God"
   post-date: 2021-03-11
@@ -67,27 +67,5 @@
   tags: "event"
   time: "12 PM"
   description: "Today Cynthia Norris will join us as we discuss Catholic Social Teaching."
-  zoomid: 89415895742
-  zoompw: 636489
-
-- title: "Bible Study"
-  post-date: 2021-03-09
-  exp-date: 2021-03-10
-  fawe: "fas fa-bible"
-  tags: ["event", "aff"]
-  label: "Adult Faith Formation"
-  txt: "adult-faith-formation"
-  time: "12 PM"
-  description: "Join Sister Joanne Delehanty, OP as she expands on this upcomming Sunday's readings."
-  zoomid: 89415895742
-  zoompw: 636489
-
-- title: "The Power of Origin Stories"
-  post-date: 2021-03-08
-  exp-date: 2021-03-09
-  fawe: "fas fa-book-open"
-  tags: "event"
-  time: "12 PM"
-  description: "Today we will gather to talk about the Power of Origin Stories."
   zoomid: 89415895742
   zoompw: 636489
