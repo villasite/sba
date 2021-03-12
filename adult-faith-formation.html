@@ -13,7 +13,7 @@ meta: "Reinforce your adult teaching of your Catholic faith with homilies and ar
         </div>
     </div>
 
-    <div class="row">
+    <div class="container">
 	{% assign data = site.data.announce | sort: 'post-date' %}
 	{% capture now %}{{'now' | date: '%s'}}{% endcapture %}
 
@@ -24,28 +24,24 @@ meta: "Reinforce your adult teaching of your Catholic faith with homilies and ar
 			<div class="col-sm-4">
 				<div class="panel panel-default" id="{{ entry.title }}">
 					<div class="panel-body">
-						<div class="row">
-							<div class="col-sm-2" align="center">
-								<span class="fa {{ entry.fawe }} fa-5x wow flipInX" data-wow-duration="5s" data-wow-iteration="10"></span>
-							</div>
-							<div class="col-sm-10">
-								<h3>{{ entry.title }}</h3>
-								<h4>{{ entry.post-date | date: '%A, %B %-d, %Y' }}</h4>
-								<p><b>{{ entry.time }}</b></p>
-								<p>{{ entry.description }}</p>
-								{% if entry.zoomid != null %}
-								<p class="text-danger"><b>Meeting ID</b>: {{ entry.zoomid }}
-								<br>
-								<b>Passcode</b>: {{ entry.zoompw }}
-								</p>
-								{% endif %}
-								{% if entry.fb == "Yes" %}
-								<p>
-									You can also view Live through our <a href="https://www.facebook.com/SBAParish" target="_blank"><span class="fab fa-facebook fa-2x wow flash" data-wow-delay="5s"></span>acebook page</a>.	
-								</p>
-								{% endif %}
-							</div>
-						</div>
+
+						<span class="fa {{ entry.fawe }} fa-5x wow flipInX" data-wow-duration="5s" data-wow-iteration="10"></span>
+
+						<h3>{{ entry.title }}</h3>
+						<h4>{{ entry.post-date | date: '%A, %B %-d, %Y' }}</h4>
+						<p><b>{{ entry.time }}</b></p>
+						<p>{{ entry.description }}</p>
+						{% if entry.zoomid != null %}
+						<p class="text-danger"><b>Meeting ID</b>: {{ entry.zoomid }}
+						<br>
+						<b>Passcode</b>: {{ entry.zoompw }}
+						</p>
+						{% endif %}
+						{% if entry.fb == "Yes" %}
+						<p>
+							You can also view Live through our <a href="https://www.facebook.com/SBAParish" target="_blank"><span class="fab fa-facebook fa-2x wow flash" data-wow-delay="5s"></span>acebook page</a>.	
+						</p>
+						{% endif %}
 					</div>
 				</div>
 			</div>
