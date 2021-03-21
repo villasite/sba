@@ -1,3 +1,86 @@
+- title: "Hush Harbor with Carter G. Woodson"
+  post-date: 2021-03-27
+  exp-date: 2021-03-28
+  fawe: "fas fa-hands"
+  tags: ["event", "music"]
+  label: "Music"
+  txt: "music"
+  time: "12 PM"
+  description: "Our Hush Harbor series features spirituals and speeches from the past that speak loudly today. In Antebellum America, a hush harbor was a place where the enslaved Africans would gather in secret to practice religious traditions."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
+- title: "Friday Goodness"
+  post-date: 2021-03-26
+  exp-date: 2021-03-27
+  fawe: "fas fa-star"
+  tags: "event"
+  time: "12 PM"
+  description: "Tune in for Friday Goodness where we highlight local entrepreneurs and organizations in the Englewood and Chicago area."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Preparing for Holy Week"
+  post-date: 2021-03-25
+  exp-date: 2021-03-26
+  fawe: "fas fa-cross"
+  tags: "event"
+  time: "12 PM"
+  description: "Join Rev. Canon, A. Gerard Jordan, O. Praem as we prepare for Holy Week."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Praying with the Mother of God"
+  post-date: 2021-03-25
+  exp-date: 2021-03-26
+  fawe: "fas fa-pray"
+  tags: "event"
+  time: "2 PM"
+  description: "Pray in community the Rosary every Thursday at 2pm Central Time."
+  zoomid: 9796818222
+  zoompw: 424181
+
+- title: "Children's Religious Education"
+  post-date: 2021-03-25
+  exp-date: 2021-03-26
+  fawe: "fas fa-school"
+  tags: "event"
+  time: "4 PM"
+  description: "Have young children between the ages of 4-5 who are ready to learn the Catholic faith? Join in weekly with your children to learn about Jesus as a family. Call the parish office to register at 773-873-4464."
+
+- title: "Catholic Social Teaching"
+  post-date: 2021-03-24
+  exp-date: 2021-03-25
+  fawe: "fas fa-book"
+  tags: "event"
+  time: "12 PM"
+  description: "Today Cynthia Norris will join us as we discuss Catholic Social Teaching."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Bible Study"
+  post-date: 2021-03-23
+  exp-date: 2021-03-24
+  fawe: "fas fa-bible"
+  tags: ["event", "aff"]
+  label: "Adult Faith Formation"
+  txt: "adult-faith-formation"
+  time: "12 PM"
+  description: "Join Sister Joanne Delehanty, OP as she expands on this upcomming Sunday's readings."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "The Power of How We Overcome"
+  post-date: 2021-03-22
+  exp-date: 2021-03-23
+  fawe: "fas fa-handshake"
+  tags: "event"
+  time: "12 PM"
+  description: "Today we will gather to talk about the Power of How We Overcome."
+  zoomid: 89415895742
+  zoompw: 636489
+
 - title: "Sunday Mass"
   post-date: 2021-03-21
   exp-date: 2021-03-22
@@ -5,19 +88,6 @@
   tags: "event"
   time: "12 PM"
   description: "Join us as we celebrate Mass for the Fifth Sunday of Lent."
-  zoomid: 89415895742
-  zoompw: 636489
-  fb: "Yes"
-
-- title: "Hush Harbor"
-  post-date: 2021-03-20
-  exp-date: 2021-03-21
-  fawe: "fas fa-hands"
-  tags: ["event", "music"]
-  label: "Music"
-  txt: "music"
-  time: "12 PM"
-  description: "Our Hush Harbor series features spirituals and speeches from the past that speak loudly today. In Antebellum America, a hush harbor was a place where the enslaved Africans would gather in secret to practice religious traditions."
   zoomid: 89415895742
   zoompw: 636489
   fb: "Yes"
