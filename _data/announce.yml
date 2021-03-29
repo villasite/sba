@@ -1,14 +1,24 @@
 
+- title: "Sunday Mass"
+  post-date: 2021-04-04
+  exp-date: 2021-04-05
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us for Easter Sunday The Resurrection of the Lord."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
 - title: "The Easter Vigil"
   post-date: 2021-04-03
   exp-date: 2021-04-04
   fawe: "fas fa-place-of-worship"
   tags: "event"
   time: "8 PM"
-  description: "Let us continue Holy Week with the Easter Vigil."
+  description: "Today we will have a blessing of the fire outdoors and blessings of the Easter candle before we join the Cathedral's streamed Mass celebration."
   zoomid: 84291808027
   zoompw: 804335
-  fb: "Yes"
 
 - title: "Good Friday – Noon Prayer"
   post-date: 2021-04-02
@@ -62,22 +72,3 @@
   description: "Today we will gather to talk about the Power of the Story."
   zoomid: 89415895742
   zoompw: 636489
-
-- title: "Sunday Mass"
-  post-date: 2021-03-28
-  exp-date: 2021-03-29
-  fawe: "fas fa-church"
-  tags: "event"
-  time: "12 PM"
-  description: "Join us as we celebrate Palm Sunday of the Lord’s Passion."
-  zoomid: 89415895742
-  zoompw: 636489
-  fb: "Yes"
-
-- title: "Truth and Reconciliation"
-  post-date: 2021-03-28
-  exp-date: 2021-03-29
-  fawe: "fas fa-hands-helping"
-  tags: "event"
-  time: "2 PM"
-  description: "Join the church as we call for Truth and Reconciliation; and prepare for Easter to make a difference. Fr. Bryan Massingale provides a candid look at racism in the light of Holy Week. Register before Sunday at https://bit.ly/Burdens-down."
