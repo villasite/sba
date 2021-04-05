@@ -1,10 +1,76 @@
+
 - title: "Sunday Mass"
-  post-date: 2021-04-04
-  exp-date: 2021-04-05
+  post-date: 2021-04-11
+  exp-date: 2021-04-12
   fawe: "fas fa-church"
   tags: "event"
   time: "12 PM"
-  description: "Join us for Easter Sunday The Resurrection of the Lord."
+  description: "Join us for the Second Sunday of Easter Sunday of Divine Mercy."
   zoomid: 89415895742
   zoompw: 636489
   fb: "Yes"
+
+- title: "Hush Harbor"
+  post-date: 2021-04-10
+  exp-date: 2021-04-11
+  fawe: "fas fa-hands"
+  tags: ["event", "music"]
+  label: "Music"
+  txt: "music"
+  time: "12 PM"
+  description: "Our Hush Harbor series features spirituals and speeches from the past that speak loudly today. In Antebellum America, a hush harbor was a place where the enslaved Africans would gather in secret to practice religious traditions."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
+- title: "Friday Goodness"
+  post-date: 2021-04-09
+  exp-date: 2021-04-10
+  fawe: "fas fa-star"
+  tags: "event"
+  time: "12 PM"
+  description: "Tune in for Friday Goodness where we highlight local entrepreneurs and organizations in the Englewood and Chicago area."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Mystagogy"
+  post-date: 2021-04-08
+  exp-date: 2021-04-09
+  fawe: "fas fa-brain"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us for a session on Mystagogy."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "The Stations of the Cross"
+  post-date: 2021-04-07
+  exp-date: 2021-04-08
+  fawe: "fas fa-cross"
+  tags: "event"
+  time: "12 PM"
+  description: "Today we will come together for the Stations of the Cross."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Bible Study"
+  post-date: 2021-04-06
+  exp-date: 2021-04-07
+  fawe: "fas fa-bible"
+  tags: ["event", "aff"]
+  label: "Adult Faith Formation"
+  txt: "adult-faith-formation"
+  time: "12 PM"
+  description: "Join Sister Joanne Delehanty, OP as she expands on this upcoming Sunday's readings."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "The Power of the Story"
+  post-date: 2021-04-05
+  exp-date: 2021-04-06
+  fawe: "fas fa-book-open"
+  tags: "event"
+  time: "12 PM"
+  description: "Today we will gather to talk about the Power of the Story."
+  zoomid: 89415895742
+  zoompw: 636489
