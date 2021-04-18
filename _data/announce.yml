@@ -1,18 +1,7 @@
 
-- title: "Easter Mass"
-  post-date: 2021-04-18
-  exp-date: 2021-04-19
-  fawe: "fas fa-church"
-  tags: "event"
-  time: "12 PM"
-  description: "Join us for the Third Sunday of Easter."
-  zoomid: 89415895742
-  zoompw: 636489
-  fb: "Yes"
-
-- title: "Hush Harbor Chapter 11"
-  post-date: 2021-04-17
-  exp-date: 2021-04-18
+- title: "Hush Harbor"
+  post-date: 2021-04-24
+  exp-date: 2021-04-25
   fawe: "fas fa-hands"
   tags: ["event", "music"]
   label: "Music"
@@ -23,12 +12,75 @@
   zoompw: 636489
   fb: "Yes"
 
-- title: "Growing Home Inc."
-  post-date: 2021-04-16
-  exp-date: 2021-04-17
+- title: "Friday Goodness"
+  post-date: 2021-04-23
+  exp-date: 2021-04-24
   fawe: "fas fa-star"
   tags: "event"
   time: "12 PM"
-  description: "Tune in for Friday Goodness where we highlight local entrepreneurs and organizations in the Englewood and Chicago area. Today we welcome LaQuandra Fair of Growing Home Inc."
+  description: "Tune in for Friday Goodness where we highlight local entrepreneurs and organizations in the Englewood and Chicago area."
   zoomid: 89415895742
   zoompw: 636489
+
+- title: "The Season of Easter"
+  post-date: 2021-04-22
+  exp-date: 2021-04-23
+  fawe: "fas fa-cross"
+  tags: "event"
+  time: "12 PM"
+  description: "Join Rev. Canon, A. Gerard Jordan, O. Praem for a session on the Season of Easter."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Praying with the Mother of God"
+  post-date: 2021-04-22
+  exp-date: 2021-04-23
+  fawe: "fas fa-pray"
+  tags: "event"
+  time: "2 PM"
+  description: "Pray in community the Rosary every Thursday at 2pm Central Time."
+  zoomid: 9796818222
+  zoompw: 424181
+
+- title: "Catholic Social Teaching"
+  post-date: 2021-04-21
+  exp-date: 2021-04-22
+  fawe: "fas fa-book"
+  tags: "event"
+  time: "12 PM"
+  description: "Today Cynthia Norris will join us as we discuss Catholic Social Teaching."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Bible Study"
+  post-date: 2021-04-20
+  exp-date: 2021-04-21
+  fawe: "fas fa-bible"
+  tags: ["event", "aff"]
+  label: "Adult Faith Formation"
+  txt: "adult-faith-formation"
+  time: "12 PM"
+  description: "Join Sister Joanne Delehanty, OP as she expands on this upcoming Sunday's readings."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "The Power of the Story"
+  post-date: 2021-04-19
+  exp-date: 2021-04-20
+  fawe: "fas fa-book-open"
+  tags: "event"
+  time: "12 PM"
+  description: "Today we will gather to talk about the Power of the Story."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Easter Mass"
+  post-date: 2021-04-18
+  exp-date: 2021-04-19
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us for the Third Sunday of Easter."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
