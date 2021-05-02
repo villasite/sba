@@ -1,4 +1,79 @@
 
+- title: "Hush Harbor"
+  post-date: 2021-05-08
+  exp-date: 2021-05-09
+  fawe: "fas fa-hands"
+  tags: ["event", "music"]
+  label: "Music"
+  txt: "music"
+  time: "12 PM"
+  description: "Our Hush Harbor series features spirituals and speeches from the past that speak loudly today. In Antebellum America, a hush harbor was a place where the enslaved Africans would gather in secret to practice religious traditions."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
+- title: "Friday Goodness"
+  post-date: 2021-05-07
+  exp-date: 2021-05-08
+  fawe: "fas fa-star"
+  tags: "event"
+  time: "12 PM"
+  description: "Tune in for Friday Goodness where we highlight local entrepreneurs and organizations in the Englewood and Chicago area."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "The Fired Up Church"
+  post-date: 2021-05-06
+  exp-date: 2021-05-07
+  fawe: "fas fa-fire-alt"
+  tags: "event"
+  time: "12 PM"
+  description: "Join Rev. Canon, A. Gerard Jordan, O. Praem for a session on The Fire in the Rock."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Praying with the Mother of God"
+  post-date: 2021-05-06
+  exp-date: 2021-05-07
+  fawe: "fas fa-pray"
+  tags: "event"
+  time: "2 PM"
+  description: "Pray in community the Rosary every Thursday at 2pm Central Time."
+  zoomid: 9796818222
+  zoompw: 424181
+
+- title: "Daughters of Divine Love"
+  post-date: 2021-05-05
+  exp-date: 2021-05-06
+  fawe: "fas fa-heart"
+  tags: "event"
+  time: "12 PM"
+  description: "Today's session will be on the Daughters of Divine Love."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Bible Study"
+  post-date: 2021-05-04
+  exp-date: 2021-05-05
+  fawe: "fas fa-bible"
+  tags: ["event", "aff"]
+  label: "Adult Faith Formation"
+  txt: "adult-faith-formation"
+  time: "12 PM"
+  description: "Join Sister Joanne Delehanty, OP as she expands on this upcoming Sunday's readings."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Ms. Julia Green - Story"
+  post-date: 2021-05-03
+  exp-date: 2021-05-04
+  fawe: "fas fa-book-open"
+  tags: "event"
+  time: "12 PM"
+  description: "Today we will gather for Ms. Julia Green's Story"
+  zoomid: 89415895742
+  zoompw: 636489
+
 - title: "Easter Mass"
   post-date: 2021-05-02
   exp-date: 2021-05-03
@@ -6,19 +81,6 @@
   tags: "event"
   time: "12 PM"
   description: "Join us for the Fifth Sunday of Easter."
-  zoomid: 89415895742
-  zoompw: 636489
-  fb: "Yes"
-
-- title: "Hush Harbor"
-  post-date: 2021-05-01
-  exp-date: 2021-05-02
-  fawe: "fas fa-hands"
-  tags: ["event", "music"]
-  label: "Music"
-  txt: "music"
-  time: "12 PM"
-  description: "Our Hush Harbor series features spirituals and speeches from the past that speak loudly today. In Antebellum America, a hush harbor was a place where the enslaved Africans would gather in secret to practice religious traditions."
   zoomid: 89415895742
   zoompw: 636489
   fb: "Yes"
