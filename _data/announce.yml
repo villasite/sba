@@ -1,4 +1,15 @@
 
+- title: "Easter Mass"
+  post-date: 2021-05-09
+  exp-date: 2021-05-10
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us for the Sixth Sunday of Easter."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
 - title: "Hush Harbor"
   post-date: 2021-05-08
   exp-date: 2021-05-09
@@ -28,7 +39,7 @@
   fawe: "fas fa-fire-alt"
   tags: "event"
   time: "12 PM"
-  description: "Join Rev. Canon, A. Gerard Jordan, O. Praem for a session on The Fire in the Rock."
+  description: "Join Rev. Canon, A. Gerard Jordan, O. Praem for a session on The Fired Up Church."
   zoomid: 89415895742
   zoompw: 636489
 
@@ -73,14 +84,3 @@
   description: "Today we will gather for Ms. Julia Green's Story"
   zoomid: 89415895742
   zoompw: 636489
-
-- title: "Easter Mass"
-  post-date: 2021-05-02
-  exp-date: 2021-05-03
-  fawe: "fas fa-church"
-  tags: "event"
-  time: "12 PM"
-  description: "Join us for the Fifth Sunday of Easter."
-  zoomid: 89415895742
-  zoompw: 636489
-  fb: "Yes"
