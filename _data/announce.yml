@@ -62,25 +62,3 @@
   description: "Today's session will be on the Daughters of Divine Love."
   zoomid: 89415895742
   zoompw: 636489
-
-- title: "Bible Study"
-  post-date: 2021-05-04
-  exp-date: 2021-05-05
-  fawe: "fas fa-bible"
-  tags: ["event", "aff"]
-  label: "Adult Faith Formation"
-  txt: "adult-faith-formation"
-  time: "12 PM"
-  description: "Join Sister Joanne Delehanty, OP as she expands on this upcoming Sunday's readings."
-  zoomid: 89415895742
-  zoompw: 636489
-
-- title: "Ms. Julia Green - Story"
-  post-date: 2021-05-03
-  exp-date: 2021-05-04
-  fawe: "fas fa-book-open"
-  tags: "event"
-  time: "12 PM"
-  description: "Today we will gather for Ms. Julia Green's Story"
-  zoomid: 89415895742
-  zoompw: 636489
