@@ -62,25 +62,3 @@
   description: "Today's session will be on the the Parish Council Consult."
   zoomid: 89415895742
   zoompw: 636489
-
-- title: "Bible Study"
-  post-date: 2021-05-11
-  exp-date: 2021-05-12
-  fawe: "fas fa-bible"
-  tags: ["event", "aff"]
-  label: "Adult Faith Formation"
-  txt: "adult-faith-formation"
-  time: "12 PM"
-  description: "Join Sister Joanne Delehanty, OP as she expands on this upcoming Sunday's readings."
-  zoomid: 89415895742
-  zoompw: 636489
-
-- title: "The Mother of God - Holy Mother Church - Our Mothers - My Mother"
-  post-date: 2021-05-10
-  exp-date: 2021-05-11
-  fawe: "fas fa-hand-holding-heart"
-  tags: "event"
-  time: "12 PM"
-  description: "Today we will gather to talk about The Mother of God, Holy Mother Church, Our Mothers, My Mother."
-  zoomid: 89415895742
-  zoompw: 636489
