@@ -1,0 +1,99 @@
+---
+layout: page2
+title: "Adult Faith Formation"
+image: "wooden-cross-slanted-closeup.jpg"
+permalink: /adult-faith-formation
+meta: "Reinforce your adult teaching of your Catholic faith with homilies and articles to grow further your RCIA Christian class"
+---
+<div class="container" id="news">
+    <div class="row">
+        <div class="col-lg-12 text-center">
+            <h2 class="section-heading">Adult Faith Events</h2>
+            <hr class="primary">
+        </div>
+    </div>
+
+    <div class="container">
+	{% assign data = site.data.announce | sort: 'post-date' %}
+	{% capture now %}{{'now' | date: '%s'}}{% endcapture %}
+
+	{% for entry in data %}
+		{% capture date %}{{entry.exp-date | date: '%s' | plus: 0 }}{% endcapture %}
+		{% if date > now %}
+			{% if entry.tags contains "aff" %}
+			<div class="panel panel-default" id="{{ entry.title }}">
+				<div class="panel-body">
+					<div class="row">
+						<div class="col-sm-2" align="center">
+							<span class="fa {{ entry.fawe }} fa-5x wow flipInX" data-wow-duration="5s" data-wow-iteration="10"></span>
+						</div>
+						<div class="col-sm-10">
+							<h3>{{ entry.title }}</h3>
+							<h4>{{ entry.post-date | date: '%A, %B %-d, %Y' }}</h4>
+							<p><b>{{ entry.time }}</b></p>
+							<p>{{ entry.description }}</p>
+							{% if entry.zoomid != null %}
+							<p class="text-danger"><b>Meeting ID</b>: {{ entry.zoomid }}
+							<br>
+							<b>Passcode</b>: {{ entry.zoompw }}
+							</p>
+							{% endif %}
+							{% if entry.fb == "Yes" %}
+							<p>
+								You can also view Live through our <a href="https://www.facebook.com/SBAParish" target="_blank"><span class="fab fa-facebook fa-2x wow flash" data-wow-delay="5s"></span>acebook page</a>.	
+							</p>
+							{% endif %}
+						</div>
+					</div>
+				</div>
+			</div>
+			{% endif %}
+		{% endif %}
+	{% endfor %}
+    </div>
+
+</div>
+
+<div class="container top-buffer">
+    <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading">Writings</h2>
+          <hr class="primary">
+        </div>
+        <div class="col-lg-12">
+          <p>Want to refresh your basic understanding of your Christian faith? Or want an introduction to Catholic practices and history? Learning, understanding, and living our Catholic Christian faith never ends even as we grow old.</p>
+          <p>Read the posts below on the bible, liturgical practices, holy days of obligation, and more.</p>
+        </div>
+    </div>
+    {% include aff-dropdown.html %}
+    
+    {% for category in site.categories %}
+    <a name="{{ category[0] }}"></a>
+    <h3 class="top-buffer">{{ category[0] | upcase }}</h3> 
+        {% for post in category[1] %}
+		<div class="col-sm-4">
+			<div class="panel panel-default">
+				<div class="panel-body">
+	    			<img src="{{ site.baseurl }}/img/{{ post.image }}" class="img-fluid cutoff-bottom" alt="post image">
+					<a href="{{ post.url }}"><h4>{{ post.title | upcase }}</h4></a>
+					<h5>{{ post.subtitle }}</h5>
+					<p>{{ post.excerpt | truncatewords: 30, "..." }}</p>
+					<a href="{{ post.url }}"  class="btn btn-primary wow tada">Read More</a>
+				</div>
+			</div>
+		</div>
+        {% endfor %}
+    {% endfor %}
+	
+	<div class="row" id="videos">
+	{% for vid in site.data.utube %}
+		{% if vid.tag contains "bible-study"%}
+		<div class="col-sm-4 bottom-buffer">
+			<div class="embed-responsive embed-responsive-4by3">
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ vid.link }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</div>
+		</div>
+		{% endif %}
+	{% endfor %}
+	</div>
+</div>

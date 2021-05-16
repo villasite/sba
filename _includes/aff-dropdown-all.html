@@ -1,0 +1,32 @@
+<section class="bg-primary" id="about">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+                <h2 class="section-heading">Want to Learn More?</h2>
+                <hr class="light">
+                <p class="text-faded">
+                    Read posts on the bible, liturgical practices, holy days of obligation, and more. 
+                </p>
+                <p class="text-faded">
+                    Visit the <a href="{{site.baseurl}}/adult-faith-formation" class="text-light bg-primary">Adult Faith Formation page</a> for more information.
+                </p>
+                <div class="btn-group">
+                  <button class="btn btn-default btn-lg dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Select by Post <span class="caret"></span>
+                  </button>
+                  <ul class="dropdown-menu">
+                    {% for category in site.categories %}
+                    <li role="separator" class="divider"></li>
+                    <li class="text-primary">{{ category[0] | upcase  }}</li>
+                    <li role="separator" class="divider"></li>
+                        {% for post in category[1] %}
+                        <li><a href="{{ post.url }}">{{ post.title}}</a></li>
+                        {% endfor %}
+                    {% endfor %}
+                  </ul>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>

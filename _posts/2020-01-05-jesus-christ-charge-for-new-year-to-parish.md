@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Charge for a New Year"
+post-date: 2020-01-05
+author: "Sister Joanne Delehanty, OP"
+image: "family-tapestry.jpeg"
+categories: [Reflections]
+tags: [writing]
+permalink: "announcement/:year/:title"
+meta: "It is a new year, a time to look back and reflect, to look ahead and rethink some things and make decisions. Today in this beginning of the new year I want to speak of a charge to us, the people of God of St. Benedict the African parish."
+---
+It is a new year, a time to look back and reflect, to look ahead and rethink some things and make decisions. Today in this beginning of the new year I want to speak of a charge to us, the people of God of St. Benedict the African parish.
+
+<!--more-->
+
+Charge can refer to: an atom, a purchase, a war maneuver, or to be entrusted with a task as a duty or responsibility.
+
+Perhaps we have lost something. Maybe we have come to think of church in a devotional and private and passive way: *This liturgy suits me*; *I’m comfortable here*, *I like the people*, *it’s a good community*. 
+
+We do that with Christmas, too. We sentimentalize it. Did anyone besides me wonder where the crib was?
+
+But look! Here it is part of the piece entitled “From the Incarnation to the Crucifixion.” Actually this is a great way to depict the truth of Incarnation. It is part of a divine action that continues, and it continues through us. This makes Christmas less sentimental but filled with responsibility.
+
+And that responsibility is to allow the divine action to continue through us by entering into the power of the Incarnation. That power is this: to see life as a moral force rather than simply a private enterprise. Faith and religion, though intensely personal, are never private. The very root of the word religion means bind one to another.
+
+The arc of Scripture reveals that all of history and all creation are redeemed: the house of David…the people who walked in darkness… We do not go to God one by one.
+
+“The only task worthy of our efforts is to construct the future,” Teilhard de Chardin wrote. Each of us is meant to bridge one generation with another—the past to the future—so that those who come after us may have stars to steer by. That is the universal vocation.
+
+And that is the charge we are entrusted with in this new year. Show up for Eucharist. Bring someone with you. Reach out to anyone who joins us around this table. Take responsibility for what you belong to (Note: not what belongs to you). Support this people of God that we are. And I mean way beyond financially. 
+
+No one of us who is around this altar on Sundays should ever have a funeral to which none of the rest of us come. We should strive to learn more people by name. We should be honored and willing to serve the liturgy. We should do something in addition to Sunday Mass that grows and wakens up our faith. We people of the 2000-year-old-Way should reflect what the first people-of-the-Way knew: Faith doesn’t happen between your ears. It is life lived in relationship with Jesus Christ and all God’s people and this earth that we share and should protect.
+
+Others knew the first Christians by how they acted and by their joy. Church is not about getting community. It is about creating community in response to the enormous love God gives us and holds us in always. And it takes tons of work, all of which drags us out of our selfishness and makes the joy authentic. Because even the joy is about the other. It is defined by forgiveness (ultimately), sacrifice, commitment, faithfulness, abiding in hope (which always and only comes in relationship). Each time we move out of selfishness we are made more wholly into the Body of Christ.
+
+None of us is the center of the universe. We belong to an immensely and intensely beautiful divine action _that is not over_.
+
+**Charge!**

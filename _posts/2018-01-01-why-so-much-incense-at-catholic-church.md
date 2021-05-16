@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Why use incense at Mass?"
+subtitle: "Prayers rise, blessings come down"
+author: "Father David Jones"
+image: "altar-closeup.jpeg"
+categories: [Catholic Practices]
+tags: [writing]
+permalink: "adult-faith-formation/:title"
+meta: "One has to chuckle when a Catholic complains that the use of incense bothers him or her. In ancient times incense was used to drive demons away!"
+---
+One has to chuckle when a Catholic complains that the use of incense bothers him or her. In ancient times incense was used to drive demons away!
+<!--more-->
+
+For us, the use of incense is biblical and liturgical. The Lord instructed Moses on how to use incense to mark and keep space sacred. In liturgy, incense is used to symbolize the act of purification and sanctification. We incense people and things that we want to make and keep holy by our prayers. The smoke, as the psalmist reminds us, is a sign of the prayer rising up so the blessings can come down.
+
+The smell and smoke cloud in the room brings to mind the upper room, a city called heaven, and all things that take us to higher ground. It brings to mind solemnity and mystery of communing with God almighty.
+
+At Mass, incense may be used during the entrance procession, at the Gospel procession and acclamation, at the offertory to incense our gifts, to incense the altar, the priest and the people.
+
+Some of our most power filled moments are marked with smells and bells. Using incense at the elevation of the Eucharist, bread changed into the Body of Christ is a stunning moment.
+
+Make sure that you always have the coffin incensed at a funeral. It is a wonderful way to send one back to God with prayers of the faithful. Very classy. Very respectful. Very good religion. Very good liturgy.

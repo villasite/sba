@@ -1,0 +1,200 @@
+---
+layout: page-basic
+title: "Englewood"
+subtitle: "St. Benedict the African. The Catholic Church in Englewood."
+meta: "St. Benedict the African Parish, the Catholic Church in Englewood, values and partners with residents, organizations and businesses that share our love for the community formed in this zip code."
+---
+<section class="no-padding">
+    <div class="cropped">
+        <img class="img-fluid" src="{{ site.baseurl }}/img/englewood-3.jpg" alt="Englewood Chicago wall painting art">
+        <div class="text_over_image_low">
+            <h1>{{ page.title }}</h1>
+        </div>
+    </div>
+</section>
+
+<div class="container top-buffer">
+	<p>St. Benedict the African Parish, the Catholic Church in Englewood, values and partners with residents, organizations and businesses that share our love for the community formed in this zip code.</p>
+	<div class="row">
+		{% for datas in site.data.englewood-org %}
+			{% if datas.tag contains "Community" %}
+			<div class="p-2 col-lg-2">
+				<div class="panel panel-default">
+					<a href="{{ datas.url}}" target="_blank">
+					<div class="panel-body">
+						<img class="center-block img-thumbnail" src="{{datas.img}}" alt="{{datas.imgalt}}">
+						<p class="text-center"><b>{{ datas.company }}</b></p>
+					</div>
+					</a>
+				</div>
+			</div>
+			{% endif %}
+		{% endfor %}
+	</div>
+</div>
+
+<div class="container top-buffer" id="podcast">
+    <div class="row">
+        <div class="col-lg-12 text-center">
+            <h2 class="section-heading">Friday Goodness Podcast</h2>
+            <hr class="primary">
+        </div>
+    </div>
+
+
+<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/6c598d27-587c-4020-8fc4-4f6eec8217c3/ep/1d14c349-43ad-48de-92c8-a2d8a4453388"></script>
+    <div class="redcirclePlayer-1d14c349-43ad-48de-92c8-a2d8a4453388"></div>
+    <style>
+    .redcircle-link:link {
+        color: #ea404d;
+        text-decoration: none;
+    }
+    .redcircle-link:hover {
+        color: #ea404d;
+    }
+    .redcircle-link:active {
+        color: #ea404d;
+    }
+    .redcircle-link:visited {
+        color: #ea404d;
+    }
+</style>
+<p style="margin-top:3px;margin-left:11px;font-family: sans-serif;font-size: 10px; color: gray;">Powered by <a class="redcircle-link" href="https://redcircle.com?utm_source=rc_embedded_player&utm_medium=web&utm_campaign=embedded_v1">RedCircle</a></p>
+
+<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/6c598d27-587c-4020-8fc4-4f6eec8217c3/ep/2f736083-4f44-4085-80f5-9c3586fdfd52"></script>
+    <div class="redcirclePlayer-2f736083-4f44-4085-80f5-9c3586fdfd52"></div>
+    <style>
+    .redcircle-link:link {
+        color: #ea404d;
+        text-decoration: none;
+    }
+    .redcircle-link:hover {
+        color: #ea404d;
+    }
+    .redcircle-link:active {
+        color: #ea404d;
+    }
+    .redcircle-link:visited {
+        color: #ea404d;
+    }
+</style>
+<p style="margin-top:3px;margin-left:11px;font-family: sans-serif;font-size: 10px; color: gray;">Powered by <a class="redcircle-link" href="https://redcircle.com?utm_source=rc_embedded_player&utm_medium=web&utm_campaign=embedded_v1">RedCircle</a></p>
+
+<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/6c598d27-587c-4020-8fc4-4f6eec8217c3/ep/9446dfc3-6ed2-4252-a31f-d1eccf36a067"></script>
+    <div class="redcirclePlayer-9446dfc3-6ed2-4252-a31f-d1eccf36a067"></div>
+    <style>
+    .redcircle-link:link {
+        color: #ea404d;
+        text-decoration: none;
+    }
+    .redcircle-link:hover {
+        color: #ea404d;
+    }
+    .redcircle-link:active {
+        color: #ea404d;
+    }
+    .redcircle-link:visited {
+        color: #ea404d;
+    }
+</style>
+<p style="margin-top:3px;margin-left:11px;font-family: sans-serif;font-size: 10px; color: gray;">Powered by <a class="redcircle-link" href="https://redcircle.com?utm_source=rc_embedded_player&utm_medium=web&utm_campaign=embedded_v1">RedCircle</a></p>
+
+<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/6c598d27-587c-4020-8fc4-4f6eec8217c3/ep/70d73409-f845-46f7-9961-13adcaef0e2f"></script>
+    <div class="redcirclePlayer-70d73409-f845-46f7-9961-13adcaef0e2f"></div>
+    <style>
+    .redcircle-link:link {
+        color: #ea404d;
+        text-decoration: none;
+    }
+    .redcircle-link:hover {
+        color: #ea404d;
+    }
+    .redcircle-link:active {
+        color: #ea404d;
+    }
+    .redcircle-link:visited {
+        color: #ea404d;
+    }
+</style>
+<p style="margin-top:3px;margin-left:11px;font-family: sans-serif;font-size: 10px; color: gray;">Powered by <a class="redcircle-link" href="https://redcircle.com?utm_source=rc_embedded_player&utm_medium=web&utm_campaign=embedded_v1">RedCircle</a></p>
+
+
+	<p>Tune in to our FRIDAY GOODNESS PODCAST where the innovative, creative and talented meet, greet and bring something good to this neighborhood. The following are organizations highlighted to date.</p>
+	<div class="row">
+		{% for datas in site.data.englewood-org %}
+			{% if datas.tag contains "Friday" %}
+			<div class="p-2 col-lg-4 col-md-6 col-sm-12">
+				<div class="panel panel-default">
+					<div class="panel-body">
+						<div class="card h-100">
+							<div class="card-body">
+								<img class="card-img-top center-block img-thumbnail" src="{{datas.img}}" alt="{{datas.imgalt}}">
+								<p class="card-text">{{ datas.text | truncatewords:75 }}</p>
+								<div class="text-center"><a class="btn btn-primary wow tada" href="{{ datas.url }}" target="_blank">Learn More</a></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			{% endif %}
+		{% endfor %}
+	</div>
+</div>
+
+<div class="container top-buffer" id="news">
+    <div class="row">
+        <div class="col-lg-12 text-center">
+            <h2 class="section-heading">Community Calendar</h2>
+            <hr class="primary">
+        </div>
+    </div>
+
+    <div class="row">
+	{% assign data = site.data.announce | sort: 'post-date' %}
+	{% capture now %}{{'now' | date: '%s'}}{% endcapture %}
+
+	{% for entry in data %}
+		{% capture date %}{{entry.exp-date | date: '%s' | plus: 0 }}{% endcapture %}
+		{% if date > now %}
+			{% if entry.title contains "Friday Goodness" %}
+			<div class="panel panel-default" id="{{ entry.title }}">
+				<div class="panel-body">
+					<div class="row">
+						<div class="col-sm-2" align="center">
+							<span class="fa {{ entry.fawe }} fa-5x wow flipInX" data-wow-duration="5s" data-wow-iteration="10"></span>
+						</div>
+						<div class="col-sm-10">
+							<h3>{{ entry.title }}</h3>
+							<h4>{{ entry.post-date | date: '%A, %B %-d, %Y' }}</h4>
+							<p><b>{{ entry.time }}</b></p>
+							<p>{{ entry.description }}</p>
+							{% if entry.zoomid != null %}
+							<p class="text-danger"><b>Meeting ID</b>: {{ entry.zoomid }}
+							<br>
+							<b>Passcode</b>: {{ entry.zoompw }}
+							</p>
+							{% endif %}
+							{% if entry.fb == "Yes" %}
+							<p>
+								You can also view Live through our <a href="https://www.facebook.com/SBAParish" target="_blank"><span class="fab fa-facebook fa-2x wow flash" data-wow-delay="5s"></span>acebook page</a>.	
+							</p>
+							{% endif %}
+						</div>
+					</div>
+				</div>
+			</div>
+			{% endif %}
+		{% endif %}
+	{% endfor %}
+    </div>
+	
+	<div class="row">
+		{% for datas in site.data.englewood-ad %}
+		<div class="container">
+			<a href="{{datas.link}}" target="_blank">
+			<img class= "img-fluid center-block img-thumbnail" src="{{datas.img}}" alt="{{datas.alt}}">	
+			</a>
+		</div>
+		{% endfor %}
+	</div>
+</div>

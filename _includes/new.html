@@ -1,0 +1,54 @@
+<section id="news">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Upcoming Events</h2>
+                <hr class="primary">
+            </div>
+        </div>
+		
+		<div class="row">
+		{% assign data = site.data.announce | sort: 'exp-date' %}
+		{% capture now %}{{'now' | date: '%s'}}{% endcapture %}
+		{% for entry in data offest:0 limit:4 %}
+			{% capture date %}{{entry.exp-date | date: '%s' | plus: 0 }}{% endcapture %}
+			{% if date > now %}
+				<div class="col-lg-3 col-md-3 text-center">
+					<div class="service-box">
+						<a href="{{site.baseurl}}/announcement#{{ entry.title }}">
+						<div class="col-md-6 px-0">
+							<i class="fa {{ entry.fawe }} fa-5x wow flipInX" data-wow-duration="5s" data-wow-iteration="10"></i>
+							<h4>{{ entry.title }}</h4>
+						</div>
+						</a>
+					</div>
+				</div>
+			{% endif %}
+		{% endfor %}
+		</div>
+
+        <div class="row text-center">
+            <a href="{{site.baseurl}}/announcement" class="btn btn-primary btn-xl wow tada">Read More</a>
+        </div>
+    </div>
+</section>
+
+<section class="bg-dark bottom-buffer" >
+    <div class="container">
+        <div class="row">
+			<div class="col-lg-8 col-lg-offset-2 text-center">
+				<h2 class="section-heading">Zoom Info</h2>
+				<hr class="light">
+				<p>
+					<b>Call Number: 312-626-6799</b>
+					<br>
+					<b>Meeting ID: 89415895742</b>
+					<br>
+					<b>Passcode: 636 489</b>
+					<br>
+					<b><a href="https://bit.ly/SBAChicago"target="_blank">https://bit.ly/SBAChicago</a></b>
+				</p>
+			</div>
+        </div>
+    </div>
+</section>

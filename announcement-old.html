@@ -1,0 +1,51 @@
+---
+layout: page2
+title: "Past Announcements"
+image: "picture-frame-hands-up.jpeg"
+permalink: /announcement/archive
+meta: "View our past social and religious activities and events held at Saint Benedict the African."
+---
+<div class="container bottom-buffer">
+  <div class="row">
+    <i class="fa fa-plus" aria-hidden="true"></i>
+    <a href="{{ site.baseurl }}/announcement/archive">View past events</a>
+  </div>
+</div>
+
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-12 text-center">
+      <h2 class="section-heading">Previous Events</h2>
+      <hr class="primary">
+    </div>
+  </div>
+</div>
+
+{% assign posts = site.posts %}
+{% capture now %}{{'now' | date: '%s'}}{% endcapture %}
+  {% for post in posts %}
+    {% capture date %}{{post.exp-date | date: '%s' | plus: 0 }}{% endcapture %}
+    {% if date < now %}  
+      {% if post.tags contains "event" %}
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="row">
+            <div class="col-sm-2" align="center">
+                <i class="fa {{ post.fawe }} fa-5x"></i>
+            </div>
+            
+            <div class="col-sm-10">
+              <h3>{{ post.title }}</h3>
+              <h4>{{ post.post-date | date: '%B %-d, %Y' }}</h4>
+              {{ post.content }}
+              <h5><a href="{{ site.baseurl }}/{{ post.txt }}" class="badge badge-default">{{  post.label }}</a></h5>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
