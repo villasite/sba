@@ -1,4 +1,27 @@
 
+- title: "Hush Harbor"
+  post-date: 2021-05-15
+  exp-date: 2021-05-16
+  fawe: "fas fa-hands"
+  tags: ["event", "music"]
+  label: "Music"
+  txt: "music"
+  time: "12 PM"
+  description: "Our Hush Harbor series features spirituals and speeches from the past that speak loudly today. In Antebellum America, a hush harbor was a place where the enslaved Africans would gather in secret to practice religious traditions."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
+- title: "Friday Goodness"
+  post-date: 2021-05-14
+  exp-date: 2021-05-15
+  fawe: "fas fa-star"
+  tags: "event"
+  time: "12 PM"
+  description: "Tune in for Friday Goodness where we highlight local entrepreneurs and organizations in the Englewood and Chicago area."
+  zoomid: 89415895742
+  zoompw: 636489
+
 - title: "The Church on Fire"
   post-date: 2021-05-13
   exp-date: 2021-05-14

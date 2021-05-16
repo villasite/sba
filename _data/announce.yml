@@ -1,18 +1,7 @@
 
-- title: "Sunday Mass"
-  post-date: 2021-05-16
-  exp-date: 2021-05-17
-  fawe: "fas fa-church"
-  tags: "event"
-  time: "12 PM"
-  description: "Join us for the Mass for the Solemnity of the Ascension of the Lord."
-  zoomid: 89415895742
-  zoompw: 636489
-  fb: "Yes"
-
 - title: "Hush Harbor"
-  post-date: 2021-05-15
-  exp-date: 2021-05-16
+  post-date: 2021-05-22
+  exp-date: 2021-05-23
   fawe: "fas fa-hands"
   tags: ["event", "music"]
   label: "Music"
@@ -24,11 +13,74 @@
   fb: "Yes"
 
 - title: "Friday Goodness"
-  post-date: 2021-05-14
-  exp-date: 2021-05-15
+  post-date: 2021-05-21
+  exp-date: 2021-05-22
   fawe: "fas fa-star"
   tags: "event"
   time: "12 PM"
   description: "Tune in for Friday Goodness where we highlight local entrepreneurs and organizations in the Englewood and Chicago area."
   zoomid: 89415895742
   zoompw: 636489
+
+- title: "Pentecost"
+  post-date: 2021-05-20
+  exp-date: 2021-05-21
+  fawe: "fas fa-wind"
+  tags: "event"
+  time: "12 PM"
+  description: "Join Rev. Canon, A. Gerard Jordan, O. Praem for a session on Pentecost."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Praying with the Mother of God"
+  post-date: 2021-05-20
+  exp-date: 2021-05-21
+  fawe: "fas fa-pray"
+  tags: "event"
+  time: "2 PM"
+  description: "Pray in community the Rosary every Thursday at 2pm Central Time."
+  zoomid: 9796818222
+  zoompw: 424181
+
+- title: "COVID in the Hood"
+  post-date: 2021-05-19
+  exp-date: 2021-05-20
+  fawe: "fas fa-clinic-medical"
+  tags: "event"
+  time: "12 PM"
+  description: "Today's session will be on COVID in the Hood."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Bible Study"
+  post-date: 2021-05-18
+  exp-date: 2021-05-19
+  fawe: "fas fa-bible"
+  tags: ["event", "aff"]
+  label: "Adult Faith Formation"
+  txt: "adult-faith-formation"
+  time: "12 PM"
+  description: "Join Sister Joanne Delehanty, OP as she expands on this upcoming Sunday's readings."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Integration Stories"
+  post-date: 2021-05-17
+  exp-date: 2021-05-18
+  fawe: "fas fa-book-open"
+  tags: "event"
+  time: "12 PM"
+  description: "Today we will gather to talk Integration Stories."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Sunday Mass"
+  post-date: 2021-05-16
+  exp-date: 2021-05-17
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us for the Mass for the Solemnity of the Ascension of the Lord."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
