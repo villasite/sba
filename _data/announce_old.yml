@@ -1,4 +1,57 @@
 
+- title: "Hush Harbor"
+  post-date: 2021-05-15
+  exp-date: 2021-05-16
+  fawe: "fas fa-hands"
+  tags: ["event", "music"]
+  label: "Music"
+  txt: "music"
+  time: "12 PM"
+  description: "Our Hush Harbor series features spirituals and speeches from the past that speak loudly today. In Antebellum America, a hush harbor was a place where the enslaved Africans would gather in secret to practice religious traditions."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
+- title: "Friday Goodness"
+  post-date: 2021-05-14
+  exp-date: 2021-05-15
+  fawe: "fas fa-star"
+  tags: "event"
+  time: "12 PM"
+  description: "Tune in for Friday Goodness where we highlight local entrepreneurs and organizations in the Englewood and Chicago area."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "The Church on Fire"
+  post-date: 2021-05-13
+  exp-date: 2021-05-14
+  fawe: "fas fa-fire-alt"
+  tags: "event"
+  time: "12 PM"
+  description: "Join Rev. Canon, A. Gerard Jordan, O. Praem for a session on The Church on Fire."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Praying with the Mother of God"
+  post-date: 2021-05-13
+  exp-date: 2021-05-14
+  fawe: "fas fa-pray"
+  tags: "event"
+  time: "2 PM"
+  description: "Pray in community the Rosary every Thursday at 2pm Central Time."
+  zoomid: 9796818222
+  zoompw: 424181
+
+- title: "Parish Council Consult"
+  post-date: 2021-05-12
+  exp-date: 2021-05-13
+  fawe: "fas fa-landmark"
+  tags: "event"
+  time: "12 PM"
+  description: "Today's session will be on the the Parish Council Consult."
+  zoomid: 89415895742
+  zoompw: 636489
+
 - title: "Bible Study"
   post-date: 2021-05-11
   exp-date: 2021-05-12
