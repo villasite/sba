@@ -1,4 +1,79 @@
 
+- title: "Hush Harbor"
+  post-date: 2021-06-05
+  exp-date: 2021-06-06
+  fawe: "fas fa-hands"
+  tags: ["event", "music"]
+  label: "Music"
+  txt: "music"
+  time: "12 PM"
+  description: "Our Hush Harbor series features spirituals and speeches from the past that speak loudly today. In Antebellum America, a hush harbor was a place where the enslaved Africans would gather in secret to practice religious traditions."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
+- title: "Friday Goodness"
+  post-date: 2021-06-04
+  exp-date: 2021-06-05
+  fawe: "fas fa-star"
+  tags: "event"
+  time: "12 PM"
+  description: "Tune in for Friday Goodness where we highlight local entrepreneurs and organizations in the Englewood and Chicago area."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "The Comforter has Come"
+  post-date: 2021-06-03
+  exp-date: 2021-06-04
+  fawe: "fas fa-wind"
+  tags: "event"
+  time: "12 PM"
+  description: "Join Rev. Canon, A. Gerard Jordan, O. Praem for a session on The Comforter has Come."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Praying with the Mother of God"
+  post-date: 2021-06-03
+  exp-date: 2021-06-04
+  fawe: "fas fa-pray"
+  tags: "event"
+  time: "2 PM"
+  description: "Pray in community the Rosary every Thursday at 2pm Central Time."
+  zoomid: 9796818222
+  zoompw: 424181
+
+- title: "Current Events"
+  post-date: 2021-06-02
+  exp-date: 2021-06-03
+  fawe: "fas fa-newspaper"
+  tags: "event"
+  time: "12 PM"
+  description: "Sr. Jamie Phelps, OP is the discussion leader on this hour of reflection and conversation on the readings and headlines of the day."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Bible Study"
+  post-date: 2021-06-01
+  exp-date: 2021-06-02
+  fawe: "fas fa-bible"
+  tags: ["event", "aff"]
+  label: "Adult Faith Formation"
+  txt: "adult-faith-formation"
+  time: "12 PM"
+  description: "Join Sister Joanne Delehanty, OP as she expands on this upcoming Sunday's readings."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Origin/Integration Stories"
+  post-date: 2021-05-31
+  exp-date: 2021-06-01
+  fawe: "fas fa-book-open"
+  tags: "event"
+  time: "12 PM"
+  description: "Today we will gather to talk Origin/Integration Stories."
+  zoomid: 89415895742
+  zoompw: 636489
+
 - title: "Sunday Mass"
   post-date: 2021-05-30
   exp-date: 2021-05-31
@@ -6,19 +81,6 @@
   tags: "event"
   time: "12 PM"
   description: "Join us for The Solemnity of the Most Holy Trinity."
-  zoomid: 89415895742
-  zoompw: 636489
-  fb: "Yes"
-
-- title: "Hush Harbor"
-  post-date: 2021-05-29
-  exp-date: 2021-05-30
-  fawe: "fas fa-hands"
-  tags: ["event", "music"]
-  label: "Music"
-  txt: "music"
-  time: "12 PM"
-  description: "Our Hush Harbor series features spirituals and speeches from the past that speak loudly today. In Antebellum America, a hush harbor was a place where the enslaved Africans would gather in secret to practice religious traditions."
   zoomid: 89415895742
   zoompw: 636489
   fb: "Yes"
