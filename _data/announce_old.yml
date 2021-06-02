@@ -1,4 +1,37 @@
 
+- title: "Bible Study"
+  post-date: 2021-06-01
+  exp-date: 2021-06-02
+  fawe: "fas fa-bible"
+  tags: ["event", "aff"]
+  label: "Adult Faith Formation"
+  txt: "adult-faith-formation"
+  time: "12 PM"
+  description: "Join Sister Joanne Delehanty, OP as she expands on this upcoming Sunday's readings."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Origin/Integration Stories"
+  post-date: 2021-05-31
+  exp-date: 2021-06-01
+  fawe: "fas fa-book-open"
+  tags: "event"
+  time: "12 PM"
+  description: "Today we will gather to talk Origin/Integration Stories."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Sunday Mass"
+  post-date: 2021-05-30
+  exp-date: 2021-05-31
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us for The Solemnity of the Most Holy Trinity."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
 - title: "Hush Harbor"
   post-date: 2021-05-29
   exp-date: 2021-05-30
