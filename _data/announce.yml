@@ -1,4 +1,15 @@
 
+- title: "Sunday Mass"
+  post-date: 2021-06-13
+  exp-date: 2021-06-14
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us for the Eleventh Sunday in Ordinary Time."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
 - title: "Hush Harbor"
   post-date: 2021-06-12
   exp-date: 2021-06-13
@@ -63,24 +74,3 @@
   description: "Join Sister Joanne Delehanty, OP as she expands on this upcoming Sunday's readings."
   zoomid: 89415895742
   zoompw: 636489
-
-- title: "Origin/Integration Stories"
-  post-date: 2021-06-07
-  exp-date: 2021-06-08
-  fawe: "fas fa-book-open"
-  tags: "event"
-  time: "12 PM"
-  description: "Today we will gather to talk Origin/Integration Stories."
-  zoomid: 89415895742
-  zoompw: 636489
-
-- title: "Sunday Mass"
-  post-date: 2021-06-06
-  exp-date: 2021-06-07
-  fawe: "fas fa-church"
-  tags: "event"
-  time: "12 PM"
-  description: "Join us for The Solemnity of the Most Holy Body and Blood of Christ."
-  zoomid: 89415895742
-  zoompw: 636489
-  fb: "Yes"
