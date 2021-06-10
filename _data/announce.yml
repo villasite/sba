@@ -52,25 +52,3 @@
   description: "Pray in community the Rosary every Thursday at 2pm Central Time."
   zoomid: 9796818222
   zoompw: 424181
-
-- title: "Black, Catholic & Ordained"
-  post-date: 2021-06-09
-  exp-date: 2021-06-10
-  fawe: "fas fa-cross"
-  tags: "event"
-  time: "12 PM"
-  description: "Today's talk will be on Black, Catholic & Ordained."
-  zoomid: 89415895742
-  zoompw: 636489
-
-- title: "Bible Study"
-  post-date: 2021-06-08
-  exp-date: 2021-06-09
-  fawe: "fas fa-bible"
-  tags: ["event", "aff"]
-  label: "Adult Faith Formation"
-  txt: "adult-faith-formation"
-  time: "12 PM"
-  description: "Join Sister Joanne Delehanty, OP as she expands on this upcoming Sunday's readings."
-  zoomid: 89415895742
-  zoompw: 636489
