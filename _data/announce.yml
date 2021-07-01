@@ -4,7 +4,7 @@
   exp-date: 2021-07-05
   fawe: "fas fa-church"
   tags: "event"
-  time: "12 PM"
+  time: "11 AM"
   description: "Join us for the Fourteenth Sunday in Ordinary Time."
   zoomid: 89415895742
   zoompw: 636489
@@ -17,7 +17,7 @@
   tags: ["event", "music"]
   label: "Music"
   txt: "music"
-  time: "12 PM"
+  time: "11 AM"
   description: "Our Hush Harbor series features spirituals and speeches from the past that speak loudly today. In Antebellum America, a hush harbor was a place where the enslaved Africans would gather in secret to practice religious traditions."
   zoomid: 89415895742
   zoompw: 636489
@@ -52,13 +52,3 @@
   description: "Pray in community the Rosary every Thursday at 2pm Central Time."
   zoomid: 9796818222
   zoompw: 424181
-
-- title: "What’s the News?"
-  post-date: 2021-06-30
-  exp-date: 2021-07-01
-  fawe: "fas fa-newspaper"
-  tags: "event"
-  time: "12 PM"
-  description: "Sr. Jamie Phelps, OP is the discussion leader on this hour of reflection and conversation."
-  zoomid: 89415895742
-  zoompw: 636489
