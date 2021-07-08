@@ -1,4 +1,26 @@
 
+- title: "Habari Gani?  What is the news?"
+  post-date: 2021-07-07
+  exp-date: 2021-07-08
+  fawe: "fas fa-newspaper"
+  tags: "event"
+  time: "12 PM"
+  description: "Sr. Jamie Phelps, OP is the discussion leader on this hour of reflection and conversation."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Bible Study"
+  post-date: 2021-07-06
+  exp-date: 2021-07-07
+  fawe: "fas fa-bible"
+  tags: ["event", "aff"]
+  label: "Adult Faith Formation"
+  txt: "adult-faith-formation"
+  time: "12 PM"
+  description: "Join Sister Joanne Delehanty, OP as she expands on this upcoming Sunday's readings."
+  zoomid: 89415895742
+  zoompw: 636489
+
 - title: "Integration Stories"
   post-date: 2021-07-05
   exp-date: 2021-07-06

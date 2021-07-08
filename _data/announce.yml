@@ -1,4 +1,13 @@
 
+
+- title: "Sunday Mass"
+  post-date: 2021-07-11
+  exp-date: 2021-07-12
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "9 AM"
+  description: "Register with the Parish Office to attend in person for the Fifteenth Sunday in Ordinary Time."
+
 - title: "Sunday Mass"
   post-date: 2021-07-11
   exp-date: 2021-07-12
@@ -22,6 +31,14 @@
   zoomid: 89415895742
   zoompw: 636489
   fb: "Yes"
+
+- title: "Vigil Mass"
+  post-date: 2021-07-10
+  exp-date: 2021-07-11
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "4 PM"
+  description: "Register with the Parish Office to attend in person for the Mass for the Fifteenth Sunday in Ordinary Time."
 
 - title: "Friday Goodness"
   post-date: 2021-07-09
@@ -52,25 +69,3 @@
   description: "Pray in community the Rosary every Thursday at 2pm Central Time."
   zoomid: 9796818222
   zoompw: 424181
-
-- title: "Habari Gani?  What is the news?"
-  post-date: 2021-07-07
-  exp-date: 2021-07-08
-  fawe: "fas fa-newspaper"
-  tags: "event"
-  time: "12 PM"
-  description: "Sr. Jamie Phelps, OP is the discussion leader on this hour of reflection and conversation."
-  zoomid: 89415895742
-  zoompw: 636489
-
-- title: "Bible Study"
-  post-date: 2021-07-06
-  exp-date: 2021-07-07
-  fawe: "fas fa-bible"
-  tags: ["event", "aff"]
-  label: "Adult Faith Formation"
-  txt: "adult-faith-formation"
-  time: "12 PM"
-  description: "Join Sister Joanne Delehanty, OP as she expands on this upcoming Sunday's readings."
-  zoomid: 89415895742
-  zoompw: 636489
