@@ -1,4 +1,25 @@
 
+- title: "Hush Harbor"
+  post-date: 2021-07-10
+  exp-date: 2021-07-11
+  fawe: "fas fa-hands"
+  tags: ["event", "music"]
+  label: "Music"
+  txt: "music"
+  time: "11 AM"
+  description: "Our Hush Harbor series features spirituals and speeches from the past that speak loudly today. In Antebellum America, a hush harbor was a place where the enslaved Africans would gather in secret to practice religious traditions."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
+- title: "Vigil Mass"
+  post-date: 2021-07-10
+  exp-date: 2021-07-11
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "4 PM"
+  description: "Register with the Parish Office to attend in person for the Mass for the Fifteenth Sunday in Ordinary Time."
+
 - title: "Friday Goodness"
   post-date: 2021-07-09
   exp-date: 2021-07-10
