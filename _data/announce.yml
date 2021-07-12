@@ -1,19 +1,28 @@
 
 - title: "Sunday Mass"
-  post-date: 2021-07-11
-  exp-date: 2021-07-12
+  post-date: 2021-07-18
+  exp-date: 2021-07-19
   fawe: "fas fa-church"
   tags: "event"
   time: "9 AM"
-  description: "Register with the Parish Office to attend in person for the Fifteenth Sunday in Ordinary Time."
+  description: "Register with the Parish Office to attend in person for the Sixteenth Sunday in Ordinary Time."
 
 - title: "Sunday Mass"
-  post-date: 2021-07-11
-  exp-date: 2021-07-12
+  post-date: 2021-07-18
+  exp-date: 2021-07-19
   fawe: "fas fa-church"
   tags: "event"
   time: "11 AM"
-  description: "Join us for the Fifteenth Sunday in Ordinary Time."
+  description: "Join us for the Sixteenth Sunday in Ordinary Time."
   zoomid: 89415895742
   zoompw: 636489
   fb: "Yes"
+
+- title: "Vigil Mass"
+  post-date: 2021-07-17
+  exp-date: 2021-07-18
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "4 PM"
+  description: "Register with the Parish Office to attend in person for the Mass for the Sixteenth Sunday in Ordinary Time."
+

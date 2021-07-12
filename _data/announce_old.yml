@@ -1,4 +1,23 @@
 
+- title: "Sunday Mass"
+  post-date: 2021-07-11
+  exp-date: 2021-07-12
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "9 AM"
+  description: "Register with the Parish Office to attend in person for the Fifteenth Sunday in Ordinary Time."
+
+- title: "Sunday Mass"
+  post-date: 2021-07-11
+  exp-date: 2021-07-12
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "11 AM"
+  description: "Join us for the Fifteenth Sunday in Ordinary Time."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
 - title: "Hush Harbor"
   post-date: 2021-07-10
   exp-date: 2021-07-11
