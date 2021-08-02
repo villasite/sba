@@ -1,4 +1,23 @@
 
+- title: "Sunday Mass"
+  post-date: 2021-08-08
+  exp-date: 2021-08-09
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "9 AM"
+  description: "Register with the Parish Office to attend in person for the Nineteenth Sunday in Ordinary Time."
+
+- title: "Sunday Mass"
+  post-date: 2021-08-08
+  exp-date: 2021-08-09
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "11 AM"
+  description: "Join us for the Nineteenth Sunday in Ordinary Time."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
 - title: "Hush Harbor"
   post-date: 2021-08-07
   exp-date: 2021-08-08
@@ -79,22 +98,3 @@
   description: "Today we will come together to talk about Integration Stories."
   zoomid: 89415895742
   zoompw: 636489
-
-- title: "Sunday Mass"
-  post-date: 2021-08-01
-  exp-date: 2021-08-02
-  fawe: "fas fa-church"
-  tags: "event"
-  time: "9 AM"
-  description: "Register with the Parish Office to attend in person for the Eighteenth Sunday in Ordinary Time."
-
-- title: "Sunday Mass"
-  post-date: 2021-08-01
-  exp-date: 2021-08-02
-  fawe: "fas fa-church"
-  tags: "event"
-  time: "11 AM"
-  description: "Join us for the Eighteenth Sunday in Ordinary Time."
-  zoomid: 89415895742
-  zoompw: 636489
-  fb: "Yes"
