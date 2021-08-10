@@ -1,3 +1,23 @@
+
+- title: "Sunday Mass"
+  post-date: 2021-08-15
+  exp-date: 2021-08-16
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "9 AM"
+  description: "Register with the Parish Office to attend in person for the Solemnity of the Assumption of the Blessed Virgin Mary."
+
+- title: "Sunday Mass"
+  post-date: 2021-08-15
+  exp-date: 2021-08-16
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "11 AM"
+  description: "Join us for the Solemnity of the Assumption of the Blessed Virgin Mary."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
 - title: "Hush Harbor with Zora Neale Hurston"
   post-date: 2021-08-14
   exp-date: 2021-08-15
@@ -17,7 +37,7 @@
   fawe: "fas fa-church"
   tags: "event"
   time: "4 PM"
-  description: "Register with the Parish Office to attend in person for the Mass for the Nineteenth Sunday in Ordinary Time."
+  description: "Register with the Parish Office to attend in person for the Mass for the Solemnity of the Assumption of the Blessed Virgin Mary."
 
 - title: "Friday Goodness"
   post-date: 2021-08-13
@@ -68,32 +88,3 @@
   description: "Join in today as we gather for Keeping the Word."
   zoomid: 89415895742
   zoompw: 636489
-
-- title: "The Peace of Christ and Violence"
-  post-date: 2021-08-09
-  exp-date: 2021-08-10
-  fawe: "fas fa-cross"
-  tags: "event"
-  time: "12 PM"
-  description: "Today we will come together to talk about The Peace of Christ and Violence."
-  zoomid: 89415895742
-  zoompw: 636489
-
-- title: "Sunday Mass"
-  post-date: 2021-08-08
-  exp-date: 2021-08-09
-  fawe: "fas fa-church"
-  tags: "event"
-  time: "9 AM"
-  description: "Register with the Parish Office to attend in person for the Nineteenth Sunday in Ordinary Time."
-
-- title: "Sunday Mass"
-  post-date: 2021-08-08
-  exp-date: 2021-08-09
-  fawe: "fas fa-church"
-  tags: "event"
-  time: "11 AM"
-  description: "Join us for the Nineteenth Sunday in Ordinary Time."
-  zoomid: 89415895742
-  zoompw: 636489
-  fb: "Yes"
