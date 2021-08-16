@@ -1,4 +1,23 @@
 
+- title: "Sunday Mass"
+  post-date: 2021-08-22
+  exp-date: 2021-08-23
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "9 AM"
+  description: "Register with the Parish Office to attend in person for the Twenty-first Sunday in Ordinary Time."
+
+- title: "Sunday Mass"
+  post-date: 2021-08-22
+  exp-date: 2021-08-23
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "11 AM"
+  description: "Join us for the Twenty-first Sunday in Ordinary Time."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
 - title: "Hush Harbor with history"
   post-date: 2021-08-21
   exp-date: 2021-08-22
@@ -18,7 +37,7 @@
   fawe: "fas fa-church"
   tags: "event"
   time: "4 PM"
-  description: "Register with the Parish Office to attend in person for the Mass for the Solemnity of the Assumption of the Blessed Virgin Mary."
+  description: "Register with the Parish Office to attend in person for the Mass for the Twenty-first Sunday in Ordinary Time."
 
 - title: "Friday Goodness"
   post-date: 2021-08-20
@@ -79,22 +98,3 @@
   description: "Today we will come together to talk about The Story of Holy Name of Mary Parish."
   zoomid: 89415895742
   zoompw: 636489
-
-- title: "Sunday Mass"
-  post-date: 2021-08-15
-  exp-date: 2021-08-16
-  fawe: "fas fa-church"
-  tags: "event"
-  time: "9 AM"
-  description: "Register with the Parish Office to attend in person for the Solemnity of the Assumption of the Blessed Virgin Mary."
-
-- title: "Sunday Mass"
-  post-date: 2021-08-15
-  exp-date: 2021-08-16
-  fawe: "fas fa-church"
-  tags: "event"
-  time: "11 AM"
-  description: "Join us for the Solemnity of the Assumption of the Blessed Virgin Mary."
-  zoomid: 89415895742
-  zoompw: 636489
-  fb: "Yes"
