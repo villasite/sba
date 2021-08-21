@@ -190,11 +190,22 @@ meta: "St. Benedict the African Parish, the Catholic Church in Englewood, values
 	
 	<div class="row">
 		{% for datas in site.data.englewood-ad %}
-		<div class="container">
-			<a href="{{datas.link}}" target="_blank">
-			<img class= "img-fluid center-block img-thumbnail" src="{{datas.img}}" alt="{{datas.alt}}">	
-			</a>
+		<div class="panel panel-default">
+			<div class="panel-body">
+				<div class="container">
+					<div class="col">
+						<h3>{{ datas.title }}</h3>
+						<h4>{{ datas.date | date: '%A, %B %-d, %Y' }}</h4>
+						<p><b>{{ datas.time }}</b></p>
+						<p>{{ datas.description }}</p>
+						{% if datas.link != null %}
+						<a href="{{datas.link}}" target="_blank">... visit external link</a>
+						{% endif %}
+					</div>
+				</div>
+			</div>
 		</div>
+
 		{% endfor %}
 	</div>
 </div>
