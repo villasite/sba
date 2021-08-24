@@ -39,15 +39,14 @@
   time: "4 PM"
   description: "Register with the Parish Office to attend in person for the Mass for the Twenty-second Sunday in Ordinary Time."
 
-- title: "Friday Goodness"
+- title: "Celebrating Black Breastfeeding Week"
   post-date: 2021-08-27
   exp-date: 2021-08-28
-  fawe: "fas fa-star"
+  fawe: "fas fa-comment-medical"
   tags: "event"
   time: "12 PM"
-  description: "Tune in for Friday Goodness where we highlight local entrepreneurs and organizations in the Englewood and Chicago area."
-  zoomid: 89415895742
-  zoompw: 636489
+  description: "Sign up at https://tinyurl.com/yu4xbzuh for the Central Illinois Breastfeeding Professional Network Lunch and Learn: Celebrating Black Breastfeeding Week: Pause and Discover the Power of Breastfeeding in Black Communities."
+
 
 - title: "Sign Up Catholic – The Preface Dialogue"
   post-date: 2021-08-26
@@ -86,15 +85,5 @@
   tags: "event"
   time: "12 PM"
   description: "Join in today as we gather for Keeping the Word with Father Thomas Jackson, OP."
-  zoomid: 89415895742
-  zoompw: 636489
-
-- title: "The Peace of Christ and Haiti"
-  post-date: 2021-08-23
-  exp-date: 2021-08-24
-  fawe: "fas fa-cross"
-  tags: "event"
-  time: "12 PM"
-  description: "Today we will come together for a discussion on The Peace of Christ and Haiti."
   zoomid: 89415895742
   zoompw: 636489
