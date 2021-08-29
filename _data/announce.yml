@@ -1,4 +1,77 @@
 
+- title: "Hush Harbor with Narratives from the enslaved persons"
+  post-date: 2021-09-04
+  exp-date: 2021-09-05
+  fawe: "fas fa-hands"
+  tags: ["event", "music"]
+  label: "Music"
+  txt: "music"
+  time: "11 AM"
+  description: "Our Hush Harbor series features spirituals and speeches from the past that speak loudly today. In Antebellum America, a hush harbor was a place where the enslaved Africans would gather in secret to practice religious traditions."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
+- title: "Friday Goodness"
+  post-date: 2021-09-03
+  exp-date: 2021-09-04
+  fawe: "fas fa-star"
+  tags: "event"
+  time: "12 PM"
+  description: "Tune in for Friday Goodness where we highlight local entrepreneurs and organizations in the Englewood and Chicago area."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Sign Up Catholic – What does it mean to be Catholic?"
+  post-date: 2021-09-02
+  exp-date: 2021-09-03
+  fawe: "fas fa-praying-hands"
+  tags: "event"
+  time: "12 PM"
+  description: "Fr. Thomas Jackson, OP, Msgr. Edward Branch, Sr. Jamie Phelps, OP and others are invited to push the envelope with Rev. Canon, A. Gerard Jordan, O. Praem."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Praying with the Mother of God"
+  post-date: 2021-09-02
+  exp-date: 2021-09-03
+  fawe: "fas fa-pray"
+  tags: "event"
+  time: "2 PM"
+  description: "Pray in community the Rosary every Thursday at 2pm Central Time."
+  zoomid: 9796818222
+  zoompw: 424181
+
+- title: "Conversion, Community and Mission: A Biblical Approach to Faith. Meet Dr. Nimo"
+  post-date: 2021-09-01
+  exp-date: 2021-09-02
+  fawe: "fas fa-hands-helping"
+  tags: "event"
+  time: "12 PM"
+  description: "Dr. Nimo will lead today's talk on Conversion, Community and Mission: A Biblical Approach to Faith."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Catholic Social Teaching and the Nguzo Saba. Meet Henoch Fente Derbew"
+  post-date: 2021-08-31
+  exp-date: 2021-09-01
+  fawe: "fas fa-bible"
+  tags: "event"
+  time: "12 PM"
+  description: "Today's session will be on Catholic Social Teaching and the Nguzo Saba with Henoch Fente Derbew."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "The Peace of Christ and Haiti with Fr. Edmund Aristil"
+  post-date: 2021-08-30
+  exp-date: 2021-08-31
+  fawe: "fas fa-cross"
+  tags: "event"
+  time: "12 PM"
+  description: "Today we will come together for a discussion on The Peace of Christ and Haiti with Fr. Edmund Aristil."
+  zoomid: 89415895742
+  zoompw: 636489
+
 - title: "Sunday Mass"
   post-date: 2021-08-29
   exp-date: 2021-08-30
@@ -17,24 +90,3 @@
   zoomid: 89415895742
   zoompw: 636489
   fb: "Yes"
-
-- title: "Hush Harbor with Emmett and Mamie Till"
-  post-date: 2021-08-28
-  exp-date: 2021-08-29
-  fawe: "fas fa-hands"
-  tags: ["event", "music"]
-  label: "Music"
-  txt: "music"
-  time: "11 AM"
-  description: "Our Hush Harbor series features spirituals and speeches from the past that speak loudly today. In Antebellum America, a hush harbor was a place where the enslaved Africans would gather in secret to practice religious traditions."
-  zoomid: 89415895742
-  zoompw: 636489
-  fb: "Yes"
-
-- title: "Vigil Mass"
-  post-date: 2021-08-28
-  exp-date: 2021-08-29
-  fawe: "fas fa-church"
-  tags: "event"
-  time: "4 PM"
-  description: "Register with the Parish Office to attend in person for the Mass for the Twenty-second Sunday in Ordinary Time."
