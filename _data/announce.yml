@@ -1,4 +1,85 @@
 
+- title: "Hush Harbor"
+  post-date: 2021-09-25
+  exp-date: 2021-09-26
+  fawe: "fas fa-hands"
+  tags: ["event", "music"]
+  label: "Music"
+  txt: "music"
+  time: "11 AM"
+  description: "Our Hush Harbor series features spirituals and speeches from the past that speak loudly today. In Antebellum America, a hush harbor was a place where the enslaved Africans would gather in secret to practice religious traditions."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
+- title: "Vigil Mass"
+  post-date: 2021-09-25
+  exp-date: 2021-09-26
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "4 PM"
+  description: "Register with the Parish Office to attend in person for the Mass for the Twenty-sixth Sunday in Ordinary Time."
+
+- title: "Friday Goodness"
+  post-date: 2021-09-24
+  exp-date: 2021-09-25
+  fawe: "fas fa-star"
+  tags: "event"
+  time: "12 PM"
+  description: "Tune in for Friday Goodness where we highlight local entrepreneurs and organizations in the Englewood and Chicago area."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Catholic Social Teaching and the Nguzo Saba with Henoch Derbew"
+  post-date: 2021-09-23
+  exp-date: 2021-09-24
+  fawe: "fas fa-bible"
+  tags: "event"
+  time: "12 PM"
+  description: "Today's session will be on Catholic Social Teaching and the Nguzo Saba with Henoch Derbew."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Praying with the Mother of God"
+  post-date: 2021-09-23
+  exp-date: 2021-09-24
+  fawe: "fas fa-pray"
+  tags: "event"
+  time: "2 PM"
+  description: "Pray in community the Rosary every Thursday at 2pm Central Time."
+  zoomid: 9796818222
+  zoompw: 424181
+
+- title: "Conversion, Community and Mission: A Biblical approach with Dr. Mark Nimo"
+  post-date: 2021-09-22
+  exp-date: 2021-09-23
+  fawe: "fas fa-hands-helping"
+  tags: "event"
+  time: "12 PM"
+  description: "Dr. Nimo will lead today's talk on Conversion, Community and Mission."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Growing Up Catholic with Fr. Gerard Jordan"
+  post-date: 2021-09-21
+  exp-date: 2021-09-22
+  fawe: "fas fa-cross"
+  tags: "event"
+  time: "12 PM"
+  description: "Join in today as we gather for Growing Up Catholic with Fr. Gerard Jordan."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Habri Gani? What’s the News? Theological Reflection  with Msgr. Branch"
+  post-date: 2021-09-20
+  exp-date: 2021-09-21
+  fawe: "fas fa-newspaper"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us for this hour of reflection and conversation led by Msgr. Edward Branch."
+  zoomid: 89415895742
+  zoompw: 636489
+
 - title: "Sunday Mass"
   post-date: 2021-09-19
   exp-date: 2021-09-20
@@ -17,24 +98,3 @@
   zoomid: 89415895742
   zoompw: 636489
   fb: "Yes"
-
-- title: "Hush Harbor with Charlotta Bass"
-  post-date: 2021-09-18
-  exp-date: 2021-09-19
-  fawe: "fas fa-hands"
-  tags: ["event", "music"]
-  label: "Music"
-  txt: "music"
-  time: "11 AM"
-  description: "Our Hush Harbor series features spirituals and speeches from the past that speak loudly today. In Antebellum America, a hush harbor was a place where the enslaved Africans would gather in secret to practice religious traditions."
-  zoomid: 89415895742
-  zoompw: 636489
-  fb: "Yes"
-
-- title: "Vigil Mass"
-  post-date: 2021-09-18
-  exp-date: 2021-09-19
-  fawe: "fas fa-church"
-  tags: "event"
-  time: "4 PM"
-  description: "Register with the Parish Office to attend in person for the Mass for the Twenty-fifth Sunday in Ordinary Time."
