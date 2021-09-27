@@ -1,4 +1,23 @@
 
+- title: "Sunday Mass"
+  post-date: 2021-10-03
+  exp-date: 2021-10-04
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "9 AM"
+  description: "Register with the Parish Office to attend in person for the Twenty-seventh Sunday in Ordinary Time."
+
+- title: "Sunday Mass"
+  post-date: 2021-10-03
+  exp-date: 2021-10-04
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "11 AM"
+  description: "Join us for the Twenty-seventh Sunday in Ordinary Time."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
 - title: "Hush Harbor"
   post-date: 2021-10-02
   exp-date: 2021-10-03
@@ -79,22 +98,3 @@
   description: "Join us for this hour of reflection and conversation led by Msgr. Edward Branch."
   zoomid: 89415895742
   zoompw: 636489
-
-- title: "Sunday Mass"
-  post-date: 2021-09-26
-  exp-date: 2021-09-27
-  fawe: "fas fa-church"
-  tags: "event"
-  time: "9 AM"
-  description: "Register with the Parish Office to attend in person for the Twenty-sixth Sunday in Ordinary Time."
-
-- title: "Sunday Mass"
-  post-date: 2021-09-26
-  exp-date: 2021-09-27
-  fawe: "fas fa-church"
-  tags: "event"
-  time: "11 AM"
-  description: "Join us for the Twenty-sixth Sunday in Ordinary Time."
-  zoomid: 89415895742
-  zoompw: 636489
-  fb: "Yes"
