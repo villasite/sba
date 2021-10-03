@@ -1,4 +1,85 @@
 
+- title: "Hush Harbor"
+  post-date: 2021-10-09
+  exp-date: 2021-10-10
+  fawe: "fas fa-hands"
+  tags: ["event", "music"]
+  label: "Music"
+  txt: "music"
+  time: "11 AM"
+  description: "Our Hush Harbor series features spirituals and speeches from the past that speak loudly today. In Antebellum America, a hush harbor was a place where the enslaved Africans would gather in secret to practice religious traditions."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
+- title: "Vigil Mass"
+  post-date: 2021-10-09
+  exp-date: 2021-10-10
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "4 PM"
+  description: "Register with the Parish Office to attend in person for the Mass for the Twenty-eighth Sunday in Ordinary Time."
+
+- title: "Friday Goodness"
+  post-date: 2021-10-08
+  exp-date: 2021-10-09
+  fawe: "fas fa-star"
+  tags: "event"
+  time: "12 PM"
+  description: "Tune in for Friday Goodness where we highlight local entrepreneurs and organizations in the Englewood and Chicago area."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Catholic Social Teaching and the Nguzo Saba with Henoch Derbew"
+  post-date: 2021-10-07
+  exp-date: 2021-10-08
+  fawe: "fas fa-book"
+  tags: "event"
+  time: "12 PM"
+  description: "Today's session will be on Catholic Social Teaching and the Nguzo Saba with Henoch Derbew."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Praying with the Mother of God"
+  post-date: 2021-10-07
+  exp-date: 2021-10-08
+  fawe: "fas fa-pray"
+  tags: "event"
+  time: "2 PM"
+  description: "Pray in community the Rosary every Thursday at 2pm Central Time."
+  zoomid: 9796818222
+  zoompw: 424181
+
+- title: "Writing a Letter to Ourselves – Fr. Roy Lee"
+  post-date: 2021-10-06
+  exp-date: 2021-10-07
+  fawe: "fas fa-envelope-open-text"
+  tags: "event"
+  time: "12 PM"
+  description: "Fr. Roy Lee will lead today's talk on Writing a Letter to Ourselves."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "The Catholic Bible at Mass with Rev. Canon, A. Gerard Jordan, O. Praem."
+  post-date: 2021-10-05
+  exp-date: 2021-10-06
+  fawe: "fas fa-bible"
+  tags: "event"
+  time: "12 PM"
+  description: "Join in today as we gather for a discussion led by Fr. Tom Jackson, OP."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Habari Gani? What’s the News?"
+  post-date: 2021-10-04
+  exp-date: 2021-10-05
+  fawe: "fas fa-newspaper"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us for this hour of reflection and conversation."
+  zoomid: 89415895742
+  zoompw: 636489
+
 - title: "Sunday Mass"
   post-date: 2021-10-03
   exp-date: 2021-10-04
@@ -17,24 +98,3 @@
   zoomid: 89415895742
   zoompw: 636489
   fb: "Yes"
-
-- title: "Hush Harbor"
-  post-date: 2021-10-02
-  exp-date: 2021-10-03
-  fawe: "fas fa-hands"
-  tags: ["event", "music"]
-  label: "Music"
-  txt: "music"
-  time: "12 PM"
-  description: "Our Hush Harbor series features spirituals and speeches from the past that speak loudly today. In Antebellum America, a hush harbor was a place where the enslaved Africans would gather in secret to practice religious traditions."
-  zoomid: 89415895742
-  zoompw: 636489
-  fb: "Yes"
-
-- title: "Vigil Mass"
-  post-date: 2021-10-02
-  exp-date: 2021-10-03
-  fawe: "fas fa-church"
-  tags: "event"
-  time: "4 PM"
-  description: "Register with the Parish Office to attend in person for the Mass for the Twenty-seventh Sunday in Ordinary Time."
