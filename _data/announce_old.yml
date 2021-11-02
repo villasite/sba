@@ -1,4 +1,33 @@
 
+- title: "All Saints Day Mass"
+  post-date: 2021-11-01
+  exp-date: 2021-11-02
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us for the All Saints Day Mass."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Sunday Mass"
+  post-date: 2021-10-31
+  exp-date: 2021-11-01
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "9 AM"
+  description: "Register with the Parish Office to attend in person for the Thirty-first Sunday in Ordinary Time."
+
+- title: "Sunday Mass"
+  post-date: 2021-10-31
+  exp-date: 2021-11-01
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "11 AM"
+  description: "Join us for the Thirty-first Sunday in Ordinary Time."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
 - title: "Hush Harbor History Revealed"
   post-date: 2021-10-30
   exp-date: 2021-10-31
