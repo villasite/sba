@@ -1,3 +1,83 @@
+- title: "Hush Harbor History Revealed"
+  post-date: 2021-11-13
+  exp-date: 2021-11-14
+  fawe: "fas fa-hands"
+  tags: ["event", "music"]
+  label: "Music"
+  txt: "music"
+  time: "11 AM"
+  description: "Our Hush Harbor series features spirituals and speeches from the past that speak loudly today. In Antebellum America, a hush harbor was a place where the enslaved Africans would gather in secret to practice religious traditions."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
+- title: "Vigil Mass"
+  post-date: 2021-11-13
+  exp-date: 2021-11-14
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "4 PM"
+  description: "Register with the Parish Office to attend in person for the Mass for the Thirty-first Sunday in Ordinary Time."
+
+- title: "Friday Goodness"
+  post-date: 2021-11-12
+  exp-date: 2021-11-13
+  fawe: "fas fa-star"
+  tags: "event"
+  time: "12 PM"
+  description: "Tune in for Friday Goodness where we highlight local entrepreneurs and organizations in the Englewood and Chicago area."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Henoch on the Sevens"
+  post-date: 2021-11-11
+  exp-date: 2021-11-12
+  fawe: "fas fa-cross"
+  tags: "event"
+  time: "12 PM"
+  description: "Join in today for a discussion with Henoch Derbew."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Praying with the Mother of God"
+  post-date: 2021-11-11
+  exp-date: 2021-11-12
+  fawe: "fas fa-pray"
+  tags: "event"
+  time: "2 PM"
+  description: "Pray in community the Rosary every Thursday at 2pm Central Time."
+  zoomid: 9796818222
+  zoompw: 424181
+
+- title: "St. Martin DePorres with Brother Herman, OP"
+  post-date: 2021-11-10
+  exp-date: 2021-11-11
+  fawe: "fas fa-cross"
+  tags: "event"
+  time: "12 PM"
+  description: "Brother Herman Johnson, OP will lead today's talk on St. Martin DePorres."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "The Bible and the Mass with Fr. Gerard"
+  post-date: 2021-11-09
+  exp-date: 2021-11-10
+  fawe: "fas fa-bible"
+  tags: "event"
+  time: "12 PM"
+  description: "Join in today as we gather for a discussion with Rev. Canon, A. Gerard Jordan, O. Praem."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Theological Reflection with Msgr. Branch"
+  post-date: 2021-11-08
+  exp-date: 2021-11-09
+  fawe: "fas fa-cross"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us for this hour of reflection and conversation led by Msgr. Edward Branch."
+  zoomid: 89415895742
+  zoompw: 636489
 
 - title: "Sunday Mass"
   post-date: 2021-11-07
@@ -17,34 +97,3 @@
   zoomid: 89415895742
   zoompw: 636489
   fb: "Yes"
-
-- title: "Hush Harbor History Revealed"
-  post-date: 2021-11-06
-  exp-date: 2021-11-07
-  fawe: "fas fa-hands"
-  tags: ["event", "music"]
-  label: "Music"
-  txt: "music"
-  time: "11 AM"
-  description: "Our Hush Harbor series features spirituals and speeches from the past that speak loudly today. In Antebellum America, a hush harbor was a place where the enslaved Africans would gather in secret to practice religious traditions."
-  zoomid: 89415895742
-  zoompw: 636489
-  fb: "Yes"
-
-- title: "Vigil Mass"
-  post-date: 2021-11-06
-  exp-date: 2021-11-07
-  fawe: "fas fa-church"
-  tags: "event"
-  time: "4 PM"
-  description: "Register with the Parish Office to attend in person for the Mass for the Thirty-second Sunday in Ordinary Time."
-
-- title: "Friday Goodness"
-  post-date: 2021-11-05
-  exp-date: 2021-11-06
-  fawe: "fas fa-star"
-  tags: "event"
-  time: "12 PM"
-  description: "Tune in for Friday Goodness where we highlight local entrepreneurs and organizations in the Englewood and Chicago area."
-  zoomid: 89415895742
-  zoompw: 636489
