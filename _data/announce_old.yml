@@ -1,4 +1,23 @@
 
+- title: "Sunday Mass"
+  post-date: 2021-11-14
+  exp-date: 2021-11-15
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "9 AM"
+  description: "Register with the Parish Office to attend in person for the Thirty-third Sunday in Ordinary Time."
+
+- title: "Sunday Mass"
+  post-date: 2021-11-14
+  exp-date: 2021-11-15
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "11 AM"
+  description: "Join us for the Thirty-third Sunday in Ordinary Time."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
 - title: "Hush Harbor History Revealed"
   post-date: 2021-11-13
   exp-date: 2021-11-14

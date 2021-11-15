@@ -1,19 +1,100 @@
 
 - title: "Sunday Mass"
-  post-date: 2021-11-14
-  exp-date: 2021-11-15
+  post-date: 2021-11-21
+  exp-date: 2021-11-22
   fawe: "fas fa-church"
   tags: "event"
   time: "9 AM"
-  description: "Register with the Parish Office to attend in person for the Thirty-third Sunday in Ordinary Time."
+  description: "Register with the Parish Office to attend in person for the Solemnity of Our Lord Jesus Christ, King of the Universe."
 
 - title: "Sunday Mass"
-  post-date: 2021-11-14
-  exp-date: 2021-11-15
+  post-date: 2021-11-21
+  exp-date: 2021-11-22
   fawe: "fas fa-church"
   tags: "event"
   time: "11 AM"
-  description: "Join us for the Thirty-third Sunday in Ordinary Time."
+  description: "Join us for the Solemnity of Our Lord Jesus Christ, King of the Universe."
   zoomid: 89415895742
   zoompw: 636489
   fb: "Yes"
+
+- title: "Hush Harbor"
+  post-date: 2021-11-20
+  exp-date: 2021-11-21
+  fawe: "fas fa-hands"
+  tags: ["event", "music"]
+  label: "Music"
+  txt: "music"
+  time: "11 AM"
+  description: "Our Hush Harbor series features spirituals and speeches from the past that speak loudly today. In Antebellum America, a hush harbor was a place where the enslaved Africans would gather in secret to practice religious traditions."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
+- title: "Vigil Mass"
+  post-date: 2021-11-20
+  exp-date: 2021-11-21
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "4 PM"
+  description: "Register with the Parish Office to attend in person for the Mass for the Solemnity of Our Lord Jesus Christ, King of the Universe."
+
+- title: "Friday Goodness"
+  post-date: 2021-11-19
+  exp-date: 2021-11-20
+  fawe: "fas fa-star"
+  tags: "event"
+  time: "12 PM"
+  description: "Tune in for Friday Goodness where we highlight local entrepreneurs and organizations in the Englewood and Chicago area."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Henoch on the Sevens"
+  post-date: 2021-11-18
+  exp-date: 2021-11-19
+  fawe: "fas fa-cross"
+  tags: "event"
+  time: "12 PM"
+  description: "Join in today for a discussion with Henoch Derbew."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Praying with the Mother of God"
+  post-date: 2021-11-18
+  exp-date: 2021-11-19
+  fawe: "fas fa-pray"
+  tags: "event"
+  time: "2 PM"
+  description: "Pray in community the Rosary every Thursday at 2pm Central Time."
+  zoomid: 9796818222
+  zoompw: 424181
+
+- title: "Letter Writing with Fr. Lee"
+  post-date: 2021-11-17
+  exp-date: 2021-11-18
+  fawe: "fas fa-envelope-open-text"
+  tags: "event"
+  time: "12 PM"
+  description: "Fr. Roy Lee will lead today's talk on Letter Writing."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "The Bible Study with Fr. Tom"
+  post-date: 2021-11-16
+  exp-date: 2021-11-17
+  fawe: "fas fa-bible"
+  tags: "event"
+  time: "12 PM"
+  description: "Join in today as we gather for a discussion with Fr. Tom Jackson, OP."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Theological Reflection with Msgr. Branch"
+  post-date: 2021-11-15
+  exp-date: 2021-11-16
+  fawe: "fas fa-cross"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us for this hour of reflection and conversation led by Msgr. Edward Branch."
+  zoomid: 89415895742
+  zoompw: 636489
