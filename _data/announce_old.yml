@@ -1,4 +1,54 @@
 
+- title: "The Bible Study with Fr. Tom"
+  post-date: 2021-12-02
+  exp-date: 2021-12-03
+  fawe: "fas fa-bible"
+  tags: "event"
+  time: "12 PM"
+  description: "Join in today as we gather for a discussion with Fr. Tom Jackson, OP."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Praying with the Mother of God"
+  post-date: 2021-12-02
+  exp-date: 2021-12-03
+  fawe: "fas fa-pray"
+  tags: "event"
+  time: "2 PM"
+  description: "Pray in community the Rosary every Thursday at 2pm Central Time."
+  zoomid: 9796818222
+  zoompw: 424181
+
+- title: "Writing letters with Fr. Lee"
+  post-date: 2021-12-01
+  exp-date: 2021-12-02
+  fawe: "fas fa-envelope-open-text"
+  tags: "event"
+  time: "12 PM"
+  description: "Fr. Roy Lee will lead today's talk on Writing letters."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Advent with Fr. Gerard"
+  post-date: 2021-11-30
+  exp-date: 2021-12-01
+  fawe: "fas fa-praying-hands"
+  tags: "event"
+  time: "12 PM"
+  description: "Join in today as we gather for a discussion with Rev. Canon, A. Gerard Jordan, O. Praem."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Theological Reflection with Msgr. Branch"
+  post-date: 2021-11-29
+  exp-date: 2021-11-30
+  fawe: "fas fa-cross"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us for this hour of reflection and conversation led by Msgr. Edward Branch."
+  zoomid: 89415895742
+  zoompw: 636489
+
 - title: "Sunday Mass"
   post-date: 2021-11-28
   exp-date: 2021-11-29
