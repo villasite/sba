@@ -1,4 +1,23 @@
 
+- title: "Sunday Mass"
+  post-date: 2021-12-12
+  exp-date: 2021-12-13
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "9 AM"
+  description: "Join us in person for the Third Sunday of Advent."
+
+- title: "Sunday Mass"
+  post-date: 2021-12-12
+  exp-date: 2021-12-13
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "11 AM"
+  description: "Join us in person or online for the Third Sunday of Advent."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
 - title: "Hush Harbor"
   post-date: 2021-12-11
   exp-date: 2021-12-12
