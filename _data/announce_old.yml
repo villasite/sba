@@ -1,4 +1,23 @@
 
+- title: "Sunday Mass"
+  post-date: 2021-12-19
+  exp-date: 2021-12-20
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "9 AM"
+  description: "Join us in person for the Fourth Sunday of Advent."
+
+- title: "Sunday Mass"
+  post-date: 2021-12-19
+  exp-date: 2021-12-20
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "11 AM"
+  description: "Join us in person or online for the Fourth Sunday of Advent."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
 - title: "Hush Harbor"
   post-date: 2021-12-18
   exp-date: 2021-12-19
@@ -136,7 +155,7 @@
   fawe: "fas fa-cross"
   tags: "event"
   time: "12 PM"
-  description: "Join in today for a discussion with Henoch Derbew."
+  description: "Join in today for a discussion with Henoch."
   zoomid: 89415895742
   zoompw: 636489
 

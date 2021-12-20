@@ -1,19 +1,89 @@
 
 - title: "Sunday Mass"
-  post-date: 2021-12-19
-  exp-date: 2021-12-20
+  post-date: 2021-12-26
+  exp-date: 2021-12-27
   fawe: "fas fa-church"
   tags: "event"
   time: "9 AM"
-  description: "Join us in person for the Fourth Sunday of Advent."
+  description: "Join us in person for the Feast of the Holy Family Mass."
 
 - title: "Sunday Mass"
-  post-date: 2021-12-19
-  exp-date: 2021-12-20
+  post-date: 2021-12-26
+  exp-date: 2021-12-27
   fawe: "fas fa-church"
   tags: "event"
   time: "11 AM"
-  description: "Join us in person or online for the Fourth Sunday of Advent."
+  description: "Join us in person or online for the Feast of the Holy Family Mass."
   zoomid: 89415895742
   zoompw: 636489
   fb: "Yes"
+
+- title: "Christmas Day Mass"
+  post-date: 2021-12-25
+  exp-date: 2021-12-26
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "10 AM"
+  description: "Join us for Christmas Day Mass."
+  fb: "Yes"
+
+- title: "Christmas Eve Mass"
+  post-date: 2021-12-24
+  exp-date: 2021-12-25
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "4 PM"
+  description: "Join us for our Christmas Eve Mass at 4pm."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
+- title: "Henoch on the Sevens"
+  post-date: 2021-12-23
+  exp-date: 2021-12-24
+  fawe: "fas fa-place-of-worship"
+  tags: "event"
+  time: "12 PM"
+  description: "Join in today for a discussion with Henoch Derbew."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Praying with the Mother of God"
+  post-date: 2021-12-23
+  exp-date: 2021-12-24
+  fawe: "fas fa-pray"
+  tags: "event"
+  time: "2 PM"
+  description: "Pray in community the Rosary every Thursday at 2pm Central Time."
+  zoomid: 9796818222
+  zoompw: 424181
+
+- title: "Pastoral letters with Fr. Lee"
+  post-date: 2021-12-22
+  exp-date: 2021-12-23
+  fawe: "fas fa-envelope-open-text"
+  tags: "event"
+  time: "12 PM"
+  description: "Fr. Roy Lee will join us today for another discussion on Pastoral letters."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Bible Study with Fr. Tom"
+  post-date: 2021-12-21
+  exp-date: 2021-12-22
+  fawe: "fas fa-bible"
+  tags: "event"
+  time: "12 PM"
+  description: "Join in today as we gather for a discussion with Fr. Tom Jackson, OP."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "The Finale of Advent"
+  post-date: 2021-12-20
+  exp-date: 2021-12-21
+  fawe: "fas fa-holly-berry"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us as we come together today for a discussion on The Finale of Advent"
+  zoomid: 89415895742
+  zoompw: 636489
