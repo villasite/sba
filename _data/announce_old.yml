@@ -1,4 +1,13 @@
 
+- title: "Christmas Day Mass"
+  post-date: 2021-12-25
+  exp-date: 2021-12-26
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "10 AM"
+  description: "Join us for Christmas Day Mass."
+  fb: "Yes"
+
 - title: "Christmas Eve Mass"
   post-date: 2021-12-24
   exp-date: 2021-12-25
