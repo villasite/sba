@@ -1,19 +1,87 @@
 
 - title: "Sunday Mass"
-  post-date: 2021-12-26
-  exp-date: 2021-12-27
+  post-date: 2022-01-02
+  exp-date: 2022-01-03
   fawe: "fas fa-church"
   tags: "event"
   time: "9 AM"
-  description: "Join us in person for the Feast of the Holy Family Mass."
+  description: "Join us in person for the Mass of the Epiphany of the Lord."
 
 - title: "Sunday Mass"
-  post-date: 2021-12-26
-  exp-date: 2021-12-27
+  post-date: 2022-01-02
+  exp-date: 2022-01-03
   fawe: "fas fa-church"
   tags: "event"
   time: "11 AM"
-  description: "Join us in person or online for the Feast of the Holy Family Mass."
+  description: "Join us in person for the Mass of the Epiphany of the Lord."
   zoomid: 89415895742
   zoompw: 636489
   fb: "Yes"
+
+- title: "Imani"
+  post-date: 2022-01-01
+  exp-date: 2022-01-02
+  fawe: "fas fa-praying-hands"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us for our virtual celebration of Kwanzaa this week with our focus on Imani today."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Vigil Mass"
+  post-date: 2022-01-01
+  exp-date: 2022-01-02
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "4 PM"
+  description: "Join us in person for the Mass of the Epiphany of the Lord."
+
+- title: "Kuumba"
+  post-date: 2021-12-31
+  exp-date: 2022-01-01
+  fawe: "fas fa-hand-holding-heart"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us for our virtual celebration of Kwanzaa this week with our focus on Kuumba today."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Nia"
+  post-date: 2021-12-30
+  exp-date: 2021-12-31
+  fawe: "fas fa-hands-helping"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us for our virtual celebration of Kwanzaa this week with our focus on Nia today."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Ujamaa"
+  post-date: 2021-12-29
+  exp-date: 2021-12-30
+  fawe: "fas fa-hand-holding-usd"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us for our virtual celebration of Kwanzaa this week with our focus on Ujamaa today."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Ujima"
+  post-date: 2021-12-28
+  exp-date: 2021-12-29
+  fawe: "fas fa-hands"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us for our virtual celebration of Kwanzaa this week with our focus on Ujima today."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Kujichagulia"
+  post-date: 2021-12-27
+  exp-date: 2021-12-28
+  fawe: "fas fa-fist-raised"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us for our virtual celebration of Kwanzaa this week with our focus on Kujichagulia today."
+  zoomid: 89415895742
+  zoompw: 636489
