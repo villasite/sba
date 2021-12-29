@@ -18,6 +18,14 @@
   zoompw: 636489
   fb: "Yes"
 
+- title: "Solemnity of the Blessed Virgin Mary"
+  post-date: 2022-01-01
+  exp-date: 2022-01-02
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "10 AM"
+  description: "Join us in person for the Mass of the Solemnity of the Blessed Virgin Mary."
+
 - title: "Imani"
   post-date: 2022-01-01
   exp-date: 2022-01-02
@@ -27,14 +35,6 @@
   description: "Join us for our virtual celebration of Kwanzaa this week with our focus on Imani today."
   zoomid: 89415895742
   zoompw: 636489
-
-- title: "Vigil Mass"
-  post-date: 2022-01-01
-  exp-date: 2022-01-02
-  fawe: "fas fa-church"
-  tags: "event"
-  time: "4 PM"
-  description: "Join us in person for the Mass of the Epiphany of the Lord."
 
 - title: "Kuumba"
   post-date: 2021-12-31
@@ -53,15 +53,5 @@
   tags: "event"
   time: "12 PM"
   description: "Join us for our virtual celebration of Kwanzaa this week with our focus on Nia today."
-  zoomid: 89415895742
-  zoompw: 636489
-
-- title: "Ujamaa"
-  post-date: 2021-12-29
-  exp-date: 2021-12-30
-  fawe: "fas fa-hand-holding-usd"
-  tags: "event"
-  time: "12 PM"
-  description: "Join us for our virtual celebration of Kwanzaa this week with our focus on Ujamaa today."
   zoomid: 89415895742
   zoompw: 636489
