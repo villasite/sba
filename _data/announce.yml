@@ -24,14 +24,17 @@
   fawe: "fas fa-church"
   tags: "event"
   time: "10 AM"
-  description: "Join us in person for the Mass of the Solemnity of the Blessed Virgin Mary."
+  description: "Join us in person or online for the Mass of the Solemnity of the Blessed Virgin Mary."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
 
 - title: "Imani"
   post-date: 2022-01-01
   exp-date: 2022-01-02
   fawe: "fas fa-praying-hands"
   tags: "event"
-  time: "12 PM"
+  time: "11 AM"
   description: "Join us for our virtual celebration of Kwanzaa this week with our focus on Imani today."
   zoomid: 89415895742
   zoompw: 636489
