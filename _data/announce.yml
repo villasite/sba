@@ -1,19 +1,100 @@
 
 - title: "Sunday Mass"
-  post-date: 2022-01-02
-  exp-date: 2022-01-03
+  post-date: 2022-01-09
+  exp-date: 2022-01-10
   fawe: "fas fa-church"
   tags: "event"
   time: "9 AM"
-  description: "Join us in person for the Mass of the Epiphany of the Lord."
+  description: "Join us in person for the Mass of the Baptism of the Lord."
 
 - title: "Sunday Mass"
-  post-date: 2022-01-02
-  exp-date: 2022-01-03
+  post-date: 2022-01-09
+  exp-date: 2022-01-10
   fawe: "fas fa-church"
   tags: "event"
   time: "11 AM"
-  description: "Join us in person or online for the Mass of the Epiphany of the Lord."
+  description: "Join us in person or online for the Baptism of the Lord."
   zoomid: 89415895742
   zoompw: 636489
   fb: "Yes"
+
+- title: "Hush Harbor"
+  post-date: 2022-01-08
+  exp-date: 2022-01-09
+  fawe: "fas fa-hands"
+  tags: ["event", "music"]
+  label: "Music"
+  txt: "music"
+  time: "11 AM"
+  description: "Our Hush Harbor series features spirituals and speeches from the past that speak loudly today. In Antebellum America, a hush harbor was a place where the enslaved Africans would gather in secret to practice religious traditions."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
+- title: "Vigil Mass"
+  post-date: 2022-01-08
+  exp-date: 2022-01-09
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "4 PM"
+  description: "Join us in person for the Mass for the Baptism of the Lord."
+
+- title: "Friday Goodness"
+  post-date: 2022-01-07
+  exp-date: 2022-01-08
+  fawe: "fas fa-star"
+  tags: "event"
+  time: "12 PM"
+  description: "Tune in for Friday Goodness where we highlight local entrepreneurs and organizations in the Englewood and Chicago area."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "The Sankofa Blog on Christmas"
+  post-date: 2022-01-06
+  exp-date: 2022-01-07
+  fawe: "fas fa-laptop"
+  tags: "event"
+  time: "12 PM"
+  description: "We will meet today to talk about the Sankofa Blog on Christmas."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Praying with the Mother of God"
+  post-date: 2022-01-06
+  exp-date: 2022-01-07
+  fawe: "fas fa-pray"
+  tags: "event"
+  time: "2 PM"
+  description: "Pray in community the Rosary every Thursday at 2pm Central Time."
+  zoomid: 9796818222
+  zoompw: 424181
+
+- title: "A Pastoral letter to Black American priests"
+  post-date: 2022-01-05
+  exp-date: 2022-01-06
+  fawe: "fas fa-envelope-open-text"
+  tags: "event"
+  time: "12 PM"
+  description: "Fr. Roy Lee will join us today for a discussion on a Pastoral letter to Black American priests."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "The Christmas Feast"
+  post-date: 2022-01-04
+  exp-date: 2022-01-05
+  fawe: "fas fa-holly-berry"
+  tags: "event"
+  time: "12 PM"
+  description: "Today we will gather for a discussion on the Christmas Feast."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Theological Reflection on the Incarnation with Sr. Jamie"
+  post-date: 2022-01-03
+  exp-date: 2022-01-04
+  fawe: "fas fa-cross"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us for this hour of reflection and conversation led by Sr. Jamie Phelps, OP."
+  zoomid: 89415895742
+  zoompw: 636489

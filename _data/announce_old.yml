@@ -1,4 +1,23 @@
 
+- title: "Sunday Mass"
+  post-date: 2022-01-02
+  exp-date: 2022-01-03
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "9 AM"
+  description: "Join us in person for the Mass of the Epiphany of the Lord."
+
+- title: "Sunday Mass"
+  post-date: 2022-01-02
+  exp-date: 2022-01-03
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "11 AM"
+  description: "Join us in person or online for the Mass of the Epiphany of the Lord."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
 - title: "Solemnity of the Blessed Virgin Mary"
   post-date: 2022-01-01
   exp-date: 2022-01-02
