@@ -1,4 +1,23 @@
 
+- title: "Sunday Mass"
+  post-date: 2022-01-09
+  exp-date: 2022-01-10
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "9 AM"
+  description: "Join us in person for the Mass of the Baptism of the Lord."
+
+- title: "Sunday Mass"
+  post-date: 2022-01-09
+  exp-date: 2022-01-10
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "11 AM"
+  description: "Join us in person or online for the Baptism of the Lord."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
 - title: "Hush Harbor"
   post-date: 2022-01-08
   exp-date: 2022-01-09
