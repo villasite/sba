@@ -1,19 +1,87 @@
 
 - title: "Sunday Mass"
-  post-date: 2022-01-23
-  exp-date: 2022-01-24
+  post-date: 2022-01-30
+  exp-date: 2022-01-31
   fawe: "fas fa-church"
   tags: "event"
   time: "9 AM"
-  description: "Join us in person for the Mass for the Third Sunday in Ordinary Time."
+  description: "Join us in person for the Mass for the Fourth Sunday in Ordinary Time."
 
 - title: "Sunday Mass"
-  post-date: 2022-01-23
-  exp-date: 2022-01-24
+  post-date: 2022-01-30
+  exp-date: 2022-01-31
   fawe: "fas fa-church"
   tags: "event"
   time: "11 AM"
-  description: "Join us in person or online for the Mass for the Third Sunday in Ordinary Time."
+  description: "Join us in person or online for the Mass for the Fourth Sunday in Ordinary Time."
   zoomid: 89415895742
   zoompw: 636489
   fb: "Yes"
+
+- title: "Vigil Mass"
+  post-date: 2022-01-29
+  exp-date: 2022-01-30
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "4 PM"
+  description: "Join us in person for the Mass for the Fourth Sunday in Ordinary Time."
+
+- title: "Friday Goodness"
+  post-date: 2022-01-28
+  exp-date: 2022-01-29
+  fawe: "fas fa-star"
+  tags: "event"
+  time: "12 PM"
+  description: "Tune in for Friday Goodness where we highlight local entrepreneurs and organizations in the Englewood and Chicago area."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Fr. Gerard on the Dominicans"
+  post-date: 2022-01-27
+  exp-date: 2022-01-28
+  fawe: "fas fa-cross"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us for this hour of reflection and conversation led by Rev. Canon A Gerard Jordan, O. Praem."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Praying with the Mother of God"
+  post-date: 2022-01-27
+  exp-date: 2022-01-28
+  fawe: "fas fa-pray"
+  tags: "event"
+  time: "2 PM"
+  description: "Pray in community the Rosary every Thursday at 2pm Central Time."
+  zoomid: 9796818222
+  zoompw: 424181
+
+- title: "Where do we go from here? Fr. Lee"
+  post-date: 2022-01-26
+  exp-date: 2022-01-27
+  fawe: "fas fa-cross"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us for this hour of reflection and conversation led by Fr. Roy Lee."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Catholic Mass vs Protestant Service"
+  post-date: 2022-01-25
+  exp-date: 2022-01-26
+  fawe: "fas fa-cross"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us today for a talk on Catholic Mass vs Protestant Service led by Fr. Tom Jackson, OP."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "What is Ordinary Time?"
+  post-date: 2022-01-24
+  exp-date: 2022-01-25
+  fawe: "fas fa-cross"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us today as we discuss What is Ordinary Time."
+  zoomid: 89415895742
+  zoompw: 636489
