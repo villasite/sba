@@ -18,6 +18,19 @@
   zoompw: 636489
   fb: "Yes"
 
+- title: "Hush Harbor"
+  post-date: 2022-01-29
+  exp-date: 2022-01-30
+  fawe: "fas fa-hands"
+  tags: ["event", "music"]
+  label: "Music"
+  txt: "music"
+  time: "11 AM"
+  description: "Our Hush Harbor series features spirituals and speeches from the past that speak loudly today. In Antebellum America, a hush harbor was a place where the enslaved Africans would gather in secret to practice religious traditions."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
 - title: "Vigil Mass"
   post-date: 2022-01-29
   exp-date: 2022-01-30
@@ -63,25 +76,5 @@
   tags: "event"
   time: "12 PM"
   description: "Join us for this hour of reflection and conversation led by Fr. Roy Lee."
-  zoomid: 89415895742
-  zoompw: 636489
-
-- title: "Catholic Mass vs Protestant Service"
-  post-date: 2022-01-25
-  exp-date: 2022-01-26
-  fawe: "fas fa-cross"
-  tags: "event"
-  time: "12 PM"
-  description: "Join us today for a talk on Catholic Mass vs Protestant Service led by Fr. Tom Jackson, OP."
-  zoomid: 89415895742
-  zoompw: 636489
-
-- title: "What is Ordinary Time?"
-  post-date: 2022-01-24
-  exp-date: 2022-01-25
-  fawe: "fas fa-cross"
-  tags: "event"
-  time: "12 PM"
-  description: "Join us today as we discuss What is Ordinary Time."
   zoomid: 89415895742
   zoompw: 636489
