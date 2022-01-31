@@ -89,6 +89,16 @@
   zoomid: 89415895742
   zoompw: 636489
 
+- title: "William Howard Memorial"
+  post-date: 2022-01-31
+  exp-date: 2022-02-01
+  fawe: "fas fa-cross"
+  tags: "event"
+  time: "10 AM"
+  description: "We will be broadcasting the Memorial of William Howard."
+  zoomid: 89415895742
+  zoompw: 636489
+
 - title: "The Peace of Christ Campaign"
   post-date: 2022-01-31
   exp-date: 2022-02-01
@@ -98,22 +108,3 @@
   description: "Join us today as we have a talk about the Peace of Christ Campaign."
   zoomid: 89415895742
   zoompw: 636489
-
-- title: "Sunday Mass"
-  post-date: 2022-01-30
-  exp-date: 2022-01-31
-  fawe: "fas fa-church"
-  tags: "event"
-  time: "9 AM"
-  description: "Join us in person for the Mass for the Fourth Sunday in Ordinary Time."
-
-- title: "Sunday Mass"
-  post-date: 2022-01-30
-  exp-date: 2022-01-31
-  fawe: "fas fa-church"
-  tags: "event"
-  time: "11 AM"
-  description: "Join us in person or online for the Mass for the Fourth Sunday in Ordinary Time."
-  zoomid: 89415895742
-  zoompw: 636489
-  fb: "Yes"
