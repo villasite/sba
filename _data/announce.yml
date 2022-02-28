@@ -81,6 +81,12 @@
   zoomid: 89415895742
   zoompw: 636489
 
+- title: "The Beginning of the Ninth Week in Ordinary Time"
+  post-date: 2022-02-28
+  exp-date: 2022-03-01
+  fawe: "fas fa-cross"
+  tags: "event"
+
 - title: "The Church and the Covid"
   post-date: 2022-02-28
   exp-date: 2022-03-01
@@ -90,22 +96,3 @@
   description: "Tune in today and join the conversation on The Church and the Covid."
   zoomid: 89415895742
   zoompw: 636489
-
-- title: "The Beginning of the Ninth week in Ordinary Time – with Fr. Dr. Roy Lee"
-  post-date: 2022-02-27
-  exp-date: 2022-02-28
-  fawe: "fas fa-church"
-  tags: "event"
-  time: "9 AM"
-  description: "Join us in person for the Sunday Mass."
-
-- title: "The Beginning of the Ninth week in Ordinary Time"
-  post-date: 2022-02-27
-  exp-date: 2022-02-28
-  fawe: "fas fa-church"
-  tags: "event"
-  time: "11 AM"
-  description: "Join us in person or online for Sunday Mass."
-  zoomid: 89415895742
-  zoompw: 636489
-  fb: "Yes"
