@@ -1,15 +1,15 @@
 
-- title: "The Fourth Sunday of Lent"
-  post-date: 2022-03-27
-  exp-date: 2022-03-28
+- title: "The Fifth Sunday of Lent"
+  post-date: 2022-04-03
+  exp-date: 2022-04-04
   fawe: "fas fa-church"
   tags: "event"
   time: "9 AM"
   description: "Join us in person for the Sunday Mass."
 
-- title: "The Fourth Sunday of Lent"
-  post-date: 2022-03-27
-  exp-date: 2022-03-28
+- title: "The Fifth Sunday of Lent"
+  post-date: 2022-04-03
+  exp-date: 2022-04-04
   fawe: "fas fa-church"
   tags: "event"
   time: "11 AM"
@@ -19,8 +19,8 @@
   fb: "Yes"
 
 - title: "Hush Harbor with Ida B. Wells"
-  post-date: 2022-03-26
-  exp-date: 2022-03-27
+  post-date: 2022-04-02
+  exp-date: 2022-04-03
   fawe: "fas fa-hands"
   tags: ["event", "music"]
   label: "Music"
@@ -31,16 +31,16 @@
   zoompw: 636489
 
 - title: "Vigil Mass"
-  post-date: 2022-03-26
-  exp-date: 2022-03-27
+  post-date: 2022-04-02
+  exp-date: 2022-04-03
   fawe: "fas fa-church"
   tags: "event"
   time: "4 PM"
   description: "Join us in person for Mass."
 
 - title: "Friday Goodness"
-  post-date: 2022-03-25
-  exp-date: 2022-03-26
+  post-date: 2022-04-01
+  exp-date: 2022-04-02
   fawe: "fas fa-star"
   tags: "event"
   time: "12 PM"
@@ -49,8 +49,8 @@
   zoompw: 636489
 
 - title: "Creating a Prayer Book with Sr. Jamie Phelps"
-  post-date: 2022-03-24
-  exp-date: 2022-03-25
+  post-date: 2022-03-31
+  exp-date: 2022-04-01
   fawe: "fas fa-praying-hands"
   tags: "event"
   time: "12 PM"
@@ -59,8 +59,8 @@
   zoompw: 636489
 
 - title: "Praying with the Mother of God"
-  post-date: 2022-03-24
-  exp-date: 2022-03-25
+  post-date: 2022-03-31
+  exp-date: 2022-04-01
   fawe: "fas fa-pray"
   tags: "event"
   time: "2 PM"
@@ -69,8 +69,8 @@
   zoompw: 424181
 
 - title: "Writing with Fr. Lee"
-  post-date: 2022-03-23
-  exp-date: 2022-03-24
+  post-date: 2022-03-30
+  exp-date: 2022-03-31
   fawe: "fas fa-pen-nib"
   tags: "event"
   time: "12 PM"
@@ -79,8 +79,8 @@
   zoompw: 636489
 
 - title: "Bible Study with Fr. Tom"
-  post-date: 2022-03-22
-  exp-date: 2022-03-23
+  post-date: 2022-03-29
+  exp-date: 2022-03-30
   fawe: "fas fa-bible"
   tags: "event"
   time: "12 PM"
@@ -88,15 +88,15 @@
   zoomid: 89415895742
   zoompw: 636489
 
-- title: "The Third Week of Lent"
-  post-date: 2022-03-21
-  exp-date: 2022-03-22
+- title: "The Fourth Week of Lent"
+  post-date: 2022-03-28
+  exp-date: 2022-03-29
   fawe: "fas fa-cross"
   tags: "event"
 
 - title: "The Church and the Covid"
-  post-date: 2022-03-21
-  exp-date: 2022-03-22
+  post-date: 2022-03-28
+  exp-date: 2022-03-29
   fawe: "fas fa-comment-medical"
   tags: "event"
   time: "12 PM"
