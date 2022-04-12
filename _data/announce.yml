@@ -1,6 +1,6 @@
 - title: "Easter Sunday"
   post-date: 2022-04-17
-  exp-date: 2022-04-16
+  exp-date: 2022-04-18
   fawe: "fas fa-church"
   tags: "event"
   time: "9 AM"
@@ -8,44 +8,60 @@
 
 - title: "Easter Sunday"
   post-date: 2022-04-17
-  exp-date: 2022-04-16
+  exp-date: 2022-04-18
   fawe: "fas fa-church"
   tags: "event"
   time: "11 AM"
   description: "Join us in person or online for Sunday Mass."
   zoomid: 89415895742
   zoompw: 636489
-  fb: "Yes"
 
 - title: "The Easter Vigil"
   post-date: 2022-04-16
-  exp-date: 2022-04-15
+  exp-date: 2022-04-17
   fawe: "fas fa-church"
   tags: "event"
   time: "7:45 PM"
   description: "Join us in person or online for the Easter Vigil."
   zoomid: 89415895742
   zoompw: 636489
-  fb: "Yes"
 
-- title: "Good Friday"
+- title: "Veneration of the Cross"
   post-date: 2022-04-15
-  exp-date: 2022-04-14
+  exp-date: 2022-04-16
   fawe: "fas fa-cross"
   tags: "event"
   time: "3 PM"
-  description: "Join us in person or online for Good Friday."
+  description: "Join us in person or online for the Veneration of the Cross."
   zoomid: 89415895742
   zoompw: 636489
-  fb: "Yes"
 
-- title: "Holy Thursday"
+- title: "Mass of the Lord’s Supper"
   post-date: 2022-04-14
-  exp-date: 2022-04-13
+  exp-date: 2022-04-15
   fawe: "fas fa-church"
   tags: "event"
   time: "7 PM"
-  description: "Join us in person or online for Holy Thursday Mass."
+  description: "Join us in person or online for the Mass of the Lord’s Supper."
   zoomid: 89415895742
   zoompw: 636489
-  fb: "Yes"
+
+- title: "Writing with Fr. Lee"
+  post-date: 2022-04-13
+  exp-date: 2022-04-14
+  fawe: "fas fa-pen-nib"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us for this hour of reflection and conversation led by Fr. Roy Lee."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Bible Study with Fr. Tom"
+  post-date: 2022-04-12
+  exp-date: 2022-04-13
+  fawe: "fas fa-bible"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us today for a session on the Bible led by Fr. Tom Jackson, OP."
+  zoomid: 89415895742
+  zoompw: 636489
