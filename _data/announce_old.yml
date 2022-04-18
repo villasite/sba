@@ -1,4 +1,62 @@
 
+- title: "Easter Sunday"
+  post-date: 2022-04-17
+  exp-date: 2022-04-18
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "9 AM"
+  description: "Join us in person for Sunday Mass."
+
+- title: "Easter Sunday"
+  post-date: 2022-04-17
+  exp-date: 2022-04-18
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "11 AM"
+  description: "Join us in person or online for Sunday Mass."
+  zoomid: 89083324013
+  zoompw: "CHURCH"
+
+- title: "The Easter Vigil"
+  post-date: 2022-04-16
+  exp-date: 2022-04-17
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "7:45 PM"
+  description: "Join us in person or online for the Easter Vigil."
+  zoomid: 89083324013
+  zoompw: "CHURCH"
+
+- title: "Veneration of the Cross"
+  post-date: 2022-04-15
+  exp-date: 2022-04-16
+  fawe: "fas fa-cross"
+  tags: "event"
+  time: "3 PM"
+  description: "Join us in person or online for the Veneration of the Cross."
+  zoomid: 89083324013
+  zoompw: "CHURCH"
+
+- title: "Bible Study with Fr. Tom"
+  post-date: 2022-04-14
+  exp-date: 2022-04-15
+  fawe: "fas fa-bible"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us today for a session on the Bible led by Fr. Tom Jackson, OP."
+  zoomid: 89083324013
+  zoompw: "CHURCH"
+
+- title: "Mass of the Lord’s Supper"
+  post-date: 2022-04-14
+  exp-date: 2022-04-15
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "7 PM"
+  description: "Join us in person or online for the Mass of the Lord’s Supper."
+  zoomid: 89083324013
+  zoompw: "CHURCH"
+
 - title: "Palm Sunday"
   post-date: 2022-04-10
   exp-date: 2022-04-11
