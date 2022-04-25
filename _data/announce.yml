@@ -1,15 +1,15 @@
 
-- title: "Second Sunday of Easter - Sunday of Divine Mercy"
-  post-date: 2022-04-24
-  exp-date: 2022-04-25
+- title: "The Third Sunday of Easter"
+  post-date: 2022-05-01
+  exp-date: 2022-05-02
   fawe: "fas fa-church"
   tags: "event"
   time: "9 AM"
   description: "Join us in person for Sunday Mass."
 
-- title: "Second Sunday of Easter - Sunday of Divine Mercy"
-  post-date: 2022-04-24
-  exp-date: 2022-04-25
+- title: "The Third Sunday of Easter"
+  post-date: 2022-05-01
+  exp-date: 2022-05-02
   fawe: "fas fa-church"
   tags: "event"
   time: "11 AM"
@@ -17,9 +17,9 @@
   zoomid: 89083324013
   zoompw: "CHURCH"
 
-- title: "Hush Harbor in Easter with Augustus Tolton"
-  post-date: 2022-04-23
-  exp-date: 2022-04-24
+- title: "Hush Harbor"
+  post-date: 2022-04-30
+  exp-date: 2022-05-01
   fawe: "fas fa-hands"
   tags: ["event", "music"]
   label: "Music"
@@ -30,18 +30,16 @@
   zoompw: "CHURCH"
 
 - title: "Vigil Mass"
-  post-date: 2022-04-23
-  exp-date: 2022-04-24
+  post-date: 2022-04-30
+  exp-date: 2022-05-01
   fawe: "fas fa-church"
   tags: "event"
   time: "4 PM"
-  description: "Join us in person or online for today's vigil Mass."
-  zoomid: 89083324013
-  zoompw: "CHURCH"
+  description: "Join us in person for today's vigil Mass."
 
 - title: "Friday Goodness"
-  post-date: 2022-04-22
-  exp-date: 2022-04-23
+  post-date: 2022-04-29
+  exp-date: 2022-04-30
   fawe: "fas fa-star"
   tags: "event"
   time: "12 PM"
@@ -49,29 +47,19 @@
   zoomid: 89083324013
   zoompw: "CHURCH"
 
-- title: "Octave of Easter - Sr. Jamie"
-  post-date: 2022-04-21
-  exp-date: 2022-04-22
-  fawe: "fas fa-users"
+- title: "Sisters Praying in Black Community"
+  post-date: 2022-04-28
+  exp-date: 2022-04-29
+  fawe: "fas fa-praying-hands"
   tags: "event"
   time: "12 PM"
-  description: "Join today's conversation on 'What difference does Easter make communally? What are the struggles?  What are the opportunities?' led by Sr. Jamie Phelps, OP."
+  description: "Join us for this hour of conversation led by Sr. Jamie Phelps, OP."
   zoomid: 89083324013
   zoompw: "CHURCH"
 
-- title: "Octave of Easter – Fr. Lee"
-  post-date: 2022-04-20
-  exp-date: 2022-04-21
-  fawe: "fas fa-walking"
-  tags: "event"
-  time: "12 PM"
-  description: "Join today's conversation on 'What difference does Easter make personally?' led by Fr. Roy Lee."
-  zoomid: 89083324013
-  zoompw: "CHURCH"
-
-- title: "Writing Easter with Fr. Lee"
-  post-date: 2022-04-19
-  exp-date: 2022-04-20
+- title: "Writing with the Evangelist"
+  post-date: 2022-04-27
+  exp-date: 2022-04-28
   fawe: "fas fa-pen-nib"
   tags: "event"
   time: "12 PM"
@@ -79,12 +67,22 @@
   zoomid: 89083324013
   zoompw: "CHURCH"
 
-- title: "Covid in Easter Church"
-  post-date: 2022-04-18
-  exp-date: 2022-04-19
+- title: "Bible with the Dominican"
+  post-date: 2022-04-26
+  exp-date: 2022-04-27
+  fawe: "fas fa-bible"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us today for a session on the Bible led by Fr. Tom Jackson, OP."
+  zoomid: 89083324013
+  zoompw: "CHURCH"
+
+- title: "The Church and the Covid"
+  post-date: 2022-04-25
+  exp-date: 2022-04-26
   fawe: "fas fa-comment-medical"
   tags: "event"
   time: "12 PM"
-  description: "Tune in today and join the conversation on updates, Communion at SBA, the desire for the booster."
+  description: "Tune in today and join the conversation on The 4th shot? The Spring? The Message? The Next?"
   zoomid: 89083324013
   zoompw: "CHURCH"
