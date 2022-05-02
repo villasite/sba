@@ -1,88 +1,88 @@
 
-- title: "The Third Sunday of Easter"
-  post-date: 2022-05-01
-  exp-date: 2022-05-02
+- title: "The Fourth Sunday of Easter"
+  post-date: 2022-05-08
+  exp-date: 2022-05-09
   fawe: "fas fa-church"
   tags: "event"
   time: "9 AM"
   description: "Join us in person for Sunday Mass."
 
-- title: "The Third Sunday of Easter"
-  post-date: 2022-05-01
-  exp-date: 2022-05-02
+- title: "The Fourth Sunday of Easter"
+  post-date: 2022-05-08
+  exp-date: 2022-05-09
   fawe: "fas fa-church"
   tags: "event"
   time: "11 AM"
   description: "Join us in person or online for Sunday Mass."
-  zoomid: 89083324013
-  zoompw: "CHURCH"
+  zoomid: 89415895742
+  zoompw: 636489
 
-- title: "Hush Harbor"
-  post-date: 2022-04-30
-  exp-date: 2022-05-01
+- title: "Hush Harbor with Andrew Harris"
+  post-date: 2022-05-07
+  exp-date: 2022-05-08
   fawe: "fas fa-hands"
   tags: ["event", "music"]
   label: "Music"
   txt: "music"
   time: "11 AM"
   description: "Our Hush Harbor series features spirituals and speeches from the past that speak loudly today. In Antebellum America, a hush harbor was a place where the enslaved Africans would gather in secret to practice religious traditions."
-  zoomid: 89083324013
-  zoompw: "CHURCH"
+  zoomid: 89415895742
+  zoompw: 636489
 
 - title: "Vigil Mass"
-  post-date: 2022-04-30
-  exp-date: 2022-05-01
+  post-date: 2022-05-07
+  exp-date: 2022-05-08
   fawe: "fas fa-church"
   tags: "event"
   time: "4 PM"
   description: "Join us in person for today's vigil Mass."
 
 - title: "Friday Goodness"
-  post-date: 2022-04-29
-  exp-date: 2022-04-30
+  post-date: 2022-05-06
+  exp-date: 2022-05-07
   fawe: "fas fa-star"
   tags: "event"
   time: "12 PM"
   description: "Tune in for Friday Goodness where we highlight local entrepreneurs and organizations in the Englewood and Chicago area."
-  zoomid: 89083324013
-  zoompw: "CHURCH"
+  zoomid: 89415895742
+  zoompw: 636489
 
-- title: "Sisters Praying in Black Community"
-  post-date: 2022-04-28
-  exp-date: 2022-04-29
+- title: "Cinco de Mayo with Sisters in Christ Jesus"
+  post-date: 2022-05-05
+  exp-date: 2022-05-06
   fawe: "fas fa-praying-hands"
   tags: "event"
   time: "12 PM"
   description: "Join us for this hour of conversation led by Sr. Jamie Phelps, OP."
-  zoomid: 89083324013
-  zoompw: "CHURCH"
+  zoomid: 89415895742
+  zoompw: 636489
 
 - title: "Writing with the Evangelist"
-  post-date: 2022-04-27
-  exp-date: 2022-04-28
+  post-date: 2022-05-04
+  exp-date: 2022-05-05
   fawe: "fas fa-pen-nib"
   tags: "event"
   time: "12 PM"
   description: "Join us for this hour of reflection and conversation led by Fr. Roy Lee."
-  zoomid: 89083324013
-  zoompw: "CHURCH"
+  zoomid: 89415895742
+  zoompw: 636489
 
 - title: "Bible with the Dominican"
-  post-date: 2022-04-26
-  exp-date: 2022-04-27
+  post-date: 2022-05-03
+  exp-date: 2022-05-04
   fawe: "fas fa-bible"
   tags: "event"
   time: "12 PM"
   description: "Join us today for a session on the Bible led by Fr. Tom Jackson, OP."
-  zoomid: 89083324013
-  zoompw: "CHURCH"
+  zoomid: 89415895742
+  zoompw: 636489
 
-- title: "The Church and the Covid"
-  post-date: 2022-04-25
-  exp-date: 2022-04-26
+- title: "The Church and the Covid - The 4th shot?"
+  post-date: 2022-05-02
+  exp-date: 2022-05-03
   fawe: "fas fa-comment-medical"
   tags: "event"
   time: "12 PM"
-  description: "Tune in today and join the conversation on The 4th shot? The Spring? The Message? The Next?"
-  zoomid: 89083324013
-  zoompw: "CHURCH"
+  description: "Tune in today and join the conversation on 'The Church and the Covid'"
+  zoomid: 89415895742
+  zoompw: 636489
