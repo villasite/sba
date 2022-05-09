@@ -12,6 +12,14 @@
   exp-date: 2022-05-09
   fawe: "fas fa-church"
   tags: "event"
+  time: "9 AM"
+  description: "Join us in person for Sunday Mass."
+
+- title: "The Fourth Sunday of Easter"
+  post-date: 2022-05-08
+  exp-date: 2022-05-09
+  fawe: "fas fa-church"
+  tags: "event"
   time: "11 AM"
   description: "Join us in person or online for Sunday Mass."
   zoomid: 89415895742
