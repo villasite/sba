@@ -1,4 +1,45 @@
 
+- title: "Writing with the Evangelist"
+  post-date: 2022-05-11
+  exp-date: 2022-05-12
+  fawe: "fas fa-pen-nib"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us for this hour of reflection and conversation led by Fr. Roy Lee."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Bible with the Dominican"
+  post-date: 2022-05-10
+  exp-date: 2022-05-11
+  fawe: "fas fa-bible"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us today for a session on the Bible led by Fr. Tom Jackson, OP."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "The Fourth Sunday of Easter"
+  post-date: 2022-05-08
+  exp-date: 2022-05-10
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "11 AM"
+  description: "Join us in person or online for Sunday Mass."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
+- title: "The Church and the Covid"
+  post-date: 2022-05-09
+  exp-date: 2022-05-10
+  fawe: "fas fa-comment-medical"
+  tags: "event"
+  time: "12 PM"
+  description: "Tune in today and join the conversation on 'The Church and the Covid'"
+  zoomid: 89415895742
+  zoompw: 636489
+
 - title: "The Fourth Sunday of Easter"
   post-date: 2022-05-08
   exp-date: 2022-05-09

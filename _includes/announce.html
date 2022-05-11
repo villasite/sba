@@ -15,6 +15,11 @@
 					<h4>{{ entry.post-date | date: '%A, %B %-d, %Y' }}</h4>
 					<p><b>{{ entry.time }}</b></p>
 					<p>{{ entry.description }}</p>
+					
+					{% if entry.zoomid == 89415895742 %}
+					<b class="text-danger">Join Now:</b> <a href="https://bit.ly/SBAChicago"target="_blank">https://bit.ly/SBAChicago</a>
+					{% endif %}
+					
 					{% if entry.zoomid != null %}
 					<p class="text-danger"><b>Meeting ID</b>: {{ entry.zoomid }}
 					<br>
