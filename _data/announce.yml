@@ -1,15 +1,15 @@
 
-- title: "The Ascension"
-  post-date: 2022-05-29
-  exp-date: 2022-05-30
+- title: "Pentecost Sunday"
+  post-date: 2022-06-05
+  exp-date: 2022-06-06
   fawe: "fas fa-church"
   tags: "event"
   time: "9 AM"
   description: "Join us in person for Sunday Mass."
 
-- title: "The Ascension"
-  post-date: 2022-05-29
-  exp-date: 2022-05-30
+- title: "Pentecost Sunday"
+  post-date: 2022-06-05
+  exp-date: 2022-06-06
   fawe: "fas fa-church"
   tags: "event"
   time: "11 AM"
@@ -18,38 +18,29 @@
   zoompw: 636489
   fb: "Yes"
 
-- title: "Prayer Breakfast"
-  post-date: 2022-05-28
-  exp-date: 2022-05-29
-  fawe: "fas fa-coffee"
-  tags: "event"
+- title: "Mass of Christian Burial for Tiffany Armstrong"
+  post-date: 2022-06-04
+  exp-date: 2022-06-05
+  fawe: "fas fa-cross"
+  tags: ["event"]
   time: "10 AM"
-  description: "RSVP to SBAparish@aol.com or 773-873-4464 for this Prayer Breakfast with Minister Beverly Ann Stewart."
+  description: "The Wake for Tiffany Armstrong is at 10:00 AM and the Mass is at 11:00 AM."
+  zoomid: 89406735133
+  zoompw: "PRAYER (for phone: 589570)"
 
-- title: "Hush Harbor with the NAACP"
-  post-date: 2022-05-28
-  exp-date: 2022-05-29
-  fawe: "fas fa-hands"
-  tags: ["event", "music"]
-  label: "Music"
-  txt: "music"
-  time: "11 AM"
-  description: "Our Hush Harbor series features spirituals and speeches from the past that speak loudly today. In Antebellum America, a hush harbor was a place where the enslaved Africans would gather in secret to practice religious traditions."
-  zoomid: 89415895742
-  zoompw: 636489
-  fb: "Yes"
+- title: "Christian Burial for Eddie Sellers, Jr."
+  post-date: 2022-06-03
+  exp-date: 2022-06-04
+  fawe: "fas fa-cross"
+  tags: ["event"]
+  time: "9 AM"
+  description: "The Wake for Eddie Sellers, Jr. is at 9:00 AM and the Liturgy is at 10:00 AM."
+  zoomid: 89406735133
+  zoompw: "PRAYER (for phone: 589570)"
 
-- title: "Vigil Mass"
-  post-date: 2022-05-28
-  exp-date: 2022-05-29
-  fawe: "fas fa-church"
-  tags: "event"
-  time: "4 PM"
-  description: "Join us in person for today's vigil Mass."
-
-- title: "Friday Goodness with Stream of Life with Berlina R. Baker"
-  post-date: 2022-05-27
-  exp-date: 2022-05-28
+- title: "Friday Goodness"
+  post-date: 2022-06-03
+  exp-date: 2022-06-04
   fawe: "fas fa-star"
   tags: "event"
   time: "12 PM"
@@ -58,8 +49,8 @@
   zoompw: 636489
 
 - title: "Sr. Jamie’s Call to Lay Leadership"
-  post-date: 2022-05-26
-  exp-date: 2022-05-27
+  post-date: 2022-06-02
+  exp-date: 2022-06-03
   fawe: "fas fa-praying-hands"
   tags: "event"
   time: "12 PM"
@@ -68,8 +59,8 @@
   zoompw: 636489
 
 - title: "Praying with the Mother of God"
-  post-date: 2022-05-26
-  exp-date: 2022-05-27
+  post-date: 2022-06-02
+  exp-date: 2022-06-03
   fawe: "fas fa-pray"
   tags: "event"
   time: "2 PM"
@@ -77,29 +68,19 @@
   zoomid: 9796818222
   zoompw: 424181
 
-- title: "Fr. Lee on the sides"
-  post-date: 2022-05-25
-  exp-date: 2022-05-26
-  fawe: "fas fa-cross"
+- title: "Fr. Lee on the Sides"
+  post-date: 2022-06-01
+  exp-date: 2022-06-02
+  fawe: "fas fa-hands"
   tags: "event"
   time: "12 PM"
   description: "Join us for this hour of conversation led by Fr. Roy Lee."
   zoomid: 89415895742
   zoompw: 636489
 
-- title: "Bible with the Dominican"
-  post-date: 2022-05-24
-  exp-date: 2022-05-25
-  fawe: "fas fa-bible"
-  tags: "event"
-  time: "12 PM"
-  description: "Join us today for a session on the Bible led by Fr. Tom Jackson, OP."
-  zoomid: 89415895742
-  zoompw: 636489
-
-- title: "The Sixth Sunday of Easter"
-  post-date: 2022-05-22
-  exp-date: 2022-05-24
+- title: "The Ascension of the Lord"
+  post-date: 2022-05-29
+  exp-date: 2022-06-01
   fawe: "fas fa-church"
   tags: "event"
   time: "11 AM"
@@ -109,8 +90,8 @@
   fb: "Yes"
 
 - title: "The Church and the Covid and the Black Community"
-  post-date: 2022-05-23
-  exp-date: 2022-05-24
+  post-date: 2022-05-30
+  exp-date: 2022-06-01
   fawe: "fas fa-comment-medical"
   tags: "event"
   time: "12 PM"
@@ -118,3 +99,12 @@
   zoomid: 89415895742
   zoompw: 636489
 
+- title: "Bible with the Dominican"
+  post-date: 2022-05-31
+  exp-date: 2022-06-01
+  fawe: "fas fa-bible"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us today for a session on the Bible led by Fr. Tom Jackson, OP."
+  zoomid: 89415895742
+  zoompw: 636489
