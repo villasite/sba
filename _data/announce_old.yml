@@ -1,4 +1,115 @@
 
+- title: "Fourteenth Sunday in Ordinary Time"
+  post-date: 2022-07-03
+  exp-date: 2022-07-04
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "9 AM"
+  description: "Join us in person for Sunday Mass."
+
+- title: "Fourteenth Sunday in Ordinary Time"
+  post-date: 2022-07-03
+  exp-date: 2022-07-04
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "11 AM"
+  description: "Join us in person or online for Sunday Mass."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
+- title: "Hush Harbor"
+  post-date: 2022-07-02
+  exp-date: 2022-07-03
+  fawe: "fas fa-hands"
+  tags: ["event", "music"]
+  label: "Music"
+  txt: "music"
+  time: "11 AM"
+  description: "Our Hush Harbor series features spirituals and speeches from the past that speak loudly today. In Antebellum America, a hush harbor was a place where the enslaved Africans would gather in secret to practice religious traditions."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
+- title: "Vigil Mass"
+  post-date: 2022-07-02
+  exp-date: 2022-07-03
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "4 PM"
+  description: "Join us in person for today's vigil Mass."
+
+- title: "Friday Goodness"
+  post-date: 2022-07-01
+  exp-date: 2022-07-02
+  fawe: "fas fa-star"
+  tags: "event"
+  time: "12 PM"
+  description: "Tune in for Friday Goodness where we highlight local entrepreneurs and organizations in the Englewood and Chicago area."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Planning with Sr. Jamie"
+  post-date: 2022-06-30
+  exp-date: 2022-07-01
+  fawe: "fas fa-hands-helping"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us for this hour of conversation led by Sr. Jamie Phelps, OP."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Praying with the Mother of God"
+  post-date: 2022-06-30
+  exp-date: 2022-07-01
+  fawe: "fas fa-pray"
+  tags: "event"
+  time: "2 PM"
+  description: "Pray in community the Rosary every Thursday at 2pm Central Time."
+  zoomid: 9796818222
+  zoompw: 424181
+
+- title: "The Institute of Black Catholic Studies"
+  post-date: 2022-06-29
+  exp-date: 2022-06-30
+  fawe: "fas fa-university"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us for this hour on The Institute of Black Catholic Studies."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "First  Communion planning"
+  post-date: 2022-06-28
+  exp-date: 2022-06-29
+  fawe: "fas fa-cross"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us today for a session on First  Communion planning."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Thirteenth Sunday in Ordinary Time"
+  post-date: 2022-06-26
+  exp-date: 2022-06-28
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "11 AM"
+  description: "Join us in person or online for Sunday Mass."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
+- title: "Covid and Community"
+  post-date: 2022-06-27
+  exp-date: 2022-06-28
+  fawe: "fas fa-comment-medical"
+  tags: "event"
+  time: "12 PM"
+  description: "Tune in today as we come together for conversation on Covid and Community."
+  zoomid: 89415895742
+  zoompw: 636489
+
 - title: "Solemnity of the Most Holy Body and Blood"
   post-date: 2022-06-19
   exp-date: 2022-06-20
