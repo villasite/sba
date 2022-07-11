@@ -1,15 +1,14 @@
-
-- title: "Fifteenth Sunday in Ordinary Time"
-  post-date: 2022-07-10
-  exp-date: 2022-07-11
+- title: "Sixteenth Sunday in Ordinary Time"
+  post-date: 2022-07-17
+  exp-date: 2022-07-18
   fawe: "fas fa-church"
   tags: "event"
   time: "9 AM"
   description: "Join us in person for Sunday Mass."
 
-- title: "Fifteenth Sunday in Ordinary Time"
-  post-date: 2022-07-10
-  exp-date: 2022-07-11
+- title: "Sixteenth Sunday in Ordinary Time"
+  post-date: 2022-07-17
+  exp-date: 2022-07-18
   fawe: "fas fa-church"
   tags: "event"
   time: "11 AM"
@@ -19,8 +18,8 @@
   fb: "Yes"
 
 - title: "Hush Harbor"
-  post-date: 2022-07-09
-  exp-date: 2022-07-10
+  post-date: 2022-07-16
+  exp-date: 2022-07-17
   fawe: "fas fa-hands"
   tags: ["event", "music"]
   label: "Music"
@@ -32,16 +31,16 @@
   fb: "Yes"
 
 - title: "Vigil Mass"
-  post-date: 2022-07-09
-  exp-date: 2022-07-10
+  post-date: 2022-07-16
+  exp-date: 2022-07-17
   fawe: "fas fa-church"
   tags: "event"
   time: "4 PM"
   description: "Join us in person for today's vigil Mass."
 
 - title: "Friday Goodness"
-  post-date: 2022-07-08
-  exp-date: 2022-07-09
+  post-date: 2022-07-15
+  exp-date: 2022-07-16
   fawe: "fas fa-star"
   tags: "event"
   time: "12 PM"
@@ -49,17 +48,9 @@
   zoomid: 89415895742
   zoompw: 636489
 
-- title: "Tolton 125th Anniversary"
-  post-date: 2022-07-08
-  exp-date: 2022-07-09
-  fawe: "fas fa-cross"
-  tags: "event"
-  time: "6:30 PM"
-  description: "Join the Tolton Guild and Bishop Joseph Perry for an evening reflecting on the life and legacy of Father Tolton. Register in advance to receive the livestream link and materials for reflection at bit.ly/tolton-7-31."
-
 - title: "Sr. Jamie Learning Laity"
-  post-date: 2022-07-07
-  exp-date: 2022-07-08
+  post-date: 2022-07-14
+  exp-date: 2022-07-15
   fawe: "fas fa-hands-helping"
   tags: "event"
   time: "12 PM"
@@ -68,8 +59,8 @@
   zoompw: 636489
 
 - title: "Praying with the Mother of God"
-  post-date: 2022-07-07
-  exp-date: 2022-07-08
+  post-date: 2022-07-14
+  exp-date: 2022-07-15
   fawe: "fas fa-pray"
   tags: "event"
   time: "2 PM"
@@ -78,8 +69,8 @@
   zoompw: 424181
 
 - title: "At the IBCS with Fr. Lee"
-  post-date: 2022-07-06
-  exp-date: 2022-07-07
+  post-date: 2022-07-13
+  exp-date: 2022-07-14
   fawe: "fas fa-university"
   tags: "event"
   time: "12 PM"
@@ -88,8 +79,8 @@
   zoompw: 636489
 
 - title: "Truth on a Tuesday with Rev. McCay"
-  post-date: 2022-07-05
-  exp-date: 2022-07-06
+  post-date: 2022-07-12
+  exp-date: 2022-07-13
   fawe: "fas fa-globe-africa"
   tags: "event"
   time: "12 PM"
@@ -97,9 +88,9 @@
   zoomid: 89415895742
   zoompw: 636489
 
-- title: "Fourteenth Sunday in Ordinary Time"
-  post-date: 2022-07-03
-  exp-date: 2022-07-05
+- title: "Fifteenth Sunday in Ordinary Time"
+  post-date: 2022-07-10
+  exp-date: 2022-07-12
   fawe: "fas fa-church"
   tags: "event"
   time: "11 AM"
@@ -108,12 +99,12 @@
   zoompw: 636489
   fb: "Yes"
 
-- title: "Independence Day"
-  post-date: 2022-07-04
-  exp-date: 2022-07-05
-  fawe: "fas fa-flag-usa"
+- title: "Group Chat Report"
+  post-date: 2022-07-11
+  exp-date: 2022-07-12
+  fawe: "fas fa-comments"
   tags: "event"
   time: "12 PM"
-  description: "Tune in today as we come together for a group chat on Independence Day."
+  description: "Tune in today as we come together for a group chat on What do you want from the Catholic Church?"
   zoomid: 89415895742
   zoompw: 636489
