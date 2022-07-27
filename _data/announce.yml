@@ -1,14 +1,14 @@
-- title: "Seventeenth Sunday in Ordinary Time"
-  post-date: 2022-07-24
-  exp-date: 2022-07-25
+- title: "Eighteenth Sunday in Ordinary Time"
+  post-date: 2022-07-31
+  exp-date: 2022-08-01
   fawe: "fas fa-church"
   tags: "event"
   time: "9 AM"
   description: "Join us in person for Sunday Mass."
 
-- title: "Seventeenth Sunday in Ordinary Time"
-  post-date: 2022-07-24
-  exp-date: 2022-07-25
+- title: "Eighteenth Sunday in Ordinary Time"
+  post-date: 2022-07-31
+  exp-date: 2022-08-01
   fawe: "fas fa-church"
   tags: "event"
   time: "11 AM"
@@ -17,9 +17,17 @@
   zoompw: 636489
   fb: "Yes"
 
+- title: "Prayer Breakfast"
+  post-date: 2022-07-30
+  exp-date: 2022-07-31
+  fawe: "fas fa-praying-hands"
+  tags: ["event"]
+  time: "10 AM"
+  description: "RSVP to SBAparish@aol.com or 773-873-4464 for this Prayer Breakfast with Preacher Vera Avery."
+
 - title: "Hush Harbor"
-  post-date: 2022-07-23
-  exp-date: 2022-07-24
+  post-date: 2022-07-30
+  exp-date: 2022-07-31
   fawe: "fas fa-hands"
   tags: ["event", "music"]
   label: "Music"
@@ -31,16 +39,16 @@
   fb: "Yes"
 
 - title: "Vigil Mass"
-  post-date: 2022-07-23
-  exp-date: 2022-07-24
+  post-date: 2022-07-30
+  exp-date: 2022-07-31
   fawe: "fas fa-church"
   tags: "event"
   time: "4 PM"
   description: "Join us in person for today's vigil Mass."
 
 - title: "Friday Goodness"
-  post-date: 2022-07-22
-  exp-date: 2022-07-23
+  post-date: 2022-07-29
+  exp-date: 2022-07-30
   fawe: "fas fa-star"
   tags: "event"
   time: "12 PM"
@@ -48,19 +56,19 @@
   zoomid: 89415895742
   zoompw: 636489
 
-- title: "Sr. Jamie Learning Laity"
-  post-date: 2022-07-21
-  exp-date: 2022-07-22
+- title: "Zoom at Noon"
+  post-date: 2022-07-28
+  exp-date: 2022-07-29
   fawe: "fas fa-hands-helping"
   tags: "event"
   time: "12 PM"
-  description: "Join us for this hour of conversation led by Sr. Jamie Phelps, OP."
+  description: "Gather together as community for this Zoom session."
   zoomid: 89415895742
   zoompw: 636489
 
 - title: "Praying with the Mother of God"
-  post-date: 2022-07-21
-  exp-date: 2022-07-22
+  post-date: 2022-07-28
+  exp-date: 2022-07-29
   fawe: "fas fa-pray"
   tags: "event"
   time: "2 PM"
@@ -68,29 +76,9 @@
   zoomid: 9796818222
   zoompw: 424181
 
-- title: "Writing with Fr. Lee"
-  post-date: 2022-07-20
-  exp-date: 2022-07-21
-  fawe: "fas fa-university"
-  tags: "event"
-  time: "12 PM"
-  description: "Join us for this hour of conversation with Fr. Roy Lee."
-  zoomid: 89415895742
-  zoompw: 636489
-
-- title: "Truth on a Tuesday with Rev. McCay"
-  post-date: 2022-07-19
-  exp-date: 2022-07-20
-  fawe: "fas fa-globe-africa"
-  tags: "event"
-  time: "12 PM"
-  description: "Join us today for a conversation with Rev. McCay."
-  zoomid: 89415895742
-  zoompw: 636489
-
-- title: "Sixteenth Sunday in Ordinary Time"
-  post-date: 2022-07-17
-  exp-date: 2022-07-19
+- title: "Seventeenth Sunday in Ordinary Time"
+  post-date: 2022-07-24
+  exp-date: 2022-07-28
   fawe: "fas fa-church"
   tags: "event"
   time: "11 AM"
@@ -99,12 +87,32 @@
   zoompw: 636489
   fb: "Yes"
 
-- title: "Group Chat Report"
-  post-date: 2022-07-18
-  exp-date: 2022-07-19
+- title: "Group Self Care"
+  post-date: 2022-07-25
+  exp-date: 2022-07-28
   fawe: "fas fa-comments"
   tags: "event"
   time: "12 PM"
   description: "Tune in today as we come together for a group chat on What do you want from the Catholic Church?"
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Truth on a Tuesday"
+  post-date: 2022-07-26
+  exp-date: 2022-07-28
+  fawe: "fas fa-globe-africa"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us today for a conversation with Rev. McCay."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Writing with Fr. Lee"
+  post-date: 2022-07-27
+  exp-date: 2022-07-28
+  fawe: "fas fa-university"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us for this hour of conversation with Fr. Roy Lee."
   zoomid: 89415895742
   zoompw: 636489
