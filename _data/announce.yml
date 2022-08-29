@@ -1,14 +1,14 @@
-- title: "Twenty-second Sunday in Ordinary Time"
-  post-date: 2022-08-28
-  exp-date: 2022-08-29
+- title: "Twenty-third Sunday in Ordinary Time"
+  post-date: 2022-09-04
+  exp-date: 2022-09-05
   fawe: "fas fa-church"
   tags: "event"
   time: "9 AM"
   description: "Join us in person for Sunday Mass."
 
-- title: "Twenty-second Sunday in Ordinary Time"
-  post-date: 2022-08-28
-  exp-date: 2022-08-29
+- title: "Twenty-third Sunday in Ordinary Time"
+  post-date: 2022-09-04
+  exp-date: 2022-09-05
   fawe: "fas fa-church"
   tags: "event"
   time: "11 AM"
@@ -18,8 +18,8 @@
   fb: "Yes"
 
 - title: "Hush Harbor"
-  post-date: 2022-08-27
-  exp-date: 2022-08-28
+  post-date: 2022-09-03
+  exp-date: 2022-09-04
   fawe: "fas fa-hands"
   tags: ["event", "music"]
   label: "Music"
@@ -31,16 +31,16 @@
   fb: "Yes"
 
 - title: "Vigil Mass"
-  post-date: 2022-08-27
-  exp-date: 2022-08-28
+  post-date: 2022-09-03
+  exp-date: 2022-09-04
   fawe: "fas fa-church"
   tags: "event"
   time: "4 PM"
   description: "Join us in person for today's vigil Mass."
 
-- title: "Friday Goodness"
-  post-date: 2022-08-26
-  exp-date: 2022-08-27
+- title: "Englewood Goodness"
+  post-date: 2022-09-02
+  exp-date: 2022-09-03
   fawe: "fas fa-star"
   tags: "event"
   time: "12 PM"
@@ -48,19 +48,19 @@
   zoomid: 89415895742
   zoompw: 636489
 
-- title: "What is the Catholic Church to the neighborhood?"
-  post-date: 2022-08-25
-  exp-date: 2022-08-26
-  fawe: "fas fa-place-of-worship"
+- title: "Checking In"
+  post-date: 2022-09-01
+  exp-date: 2022-09-02
+  fawe: "fas fa-users"
   tags: "event"
   time: "12 PM"
-  description: "Join us for this hour of conversation on 'What is the Catholic Church to the neighborhood?'"
+  description: "Join us for this hour of checking in."
   zoomid: 89415895742
   zoompw: 636489
 
 - title: "Praying with the Mother of God"
-  post-date: 2022-08-25
-  exp-date: 2022-08-26
+  post-date: 2022-09-01
+  exp-date: 2022-09-02
   fawe: "fas fa-pray"
   tags: "event"
   time: "2 PM"
@@ -68,9 +68,9 @@
   zoomid: 9796818222
   zoompw: 424181
 
-- title: "Fr. Lee’s writing"
-  post-date: 2022-08-24
-  exp-date: 2022-08-25
+- title: "Writing with Fr. Lee"
+  post-date: 2022-08-31
+  exp-date: 2022-09-01
   fawe: "fas fa-pen"
   tags: "event"
   time: "12 PM"
@@ -78,19 +78,19 @@
   zoomid: 89415895742
   zoompw: 636489
 
-- title: "Truth on a Tuesday"
-  post-date: 2022-08-23
-  exp-date: 2022-08-24
+- title: "Rev. Cedric McCay with the Truth"
+  post-date: 2022-08-30
+  exp-date: 2022-08-31
   fawe: "fas fa-globe-africa"
   tags: "event"
   time: "12 PM"
-  description: "Join us today for a conversation with Rev. McCay."
+  description: "Join us today for a conversation with Rev. Cedric McCay."
   zoomid: 89415895742
   zoompw: 636489
 
-- title: "Twenty-first Sunday in Ordinary Time"
-  post-date: 2022-08-21
-  exp-date: 2022-08-23
+- title: "Twenty-second Sunday in Ordinary Time"
+  post-date: 2022-08-28
+  exp-date: 2022-08-30
   fawe: "fas fa-church"
   tags: "event"
   time: "11 AM"
@@ -100,11 +100,11 @@
   fb: "Yes"
 
 - title: "A Young Man’s Perspective"
-  post-date: 2022-08-22
-  exp-date: 2022-08-23
+  post-date: 2022-08-29
+  exp-date: 2022-08-30
   fawe: "fas fa-comment"
   tags: "event"
   time: "12 PM"
-  description: "Tune in today as we come together for a talk on 'A Young Man’s Perspective – Anthony Mensah'"
+  description: "Tune in today as we come together for a talk on 'A Young Man’s Perspective' with Anthony Mensah."
   zoomid: 89415895742
   zoompw: 636489

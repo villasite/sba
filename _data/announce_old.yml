@@ -1,3 +1,114 @@
+- title: "Twenty-second Sunday in Ordinary Time"
+  post-date: 2022-08-28
+  exp-date: 2022-08-29
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "9 AM"
+  description: "Join us in person for Sunday Mass."
+
+- title: "Twenty-second Sunday in Ordinary Time"
+  post-date: 2022-08-28
+  exp-date: 2022-08-29
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "11 AM"
+  description: "Join us in person or online for Sunday Mass."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
+- title: "Hush Harbor"
+  post-date: 2022-08-27
+  exp-date: 2022-08-28
+  fawe: "fas fa-hands"
+  tags: ["event", "music"]
+  label: "Music"
+  txt: "music"
+  time: "11 AM"
+  description: "Our Hush Harbor series features spirituals and speeches from the past that speak loudly today. In Antebellum America, a hush harbor was a place where the enslaved Africans would gather in secret to practice religious traditions."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
+- title: "Vigil Mass"
+  post-date: 2022-08-27
+  exp-date: 2022-08-28
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "4 PM"
+  description: "Join us in person for today's vigil Mass."
+
+- title: "Friday Goodness"
+  post-date: 2022-08-26
+  exp-date: 2022-08-27
+  fawe: "fas fa-star"
+  tags: "event"
+  time: "12 PM"
+  description: "Tune in for Friday Goodness where we highlight local entrepreneurs and organizations in the Englewood and Chicago area."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "What is the Catholic Church to the neighborhood?"
+  post-date: 2022-08-25
+  exp-date: 2022-08-26
+  fawe: "fas fa-place-of-worship"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us for this hour of conversation on 'What is the Catholic Church to the neighborhood?'"
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Praying with the Mother of God"
+  post-date: 2022-08-25
+  exp-date: 2022-08-26
+  fawe: "fas fa-pray"
+  tags: "event"
+  time: "2 PM"
+  description: "Pray in community the Rosary every Thursday at 2pm Central Time."
+  zoomid: 9796818222
+  zoompw: 424181
+
+- title: "Fr. Lee’s writing"
+  post-date: 2022-08-24
+  exp-date: 2022-08-25
+  fawe: "fas fa-pen"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us for this hour of conversation with Fr. Roy Lee."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Truth on a Tuesday"
+  post-date: 2022-08-23
+  exp-date: 2022-08-24
+  fawe: "fas fa-globe-africa"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us today for a conversation with Rev. McCay."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Twenty-first Sunday in Ordinary Time"
+  post-date: 2022-08-21
+  exp-date: 2022-08-23
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "11 AM"
+  description: "Join us in person or online for Sunday Mass."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
+- title: "A Young Man’s Perspective"
+  post-date: 2022-08-22
+  exp-date: 2022-08-23
+  fawe: "fas fa-comment"
+  tags: "event"
+  time: "12 PM"
+  description: "Tune in today as we come together for a talk on 'A Young Man’s Perspective – Anthony Mensah'"
+  zoomid: 89415895742
+  zoompw: 636489
+
 - title: "Twenty-first Sunday in Ordinary Time"
   post-date: 2022-08-21
   exp-date: 2022-08-22
