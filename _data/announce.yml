@@ -1,14 +1,14 @@
-- title: "Twenty-fifth Sunday in Ordinary Time"
-  post-date: 2022-09-18
-  exp-date: 2022-09-19
+- title: "Twenty-sixth Sunday in Ordinary Time"
+  post-date: 2022-09-25
+  exp-date: 2022-09-26
   fawe: "fas fa-church"
   tags: "event"
   time: "9 AM"
   description: "Join us in person for Sunday Mass."
 
-- title: "Twenty-fifth Sunday in Ordinary Time"
-  post-date: 2022-09-18
-  exp-date: 2022-09-19
+- title: "Twenty-sixth Sunday in Ordinary Time"
+  post-date: 2022-09-25
+  exp-date: 2022-09-26
   fawe: "fas fa-church"
   tags: "event"
   time: "11 AM"
@@ -18,8 +18,8 @@
   fb: "Yes"
 
 - title: "Hush Harbor"
-  post-date: 2022-09-17
-  exp-date: 2022-09-18
+  post-date: 2022-09-24
+  exp-date: 2022-09-25
   fawe: "fas fa-hands"
   tags: ["event", "music"]
   label: "Music"
@@ -31,16 +31,16 @@
   fb: "Yes"
 
 - title: "Vigil Mass"
-  post-date: 2022-09-17
-  exp-date: 2022-09-18
+  post-date: 2022-09-24
+  exp-date: 2022-09-25
   fawe: "fas fa-church"
   tags: "event"
   time: "4 PM"
   description: "Join us in person for today's vigil Mass."
 
 - title: "Friday Goodness"
-  post-date: 2022-09-16
-  exp-date: 2022-09-17
+  post-date: 2022-09-23
+  exp-date: 2022-09-24
   fawe: "fas fa-star"
   tags: "event"
   time: "12 PM"
@@ -48,19 +48,19 @@
   zoomid: 89415895742
   zoompw: 636489
 
-- title: "SBA News with E. Varner"
-  post-date: 2022-09-15
-  exp-date: 2022-09-16
-  fawe: "fas fa-newspaper"
+- title: "Our Work Now – young men talking to church ladies"
+  post-date: 2022-09-22
+  exp-date: 2022-09-23
+  fawe: "fas fa-place-of-worship"
   tags: "event"
   time: "12 PM"
-  description: "Join us for this hour of Good Counsel Day with E. Varner and friends of the church."
+  description: "Join us for this hour on 'Our Work Now – young men talking to church ladies.'"
   zoomid: 89415895742
   zoompw: 636489
 
 - title: "Praying with the Mother of God"
-  post-date: 2022-09-15
-  exp-date: 2022-09-16
+  post-date: 2022-09-22
+  exp-date: 2022-09-23
   fawe: "fas fa-pray"
   tags: "event"
   time: "2 PM"
@@ -69,8 +69,8 @@
   zoompw: 424181
 
 - title: "Thinking Out Loud with Fr. Lee"
-  post-date: 2022-09-14
-  exp-date: 2022-09-15
+  post-date: 2022-09-21
+  exp-date: 2022-09-22
   fawe: "fas fa-comment"
   tags: "event"
   time: "12 PM"
@@ -79,8 +79,8 @@
   zoompw: 636489
 
 - title: "Mapping the Truth with Rev. McCay"
-  post-date: 2022-09-13
-  exp-date: 2022-09-14
+  post-date: 2022-09-20
+  exp-date: 2022-09-21
   fawe: "fas fa-globe-africa"
   tags: "event"
   time: "12 PM"
@@ -88,20 +88,23 @@
   zoomid: 89415895742
   zoompw: 636489
 
-- title: "Twenty-fourth Sunday in Ordinary Time"
-  post-date: 2022-09-11
-  exp-date: 2022-09-13
+- title: "Twenty-fifth Sunday in Ordinary Time"
+  post-date: 2022-09-18
+  exp-date: 2022-09-20
   fawe: "fas fa-church"
   tags: "event"
-  time: "9 AM"
-  description: "Join us in person for Sunday Mass."
+  time: "11 AM"
+  description: "Join us in person or online for Sunday Mass."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
 
 - title: "Group Discussion"
-  post-date: 2022-09-12
-  exp-date: 2022-09-13
+  post-date: 2022-09-19
+  exp-date: 2022-09-20
   fawe: "fas fa-users"
   tags: "event"
   time: "12 PM"
-  description: "Tune in today as we come together for 'Group Discussion: Any thoughts on Blacks and the Royals?'"
+  description: "Tune in today as we come together for 'Group Discussion: Hush Harbor, Homily & Liturgy take aways'"
   zoomid: 89415895742
   zoompw: 636489
