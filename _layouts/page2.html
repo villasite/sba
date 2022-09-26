@@ -19,17 +19,12 @@
 <section class="no-padding"></section>
 {% endif %}
 
-  <div class="container">
-    <div class="panel-body">
-      {{ content }}
-    </div>
-  </div>
+{{ content }}
 
 {% unless page.title == "Contribute" %}
   {% include donate.html %}
 {% endunless %}
 
-  {% include ig-banner.html %}
   {% include contact.html %}
   {% include scripts.html %}
 </body>

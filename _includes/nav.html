@@ -1,34 +1,26 @@
-<nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
+<nav id="mainNav" class="navbar navbar-expand-lg fixed-top bg-light">
     <div class="container-fluid">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-			<a class="navbar-brand page-scroll" href="{{site.url}}">St. Benedict the African</a>
-        </div>
+		<a class="navbar-brand page-scroll text-uppercase" href="{{site.url}}">St. Benedict the African</a>
+		<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler1" aria-controls="navbarToggler1" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
 
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-right">
-                <li>
-                    <a href="{{site.baseurl}}/about" class="page-scroll">About</a>
+
+        <div class="collapse navbar-collapse" id="navbarToggler1">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link" href="{{site.baseurl}}/about" class="page-scroll">About</a>
                 </li>
-                <li>
-                    <a href="{{site.baseurl}}/announcement" class="page-scroll">Announcements</a>
+                <li class="nav-item">
+                    <a class="nav-link" href="{{site.baseurl}}/announcement" class="page-scroll">Announcements</a>
                 </li>
-                <li>
-                    <a href="{{site.baseurl}}/englewood" class="page-scroll">Englewood</a>
+                <li class="nav-item">
+                    <a class="nav-link" href="{{site.baseurl}}/englewood" class="page-scroll">Englewood</a>
                 </li>
-				<li class="bg-primary">
-                    <a href="{{site.baseurl}}/contribute" class="page-scroll">Contribute</a>
+				<li class="nav-item text-danger">
+                    <a class="nav-link" href="{{site.baseurl}}/contribute" class="page-scroll">Contribute</a>
                 </li>
             </ul>
         </div>
-        <!-- /.navbar-collapse -->
     </div>
-    <!-- /.container-fluid -->
 </nav>
