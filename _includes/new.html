@@ -7,25 +7,16 @@
 
 	{% assign data = site.data.announce | sort: 'exp-date' %}
 	{% capture now %}{{'now' | date: '%s'}}{% endcapture %}
-	{% for entry in data offset:1 limit:4 %}
+	{% for entry in data offset:2 limit:4 %}
 		{% capture date %}{{entry.exp-date | date: '%s' | plus: 0 }}{% endcapture %}
 		{% if date > now %}
-			<div class="col-lg-3 col-sm-12 text-center">
-				<div class="service-box">
-					<a href="{{site.baseurl}}/announcement#{{ entry.title }}" class="text-decoration-none">
-					<div class="col-md-6 px-0">
-						<i class="fa {{ entry.fawe }} fa-5x wow flipInX" data-wow-duration="5s" data-wow-iteration="10"></i>
-						<h4>{{ entry.title }}</h4>
-					</div>
-					</a>
-				</div>
+			<div class="col-lg-3 col-sm-12 text-center p-3 mb-1">
+					<i class="fa {{ entry.fawe }} fa-5x wow flipInX" data-wow-duration="5s" data-wow-iteration="10"></i>
+					<h4>{{ entry.title }}</h4>
 			</div>
 		{% endif %}
 	{% endfor %}
-	</div>
-
-	<div class="row text-center my-3">
-		<div class="col">
+		<div class="col-12 text-center">
 			<a href="{{site.baseurl}}/announcement" role="button" class="btn btn-primary wow tada">Read More</a>
 		</div>
 	</div>
@@ -36,8 +27,9 @@
 		<div class="col-12 text-center">
 			<h2>Zoom Info</h2>
             <hr class="light mx-auto">
+			<p>For most Zoom session led by St. Benedict the African you will need the following information. External and special Zoom events will require different login information. Please refer to the event's instruction for guidance.</p>
 			<p>
-				<b>JOIN NOW: <a href="https://bit.ly/SBAChicago" class="text-decoration-none" target="_blank">https://bit.ly/SBAChicago</a></b>
+				<b>Link: <a href="https://bit.ly/SBAChicago" class="text-decoration-none" target="_blank">https://bit.ly/SBAChicago</a></b>
 				<br>
 				<b>Meeting ID: 894 1589 5742</b>
 				<br>
