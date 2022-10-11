@@ -1,14 +1,14 @@
-- title: "Twenty-eighth Sunday in Ordinary Time"
-  post-date: 2022-10-09
-  exp-date: 2022-10-10
+- title: "Twenty-ninth Sunday in Ordinary Time"
+  post-date: 2022-10-16
+  exp-date: 2022-10-17
   fawe: "fas fa-church"
   tags: "event"
   time: "9 AM"
   description: "Join us in person for Sunday Mass."
 
-- title: "Twenty-eighth Sunday in Ordinary Time"
-  post-date: 2022-10-09
-  exp-date: 2022-10-10
+- title: "Twenty-ninth Sunday in Ordinary Time"
+  post-date: 2022-10-16
+  exp-date: 2022-10-17
   fawe: "fas fa-church"
   tags: "event"
   time: "11 AM"
@@ -18,8 +18,8 @@
   fb: "Yes"
 
 - title: "Hush Harbor"
-  post-date: 2022-10-08
-  exp-date: 2022-10-09
+  post-date: 2022-10-15
+  exp-date: 2022-10-16
   fawe: "fas fa-hands"
   tags: ["event", "music"]
   label: "Music"
@@ -30,9 +30,17 @@
   zoompw: 636489
   fb: "Yes"
 
+- title: "Vigil Mass"
+  post-date: 2022-10-15
+  exp-date: 2022-10-16
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "4 PM"
+  description: "Join us in person for today's vigil Mass."
+
 - title: "Friday Goodness"
-  post-date: 2022-10-07
-  exp-date: 2022-10-08
+  post-date: 2022-10-14
+  exp-date: 2022-10-15
   fawe: "fas fa-star"
   label: "Englewood"
   txt: "englewood"
@@ -40,19 +48,19 @@
   time: "12 PM"
   description: "We'll be coming together in person for today's Friday Goodness."
 
-- title: "How should we invite BASA school parents to SBA?"
-  post-date: 2022-10-06
-  exp-date: 2022-10-07
-  fawe: "fas fa-school"
+- title: "The Mission of the Garden Sales"
+  post-date: 2022-10-13
+  exp-date: 2022-10-14
+  fawe: "fas fa-leaf"
   tags: "event"
   time: "12 PM"
-  description: "Join us for this hour on 'Our Work Now – young men talking to church ladies.'"
+  description: "Join us for this hour on 'The Mission of the Garden Sales.'"
   zoomid: 89415895742
   zoompw: 636489
 
 - title: "Praying with the Mother of God"
-  post-date: 2022-10-06
-  exp-date: 2022-10-07
+  post-date: 2022-10-13
+  exp-date: 2022-10-14
   fawe: "fas fa-pray"
   tags: "event"
   time: "2 PM"
@@ -60,9 +68,9 @@
   zoomid: 9796818222
   zoompw: 424181
 
-- title: "Thinking Out Loud with Fr. Lee"
-  post-date: 2022-10-05
-  exp-date: 2022-10-06
+- title: "Riding with Fr. Lee"
+  post-date: 2022-10-12
+  exp-date: 2022-10-13
   fawe: "fas fa-comment"
   tags: "event"
   time: "12 PM"
@@ -70,17 +78,17 @@
   zoomid: 89415895742
   zoompw: 636489
 
-- title: "Twenty-seventh Sunday in Ordinary Time"
-  post-date: 2022-10-02
-  exp-date: 2022-10-05
+- title: "Twenty-eighth Sunday in Ordinary Time"
+  post-date: 2022-10-09
+  exp-date: 2022-10-12
   fawe: "fas fa-church"
   tags: "event"
   time: "9 AM"
   description: "Join us in person for Sunday Mass."
 
-- title: "Twenty-seventh Sunday in Ordinary Time"
-  post-date: 2022-10-02
-  exp-date: 2022-10-05
+- title: "Twenty-eighth Sunday in Ordinary Time"
+  post-date: 2022-10-09
+  exp-date: 2022-10-12
   fawe: "fas fa-church"
   tags: "event"
   time: "11 AM"
@@ -90,8 +98,8 @@
   fb: "Yes"
 
 - title: "Habari Gani?"
-  post-date: 2022-10-03
-  exp-date: 2022-10-05
+  post-date: 2022-10-10
+  exp-date: 2022-10-12
   fawe: "fas fa-newspaper"
   tags: "event"
   time: "12 PM"
@@ -99,9 +107,9 @@
   zoomid: 89415895742
   zoompw: 636489
 
-- title: "Mapping the Truth with Rev. McCay"
-  post-date: 2022-10-04
-  exp-date: 2022-10-05
+- title: "Mapping Out the Truth with Rev. McCay"
+  post-date: 2022-10-11
+  exp-date: 2022-10-12
   fawe: "fas fa-globe-africa"
   tags: "event"
   time: "12 PM"
