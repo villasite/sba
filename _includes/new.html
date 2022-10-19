@@ -5,7 +5,7 @@
             <hr class="mx-auto">
 		</div>
 
-	{% assign data = site.data.announce | sort: 'exp-date' %}
+	{% assign data = site.data.announce | sort: 'post-date' %}
 	{% capture now %}{{'now' | date: '%s'}}{% endcapture %}
 	{% for entry in data offset:2 limit:4 %}
 		{% capture date %}{{entry.exp-date | date: '%s' | plus: 0 }}{% endcapture %}
