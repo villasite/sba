@@ -1,14 +1,14 @@
-- title: "Thirtieth Sunday in Ordinary Time"
-  post-date: 2022-10-23
-  exp-date: 2022-10-24
+- title: "Thirty-first Sunday in Ordinary Time"
+  post-date: 2022-10-30
+  exp-date: 2022-10-31
   fawe: "fas fa-church"
   tags: "event"
   time: "9 AM"
   description: "Join us in person for Sunday Mass."
 
-- title: "Thirtieth Sunday in Ordinary Time"
-  post-date: 2022-10-23
-  exp-date: 2022-10-24
+- title: "Thirty-first Sunday in Ordinary Time"
+  post-date: 2022-10-30
+  exp-date: 2022-10-31
   fawe: "fas fa-church"
   tags: "event"
   time: "11 AM"
@@ -18,8 +18,8 @@
   fb: "Yes"
 
 - title: "Hush Harbor"
-  post-date: 2022-10-22
-  exp-date: 2022-10-24
+  post-date: 2022-10-29
+  exp-date: 2022-10-31
   fawe: "fas fa-hands"
   tags: ["event", "music"]
   label: "Music"
@@ -31,16 +31,16 @@
   fb: "Yes"
 
 - title: "Vigil Mass"
-  post-date: 2022-10-22
-  exp-date: 2022-10-24
+  post-date: 2022-10-29
+  exp-date: 2022-10-31
   fawe: "fas fa-church"
   tags: "event"
   time: "4 PM"
   description: "Join us in person for today's vigil Mass."
 
 - title: "Friday Goodness"
-  post-date: 2022-10-21
-  exp-date: 2022-10-24
+  post-date: 2022-10-28
+  exp-date: 2022-10-31
   fawe: "fas fa-star"
   label: "Englewood"
   txt: "englewood"
@@ -49,8 +49,8 @@
   description: "We'll be coming together in person for today's Friday Goodness."
 
 - title: "Calling up the Spirit – Fr. Tom Jackson, OP"
-  post-date: 2022-10-20
-  exp-date: 2022-10-24
+  post-date: 2022-10-27
+  exp-date: 2022-10-31
   fawe: "fas fa-cross"
   tags: "event"
   time: "12 PM"
@@ -59,8 +59,8 @@
   zoompw: 636489
 
 - title: "Praying with the Mother of God"
-  post-date: 2022-10-20
-  exp-date: 2022-10-24
+  post-date: 2022-10-27
+  exp-date: 2022-10-31
   fawe: "fas fa-pray"
   tags: "event"
   time: "2 PM"
@@ -69,8 +69,8 @@
   zoompw: 424181
 
 - title: "Thinking Out Loud with Fr. Lee"
-  post-date: 2022-10-19
-  exp-date: 2022-10-24
+  post-date: 2022-10-26
+  exp-date: 2022-10-31
   fawe: "fas fa-comment"
   tags: "event"
   time: "12 PM"
@@ -79,8 +79,8 @@
   zoompw: 636489
 
 - title: "Mapping the Truth with Rev. McCay"
-  post-date: 2022-10-18
-  exp-date: 2022-10-24
+  post-date: 2022-10-25
+  exp-date: 2022-10-31
   fawe: "fas fa-globe-africa"
   tags: "event"
   time: "12 PM"
@@ -88,17 +88,27 @@
   zoomid: 89415895742
   zoompw: 636489
 
-- title: "Twenty-ninth Sunday in Ordinary Time"
-  post-date: 2022-10-16
-  exp-date: 2022-10-24
+- title: "November at SBA"
+  post-date: 2022-10-24
+  exp-date: 2022-10-31
+  fawe: "fas fa-calendar"
+  tags: "event"
+  time: "12 PM"
+  description: "Tune in today as we come together for a group discussion today on November at SBA."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Thirtieth Sunday in Ordinary Time"
+  post-date: 2022-10-23
+  exp-date: 2022-10-31
   fawe: "fas fa-church"
   tags: "event"
   time: "9 AM"
   description: "Join us in person for Sunday Mass."
 
-- title: "Twenty-ninth Sunday in Ordinary Time"
-  post-date: 2022-10-16
-  exp-date: 2022-10-24
+- title: "Thirtieth Sunday in Ordinary Time"
+  post-date: 2022-10-23
+  exp-date: 2022-10-31
   fawe: "fas fa-church"
   tags: "event"
   time: "11 AM"
