@@ -85,8 +85,6 @@
   tags: "event"
   time: "5:30 PM"
   description: "Gather as community for this evening prayer for All Souls Day."
-  zoomid: 89415895742
-  zoompw: 636489
 
 - title: "All Saints Day Mass"
   post-date: 2022-11-01
@@ -94,10 +92,7 @@
   fawe: "fas fa-church"
   tags: "event"
   time: "9 AM"
-  description: "Join us in person or online for All Saints Day Mass."
-  zoomid: 89415895742
-  zoompw: 636489
-  fb: "Yes"
+  description: "Join us in person for All Saints Day Mass."
 
 - title: "Mapping the Truth with Rev. McCay"
   post-date: 2022-11-01
