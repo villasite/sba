@@ -1,14 +1,6 @@
-- title: "Second Sunday of Advent"
-  post-date: 2022-12-04
-  exp-date: 2022-12-06
-  fawe: "fas fa-church"
-  tags: "event"
-  time: "9 AM"
-  description: "Join us in person for Sunday Mass."
-
-- title: "Second Sunday of Advent"
-  post-date: 2022-12-04
-  exp-date: 2022-12-06
+- title: "Third Sunday of Advent"
+  post-date: 2022-12-11
+  exp-date: 2022-12-13
   fawe: "fas fa-church"
   tags: "event"
   time: "11 AM"
@@ -18,8 +10,8 @@
   fb: "Yes"
 
 - title: "Friday Goodness"
-  post-date: 2022-12-02
-  exp-date: 2022-12-06
+  post-date: 2022-12-09
+  exp-date: 2022-12-13
   fawe: "fas fa-star"
   label: "Englewood"
   txt: "englewood"
@@ -27,29 +19,29 @@
   time: "12 PM"
   description: "We'll be coming together in person for today's Friday Goodness."
 
-- title: "The Ministry of Fr. Tom Jackson, OP"
-  post-date: 2022-12-01
-  exp-date: 2022-12-06
-  fawe: "fas fa-cross"
+- title: "Spiritually yours, Fr. Tom"
+  post-date: 2022-12-08
+  exp-date: 2022-12-13
+  fawe: "fas fa-hand-holding-heart"
   tags: "event"
   time: "12 PM"
-  description: "Join us today for a conversation on The Ministry of Fr. Tom Jackson, OP."
+  description: "Join us today for this session led by Fr. Tom Jackson, OP."
   zoomid: 89415895742
   zoompw: 636489
 
-- title: "Meeting the Franciscans with Bro. Phil - A welcome to SBA!"
-  post-date: 2022-11-30
-  exp-date: 2022-12-06
+- title: "Onboarding Bro. Phil"
+  post-date: 2022-12-07
+  exp-date: 2022-12-13
   fawe: "fas fa-hands-helping"
   tags: "event"
   time: "12 PM"
-  description: "Join us for this hour of conversation on 'Meeting the Franciscans with Bro. Phil - A welcome to SBA!'"
+  description: "Join us for this session on 'Onboarding Bro. Phil'"
   zoomid: 89415895742
   zoompw: 636489
 
-- title: "Mapping the Truth with Rev. McCay"
-  post-date: 2022-11-29
-  exp-date: 2022-12-06
+- title: "Mapping with McCay"
+  post-date: 2022-12-06
+  exp-date: 2022-12-13
   fawe: "fas fa-globe-africa"
   tags: "event"
   time: "12 PM"
@@ -57,27 +49,27 @@
   zoomid: 89415895742
   zoompw: 636489
 
-- title: "The Season of Advent – A Conversation on Advent with Fr. David and Fr. Lee"
-  post-date: 2022-11-28
-  exp-date: 2022-12-06
-  fawe: "fas fa-comment"
+- title: "Fr Lee on Mission"
+  post-date: 2022-12-05
+  exp-date: 2022-12-13
+  fawe: "fas fa-cross"
   tags: "event"
   time: "12 PM"
-  description: "Tune in today as we come together for a conversation on Advent with Fr. David and Fr. Lee."
+  description: "Tune in today as we come together for a conversation led by Fr. Lee."
   zoomid: 89415895742
   zoompw: 636489
 
-- title: "First Sunday of Advent"
-  post-date: 2022-11-27
-  exp-date: 2022-12-06
+- title: "Second Sunday of Advent"
+  post-date: 2022-12-04
+  exp-date: 2022-12-13
   fawe: "fas fa-church"
   tags: "event"
   time: "9 AM"
   description: "Join us in person for Sunday Mass."
 
-- title: "First Sunday of Advent"
-  post-date: 2022-11-27
-  exp-date: 2022-12-06
+- title: "Second Sunday of Advent"
+  post-date: 2022-12-04
+  exp-date: 2022-12-13
   fawe: "fas fa-church"
   tags: "event"
   time: "11 AM"
