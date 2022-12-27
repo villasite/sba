@@ -1,3 +1,85 @@
+- title: "Christmas Mass"
+  post-date: 2022-12-25
+  exp-date: 2022-12-27
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "11 AM"
+  description: "Join us in person or online for Sunday Mass."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
+- title: " Friday Goodness – What’s Next?"
+  post-date: 2022-12-23
+  exp-date: 2022-12-27
+  fawe: "fas fa-star"
+  label: "Englewood"
+  txt: "englewood"
+  tags: "event"
+  time: "12 PM"
+  description: "Please join in thanking Susan for coordinating our Friday look at Englewood and entrepreneurship for a long run! We’ve met and hopefully introduced many stellar people and ideas. What are your thoughts, wishes and dreams for how we might use our Friday slot moving forward."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "The Ministry of Fr. Tom Jackson, OP"
+  post-date: 2022-12-22
+  exp-date: 2022-12-27
+  fawe: "fas fa-hand-holding-heart"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us today for this session led by Fr. Tom Jackson, OP."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Writing with Fr. Lee"
+  post-date: 2022-12-21
+  exp-date: 2022-12-27
+  fawe: "fas fa-comment"
+  tags: "event"
+  time: "12 PM"
+  description: "Tune in today as we come together for a conversation led by Fr. Roy Lee."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Mapping the Truth with Rev. McCay"
+  post-date: 2022-12-20
+  exp-date: 2022-12-27
+  fawe: "fas fa-globe-africa"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us today for a conversation with Rev. Cedric McCay."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "The Onboarding with Brother Phil"
+  post-date: 2022-12-19
+  exp-date: 2022-12-27
+  fawe: "fas fa-hands-helping"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us for this session led by Brother Phil."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Fourth Sunday of Advent"
+  post-date: 2022-12-18
+  exp-date: 2022-12-27
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "9 AM"
+  description: "Join us in person for Sunday Mass."
+
+- title: "Fourth Sunday of Advent"
+  post-date: 2022-12-18
+  exp-date: 2022-12-27
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "11 AM"
+  description: "Join us in person or online for Sunday Mass."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
 - title: "Fourth Sunday of Advent"
   post-date: 2022-12-18
   exp-date: 2022-12-20
