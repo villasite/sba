@@ -1,27 +1,17 @@
 - title: "Sunday Mass"
-  post-date: 2023-01-01
-  exp-date: 2023-01-03
+  post-date: 2023-01-08
+  exp-date: 2023-01-10
   fawe: "fas fa-church"
   tags: "event"
-  time: "9 AM"
+  time: "10 AM"
   description: "Join us in person or online for Sunday Mass."
   zoomid: 89415895742
   zoompw: 636489
   fb: "Yes"
 
-- title: "Ministry with Fr. Tom"
-  post-date: 2022-12-29
-  exp-date: 2023-01-03
-  fawe: "fas fa-hand-holding-heart"
-  tags: "event"
-  time: "12 PM"
-  description: "Join us today for this session led by Fr. Tom Jackson, OP."
-  zoomid: 89415895742
-  zoompw: 636489
-
 - title: "Writing with Fr. Lee"
-  post-date: 2022-12-28
-  exp-date: 2023-01-03
+  post-date: 2023-01-04
+  exp-date: 2023-01-10
   fawe: "fas fa-comment"
   tags: "event"
   time: "12 PM"
@@ -29,32 +19,32 @@
   zoomid: 89415895742
   zoompw: 636489
 
-- title: "Mapping the Truth with Rev. McCay"
-  post-date: 2022-12-27
-  exp-date: 2023-01-03
+- title: "Mapping with Rev. McCay"
+  post-date: 2023-01-03
+  exp-date: 2023-01-10
   fawe: "fas fa-globe-africa"
   tags: "event"
   time: "12 PM"
-  description: "Join us today for a conversation with Rev. Cedric McCay."
+  description: "Join us today for a session with Rev. Cedric McCay."
   zoomid: 89415895742
   zoompw: 636489
 
-- title: "What do we know about Franciscans?"
-  post-date: 2022-12-26
-  exp-date: 2023-01-03
+- title: "Check In"
+  post-date: 2023-01-02
+  exp-date: 2023-01-10
   fawe: "fas fa-hands-helping"
   tags: "event"
   time: "12 PM"
-  description: "Join us for this session led by Brother Phil."
+  description: "Join us today as we gather together to check in."
   zoomid: 89415895742
   zoompw: 636489
 
-- title: "Christmas Mass"
-  post-date: 2022-12-25
-  exp-date: 2023-01-03
+- title: "Sunday Mass"
+  post-date: 2023-01-01
+  exp-date: 2023-01-10
   fawe: "fas fa-church"
   tags: "event"
-  time: "11 AM"
+  time: "9 AM"
   description: "Join us in person or online for Sunday Mass."
   zoomid: 89415895742
   zoompw: 636489
