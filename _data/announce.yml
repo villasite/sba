@@ -1,6 +1,87 @@
 - title: "Sunday Mass"
+  post-date: 2023-01-22
+  exp-date: 2023-01-24
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "9 AM"
+  description: "Join us in person for Sunday Mass."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Sunday Mass"
+  post-date: 2023-01-22
+  exp-date: 2023-01-24
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "11 AM"
+  description: "Join us in person or online for Sunday Mass."
+  zoomid: 89415895742
+  zoompw: 636489
+  fb: "Yes"
+
+- title: "Pray for the return of Hush Harbor"
+  post-date: 2023-01-21
+  exp-date: 2023-01-24
+  fawe: "fas fa-hands"
+  tags: "event"
+  time: "12 PM"
+  description: "Let's pray for the return of Hush Harbor."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Church vs community with Fr. Lee"
+  post-date: 2023-01-20
+  exp-date: 2023-01-24
+  fawe: "fas fa-place-of-worship"
+  tags: "event"
+  time: "12 PM"
+  description: "Tune in today as we come together for a conversation led by Fr. Roy Lee."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Inviting People to Zoom at SBA"
+  post-date: 2023-01-19
+  exp-date: 2023-01-24
+  fawe: "fas fa-envelope-open-text"
+  tags: "event"
+  time: "12 PM"
+  description: "Today's session will be on inviting people to Zoom at SBA."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Writing with Fr. Lee"
+  post-date: 2023-01-18
+  exp-date: 2023-01-24
+  fawe: "fas fa-comment"
+  tags: "event"
+  time: "12 PM"
+  description: "Tune in today as we come together for a conversation led by Fr. Roy Lee."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Mapping with Rev. McCay"
+  post-date: 2023-01-17
+  exp-date: 2023-01-24
+  fawe: "fas fa-globe-africa"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us today for a session with Rev. Cedric McCay."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Share your Civil Rights Movement story"
+  post-date: 2023-01-16
+  exp-date: 2023-01-24
+  fawe: "fas fa-fist-raised"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us today as we gather together to share your Civil Rights Movement story."
+  zoomid: 89415895742
+  zoompw: 636489
+
+- title: "Sunday Mass"
   post-date: 2023-01-15
-  exp-date: 2023-01-17
+  exp-date: 2023-01-24
   fawe: "fas fa-church"
   tags: "event"
   time: "9 AM"
@@ -10,71 +91,10 @@
 
 - title: "Sunday Mass"
   post-date: 2023-01-15
-  exp-date: 2023-01-17
+  exp-date: 2023-01-24
   fawe: "fas fa-church"
   tags: "event"
   time: "11 AM"
-  description: "Join us in person or online for Sunday Mass."
-  zoomid: 89415895742
-  zoompw: 636489
-  fb: "Yes"
-
-- title: "Being Church in Englewood with Fr. Lee"
-  post-date: 2023-01-13
-  exp-date: 2023-01-17
-  fawe: "fas fa-place-of-worship"
-  tags: "event"
-  time: "12 PM"
-  description: "Tune in today as we come together for a conversation led by Fr. Roy Lee."
-  zoomid: 89415895742
-  zoompw: 636489
-
-- title: "Black History Month at SBA with Fr. Lee"
-  post-date: 2023-01-12
-  exp-date: 2023-01-17
-  fawe: "fas fa-calendar"
-  tags: "event"
-  time: "12 PM"
-  description: "Tune in today as we come together for a conversation led by Fr. Roy Lee."
-  zoomid: 89415895742
-  zoompw: 636489
-
-- title: "Writing with Fr. Lee"
-  post-date: 2023-01-11
-  exp-date: 2023-01-17
-  fawe: "fas fa-comment"
-  tags: "event"
-  time: "12 PM"
-  description: "Tune in today as we come together for a conversation led by Fr. Roy Lee."
-  zoomid: 89415895742
-  zoompw: 636489
-
-- title: "Mapping the Truth with Rev. McCay"
-  post-date: 2023-01-10
-  exp-date: 2023-01-17
-  fawe: "fas fa-globe-africa"
-  tags: "event"
-  time: "12 PM"
-  description: "Join us today for a session with Rev. Cedric McCay."
-  zoomid: 89415895742
-  zoompw: 636489
-
-- title: "Monday Review and Check In"
-  post-date: 2023-01-09
-  exp-date: 2023-01-17
-  fawe: "fas fa-hands-helping"
-  tags: "event"
-  time: "12 PM"
-  description: "Join us today as we gather together to check in."
-  zoomid: 89415895742
-  zoompw: 636489
-
-- title: "Sunday Mass"
-  post-date: 2023-01-08
-  exp-date: 2023-01-17
-  fawe: "fas fa-church"
-  tags: "event"
-  time: "10 AM"
   description: "Join us in person or online for Sunday Mass."
   zoomid: 89415895742
   zoompw: 636489
