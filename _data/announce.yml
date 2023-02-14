@@ -1,14 +1,14 @@
 - title: "Sunday Mass"
-  post-date: 2023-02-12
-  exp-date: 2023-02-14
+  post-date: 2023-02-19
+  exp-date: 2023-02-21
   fawe: "fas fa-church"
   tags: "event"
   time: "9 AM"
   description: "Join us in person for Sunday Mass."
 
 - title: "Sunday Mass"
-  post-date: 2023-02-12
-  exp-date: 2023-02-14
+  post-date: 2023-02-19
+  exp-date: 2023-02-21
   fawe: "fas fa-church"
   tags: "event"
   time: "11 AM"
@@ -17,19 +17,9 @@
   zoompw: 722722
   fb: "Yes"
 
-- title: "How are we doing in the neighborhood?"
-  post-date: 2023-02-10
-  exp-date: 2023-02-14
-  fawe: "fas fa-place-of-worship"
-  tags: "event"
-  time: "12 PM"
-  description: "Tune in today as we come together to talk about 'How are we doing in the neighborhood?'"
-  zoomid: 86894110061
-  zoompw: 722722
-
-- title: "Catch the Spirit with Fr. Tom Jackson OP"
-  post-date: 2023-02-09
-  exp-date: 2023-02-14
+- title: "Catch the Spirit with Fr. Tom"
+  post-date: 2023-02-16
+  exp-date: 2023-02-21
   fawe: "fas fa-hand-holding-heart"
   tags: "event"
   time: "12 PM"
@@ -38,18 +28,18 @@
   zoompw: 722722
 
 - title: "Praying with the Mother of God"
-  post-date: 2023-02-09
-  exp-date: 2023-02-14
+  post-date: 2023-02-16
+  exp-date: 2023-02-21
   fawe: "fas fa-pray"
   tags: "event"
   time: "2 PM"
   description: "Pray in community the Rosary every Thursday at 2pm Central Time."
-  zoomid: 86894110061
-  zoompw: 722722
+  zoomid: 9796818222
+  zoompw: 424181
 
 - title: "Writing with Fr. Lee"
-  post-date: 2023-02-08
-  exp-date: 2023-02-14
+  post-date: 2023-02-15
+  exp-date: 2023-02-21
   fawe: "fas fa-comment"
   tags: "event"
   time: "12 PM"
@@ -58,8 +48,8 @@
   zoompw: 722722
 
 - title: "Mapping with Rev. McCay"
-  post-date: 2023-02-07
-  exp-date: 2023-02-14
+  post-date: 2023-02-14
+  exp-date: 2023-02-21
   fawe: "fas fa-globe-africa"
   tags: "event"
   time: "12 PM"
@@ -67,29 +57,17 @@
   zoomid: 86894110061
   zoompw: 722722
 
-- title: "Check In"
-  post-date: 2023-02-06
-  exp-date: 2023-02-14
-  fawe: "fas fa-hands-helping"
-  tags: "event"
-  time: "12 PM"
-  description: "Join us today as we gather together to talk about 'What do you need in the parish bulletin.'"
-  zoomid: 86894110061
-  zoompw: 722722
-
 - title: "Sunday Mass"
-  post-date: 2023-02-05
-  exp-date: 2023-02-14
+  post-date: 2023-02-12
+  exp-date: 2023-02-21
   fawe: "fas fa-church"
   tags: "event"
   time: "9 AM"
   description: "Join us in person for Sunday Mass."
-  zoomid: 86894110061
-  zoompw: 722722
 
 - title: "Sunday Mass"
-  post-date: 2023-02-05
-  exp-date: 2023-02-14
+  post-date: 2023-02-12
+  exp-date: 2023-02-21
   fawe: "fas fa-church"
   tags: "event"
   time: "11 AM"
