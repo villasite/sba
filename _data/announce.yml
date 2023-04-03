@@ -1,6 +1,6 @@
-- title: "Sunday Mass"
-  post-date: 2023-04-02
-  exp-date: 2023-04-04
+- title: "Easter Sunday"
+  post-date: 2023-04-09
+  exp-date: 2023-04-11
   fawe: "fas fa-church"
   tags: "event"
   time: "10 AM"
@@ -9,49 +9,43 @@
   zoompw: 722722
   fb: "Yes"
 
-- title: "Catch the Spirit with Fr. Tom, OP"
-  post-date: 2023-03-31
-  exp-date: 2023-04-04
-  fawe: "fas fa-hand-holding-heart"
+- title: "Easter Vigil"
+  post-date: 2023-04-08
+  exp-date: 2023-04-11
+  fawe: "fas fa-church"
   tags: "event"
-  time: "12 PM"
-  description: "Today we will come together to talk about 'Catch the Spirit' with Fr. Tom Jackson, OP."
-  zoomid: 86894110061
-  zoompw: 722722
+  time: "8 PM"
+  description: "Join us for Easter Vigil at 8 PM."
 
-- title: "Preparing for Holy Week"
-  post-date: 2023-03-30
-  exp-date: 2023-04-04
+- title: "Good Friday"
+  post-date: 2023-04-07
+  exp-date: 2023-04-11
   fawe: "fas fa-cross"
   tags: "event"
-  time: "12 PM"
-  description: "As Lent approaches join us as we prepare for Holy Week."
-  zoomid: 86894110061
-  zoompw: 722722
+  time: "2:30 PM"
+  description: "Please join us in person for the Stations of the Cross at 2:30 PM and the Veneration of the Cross at 3 PM."
 
-- title: "Praying with the Mother of God"
-  post-date: 2023-03-30
-  exp-date: 2023-04-04
-  fawe: "fas fa-pray"
+- title: "Holy Thursday"
+  post-date: 2023-04-06
+  exp-date: 2023-04-11
+  fawe: "fas fa-church"
   tags: "event"
-  time: "2 PM"
-  description: "Pray in community the Rosary every Thursday at 2pm Central Time."
-  zoomid: 9796818222
-  zoompw: 424181
+  time: "6 PM"
+  description: "Join us in person for Holy Thursday Mass."
 
-- title: "Know Your Faith with Deacon Kurt Davis"
-  post-date: 2023-03-29
-  exp-date: 2023-04-04
+- title: "Know Our Faith with Deacon Kurt Davis"
+  post-date: 2023-04-05
+  exp-date: 2023-04-11
   fawe: "fas fa-hand-holding-heart"
   tags: "event"
   time: "12 PM"
-  description: "We welcome Deacon Davis today to lead our conversation on 'Know Your Faith.'"
+  description: "We welcome Deacon Davis today to lead our conversation on 'Know Our Faith.'"
   zoomid: 86894110061
   zoompw: 722722
 
 - title: "Connections to the Continent with Rev. McCay"
-  post-date: 2023-03-28
-  exp-date: 2023-04-04
+  post-date: 2023-04-04
+  exp-date: 2023-04-11
   fawe: "fas fa-globe-africa"
   tags: "event"
   time: "12 PM"
@@ -60,8 +54,8 @@
   zoompw: 722722
 
 - title: "Writing with Fr. Lee"
-  post-date: 2023-03-27
-  exp-date: 2023-04-04
+  post-date: 2023-04-03
+  exp-date: 2023-04-11
   fawe: "fas fa-comment"
   tags: "event"
   time: "12 PM"
@@ -70,19 +64,11 @@
   zoompw: 722722
 
 - title: "Sunday Mass"
-  post-date: 2023-03-26
-  exp-date: 2023-04-04
+  post-date: 2023-04-02
+  exp-date: 2023-04-11
   fawe: "fas fa-church"
   tags: "event"
-  time: "9 AM"
-  description: "Join us in person for Sunday Mass."
-
-- title: "Sunday Mass"
-  post-date: 2023-03-26
-  exp-date: 2023-04-04
-  fawe: "fas fa-church"
-  tags: "event"
-  time: "11 AM"
+  time: "10 AM"
   description: "Join us in person or online for Sunday Mass."
   zoomid: 86894110061
   zoompw: 722722
