@@ -1,14 +1,14 @@
 - title: "Sunday Mass"
-  post-date: 2023-04-16
-  exp-date: 2023-04-18
+  post-date: 2023-04-23
+  exp-date: 2023-04-25
   fawe: "fas fa-church"
   tags: "event"
   time: "9 AM"
   description: "Join us in person for Sunday Mass."
 
 - title: "Sunday Mass"
-  post-date: 2023-04-16
-  exp-date: 2023-04-18
+  post-date: 2023-04-23
+  exp-date: 2023-04-25
   fawe: "fas fa-church"
   tags: "event"
   time: "11 AM"
@@ -17,39 +17,29 @@
   zoompw: 722722
   fb: "Yes"
 
-- title: "What Just Happened? With Fr. Tom Jackson O.P."
-  post-date: 2023-04-14
-  exp-date: 2023-04-18
+- title: "Friday with Fr. Tom"
+  post-date: 2023-04-21
+  exp-date: 2023-04-25
   fawe: "fas fa-cross"
   tags: "event"
   time: "12 PM"
-  description: "Today we will come together to talk about 'What Just Happened?' with Fr. Tom Jackson, OP."
+  description: "Today we will come together to learn with Fr. Tom Jackson, OP."
   zoomid: 86894110061
   zoompw: 722722
 
-- title: "Writing with Fr. Lee"
-  post-date: 2023-04-13
-  exp-date: 2023-04-18
-  fawe: "fas fa-comment"
-  tags: "event"
-  time: "12 PM"
-  description: "Tune in today as we come together for a conversation led by Fr. Roy Lee."
-  zoomid: 86894110061
-  zoompw: 722722
-
-- title: "Know Your Faith with Deacon Kurt Davis"
-  post-date: 2023-04-12
-  exp-date: 2023-04-18
+- title: "Wednesday with Deacon Davis"
+  post-date: 2023-04-19
+  exp-date: 2023-04-25
   fawe: "fas fa-hand-holding-heart"
   tags: "event"
   time: "12 PM"
-  description: "We welcome Deacon Davis today to lead our conversation on 'Know Your Faith.'"
+  description: "We welcome Deacon Davis to lead our conversation today."
   zoomid: 86894110061
   zoompw: 722722
 
-- title: "Connections with the Continent with Rev. McCay"
-  post-date: 2023-04-11
-  exp-date: 2023-04-18
+- title: "Tuesday with Rev. McCay"
+  post-date: 2023-04-18
+  exp-date: 2023-04-25
   fawe: "fas fa-globe-africa"
   tags: "event"
   time: "12 PM"
@@ -57,12 +47,30 @@
   zoomid: 86894110061
   zoompw: 722722
 
+- title: "Monday with Fr. Lee"
+  post-date: 2023-04-17
+  exp-date: 2023-04-25
+  fawe: "fas fa-comment"
+  tags: "event"
+  time: "12 PM"
+  description: "Tune in today as we come together for a conversation led by Fr. Roy Lee."
+  zoomid: 86894110061
+  zoompw: 722722
+
 - title: "Sunday Mass"
-  post-date: 2023-04-09
-  exp-date: 2023-04-18
+  post-date: 2023-04-16
+  exp-date: 2023-04-25
   fawe: "fas fa-church"
   tags: "event"
-  time: "10 AM"
+  time: "9 AM"
+  description: "Join us in person for Sunday Mass."
+
+- title: "Sunday Mass"
+  post-date: 2023-04-16
+  exp-date: 2023-04-25
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "11 AM"
   description: "Join us in person or online for Sunday Mass."
   zoomid: 86894110061
   zoompw: 722722
