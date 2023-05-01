@@ -1,14 +1,14 @@
 - title: "Sunday Mass"
-  post-date: 2023-04-23
-  exp-date: 2023-04-25
+  post-date: 2023-05-07
+  exp-date: 2023-05-09
   fawe: "fas fa-church"
   tags: "event"
   time: "9 AM"
   description: "Join us in person for Sunday Mass."
 
 - title: "Sunday Mass"
-  post-date: 2023-04-23
-  exp-date: 2023-04-25
+  post-date: 2023-05-07
+  exp-date: 2023-05-09
   fawe: "fas fa-church"
   tags: "event"
   time: "11 AM"
@@ -17,29 +17,29 @@
   zoompw: 722722
   fb: "Yes"
 
-- title: "Friday with Fr. Tom"
-  post-date: 2023-04-21
-  exp-date: 2023-04-25
+- title: "How about those new Catholics?"
+  post-date: 2023-05-04
+  exp-date: 2023-05-09
   fawe: "fas fa-cross"
   tags: "event"
   time: "12 PM"
-  description: "Today we will come together to learn with Fr. Tom Jackson, OP."
+  description: "Today we will come together to talk about 'How about those new Catholics?'"
   zoomid: 86894110061
   zoompw: 722722
 
-- title: "Wednesday with Deacon Davis"
-  post-date: 2023-04-19
-  exp-date: 2023-04-25
+- title: "Know Your Faith with Deacon Kurt Davis"
+  post-date: 2023-05-03
+  exp-date: 2023-05-09
   fawe: "fas fa-hand-holding-heart"
   tags: "event"
   time: "12 PM"
-  description: "We welcome Deacon Davis to lead our conversation today."
+  description: "Welcome all as Deacon Kurt Davis leads us in conversation today."
   zoomid: 86894110061
   zoompw: 722722
 
-- title: "Tuesday with Rev. McCay"
-  post-date: 2023-04-18
-  exp-date: 2023-04-25
+- title: "Connections with the Continent with Rev. McCay"
+  post-date: 2023-05-02
+  exp-date: 2023-05-09
   fawe: "fas fa-globe-africa"
   tags: "event"
   time: "12 PM"
@@ -47,9 +47,9 @@
   zoomid: 86894110061
   zoompw: 722722
 
-- title: "Monday with Fr. Lee"
-  post-date: 2023-04-17
-  exp-date: 2023-04-25
+- title: "Writing with Fr. Lee"
+  post-date: 2023-05-01
+  exp-date: 2023-05-09
   fawe: "fas fa-comment"
   tags: "event"
   time: "12 PM"
@@ -58,16 +58,16 @@
   zoompw: 722722
 
 - title: "Sunday Mass"
-  post-date: 2023-04-16
-  exp-date: 2023-04-25
+  post-date: 2023-04-30
+  exp-date: 2023-05-09
   fawe: "fas fa-church"
   tags: "event"
   time: "9 AM"
   description: "Join us in person for Sunday Mass."
 
 - title: "Sunday Mass"
-  post-date: 2023-04-16
-  exp-date: 2023-04-25
+  post-date: 2023-04-30
+  exp-date: 2023-05-09
   fawe: "fas fa-church"
   tags: "event"
   time: "11 AM"
