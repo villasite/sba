@@ -1,4 +1,92 @@
 - title: "Sunday Mass"
+  post-date: 2023-06-25
+  exp-date: 2023-06-27
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "9 AM"
+  description: "Join us in person for Sunday Mass."
+
+- title: "Sunday Mass"
+  post-date: 2023-06-25
+  exp-date: 2023-06-27
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "11 AM"
+  description: "Join us in person or online for Sunday Mass."
+  zoomid: 86894110061
+  zoompw: 722722
+  fb: "Yes"
+
+- title: "Friday with Fr. Tom"
+  post-date: 2023-06-23
+  exp-date: 2023-06-27
+  fawe: "fas fa-cross"
+  tags: "event"
+  time: "12 PM"
+  description: "Today we will come together for a talk with Fr. Tom Jackson, OP."
+  zoomid: 86894110061
+  zoompw: 722722
+
+- title: "Praying with the Mother of God"
+  post-date: 2023-06-22
+  exp-date: 2023-06-27
+  fawe: "fas fa-pray"
+  tags: "event"
+  time: "2 PM"
+  description: "Pray in community the Rosary every Thursday at 2pm Central Time."
+  zoomid: 9796818222
+  zoompw: 424181
+
+- title: "Wednesday with Deacon Davis"
+  post-date: 2023-06-21
+  exp-date: 2023-06-27
+  fawe: "fas fa-hand-holding-heart"
+  tags: "event"
+  time: "12 PM"
+  description: "Welcome to a session led by Deacon Kurt Davis today."
+  zoomid: 86894110061
+  zoompw: 722722
+
+- title: "Tuesday with Rev. McCay"
+  post-date: 2023-06-20
+  exp-date: 2023-06-27
+  fawe: "fas fa-globe-africa"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us today for a session with Rev. Cedric McCay."
+  zoomid: 86894110061
+  zoompw: 722722
+
+- title: "Monday with Fr. Lee"
+  post-date: 2023-06-19
+  exp-date: 2023-06-27
+  fawe: "fas fa-comment"
+  tags: "event"
+  time: "12 PM"
+  description: "Tune in today as we come together for a conversation led by Fr. Roy Lee."
+  zoomid: 86894110061
+  zoompw: 722722
+
+- title: "Sunday Mass"
+  post-date: 2023-06-18
+  exp-date: 2023-06-27
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "9 AM"
+  description: "Join us in person for Sunday Mass."
+
+- title: "Sunday Mass"
+  post-date: 2023-06-18
+  exp-date: 2023-06-27
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "11 AM"
+  description: "Join us in person or online for Sunday Mass."
+  zoomid: 86894110061
+  zoompw: 722722
+  fb: "Yes"
+
+- title: "Sunday Mass"
   post-date: 2023-06-18
   exp-date: 2023-06-20
   fawe: "fas fa-church"
