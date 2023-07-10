@@ -1,14 +1,14 @@
 - title: "Sunday Mass"
-  post-date: 2023-07-09
-  exp-date: 2023-07-11
+  post-date: 2023-07-16
+  exp-date: 2023-07-18
   fawe: "fas fa-church"
   tags: "event"
   time: "9 AM"
   description: "Join us in person for Sunday Mass."
 
 - title: "Sunday Mass"
-  post-date: 2023-07-09
-  exp-date: 2023-07-11
+  post-date: 2023-07-16
+  exp-date: 2023-07-18
   fawe: "fas fa-church"
   tags: "event"
   time: "11 AM"
@@ -17,29 +17,29 @@
   zoompw: 722722
   fb: "Yes"
 
-- title: "Funeral for Velma Henderson"
-  post-date: 2023-07-07
-  exp-date: 2023-07-11
-  fawe: "fas fa-cross"
+- title: "Game Show"
+  post-date: 2023-07-14
+  exp-date: 2023-07-18
+  fawe: "fas fa-award"
   tags: "event"
-  time: "10:30 AM"
-  description: "We come together today as a faith community for the funeral for Velma Henderson."
+  time: "12 PM"
+  description: "Today we talk about 'Game Show: what prizes can we offer?'"
   zoomid: 86894110061
   zoompw: 722722
 
-- title: "Designing Congress Prayers"
-  post-date: 2023-07-06
-  exp-date: 2023-07-11
-  fawe: "fas fa-praying-hands"
+- title: "Designing Invitations: To Jesus, to church, to SBA"
+  post-date: 2023-07-13
+  exp-date: 2023-07-18
+  fawe: "fas fa-envelope-open"
   tags: "event"
   time: "12 PM"
-  description: "Today Jennifer Davis will lead the discussion on 'Designing Congress Prayers.'"
+  description: "We come together today to talk about 'Designing Invitations: To Jesus, to church, to SBA.'"
   zoomid: 86894110061
   zoompw: 722722
 
 - title: "Praying with the Mother of God"
-  post-date: 2023-07-06
-  exp-date: 2023-07-11
+  post-date: 2023-07-13
+  exp-date: 2023-07-18
   fawe: "fas fa-pray"
   tags: "event"
   time: "2 PM"
@@ -47,30 +47,30 @@
   zoomid: 9796818222
   zoompw: 424181
 
-- title: "What does Mass at SBA need?"
-  post-date: 2023-07-05
-  exp-date: 2023-07-11
-  fawe: "fas fa-place-of-worship"
+- title: "Planning Deacon's Night"
+  post-date: 2023-07-12
+  exp-date: 2023-07-18
+  fawe: "fas fa-pen"
   tags: "event"
   time: "12 PM"
-  description: "Welcome to a session led by Deacon Kurt Davis today on 'What does Mass at SBA need?'"
+  description: "Come join the conversation today with Deacon Kurt Davis."
   zoomid: 86894110061
   zoompw: 722722
 
-- title: "MASS at the IBCS"
-  post-date: 2023-07-04
-  exp-date: 2023-07-11
-  fawe: "fas fa-church"
+- title: "Grandchildren: Bragging, praying and inviting to SBA"
+  post-date: 2023-07-11
+  exp-date: 2023-07-18
+  fawe: "fas fa-child"
   tags: "event"
   time: "12 PM"
-  description: "Join us as we celebrate Mass at the IBCS."
+  description: "Join us as we come to talk about 'Grandchildren: Bragging, praying and inviting to SBA.'"
   zoomid: 86894110061
   zoompw: 722722
 
-- title: "Holiday to Holy Day"
-  post-date: 2023-07-03
-  exp-date: 2023-07-11
-  fawe: "fas fa-flag-usa"
+- title: "Advancing with Fr. Roy Lee"
+  post-date: 2023-07-10
+  exp-date: 2023-07-18
+  fawe: "fas fa-comment"
   tags: "event"
   time: "12 PM"
   description: "Tune in today as we come together for a conversation led by Fr. Roy Lee."
@@ -78,16 +78,16 @@
   zoompw: 722722
 
 - title: "Sunday Mass"
-  post-date: 2023-07-02
-  exp-date: 2023-07-11
+  post-date: 2023-07-09
+  exp-date: 2023-07-18
   fawe: "fas fa-church"
   tags: "event"
   time: "9 AM"
   description: "Join us in person for Sunday Mass."
 
 - title: "Sunday Mass"
-  post-date: 2023-07-02
-  exp-date: 2023-07-11
+  post-date: 2023-07-09
+  exp-date: 2023-07-18
   fawe: "fas fa-church"
   tags: "event"
   time: "11 AM"
