@@ -1,14 +1,14 @@
 - title: "Sunday Mass"
-  post-date: 2023-07-30
-  exp-date: 2023-08-02
+  post-date: 2023-08-06
+  exp-date: 2023-08-08
   fawe: "fas fa-church"
   tags: "event"
   time: "9 AM"
   description: "Join us in person for Sunday Mass."
 
 - title: "Sunday Mass"
-  post-date: 2023-07-30
-  exp-date: 2023-08-02
+  post-date: 2023-08-06
+  exp-date: 2023-08-08
   fawe: "fas fa-church"
   tags: "event"
   time: "11 AM"
@@ -17,29 +17,29 @@
   zoompw: 722722
   fb: "Yes"
 
-- title: "Friday with Congress participants from Chicago parishes"
-  post-date: 2023-07-28
-  exp-date: 2023-08-02
-  fawe: "fas fa-praying-hands"
+- title: "What is the value of this room?"
+  post-date: 2023-08-04
+  exp-date: 2023-08-08
+  fawe: "fas fa-person-booth"
   tags: "event"
   time: "12 PM"
-  description: "Today we come together with Congress participants from Chicago parishes."
+  description: "Join us today as we talk about 'What is the value of this room?'"
   zoomid: 86894110061
   zoompw: 722722
 
-- title: "Another game show"
-  post-date: 2023-07-27
-  exp-date: 2023-08-02
-  fawe: "fas fa-award"
+- title: "Are other Catholics welcome?"
+  post-date: 2023-08-03
+  exp-date: 2023-08-08
+  fawe: "fas fa-door-open"
   tags: "event"
   time: "12 PM"
-  description: "Join us today as we come together for 'Another game show.'"
+  description: "Join us today as we talk about 'Are other Catholics welcome?'"
   zoomid: 86894110061
   zoompw: 722722
 
 - title: "Praying with the Mother of God"
-  post-date: 2023-07-27
-  exp-date: 2023-08-02
+  post-date: 2023-08-03
+  exp-date: 2023-08-08
   fawe: "fas fa-pray"
   tags: "event"
   time: "2 PM"
@@ -47,9 +47,9 @@
   zoomid: 9796818222
   zoompw: 424181
 
-- title: "Wednesday with Deacon Kurt - Know Your Faith"
-  post-date: 2023-07-26
-  exp-date: 2023-08-02
+- title: "First impressions with the Deacon"
+  post-date: 2023-08-02
+  exp-date: 2023-08-08
   fawe: "fas fa-hand-holding-heart"
   tags: "event"
   time: "12 PM"
@@ -57,37 +57,37 @@
   zoomid: 86894110061
   zoompw: 722722
 
-- title: "Tuesday with Rev. McCay"
-  post-date: 2023-07-25
-  exp-date: 2023-08-02
-  fawe: "fas fa-globe-africa"
+- title: "How does it feel now?"
+  post-date: 2023-08-01
+  exp-date: 2023-08-08
+  fawe: "fas fa-comments"
   tags: "event"
   time: "12 PM"
-  description: "Join us today for a session with Rev. Cedric McCay."
+  description: "Join us today for a converstation on 'How does it feel now?'"
   zoomid: 86894110061
   zoompw: 722722
 
-- title: "Monday with Fr. Lee and Deacon Davis on the Congress"
-  post-date: 2023-07-24
-  exp-date: 2023-08-02
+- title: "What are your memories of this daily Zoom session?"
+  post-date: 2023-07-31
+  exp-date: 2023-08-08
   fawe: "fas fa-comment"
   tags: "event"
   time: "12 PM"
-  description: "Tune in today as we come together for a conversation led by Fr. Roy Lee and Deacon Davis on the Congress."
+  description: "Tune in today as we come together for a conversation on 'What are your memories of this daily Zoom session?'"
   zoomid: 86894110061
   zoompw: 722722
 
 - title: "Sunday Mass"
-  post-date: 2023-07-23
-  exp-date: 2023-08-02
+  post-date: 2023-07-30
+  exp-date: 2023-08-08
   fawe: "fas fa-church"
   tags: "event"
   time: "9 AM"
   description: "Join us in person for Sunday Mass."
 
 - title: "Sunday Mass"
-  post-date: 2023-07-23
-  exp-date: 2023-08-02
+  post-date: 2023-07-30
+  exp-date: 2023-08-08
   fawe: "fas fa-church"
   tags: "event"
   time: "11 AM"
