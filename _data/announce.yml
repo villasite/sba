@@ -1,6 +1,6 @@
 - title: "Sunday Mass"
-  post-date: 2023-09-24
-  exp-date: 2023-09-26
+  post-date: 2023-10-01
+  exp-date: 2023-10-03
   fawe: "fas fa-church"
   tags: "event"
   time: "10 AM"
@@ -9,29 +9,29 @@
   zoompw: 722722
   fb: "Yes"
 
-- title: "Englewood"
-  post-date: 2023-09-22
-  exp-date: 2023-09-26
-  fawe: "fas fa-landmark"
+- title: "Upcoming events"
+  post-date: 2023-09-29
+  exp-date: 2023-10-03
+  fawe: "fas fa-calendar"
   tags: "event"
   time: "12 PM"
-  description: "Join us today as we have center the conversation on Englewood."
+  description: "Join us today as we center the conversation on 'Upcoming events.'"
   zoomid: 86894110061
   zoompw: 722722
 
-- title: "Thursday with Phillip"
-  post-date: 2023-09-21
-  exp-date: 2023-09-26
-  fawe: "fas fa-cross"
+- title: "Staying connected with the sick"
+  post-date: 2023-09-28
+  exp-date: 2023-10-03
+  fawe: "fas fa-comment-medical"
   tags: "event"
   time: "12 PM"
-  description: "Join the conversation today led by Phillip Armstrong."
+  description: "Today we come together to talk about 'Staying connected with the sick.'"
   zoomid: 86894110061
   zoompw: 722722
 
 - title: "Praying with the Mother of God"
-  post-date: 2023-09-21
-  exp-date: 2023-09-26
+  post-date: 2023-09-28
+  exp-date: 2023-10-03
   fawe: "fas fa-pray"
   tags: "event"
   time: "2 PM"
@@ -39,29 +39,29 @@
   zoomid: 9796818222
   zoompw: 424181
 
-- title: "Wednesday with Deacon Kurt"
-  post-date: 2023-09-20
-  exp-date: 2023-09-26
-  fawe: "fas fa-cross"
+- title: "The Deacon and the laity"
+  post-date: 2023-09-27
+  exp-date: 2023-10-03
+  fawe: "fas fa-hand-holding-heart"
   tags: "event"
   time: "12 PM"
   description: "Be part of the conversation today led by Deacon Kurt Davis."
   zoomid: 86894110061
   zoompw: 722722
 
-- title: "Tuesday with Fr. Lee"
-  post-date: 2023-09-19
-  exp-date: 2023-09-26
-  fawe: "fas fa-hands-helping"
+- title: "Missiology and the IBCS"
+  post-date: 2023-09-26
+  exp-date: 2023-10-03
+  fawe: "fas fa-cross"
   tags: "event"
   time: "12 PM"
   description: "Tune in today as we come together for a conversation led by Fr. Roy Lee."
   zoomid: 86894110061
   zoompw: 722722
 
-- title: "Mission Statement"
-  post-date: 2023-09-18
-  exp-date: 2023-09-26
+- title: "Monday with Fr. Lee"
+  post-date: 2023-09-25
+  exp-date: 2023-10-03
   fawe: "fas fa-comment"
   tags: "event"
   time: "12 PM"
@@ -70,8 +70,8 @@
   zoompw: 722722
 
 - title: "Sunday Mass"
-  post-date: 2023-09-17
-  exp-date: 2023-09-26
+  post-date: 2023-09-24
+  exp-date: 2023-10-03
   fawe: "fas fa-church"
   tags: "event"
   time: "10 AM"
