@@ -1,6 +1,6 @@
 - title: "Sunday Mass"
-  post-date: 2023-11-05
-  exp-date: 2023-11-07
+  post-date: 2023-12-10
+  exp-date: 2023-12-12
   fawe: "fas fa-church"
   tags: "event"
   time: "10 AM"
@@ -9,19 +9,19 @@
   zoompw: 722722
   fb: "Yes"
 
-- title: "Friday with Nanette"
-  post-date: 2023-11-03
-  exp-date: 2023-11-07
-  fawe: "fas fa-hands-helping"
+- title: "Open - Current Events"
+  post-date: 2023-12-08
+  exp-date: 2023-12-12
+  fawe: "fas fa-sign"
   tags: "event"
   time: "12 PM"
-  description: "Let's continue growing the online conversation today with Nanette."
+  description: "Join us today as we have talk about current events."
   zoomid: 86894110061
   zoompw: 722722
 
-- title: "Thursday with Phillip Armstrong"
-  post-date: 2023-11-02
-  exp-date: 2023-11-07
+- title: "Thursday with Phillip"
+  post-date: 2023-12-07
+  exp-date: 2023-12-12
   fawe: "fas fa-praying-hands"
   tags: "event"
   time: "12 PM"
@@ -30,8 +30,8 @@
   zoompw: 722722
 
 - title: "Praying with the Mother of God"
-  post-date: 2023-11-02
-  exp-date: 2023-11-07
+  post-date: 2023-12-07
+  exp-date: 2023-12-12
   fawe: "fas fa-pray"
   tags: "event"
   time: "2 PM"
@@ -40,8 +40,8 @@
   zoompw: 424181
 
 - title: "Wednesday with Deacon Kurt"
-  post-date: 2023-11-01
-  exp-date: 2023-11-07
+  post-date: 2023-12-06
+  exp-date: 2023-12-12
   fawe: "fas fa-hand-holding-heart"
   tags: "event"
   time: "12 PM"
@@ -49,29 +49,29 @@
   zoomid: 86894110061
   zoompw: 722722
 
-- title: "Tuesday with Fr. Lee"
-  post-date: 2023-10-31
-  exp-date: 2023-11-07
+- title: "Tuesday with Sr. Jamie"
+  post-date: 2023-12-05
+  exp-date: 2023-12-12
   fawe: "fas fa-cross"
   tags: "event"
   time: "12 PM"
-  description: "Tune in today as we come together for a conversation led by Fr. Roy Lee."
+  description: "Tune in today as we come together for a conversation led by Sr. Jamie."
   zoomid: 86894110061
   zoompw: 722722
 
-- title: "Monday with Fr. Lee"
-  post-date: 2023-10-30
-  exp-date: 2023-11-07
+- title: "Monday with Sr. Jamie"
+  post-date: 2023-12-04
+  exp-date: 2023-12-12
   fawe: "fas fa-comment"
   tags: "event"
   time: "12 PM"
-  description: "Tune in today as we come together for a conversation led by Fr. Roy Lee."
+  description: "Tune in today as we come together for a conversation led by Sr. Jamie."
   zoomid: 86894110061
   zoompw: 722722
 
 - title: "Sunday Mass"
-  post-date: 2023-10-29
-  exp-date: 2023-11-07
+  post-date: 2023-12-03
+  exp-date: 2023-12-12
   fawe: "fas fa-church"
   tags: "event"
   time: "10 AM"
