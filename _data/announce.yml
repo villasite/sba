@@ -1,6 +1,6 @@
 - title: "Sunday Mass"
-  post-date: 2024-01-28
-  exp-date: 2024-01-30
+  post-date: 2024-02-04
+  exp-date: 2024-02-06
   fawe: "fas fa-church"
   tags: "event"
   time: "10 AM"
@@ -10,8 +10,8 @@
   fb: "Yes"
 
 - title: "Open - Current Events"
-  post-date: 2024-01-26
-  exp-date: 2024-01-30
+  post-date: 2024-02-02
+  exp-date: 2024-02-06
   fawe: "fas fa-sign"
   tags: "event"
   time: "12 PM"
@@ -20,8 +20,8 @@
   zoompw: 722722
 
 - title: "Thursday with Phillip"
-  post-date: 2024-01-25
-  exp-date: 2024-01-30
+  post-date: 2024-02-01
+  exp-date: 2024-02-06
   fawe: "fas fa-praying-hands"
   tags: "event"
   time: "12 PM"
@@ -30,8 +30,8 @@
   zoompw: 722722
 
 - title: "Praying with the Mother of God"
-  post-date: 2024-01-25
-  exp-date: 2024-01-30
+  post-date: 2024-02-01
+  exp-date: 2024-02-06
   fawe: "fas fa-pray"
   tags: "event"
   time: "2 PM"
@@ -40,8 +40,8 @@
   zoompw: 424181
 
 - title: "Wednesday with Deacon Kurt"
-  post-date: 2024-01-24
-  exp-date: 2024-01-30
+  post-date: 2024-01-31
+  exp-date: 2024-02-06
   fawe: "fas fa-hand-holding-heart"
   tags: "event"
   time: "12 PM"
@@ -50,8 +50,8 @@
   zoompw: 722722
 
 - title: "Tuesday with Fr. Lee"
-  post-date: 2024-01-23
-  exp-date: 2024-01-30
+  post-date: 2024-01-30
+  exp-date: 2024-02-06
   fawe: "fas fa-cross"
   tags: "event"
   time: "12 PM"
@@ -60,8 +60,8 @@
   zoompw: 722722
 
 - title: "Monday with Fr. Lee"
-  post-date: 2024-01-22
-  exp-date: 2024-01-30
+  post-date: 2024-01-29
+  exp-date: 2024-02-06
   fawe: "fas fa-comment"
   tags: "event"
   time: "12 PM"
@@ -70,8 +70,8 @@
   zoompw: 722722
 
 - title: "Sunday Mass"
-  post-date: 2024-01-21
-  exp-date: 2024-01-30
+  post-date: 2024-01-28
+  exp-date: 2024-02-06
   fawe: "fas fa-church"
   tags: "event"
   time: "10 AM"
