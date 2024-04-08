@@ -1,6 +1,6 @@
 - title: "Sunday Mass"
-  post-date: 2024-03-31
-  exp-date: 2024-04-02
+  post-date: 2024-04-14
+  exp-date: 2024-04-17
   fawe: "fas fa-church"
   tags: "event"
   time: "10 AM"
@@ -9,33 +9,69 @@
   zoompw: 722722
   fb: "Yes"
 
-- title: "Holy Saturday"
-  post-date: 2024-03-30
-  exp-date: 2024-04-02
-  fawe: "fas fa-church"
+- title: "Open - Current Events"
+  post-date: 2024-04-12
+  exp-date: 2024-04-17
+  fawe: "fas fa-sign"
   tags: "event"
-  time: "8 PM"
-  description: "Join us for the Easter Vigil Mass."
+  time: "12 PM"
+  description: "Join us today as we have talk about current events."
+  zoomid: 86894110061
+  zoompw: 722722
 
-- title: "Good Friday"
-  post-date: 2024-03-29
-  exp-date: 2024-04-02
-  fawe: "fas fa-cross"
+- title: "Thursday with Deacon Kurt"
+  post-date: 2024-04-11
+  exp-date: 2024-04-17
+  fawe: "fas fa-hand-holding-heart"
+  tags: "event"
+  time: "12 PM"
+  description: "Be part of the conversation today led by Deacon Kurt Davis."
+  zoomid: 86894110061
+  zoompw: 722722
+
+- title: "Praying with the Mother of God"
+  post-date: 2024-04-11
+  exp-date: 2024-04-17
+  fawe: "fas fa-pray"
   tags: "event"
   time: "2 PM"
-  description: "Join us for the Stations of the Cross at 2:00 pm and the Veneration of the Cross at 3:00 pm."
+  description: "Pray in community the rosary every Thursday at 2pm Central Time."
+  zoomid: 9796818222
+  zoompw: 424181
 
-- title: "Holy Thursday"
-  post-date: 2024-03-28
-  exp-date: 2024-04-02
-  fawe: "fas fa-church"
+- title: "Wednesday with Phillip"
+  post-date: 2024-04-10
+  exp-date: 2024-04-17
+  fawe: "fas fa-praying-hands"
   tags: "event"
-  time: "7 PM"
-  description: "Join us for the Mass of the Lord's Supper."
+  time: "12 PM"
+  description: "Today we come together to talk as a community with Phillip Armstrong."
+  zoomid: 86894110061
+  zoompw: 722722
+
+- title: "Tuesday with Fr. Lee"
+  post-date: 2024-04-09
+  exp-date: 2024-04-17
+  fawe: "fas fa-cross"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us for this hour of conversation led by Fr. Roy Lee."
+  zoomid: 86894110061
+  zoompw: 722722
+
+- title: "Monday with Fr. Lee"
+  post-date: 2024-04-08
+  exp-date: 2024-04-17
+  fawe: "fas fa-comment"
+  tags: "event"
+  time: "12 PM"
+  description: "Join us for this hour of conversation led by Fr. Roy Lee."
+  zoomid: 86894110061
+  zoompw: 722722
 
 - title: "Sunday Mass"
-  post-date: 2024-03-24
-  exp-date: 2024-04-02
+  post-date: 2024-04-07
+  exp-date: 2024-04-17
   fawe: "fas fa-church"
   tags: "event"
   time: "10 AM"
