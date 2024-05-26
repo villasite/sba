@@ -1,6 +1,6 @@
 - title: "Sunday Mass"
-  post-date: 2024-05-26
-  exp-date: 2024-05-29
+  post-date: 2024-06-02
+  exp-date: 2024-06-04
   fawe: "fas fa-church"
   tags: "event"
   time: "10 AM"
@@ -10,8 +10,8 @@
   fb: "Yes"
 
 - title: "Open - Current Events"
-  post-date: 2024-05-24
-  exp-date: 2024-05-29
+  post-date: 2024-05-31
+  exp-date: 2024-06-04
   fawe: "fas fa-sign"
   tags: "event"
   time: "12 PM"
@@ -20,8 +20,8 @@
   zoompw: 722722
 
 - title: "Thursday with Phillip"
-  post-date: 2024-05-23
-  exp-date: 2024-05-29
+  post-date: 2024-05-30
+  exp-date: 2024-06-04
   fawe: "fas fa-praying-hands"
   tags: "event"
   time: "12 PM"
@@ -30,8 +30,8 @@
   zoompw: 722722
 
 - title: "Praying with the Mother of God"
-  post-date: 2024-05-23
-  exp-date: 2024-05-29
+  post-date: 2024-05-30
+  exp-date: 2024-06-04
   fawe: "fas fa-pray"
   tags: "event"
   time: "2 PM"
@@ -40,8 +40,8 @@
   zoompw: 424181
 
 - title: "Wednesday with Deacon Kurt"
-  post-date: 2024-05-22
-  exp-date: 2024-05-29
+  post-date: 2024-05-29
+  exp-date: 2024-06-04
   fawe: "fas fa-hand-holding-heart"
   tags: "event"
   time: "12 PM"
@@ -50,8 +50,8 @@
   zoompw: 722722
 
 - title: "Tuesday with Fr. Lee"
-  post-date: 2024-05-21
-  exp-date: 2024-05-29
+  post-date: 2024-05-28
+  exp-date: 2024-06-04
   fawe: "fas fa-cross"
   tags: "event"
   time: "12 PM"
@@ -59,19 +59,9 @@
   zoomid: 86894110061
   zoompw: 722722
 
-- title: "Monday with Fr. Lee"
-  post-date: 2024-05-20
-  exp-date: 2024-05-29
-  fawe: "fas fa-comment"
-  tags: "event"
-  time: "12 PM"
-  description: "Join us for this hour of conversation led by Fr. Roy Lee."
-  zoomid: 86894110061
-  zoompw: 722722
-
 - title: "Sunday Mass"
-  post-date: 2024-05-19
-  exp-date: 2024-05-29
+  post-date: 2024-05-26
+  exp-date: 2024-06-04
   fawe: "fas fa-church"
   tags: "event"
   time: "10 AM"
