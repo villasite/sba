@@ -1,6 +1,6 @@
 - title: "Sunday Mass"
-  post-date: 2024-06-30
-  exp-date: 2024-07-03
+  post-date: 2024-07-07
+  exp-date: 2024-07-10
   fawe: "fas fa-church"
   tags: "event"
   time: "10 AM"
@@ -10,8 +10,8 @@
   fb: "Yes"
 
 - title: "Open - Current Events"
-  post-date: 2024-06-28
-  exp-date: 2024-07-03
+  post-date: 2024-07-05
+  exp-date: 2024-07-10
   fawe: "fas fa-sign"
   tags: "event"
   time: "12 PM"
@@ -19,29 +19,9 @@
   zoomid: 86894110061
   zoompw: 722722
 
-- title: "Thursday with Phillip"
-  post-date: 2024-06-27
-  exp-date: 2024-07-03
-  fawe: "fas fa-praying-hands"
-  tags: "event"
-  time: "12 PM"
-  description: "Today we come together to talk as a community with Phillip."
-  zoomid: 86894110061
-  zoompw: 722722
-
-- title: "Praying with the Mother of God"
-  post-date: 2024-06-27
-  exp-date: 2024-07-03
-  fawe: "fas fa-pray"
-  tags: "event"
-  time: "2 PM"
-  description: "Pray in community the rosary every Thursday at 2pm Central Time."
-  zoomid: 9796818222
-  zoompw: 424181
-
 - title: "Wednesday with Deacon Kurt"
-  post-date: 2024-06-26
-  exp-date: 2024-07-03
+  post-date: 2024-07-03
+  exp-date: 2024-07-10
   fawe: "fas fa-hand-holding-heart"
   tags: "event"
   time: "12 PM"
@@ -50,8 +30,8 @@
   zoompw: 722722
 
 - title: "Tuesday with Fr. Lee"
-  post-date: 2024-06-25
-  exp-date: 2024-07-03
+  post-date: 2024-07-02
+  exp-date: 2024-07-10
   fawe: "fas fa-cross"
   tags: "event"
   time: "12 PM"
@@ -60,8 +40,8 @@
   zoompw: 722722
 
 - title: "Monday with Fr. Lee"
-  post-date: 2024-06-24
-  exp-date: 2024-07-03
+  post-date: 2024-07-01
+  exp-date: 2024-07-10
   fawe: "fas fa-cross"
   tags: "event"
   time: "12 PM"
@@ -70,8 +50,8 @@
   zoompw: 722722
 
 - title: "Sunday Mass"
-  post-date: 2024-06-23
-  exp-date: 2024-07-03
+  post-date: 2024-06-30
+  exp-date: 2024-07-10
   fawe: "fas fa-church"
   tags: "event"
   time: "10 AM"
