@@ -1,10 +1,7 @@
 {% assign data = site.data.announce | sort: 'post-date' %}
-{% capture now %}{{'now' | date: '%s'}}{% endcapture %}
 
 <div class="row mb-3">
 {% for entry in data %}
-	{% capture date %}{{entry.exp-date | date: '%s' | plus: 0 }}{% endcapture %}
-	{% if date > now %}
 		<div class="col-lg-4 col-sm-12 p-1 mb-2">
 			<div class="border bg-black p-3">
 				<div class="row m-2 text-white">
@@ -51,6 +48,5 @@
 
 			</div>
 		</div>
-	{% endif %}
 {% endfor %}
 </div>
