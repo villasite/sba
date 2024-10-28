@@ -8,6 +8,13 @@
   zoompw: 722722
   fb: "Yes"
 
+- title: "All Saint's Day Mass"
+  post-date: 2024-11-01
+  fawe: "fas fa-church"
+  tags: "event"
+  time: "11 AM"
+  description: "Join us in person for All Saint's Day Mass."
+
 - title: "Open Discussion"
   post-date: 2024-11-01
   fawe: "fas fa-sign"
