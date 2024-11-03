@@ -1,5 +1,5 @@
 - title: "Sunday Mass"
-  post-date: 2024-11-03
+  post-date: 2024-11-10
   fawe: "fas fa-church"
   tags: "event"
   time: "10 AM"
@@ -8,15 +8,8 @@
   zoompw: 722722
   fb: "Yes"
 
-- title: "All Saint's Day Mass"
-  post-date: 2024-11-01
-  fawe: "fas fa-church"
-  tags: "event"
-  time: "11 AM"
-  description: "Join us in person for All Saint's Day Mass."
-
 - title: "Open Discussion"
-  post-date: 2024-11-01
+  post-date: 2024-11-08
   fawe: "fas fa-sign"
   tags: "event"
   time: "12 PM"
@@ -25,7 +18,7 @@
   zoompw: 722722
 
 - title: "Thursday with Phillip"
-  post-date: 2024-10-31
+  post-date: 2024-11-07
   fawe: "fas fa-praying-hands"
   tags: "event"
   time: "12 PM"
@@ -34,7 +27,7 @@
   zoompw: 722722
 
 - title: "Praying with the Mother of God"
-  post-date: 2024-10-31
+  post-date: 2024-11-07
   fawe: "fas fa-pray"
   tags: "event"
   time: "2 PM"
@@ -43,7 +36,7 @@
   zoompw: 424181
 
 - title: "Wednesday with Deacon Kurt"
-  post-date: 2024-10-30
+  post-date: 2024-11-06
   fawe: "fas fa-hand-holding-heart"
   tags: "event"
   time: "12 PM"
@@ -52,7 +45,7 @@
   zoompw: 722722
 
 - title: "Tuesday with Fr. Lee"
-  post-date: 2024-10-29
+  post-date: 2024-11-05
   fawe: "fas fa-cross"
   tags: "event"
   time: "12 PM"
@@ -61,7 +54,7 @@
   zoompw: 722722
 
 - title: "Monday with Fr. Lee"
-  post-date: 2024-10-28
+  post-date: 2024-11-04
   fawe: "fas fa-cross"
   tags: "event"
   time: "12 PM"
@@ -70,7 +63,7 @@
   zoompw: 722722
 
 - title: "Sunday Mass"
-  post-date: 2024-10-27
+  post-date: 2024-11-03
   fawe: "fas fa-church"
   tags: "event"
   time: "10 AM"
