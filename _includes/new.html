@@ -1,14 +1,18 @@
-
-<div class="container my-3">
+<div class="container py-5">
 	<div class="row">
-		<div class="col-lg-4 col-sm-12 my-1">
-			<img class="img-fluid " src="{{ site.baseurl }}/img/flyer-ecumenism.jpeg" alt="ecumenism flyer">
+		<div class="col-12 text-center">
+			<h2>Upcoming Events</h2>
+            <hr class="mx-auto">
 		</div>
-		<div class="col-lg-4 col-sm-12 my-1">
-			<img class="img-fluid " src="{{ site.baseurl }}/img/flyer-grief-workshop.png" alt="grief flyer">
-		</div>
-		<div class="col-lg-4 col-sm-12 my-1">
-			<img class="img-fluid " src="{{ site.baseurl }}/img/flyer-maryknoll.png" alt="maryknoll flyer">
+	{% assign data = site.data.announce | sort: 'post-date' %}
+	{% for entry in data offset:1 limit:4 %}
+			<div class="col-lg-3 col-sm-12 text-center p-3 mb-1">
+					<i class="fa {{ entry.fawe }} fa-5x wow flipInX" data-wow-duration="5s" data-wow-iteration="10"></i>
+					<h4>{{ entry.title }}</h4>
+			</div>
+	{% endfor %}
+		<div class="col-12 text-center">
+			<a href="{{site.baseurl}}/announcement" role="button" class="btn btn-primary wow tada">Read More</a>
 		</div>
 	</div>
 </div>
