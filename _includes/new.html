@@ -4,6 +4,10 @@
 			<h2>Upcoming Events</h2>
             <hr class="mx-auto">
 		</div>
+
+{% include flyer.html %}
+
+
 	{% assign data = site.data.announce | sort: 'post-date' %}
 	{% for entry in data offset:1 limit:4 %}
 			<div class="col-lg-3 col-sm-12 text-center p-3 mb-1">
@@ -16,8 +20,6 @@
 		</div>
 	</div>
 </div>
-
-{% include flyer.html %}
 
 <div class="bg-dark px-3 py-5">
 	<div class="row">
