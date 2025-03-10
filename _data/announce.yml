@@ -1,5 +1,5 @@
 - title: "Sunday Mass"
-  post-date: 2025-03-09
+  post-date: 2025-03-16
   fawe: "fas fa-church"
   tags: "event"
   time: "10 AM"
@@ -9,7 +9,7 @@
   fb: "Yes"
 
 - title: "Current Events"
-  post-date: 2025-03-07
+  post-date: 2025-03-14
   fawe: "fas fa-sign"
   tags: "event"
   time: "12 PM"
@@ -18,7 +18,7 @@
   zoompw: 722722
 
 - title: "Thursday with Phillip"
-  post-date: 2025-03-06
+  post-date: 2025-03-13
   fawe: "fas fa-praying-hands"
   tags: "event"
   time: "12 PM"
@@ -27,7 +27,7 @@
   zoompw: 722722
 
 - title: "Praying with the Mother of God"
-  post-date: 2025-03-06
+  post-date: 2025-03-13
   fawe: "fas fa-pray"
   tags: "event"
   time: "2 PM"
@@ -35,15 +35,8 @@
   zoomid: 9796818222
   zoompw: 424181
 
-- title: "Ash Wednesday"
-  post-date: 2025-03-05
-  fawe: "fas fa-church"
-  tags: "event"
-  time: "10 AM"
-  description: "Join us for Mass at 10 AM and evening prayer at 6:30 PM."
-
 - title: "Wednesday with Deacon Kurt"
-  post-date: 2025-03-05
+  post-date: 2025-03-12
   fawe: "fas fa-hand-holding-heart"
   tags: "event"
   time: "12 PM"
@@ -52,7 +45,7 @@
   zoompw: 722722
 
 - title: "Tuesday with Fr. Lee"
-  post-date: 2025-03-04
+  post-date: 2025-03-11
   fawe: "fas fa-cross"
   tags: "event"
   time: "12 PM"
@@ -61,7 +54,7 @@
   zoompw: 722722
 
 - title: "Monday with Fr. Lee"
-  post-date: 2025-03-03
+  post-date: 2025-03-10
   fawe: "fas fa-cross"
   tags: "event"
   time: "12 PM"
@@ -70,7 +63,7 @@
   zoompw: 722722
 
 - title: "Sunday Mass"
-  post-date: 2025-03-02
+  post-date: 2025-03-09
   fawe: "fas fa-church"
   tags: "event"
   time: "10 AM"
