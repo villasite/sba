@@ -5,15 +5,13 @@
             <hr class="mx-auto">
 		</div>
 
-	{% assign data = site.data.announce | sort: 'post-date' %}
-	{% for entry in data offset:1 limit:4 %}
-			<div class="col-lg-3 col-sm-12 text-center p-3 mb-1">
-					<i class="fa {{ entry.fawe }} fa-5x wow flipInX" data-wow-duration="5s" data-wow-iteration="10"></i>
-					<h4>{{ entry.title }}</h4>
-			</div>
-	{% endfor %}
-		<div class="col-12 text-center">
-			<a href="{{site.baseurl}}/announcement" role="button" class="btn btn-primary wow tada">Read More</a>
+		<div class="col-lg-6 col-sm-12 text-center p-3 mb-1">
+			<h4>Christmas Eve Mass</h4>
+			<p>6:00 PM</p>
+		</div>
+		<div class="col-lg-6 col-sm-12 text-center p-3 mb-1">
+			<h4>Christmas Day Mass</h4>
+			<p>10:00 AM</p>
 		</div>
 	</div>
 </div>
