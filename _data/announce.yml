@@ -1,5 +1,5 @@
 - title: "Sunday Mass"
-  post-date: 2026-07-05
+  post-date: 2026-07-12
   fawe: "fas fa-church"
   tags: "event"
   time: "10 AM"
@@ -9,7 +9,7 @@
   fb: "Yes"
 
 - title: "Thursday with Phillip"
-  post-date: 2026-07-02
+  post-date: 2026-07-09
   fawe: "fas fa-praying-hands"
   tags: "event"
   time: "12 PM"
@@ -18,7 +18,7 @@
   zoompw: 722722
 
 - title: "Praying with the Mother of God"
-  post-date: 2026-07-02
+  post-date: 2026-07-09
   fawe: "fas fa-pray"
   tags: "event"
   time: "2 PM"
@@ -27,7 +27,7 @@
   zoompw: 424181
 
 - title: "Wednesday with Fr. Lee"
-  post-date: 2026-07-01
+  post-date: 2026-07-08
   fawe: "fas fa-cross"
   tags: "event"
   time: "12 PM"
@@ -36,7 +36,7 @@
   zoompw: 722722
 
 - title: "Tuesday with Rev. McCay"
-  post-date: 2026-06-30
+  post-date: 2026-07-07
   fawe: "fas fa-hand-holding-heart"
   tags: "event"
   time: "12 PM"
@@ -45,7 +45,7 @@
   zoompw: 722722
 
 - title: "Monday with Fr. Lee"
-  post-date: 2026-06-29
+  post-date: 2026-07-06
   fawe: "fas fa-cross"
   tags: "event"
   time: "12 PM"
@@ -54,7 +54,7 @@
   zoompw: 722722
 
 - title: "Sunday Mass"
-  post-date: 2026-06-28
+  post-date: 2026-07-05
   fawe: "fas fa-church"
   tags: "event"
   time: "10 AM"
